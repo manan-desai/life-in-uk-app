@@ -1,0 +1,335 @@
+[
+  {
+    "question": "Which is the capital city of Northern Ireland?",
+    "options": [
+      "Belfast",
+      "Dublin",
+      "Cork",
+      "Edinburgh"
+    ],
+    "correctAnswers": [
+      "Belfast"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The capital city of Northern Ireland is Belfast."
+  },
+  {
+    "question": "What name is given to the day when people play jokes on each other until midday?",
+    "options": [
+      "Remembrance Day",
+      "April’s Fool Day",
+      "Halloween",
+      "Valentine’s Day"
+    ],
+    "correctAnswers": [
+      "April’s Fool Day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "April Fool’s Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes."
+  },
+  {
+    "question": "What is Dame Ellen MacArthur known for?",
+    "options": [
+      "She was the fastest person to have sailed around the world single-handed",
+      "She won the London Marathon six times",
+      "She won gold medals for ice dancing at the Olympic Games in 1984",
+      "She won gold medals in rowing in five consecutive Olympic Games"
+    ],
+    "correctAnswers": [
+      "She was the fastest person to have sailed around the world single-handed"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dame Ellen MacArthur (1976-) is a yachtswoman and in 2004 became the fastest person to sail around the world singlehanded."
+  },
+  {
+    "question": "What are Welsh cakes made of?",
+    "options": [
+      "Suet, onions and oatmeal",
+      "Flour, dried fruits and spices",
+      "Potatoes, vegetables, Yorkshire puddings",
+      "Bacon, eggs, sausage, black pudding and potato bread"
+    ],
+    "correctAnswers": [
+      "Flour, dried fruits and spices"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Welsh cakes are a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold."
+  },
+  {
+    "question": "Where is the London Eye situated?",
+    "options": [
+      "On the northern bank of the River Thames",
+      "On the southern bank of the River Thames",
+      "On the northern bank of the River Lea",
+      "On the southern bank of the River Lea"
+    ],
+    "correctAnswers": [
+      "On the southern bank of the River Thames"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall."
+  },
+  {
+    "question": "In the UK, many people continue to visit the countryside for holidays and for leisure activities such as  walking, camping and fishing:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing."
+  },
+  {
+    "question": "How often does the Edinburgh Festival take place?",
+    "options": [
+      "Every six months",
+      "Every summer",
+      "Every spring",
+      "Every month"
+    ],
+    "correctAnswers": [
+      "Every summer"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer."
+  },
+  {
+    "question": "What name is given to the day that marks the end of the Ramadan, when Muslims have fasted for a month?",
+    "options": [
+      "Vaisakhi",
+      "Eid a-Fitr",
+      "Eid ul Adha",
+      "Hanukkah"
+    ],
+    "correctAnswers": [
+      "Eid a-Fitr"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+  },
+  {
+    "question": "Who is the fastest person to have sailed around the world single-handed?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Dame Ellen MacArthur",
+      "Jayne Torvill",
+      "Bradley Wiggins"
+    ],
+    "correctAnswers": [
+      "Dame Ellen MacArthur"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dame Ellen MacArthur is a yachtswoman and in 2004 became the fastest person to sail around the world single-handed."
+  },
+  {
+    "question": "Where does the most famous sailing event in the UK take place?",
+    "options": [
+      "Holyhead, in North Wales",
+      "Cowes, in the Isle of Wight",
+      "Douglas, in the Isle of Man",
+      "Plymouth, in the South West of England"
+    ],
+    "correctAnswers": [
+      "Cowes, in the Isle of Wight"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous sailing event in the UK takes place at Cowes on the Isle of Wight."
+  },
+  {
+    "question": "What is Sir Jackie Stewart famous for?",
+    "options": [
+      "He captained the English football team that won the World Cup in 1966",
+      "He captained the English cricket team",
+      "He won the Formula 1 world championship three times",
+      "He won gold medals in rowing in five consecutive Olympic Games"
+    ],
+    "correctAnswers": [
+      "He won the Formula 1 world championship three times"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Jackie Stewart (1939-) is a Scottish former racing driver who won the Formula 1 world championship three times."
+  },
+  {
+    "question": "How old do you need to be to be able to go into betting shops or gambling clubs?",
+    "options": [
+      "16 years old",
+      "18 years old",
+      "20 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "18 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You have to be 18 to go into betting shops or gambling clubs."
+  },
+  {
+    "question": "How long do Muslims fast during Ramadan?",
+    "options": [
+      "A week",
+      "A month",
+      "Two weeks",
+      "Three weeks"
+    ],
+    "correctAnswers": [
+      "A month"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+  },
+  {
+    "question": "Which British actor has recently won an Oscar?",
+    "options": [
+      "Daniel Day Lewis",
+      "Colin Firth",
+      "Jude Law",
+      "Charles Chaplin"
+    ],
+    "correctAnswers": [
+      "Colin Firth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton."
+  },
+  {
+    "question": "When is St Andrews Day, patron of the Scotland, celebrated?",
+    "options": [
+      "23rd of April",
+      "1st of March",
+      "17th of March",
+      "30th of November"
+    ],
+    "correctAnswers": [
+      "30th of November"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Andrews Day, patron of the Scotland, is celebrated on the 30th of November."
+  },
+  {
+    "question": "Which organisation has been organising ‘The Proms’ since 1927?",
+    "options": [
+      "The MTV",
+      "Channel 4",
+      "The BBC",
+      "CNTV"
+    ],
+    "correctAnswers": [
+      "The BBC"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London. It has been in various venues, including the Royal Albert Hall in London. It has been organised by the British Broadcasting Corporation (BBC) since 1927."
+  },
+  {
+    "question": "Where is Snowdonia National Park located?",
+    "options": [
+      "North Wales",
+      "Northern Ireland",
+      "South Wales",
+      "England"
+    ],
+    "correctAnswers": [
+      "North Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Snowdonia is a national park in North Wales."
+  },
+  {
+    "question": "Northern Ireland and Wales have their own banknotes, which are valid everywhere in the UK. However, shop and businesses do not have to accept them:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them."
+  },
+  {
+    "question": "How many Formula 1 Grand Prix events are held in the UK every year?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswers": [
+      "One"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A Formula 1 Grand Prix event is held in the UK each year and a number of British Grand Prix drivers have won the Formula 1 World Championship."
+  },
+  {
+    "question": "Which TWO British areas have their own banknotes?",
+    "options": [
+      "Northern Ireland",
+      "Scotland",
+      "Wales",
+      "The Isle of Man"
+    ],
+    "correctAnswers": [
+      "Northern Ireland",
+      "Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them."
+  },
+  {
+    "question": "How many weeks does the orchestral classical music event known as ‘the Proms’ last for?",
+    "options": [
+      "Three weeks",
+      "Four weeks",
+      "Six weeks",
+      "Eight weeks"
+    ],
+    "correctAnswers": [
+      "Eight weeks"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Proms is an eight-week summer season of orchestral classical music that takes place in various venues, including the Royal Albert Hall in London."
+  },
+  {
+    "question": "What is the name of the land formation consisting of columns made of volcanic lava located on the north-east coast of Northern Ireland?",
+    "options": [
+      "Eden Project",
+      "The Giant’s Causeway",
+      "Loch Lomond",
+      "Snowdonia"
+    ],
+    "correctAnswers": [
+      "The Giant’s Causeway"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Located on the north-east coast of Northern Ireland, the Giant’s Causeway is a land formation of columns made from volcanic lava."
+  },
+  {
+    "question": "What is the capital city of Wales?",
+    "options": [
+      "Swansea",
+      "Cardiff",
+      "Cornwall",
+      "Bangor"
+    ],
+    "correctAnswers": [
+      "Cardiff"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The capital city of Wales is Cardiff."
+  },
+  {
+    "question": "When were the Houses of the Parliament built?",
+    "options": [
+      "In the 17th century",
+      "In the 18th century",
+      "In the 19th century",
+      "In the 20th century"
+    ],
+    "correctAnswers": [
+      "In the 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Houses of Parliament and St Pancras Station were built in the 19th century, as were the town halls in cities such as Manchester and Sheffield."
+  }
+]

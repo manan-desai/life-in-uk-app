@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Which TWO of the following charities work with homeless people?",
+    "options": [
+      "Friends of the Earth",
+      "Shelter",
+      "Crisis",
+      "Oxfam"
+    ],
+    "correctAnswers": [
+      "Shelter",
+      "Crisis"
+    ],
+    "wrongAnswers": [],
+    "explanation": "harities working with homeless people include Shelter and Crisis."
+  },
+  {
+    "question": "Members of the Senedd (SMs) are elected every four years on the basis of:",
+    "options": [
+      "Proportional representation",
+      "Personal achievements",
+      "Instant run-off",
+      "First past the post system (the candidate who gets the most votes)"
+    ],
+    "correctAnswers": [
+      "Proportional representation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Senedd has 60 Senedd members (SMs) and elections are held every four years using a form of proportional representation."
+  },
+  {
+    "question": "What is the Commonwealth?",
+    "options": [
+      "An association of countries that support each other and work together towards shared goals in democracy and development",
+      "An organization responsible for the protection and promotion of human rights in its member countries",
+      "An association of countries that promotes international peace and security",
+      "A group of European and North American countries that have agreed to help each other if they come under attack"
+    ],
+    "correctAnswers": [
+      "An association of countries that support each other and work together towards shared goals in democracy and development"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development."
+  },
+  {
+    "question": "When was the voting age reduced to 18 for men and women?",
+    "options": [
+      "1965",
+      "1969",
+      "1919",
+      "1929"
+    ],
+    "correctAnswers": [
+      "1969"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1969, the voting age was reduced to 18 for men and women."
+  },
+  {
+    "question": "When was the Northern Ireland Parliament established for the first time?",
+    "options": [
+      "In 1922",
+      "In 1972",
+      "In 1998",
+      "In 1969"
+    ],
+    "correctAnswers": [
+      "In 1922"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Parliament established for the first time in 1922."
+  },
+  {
+    "question": "What is the opposition?",
+    "options": [
+      "The second largest party in the House of Lords",
+      "The third largest party in the House of Commons",
+      "The second largest party in the House of Commons",
+      "The third largest party in the House of Lords"
+    ],
+    "correctAnswers": [
+      "The second largest party in the House of Commons"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The second largest party in the House of Commons is called the opposition."
+  },
+  {
+    "question": "Which THREE of the following groups form part of the British government?",
+    "options": [
+      "The police",
+      "The cabinet",
+      "The local organizations",
+      "The judiciary"
+    ],
+    "correctAnswers": [
+      "The police",
+      "The cabinet",
+      "The judiciary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, there are several different parts of government. The main ones are: the monarchy, the Parliament (the House of Commons and the House of Lords), the Prime Minister, the cabinet, the judiciary (courts), the police, the civil service and the local government."
+  },
+  {
+    "question": "Who chairs the debates in the House of Commons?",
+    "options": [
+      "The shadow cabinet",
+      "The Speaker",
+      "The Prime Minister",
+      "The leader of the opposition"
+    ],
+    "correctAnswers": [
+      "The Speaker"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Debates in the House of Commons are chaired by the Speaker."
+  },
+  {
+    "question": "A woman who is violent towards her partner cannot be prosecuted in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted."
+  },
+  {
+    "question": "Many MPs, SMs and MSPs hold regular local events where constituents can go in person to talk about issues that are of concern to them. These are known as:",
+    "options": [
+      "Hansard",
+      "Local ‘surgeries’",
+      "Local ‘meetings’",
+      "Constituents ‘reunions’"
+    ],
+    "correctAnswers": [
+      "Local ‘surgeries’"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many MPs, SMs and MSPs hold regular local ‘surgeries’, where constituents can go in person to talk about issues that are of concern to them."
+  },
+  {
+    "question": "Which Act introduced the Forced Marriage Protection Orders for England, Wales and Northern Ireland in 2008?",
+    "options": [
+      "The Forced Marriage (Civil Protection) Act 2007",
+      "The Free Marriage (Civil Protection) Act 2007",
+      "The Forced Marriage (Civil Protection) Act 2011",
+      "The Free Marriage (Civil Protection) Act 2011"
+    ],
+    "correctAnswers": [
+      "The Forced Marriage (Civil Protection) Act 2007"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Similar Protection Orders were introduced in Scotland in November 2011."
+  },
+  {
+    "question": "When is the electoral register updated?",
+    "options": [
+      "April or May",
+      "May or June",
+      "September or October",
+      "October or November"
+    ],
+    "correctAnswers": [
+      "September or October"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The electoral register is updated every year in September or October."
+  },
+  {
+    "question": "Where does the Scottish Parliament sit?",
+    "options": [
+      "In Glasgow",
+      "In St Andrews",
+      "In Edinburgh",
+      "In Aberdeen"
+    ],
+    "correctAnswers": [
+      "In Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood in Edinburgh."
+  },
+  {
+    "question": "Which of the following is a ceremonial role to be undertaken by the King?",
+    "options": [
+      "Opening the new parliamentary session every year",
+      "Visiting the major cities in the UK once every six months",
+      "Choosing the Prime Minister",
+      "Giving a speech on New Year’s Eve"
+    ],
+    "correctAnswers": [
+      "Opening the new parliamentary session every year"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead."
+  },
+  {
+    "question": "How long can you use your driving licence in the UK if you have a licence from another country?",
+    "options": [
+      "For up to 12 months",
+      "You need a UK driving licence",
+      "For as long as it is valid",
+      "For up to 2 years"
+    ],
+    "correctAnswers": [
+      "For up to 12 months"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you have a licence from another country, you may use it in the UK for up to 12 months."
+  },
+  {
+    "question": "Which Court deals with the most serious civil cases in England, Wales and Northern Ireland?",
+    "options": [
+      "The County Court",
+      "The Crown Court",
+      "The High Court",
+      "The Sheriff Court"
+    ],
+    "correctAnswers": [
+      "The High Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court of England, Wales and Northern Ireland."
+  },
+  {
+    "question": "If you are arrested and taken to a police station, a police officer should:",
+    "options": [
+      "Make a copy of your ID and retain you until your lawyer arrives",
+      "Tell you the reason for your arrest and that you will be able to seek legal advice",
+      "Offer you a cup of tea",
+      "Explain the law to you and wait for your family to arrive"
+    ],
+    "correctAnswers": [
+      "Tell you the reason for your arrest and that you will be able to seek legal advice"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are arrested and taken to a police station, a police officer will tell you the reason for your arrest and you will be able to seek legal advice."
+  },
+  {
+    "question": "The UK is one of the five permanent members of the Security Council:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following four changes did the Chartists NOT campaign for?",
+    "options": [
+      "For any man to be able to stand as MP",
+      "Secret ballots",
+      "Elections every six years",
+      "For MPs to be paid"
+    ],
+    "correctAnswers": [
+      "Elections every six years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Chartists campaigned for every man to have the vote, elections every year, for all regions to be equal in the electoral system, secret ballots, for any man to be able to stand as an MP and for MPs to be paid."
+  },
+  {
+    "question": "Which of the following is a criminal offence?",
+    "options": [
+      "Selling tobacco to someone under the age of 18",
+      "Owing money to someone",
+      "Discrimination in the workplace",
+      "Selling faulty goods or services"
+    ],
+    "correctAnswers": [
+      "Selling tobacco to someone under the age of 18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18."
+  },
+  {
+    "question": "Which court deals with serious criminal offences in Northern Ireland?",
+    "options": [
+      "The Sheriff Court",
+      "The Crown Court",
+      "The Magistrates’ Court",
+      "The High Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, serious criminal offences are tried in front of a judge and a jury in a Crown Court."
+  },
+  {
+    "question": "Which political party does the Speaker represent?",
+    "options": [
+      "The Liberal Democrats",
+      "The Conservative party",
+      "The Labour Party",
+      "The Speaker does not represent any political party"
+    ],
+    "correctAnswers": [
+      "The Speaker does not represent any political party"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with the constituents’ problems like any other MP."
+  },
+  {
+    "question": "When was the Scottish Parliament formed?",
+    "options": [
+      "In 2000",
+      "In 2002",
+      "In 1999",
+      "In 1998"
+    ],
+    "correctAnswers": [
+      "In 1999"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Parliament was formed in 1999."
+  },
+  {
+    "question": "Who is the heir to the throne of the UK?",
+    "options": [
+      "Prince William",
+      "Prince Harry",
+      "Prince James",
+      "Prince Philip"
+    ],
+    "correctAnswers": [
+      "Prince William"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King’s eldest son, Prince William (the Prince of Wales), is the heir to the throne."
+  }
+]

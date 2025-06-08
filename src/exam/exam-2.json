@@ -1,0 +1,331 @@
+[
+  {
+    "question": "What is the Home Secretary responsible for?",
+    "options": [
+      "Health",
+      "Defence",
+      "Education",
+      "Policing"
+    ],
+    "correctAnswers": [
+      "Policing"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "question": "St Helena is a British overseas territory and it is part of the United Kingdom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "British overseas territories, such as St Helena and the Falkland Islands are linked to the UK but are not part of it."
+  },
+  {
+    "question": "Several Church of England bishops sit in the House of Lords.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "When walking your dog in a public place, you must ensure:",
+    "options": [
+      "That your dog does not play with other dogs",
+      "That your dog wears a collar showing the name and address of the owner",
+      "That your dog wears a high visibility jacket",
+      "That your dog does not bark"
+    ],
+    "correctAnswers": [
+      "That your dog wears a collar showing the name and address of the owner"
+    ],
+    "wrongAnswers": [],
+    "explanation": "All dogs in public places must wear a collar showing the name and address of the owner."
+  },
+  {
+    "question": "Women over the age of 30 were given the right to vote as a result of their contribution towards the war effort. Which war was that?",
+    "options": [
+      "The Second World War",
+      "The Crimean War",
+      "The First World War",
+      "The Civil War"
+    ],
+    "correctAnswers": [
+      "The First World War"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War."
+  },
+  {
+    "question": "When did Ireland become a republic?",
+    "options": [
+      "1925",
+      "1939",
+      "1949",
+      "1927"
+    ],
+    "correctAnswers": [
+      "1949"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Ireland became a republic in 1949."
+  },
+  {
+    "question": "Where did the first farmers come from?",
+    "options": [
+      "South-west Europe",
+      "South-east Europe",
+      "North-east America",
+      "North-west Asia"
+    ],
+    "correctAnswers": [
+      "South-east Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first farmers arrived in Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe."
+  },
+  {
+    "question": "Who was an important contributor to the ‘pop art’ movement of the 1960’s?",
+    "options": [
+      "David Hockney",
+      "Lucian Freud",
+      "John Petts",
+      "Henry Moore"
+    ],
+    "correctAnswers": [
+      "David Hockney"
+    ],
+    "wrongAnswers": [],
+    "explanation": "David Hockney was an important contributor to the ‘pop art’ movement of the 1960s and continues to be influential today."
+  },
+  {
+    "question": "Who became Prime Minister and was an inspirational leader to the British people during WWII?",
+    "options": [
+      "Winston Churchill",
+      "Clement Attlee",
+      "Margaret Thatcher",
+      "Sir Robert Walpole"
+    ],
+    "correctAnswers": [
+      "Winston Churchill"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Winston Churchill."
+  },
+  {
+    "question": "Who led the first invasion of Britain?",
+    "options": [
+      "Emperor Hadrian",
+      "Julius Caesar",
+      "Canute",
+      "William, the Duke of Normandy"
+    ],
+    "correctAnswers": [
+      "Julius Caesar"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain."
+  },
+  {
+    "question": "Under which king did the Anglo-Saxon kingdoms in England unite to defeat the Vikings?",
+    "options": [
+      "William of Orange",
+      "King Alfred the Great",
+      "Henry VIII",
+      "Robert the Bruce"
+    ],
+    "correctAnswers": [
+      "King Alfred the Great"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings."
+  },
+  {
+    "question": "When was the Magna Carta created?",
+    "options": [
+      "1514",
+      "1215",
+      "1415",
+      "1314"
+    ],
+    "correctAnswers": [
+      "1215"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Magna Carta was created in 1215."
+  },
+  {
+    "question": "Northern Ireland has its own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following plays was written by William Shakespeare?",
+    "options": [
+      "Pride and Prejudice",
+      "A Midsummer Night’s dream",
+      "Sense and Sensibility",
+      "Great Expectations"
+    ],
+    "correctAnswers": [
+      "A Midsummer Night’s dream"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Shakespeare’s most famous plays include A Midsummer Night’s dream."
+  },
+  {
+    "question": "How many members does a jury have in England, Wales and Northern Ireland?",
+    "options": [
+      "9",
+      "12",
+      "15",
+      "20"
+    ],
+    "correctAnswers": [
+      "12"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland a jury has 12 members."
+  },
+  {
+    "question": "Which two of the following religious communities celebrate Diwali?",
+    "options": [
+      "Buddhists",
+      "Hindus",
+      "Jews",
+      "Sikhs"
+    ],
+    "correctAnswers": [
+      "Hindus",
+      "Sikhs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali is celebrated by Hindus and Sikhs."
+  },
+  {
+    "question": "What is Good Friday?",
+    "options": [
+      "The day when Jesus Christ rose from the dead",
+      "The day when Jesus Christ was born",
+      "The day when Jesus Christ died",
+      "The day when Jesus Christ became 30 years old"
+    ],
+    "correctAnswers": [
+      "The day when Jesus Christ died"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Good Friday marks the death of Jesus Christ during the Easter."
+  },
+  {
+    "question": "St Patrick’s day is a public holiday in Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and offices will close)."
+  },
+  {
+    "question": "Which was the last successful foreign invasion of England that took place in 1066?",
+    "options": [
+      "The Viking invasion",
+      "The Anglo-Saxon Conquest",
+      "The Roman invasion",
+      "The Norman Conquest"
+    ],
+    "correctAnswers": [
+      "The Norman Conquest"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Norman Conquest was the last successful foreign invasion of England in 1066."
+  },
+  {
+    "question": "Where are the Crown Jewels kept?",
+    "options": [
+      "At the House of Commons",
+      "At the Tower of London",
+      "At Buckingham Palace",
+      "At Windsor Castle"
+    ],
+    "correctAnswers": [
+      "At the Tower of London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Crown Jewels are kept at the Tower of London."
+  },
+  {
+    "question": "Which sport can be traced back to the 15th century in Scotland?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Football",
+      "Rugby"
+    ],
+    "correctAnswers": [
+      "Golf"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The modern game of golf can be traced back to 15th century Scotland."
+  },
+  {
+    "question": "Who was the first person in England to print books using a printing press?",
+    "options": [
+      "William Shakespeare",
+      "John Barbour",
+      "Geoffrey Chaucer",
+      "William Caxton"
+    ],
+    "correctAnswers": [
+      "William Caxton"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Caxton was the first person in England to print books using a printing press."
+  },
+  {
+    "question": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+    "options": [
+      "High Court",
+      "Justice of the Peace Court",
+      "Magistrates’ Court",
+      "Crown Court"
+    ],
+    "correctAnswers": [
+      "Magistrates’ Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court."
+  },
+  {
+    "question": "What did the Scottish John Logie Baird develop?",
+    "options": [
+      "Television",
+      "Radar",
+      "Personal computer",
+      "Radio"
+    ],
+    "correctAnswers": [
+      "Television"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The television was developed by Scotsman John Logie Baird in the 1920s."
+  }
+]

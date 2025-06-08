@@ -1,0 +1,318 @@
+[
+  {
+    "question": "How can you visit the Senedd?",
+    "options": [
+      "Contacting the Education Service",
+      "Contacting the Senedd Booking Service",
+      "Contacting an MP",
+      "Contacting an MLA"
+    ],
+    "correctAnswers": [
+      "Contacting the Senedd Booking Service"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To make a booking to visit the Senedd, you have to contact the Senedd Booking Service."
+  },
+  {
+    "question": "In which of the following matters the Scottish Parliament CANNOT legislate?",
+    "options": [
+      "Health",
+      "Education",
+      "Immigration",
+      "Planning"
+    ],
+    "correctAnswers": [
+      "Immigration"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The matters on which the Scottish Parliament can legislate include: civil and criminal law, health, education, planning and additional tax-raising powers."
+  },
+  {
+    "question": "Does Britain have a constitutional monarchy?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "Yes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. The UK has a constitutional monarchy."
+  },
+  {
+    "question": "The devolved administrations of Wales, Scotland and Northern Ireland each have their own civil service:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. The devolved administrations each have their own civil service."
+  },
+  {
+    "question": "Carrying a weapon is a criminal offence, unless it is for self-defence:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. It is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury."
+  },
+  {
+    "question": "Prohibition of thought, conscience and religion is one of the principles included in the European Convention of Human Rights:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Freedom of thought, conscience and religion is one of the principles included in the European Convention of Human Rights"
+  },
+  {
+    "question": "Will a non-UK national living in the UK and looking for work, starting work or setting up as self-employed need a National Insurance number?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "Yes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one."
+  },
+  {
+    "question": "Which of the following is NOT a responsibility of the MPs?",
+    "options": [
+      "Scrutinise and comment on what the government is doing",
+      "Represent everyone in the constituency",
+      "Protect life and property",
+      "Debate important national issues"
+    ],
+    "correctAnswers": [
+      "Protect life and property"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs have a number of different responsibilities. They represent everyone in their constituency, help to create new laws, scrutinize and comment on what the government is doing and debate important national issues."
+  },
+  {
+    "question": "The clock tower is named ‘Elizabeth Tower’ in honour of:",
+    "options": [
+      "Queen Elizabeth II’s Diamond Jubilee in 2012",
+      "Queen Elizabeth I’s Diamond Jubilee in 2012",
+      "Queen Elizabeth II’s Golden Jubilee in 2002",
+      "Queen Elizabeth I’s Golden Jubilee in 2002"
+    ],
+    "correctAnswers": [
+      "Queen Elizabeth II’s Diamond Jubilee in 2012"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012."
+  },
+  {
+    "question": "The right to a fair trial is not included amongst the principles of the European Convention of Human Rights:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The right to a fair trial is one of the principles of the European Convention of Human Rights."
+  },
+  {
+    "question": "Which of the following is NOT classified as a criminal offence in the UK?",
+    "options": [
+      "Selling alcohol to anyone under the age of 18",
+      "Selling or buying drugs",
+      "Carrying a knife",
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "correctAnswers": [
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Cases of unfair dismissal or discrimination in the workplace are considered civil offences."
+  },
+  {
+    "question": "The right to life and the right to liberty and security are some of the principles included in the European Convention of Human Rights:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This is true."
+  },
+  {
+    "question": "When are local elections for councillors held in most local authorities?",
+    "options": [
+      "In May",
+      "In March",
+      "In February",
+      "In June"
+    ],
+    "correctAnswers": [
+      "In May"
+    ],
+    "wrongAnswers": [],
+    "explanation": "For most local authorities, local elections for councillors are held in May every year."
+  },
+  {
+    "question": "Which of the following is NOT protected by the laws of discrimination?",
+    "options": [
+      "Traditional customs",
+      "Disability",
+      "Pregnancy and Maternity",
+      "Religion or Belief"
+    ],
+    "correctAnswers": [
+      "Traditional customs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status."
+  },
+  {
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+      "Ghana",
+      "Cyprus",
+      "Greece",
+      "Sierra Leone"
+    ],
+    "correctAnswers": [
+      "Greece"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Greece is not a member of the Commonwealth."
+  },
+  {
+    "question": "In England, Wales and Scotland, most minor criminal cases are dealt with in a Magistrates’ Court:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court."
+  },
+  {
+    "question": "When did the UK sign the European Convention of Human Rights?",
+    "options": [
+      "1940",
+      "1945",
+      "1950",
+      "1955"
+    ],
+    "correctAnswers": [
+      "1950"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK was one of the first countries to sign the Convention in 1950."
+  },
+  {
+    "question": "Which of the following is NOT a devolved administration?",
+    "options": [
+      "The Scottish Parliament",
+      "The Senedd",
+      "The Irish Parliament",
+      "The Northern Ireland Assembly"
+    ],
+    "correctAnswers": [
+      "The Irish Parliament"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are three devolved administrations in the UK, this include: the Senedd, the Scottish Parliament and the Northern Ireland Assembly."
+  },
+  {
+    "question": "What was the name of the European Union when it was first established?",
+    "options": [
+      "European Political Union",
+      "Union of European Countries",
+      "European Economic Community",
+      "Europe United"
+    ],
+    "correctAnswers": [
+      "European Economic Community"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957."
+  },
+  {
+    "question": "Which Act incorporated the European Convention of Human Rights into UK law?",
+    "options": [
+      "The Discrimination Act 1995",
+      "The Equality Act 2010",
+      "The Freedom Act 2012",
+      "The Human Rights Act 1998"
+    ],
+    "correctAnswers": [
+      "The Human Rights Act 1998"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law."
+  },
+  {
+    "question": "Arranged marriages are not acceptable in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Arranged marriages, where both parties agree to the marriage, are acceptable in the UK."
+  },
+  {
+    "question": "Who represents the UK to the rest of the world?",
+    "options": [
+      "The Prime Minister",
+      "Prince Harry",
+      "Prince William",
+      "The King"
+    ],
+    "correctAnswers": [
+      "The King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King represents the UK to the rest of the world."
+  },
+  {
+    "question": "Who is responsible for managing relationships with foreign countries?",
+    "options": [
+      "The Chancellor of the Exchequer",
+      "The Foreign Secretary",
+      "The Home Secretary",
+      "The King"
+    ],
+    "correctAnswers": [
+      "The Foreign Secretary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Foreign Secretary is responsible for managing relationships with foreign countries."
+  },
+  {
+    "question": "If a husband forces his wife to have sex, he can be charged with rape:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Any man who forces a woman to have sex, including a woman’s husband, can be charged with rape."
+  }
+]

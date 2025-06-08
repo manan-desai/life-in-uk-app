@@ -1,0 +1,331 @@
+[
+  {
+    "question": "When does Easter take place?",
+    "options": [
+      "November or December",
+      "January or February",
+      "March or April",
+      "May or June"
+    ],
+    "correctAnswers": [
+      "March or April"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Easter takes place in March or April."
+  },
+  {
+    "question": "Which of the following is not a valid UK coin?",
+    "options": [
+      "1p",
+      "5p",
+      "25p",
+      "£1"
+    ],
+    "correctAnswers": [
+      "25p"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are no 25p coins in the UK currency."
+  },
+  {
+    "question": "Where is the Eden Project located?",
+    "options": [
+      "Dorset",
+      "Cornwall",
+      "Devon",
+      "Somerset"
+    ],
+    "correctAnswers": [
+      "Cornwall"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Eden Project is located in Cornwall, in the south west of England."
+  },
+  {
+    "question": "St Helena and the Falkland Islands are part of Great Britain.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. There are several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not part of it."
+  },
+  {
+    "question": "Which two of the following are fundamental principles of British life?",
+    "options": [
+      "Monarchy",
+      "The rule of law",
+      "Democracy",
+      "Join a political party"
+    ],
+    "correctAnswers": [
+      "The rule of law",
+      "Democracy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The fundamental principles of British life include: democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs and participation in community life."
+  },
+  {
+    "question": "Where should you register if you want to become part of a jury?",
+    "options": [
+      "The electoral register",
+      "Your local church",
+      "The NHS",
+      "The British Embassy"
+    ],
+    "correctAnswers": [
+      "The electoral register"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People on the electoral register are randomly selected to serve on a jury. Therefore, if you want to be selected to form part of a jury you have to be on the electoral register and be between 18 to 70 years old."
+  },
+  {
+    "question": "What sort of church is the Church of Scotland?",
+    "options": [
+      "Catholic",
+      "Baptist",
+      "Presbyterian",
+      "Methodist"
+    ],
+    "correctAnswers": [
+      "Presbyterian"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, the national Church is the Church of Scotland, which is a Presbyterian Church."
+  },
+  {
+    "question": "Where does golf come from?",
+    "options": [
+      "Wales",
+      "Australia",
+      "Ireland",
+      "Scotland"
+    ],
+    "correctAnswers": [
+      "Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The modern game of golf can be traced back to 15th century Scotland."
+  },
+  {
+    "question": "When do the television and newspapers have stories that are jokes until midday?",
+    "options": [
+      "Valentine’s Day",
+      "Boxing Day",
+      "Halloween",
+      "April Fool’s Day"
+    ],
+    "correctAnswers": [
+      "April Fool’s Day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "On April Fool’s Day, the 1st of April the television and newspapers often have stories that are April Fool jokes."
+  },
+  {
+    "question": "What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?",
+    "options": [
+      "Richard III",
+      "Charles II",
+      "James I",
+      "Henry IV"
+    ],
+    "correctAnswers": [
+      "Charles II"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The correct answer is Charles II."
+  },
+  {
+    "question": "Who was the father of Queen Elizabeth I?",
+    "options": [
+      "Edward I",
+      "Henry V",
+      "Henry VII",
+      "Henry VIII"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The father of Queen Elizabeth I was Henry VIII."
+  },
+  {
+    "question": "Complaints against the police can ONLY be made by writing to the Police Complaints Commissioner.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Anyone can make a complaint about the police by going to a police station and writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland."
+  },
+  {
+    "question": "Who is the patron Saint of Northern Ireland?",
+    "options": [
+      "St George",
+      "St Patrick",
+      "St Andrew",
+      "St David"
+    ],
+    "correctAnswers": [
+      "St Patrick"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The patron Saint of Northern Ireland is St Patrick."
+  },
+  {
+    "question": "What is the name of the period when new ideas about politics, philosophy and science were developed?",
+    "options": [
+      "The Enlightenment",
+      "The Glorious Revolution",
+      "The Swinging Sixties",
+      "The Reformation"
+    ],
+    "correctAnswers": [
+      "The Enlightenment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’."
+  },
+  {
+    "question": "Which of the following statements is TRUE:",
+    "options": [
+      "Mary Stuart (‘Mary, Queen of Scots’) was a Protestant",
+      "Mary Stuart (‘Mary, Queen of Scots’) was a Catholic"
+    ],
+    "correctAnswers": [
+      "Mary Stuart (‘Mary, Queen of Scots’) was a Catholic"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mary Stuart (‘Mary, Queen of Scots’) was a Catholic."
+  },
+  {
+    "question": "Which of the following is an example of civil law?",
+    "options": [
+      "To sell tobacco products to anyone under the age of 18",
+      "To buy alcohol for people who are under the age of 18",
+      "Discrimination in the workplace",
+      "To carry a weapon of any kind, even if it is for self-defence"
+    ],
+    "correctAnswers": [
+      "Discrimination in the workplace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Discrimination in the workplace is an example of civil law."
+  },
+  {
+    "question": "In which battle did Admiral Nelson die?",
+    "options": [
+      "The Battle of Hastings",
+      "The Battle of Waterloo",
+      "The Battle of Trafalgar",
+      "The Battle of Bannockburn"
+    ],
+    "correctAnswers": [
+      "The Battle of Trafalgar"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Admiral Nelson was in charge of the British fleet at the Battle of Trafalgar and was killed in the battle."
+  },
+  {
+    "question": "William of Orange was asked by Protestants to invade England and proclaim himself king. But, when William reached England, there was no resistance and he took over the throne. This event was later known as:",
+    "options": [
+      "The ‘Glorious Revolution’",
+      "The Restoration",
+      "The ‘Great Depression’",
+      "The ‘Blitz’"
+    ],
+    "correctAnswers": [
+      "The ‘Glorious Revolution’"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William of Orange was asked by Protestants to invade England and proclaim himself king. When William reached England, there was no resistance and he took over the throne. This event was later called the ‘Glorious Revolution’."
+  },
+  {
+    "question": "What sort of charity is ‘Friends of the Earth’?",
+    "options": [
+      "An environmental charity",
+      "A medical research charity",
+      "A charity working with pets",
+      "A charity working with older people"
+    ],
+    "correctAnswers": [
+      "An environmental charity"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Friends of the Earth is an environmental charity."
+  },
+  {
+    "question": "If a husband forces his wife to have sex he can be charged with rape.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "In which country of the British Empire did the Boer War (1899-1902) take place?",
+    "options": [
+      "Netherlands",
+      "Falkland Islands",
+      "Gibraltar",
+      "South Africa"
+    ],
+    "correctAnswers": [
+      "South Africa"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Boer War of 1899 to 1902 took place in South Africa with settlers from the Netherlands called the Boers."
+  },
+  {
+    "question": "Which of the following actions is known as “canvassing”?",
+    "options": [
+      "Donating blood to help people",
+      "Volunteering for an environmental charity",
+      "Caring for animals at a local rescue shelter",
+      "Persuading people to vote for a political party"
+    ],
+    "correctAnswers": [
+      "Persuading people to vote for a political party"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of political parties persuade people to vote for their candidates – for instance, by handing out leaflets in the street or by knocking on people’s doors and asking for their support. This is called ‘canvassing’."
+  },
+  {
+    "question": "Which novel written by JRR Tolkien was voted the country’s best-loved novel in 2003?",
+    "options": [
+      "Oliver Twist",
+      "James Bond",
+      "Pride and Prejudice",
+      "The Lord of the Rings"
+    ],
+    "correctAnswers": [
+      "The Lord of the Rings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 2003, the Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel."
+  },
+  {
+    "question": "When did Germany invade Poland?",
+    "options": [
+      "1942",
+      "1941",
+      "1940",
+      "1939"
+    ],
+    "correctAnswers": [
+      "1939"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Germany invaded Poland in 1939."
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Which of the following territories does not belong to Great Britain?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "Northern Ireland",
+      "England"
+    ],
+    "correctAnswers": [
+      "Northern Ireland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland. The official name of the country is the United Kingdom of Great Britain and Northern Ireland."
+  },
+  {
+    "question": "Who was the first Briton to win the ‘Tour de France’?",
+    "options": [
+      "Sir Chris Hoy",
+      "Bradley Wiggins",
+      "Andy Murray",
+      "Sir Steve Redgrave"
+    ],
+    "correctAnswers": [
+      "Bradley Wiggins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bradley Wiggins became the first Briton to win the ‘Tour de France’."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "The English language has no dialects",
+      "The English language has many accents and dialects",
+      "Gaelic is spoken in North Wales",
+      "In Northern Ireland people speak French"
+    ],
+    "correctAnswers": [
+      "The English language has many accents and dialects"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The English language has many accents and dialects."
+  },
+  {
+    "question": "How old do you need to be to go into betting shops or gambling clubs?",
+    "options": [
+      "16 years old",
+      "18 years old",
+      "20 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "18 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, you have to be 18 to go into betting shops or gambling clubs."
+  },
+  {
+    "question": "What do Ian McEwan, Hilary Mantel and Julian Barnes have in common?",
+    "options": [
+      "They are British sports players",
+      "They were awarded with the Man Booker Prize for Fiction",
+      "They won a Nobel Prize in Literature",
+      "They were awarded with the Mercury Music Prize"
+    ],
+    "correctAnswers": [
+      "They were awarded with the Man Booker Prize for Fiction"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes."
+  },
+  {
+    "question": "In Northern Ireland members of the Legislative Assembly are elected on the basis of:",
+    "options": [
+      "Proportional representation",
+      "Personal achievements",
+      "First past the post system",
+      "Instant run-off"
+    ],
+    "correctAnswers": [
+      "Proportional representation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation."
+  },
+  {
+    "question": "How can MPs be contacted (choose TWO options)?",
+    "options": [
+      "By letter",
+      "By going to your local council and asking for an appointment",
+      "By phoning their constituency office",
+      "Through facebook"
+    ],
+    "correctAnswers": [
+      "By letter",
+      "By phoning their constituency office"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You can contact MPs by letter or telephone at their constituency office, or at their office in the House of Commons: The House of Commons, Westminster, London SW1A OAA, telephone 0207729 3000."
+  },
+  {
+    "question": "What did the’Bill of Rights’ confirm in 1689?",
+    "options": [
+      "Women’s right to vote",
+      "The rights of Parliament and the limits of the king’s power",
+      "The supreme power of the king",
+      "The freedom of speech"
+    ],
+    "correctAnswers": [
+      "The rights of Parliament and the limits of the king’s power"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power. Parliament took control of who could be monarch and declared that the king or queen must be a Protestant."
+  },
+  {
+    "question": "Who designed the Clifton Suspension Bridge located over the Avon George?",
+    "options": [
+      "Sir Norman Foster",
+      "Isambard Kingdom Brunel",
+      "Richard Arkwright",
+      "Robert Adam"
+    ],
+    "correctAnswers": [
+      "Isambard Kingdom Brunel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Clifton Suspension Bridge was designed by Isambard Kingdom Brunel."
+  },
+  {
+    "question": "Does Britain have a written constitution?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "No"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government."
+  },
+  {
+    "question": "What was the estimated population of the British Empire during the Victorian period?",
+    "options": [
+      "More than 300 million people",
+      "More than 400 million people",
+      "More than 450 million people",
+      "More than 500 million people"
+    ],
+    "correctAnswers": [
+      "More than 400 million people"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people."
+  },
+  {
+    "question": "Which of the following countries was NOT part of the Allied Powers during the First World War?",
+    "options": [
+      "France",
+      "Japan",
+      "Serbia",
+      "Bulgaria"
+    ],
+    "correctAnswers": [
+      "Bulgaria"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bulgaria formed part of the Central Powers during the First World War."
+  },
+  {
+    "question": "How many times have the Olympic Games been hosted in the UK?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctAnswers": [
+      "Three"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK has hosted the Olympic games on three occasions: 1908, 1948 and 2012."
+  },
+  {
+    "question": "When were films first shown publicly in the UK?",
+    "options": [
+      "In 1887",
+      "In 1896",
+      "In 1897",
+      "In 1886"
+    ],
+    "correctAnswers": [
+      "In 1896"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular."
+  },
+  {
+    "question": "What is the name of the building where the Welsh government members meet?",
+    "options": [
+      "Westminster",
+      "Stormont",
+      "Holyrood",
+      "Senedd"
+    ],
+    "correctAnswers": [
+      "Senedd"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elected members of the Welsh government meet at the Senedd in Cardiff, the capital city of Wales."
+  },
+  {
+    "question": "Where is the city of Southampton located?",
+    "options": [
+      "England",
+      "Wales",
+      "Northern Ireland",
+      "Scotland"
+    ],
+    "correctAnswers": [
+      "England"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Southampton is located in England."
+  },
+  {
+    "question": "When did the First World War finish?",
+    "options": [
+      "At 12 am on 11th November 1916",
+      "At 11 am on 11th November 1918",
+      "At 11 pm on 13th November 1916",
+      "At 12 am on 13th February 1918"
+    ],
+    "correctAnswers": [
+      "At 11 am on 11th November 1918"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies."
+  },
+  {
+    "question": "Florence Nightingale was known for her work on:",
+    "options": [
+      "Human rights",
+      "The development of nursing in the UK",
+      "The development of computer science",
+      "The development and manufacture of motor-sport technology"
+    ],
+    "correctAnswers": [
+      "The development of nursing in the UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Florence Nightingale is often regarded as the founder of modern nursing."
+  },
+  {
+    "question": "Which Act abolished slavery throughout the British Empire in 1833?",
+    "options": [
+      "The Freedom Act",
+      "The Habeas Corpus Act",
+      "The Emancipation Act",
+      "The Slavery Act"
+    ],
+    "correctAnswers": [
+      "The Emancipation Act"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders."
+  },
+  {
+    "question": "How long does Diwali last for?",
+    "options": [
+      "A weekend",
+      "40 days",
+      "Five days",
+      "A week"
+    ],
+    "correctAnswers": [
+      "Five days"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali normally falls in October or November and lasts for five days."
+  },
+  {
+    "question": "Who became King of Britain when Queen Anne died in 1714?",
+    "options": [
+      "James II",
+      "George II",
+      "George I",
+      "Charles I"
+    ],
+    "correctAnswers": [
+      "George I"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When Queen Anne died in 1714, Parliament chose a German, George I, to be the next king, because he was Anne’s nearest Protestant relative."
+  },
+  {
+    "question": "What was the population of the UK in 2005?",
+    "options": [
+      "Just under 50 million",
+      "Just under 60 million",
+      "Just over 50 million",
+      "Just under 62 million"
+    ],
+    "correctAnswers": [
+      "Just under 60 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 2005 was just under 60 million people."
+  },
+  {
+    "question": "When did the ‘Habeas Corpus Act’ become law?",
+    "options": [
+      "In 1679",
+      "In 1669",
+      "In 1689",
+      "In 1709"
+    ],
+    "correctAnswers": [
+      "In 1679"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Habeas Corpus Act became law in 1679."
+  },
+  {
+    "question": "Who discovered the penicillin in 1928?",
+    "options": [
+      "Sir Robert Watson-Watt",
+      "Alexander Fleming",
+      "John McLeod",
+      "Howard Florey"
+    ],
+    "correctAnswers": [
+      "Alexander Fleming"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Alexander Fleming was researching influenza (the ‘flu’) in 1928 when he discovered penicillin."
+  }
+]

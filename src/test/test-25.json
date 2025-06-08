@@ -1,0 +1,333 @@
+[
+  {
+    "question": "What does the term ‘Hansard’ relate to?",
+    "options": [
+      "Official reports where proceedings in Parliament are published",
+      "A popular British soap opera",
+      "A festival which celebrates the founding of the Sikh community",
+      "A public holiday"
+    ],
+    "correctAnswers": [
+      "Official reports where proceedings in Parliament are published"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard."
+  },
+  {
+    "question": "Who was the first king of the House of Tudor?",
+    "options": [
+      "King Richard III",
+      "Henry Tudor",
+      "Henry V",
+      "James I"
+    ],
+    "correctAnswers": [
+      "Henry Tudor"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VII (Henry Tudor) was the first king of the House of Tudor."
+  },
+  {
+    "question": "What do Lewis Hamilton, Jenson Button and Damon Hill have in common?",
+    "options": [
+      "They are football players",
+      "They have won the Formula 1 World Championship",
+      "They won gold Olympic medals",
+      "They have won the Six Nations Championship"
+    ],
+    "correctAnswers": [
+      "They have won the Formula 1 World Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Lewis Hamilton, Jenson Button and Damon Hill have won the Formula 1 World Championship."
+  },
+  {
+    "question": "According to the 2011 Census, what percentage of people said that they had no religion?",
+    "options": [
+      "10%",
+      "11%",
+      "20%",
+      "25%"
+    ],
+    "correctAnswers": [
+      "25%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "According to the 2011 census, 25% of people said they had no religion."
+  },
+  {
+    "question": "During which period were the first coins produced in Britain?",
+    "options": [
+      "The Stone Age",
+      "The Golden Age",
+      "The Silver Age",
+      "The Iron Age"
+    ],
+    "correctAnswers": [
+      "The Iron Age"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The people of the Iron Age had a sophisticated culture and economy. They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings."
+  },
+  {
+    "question": "What other name is given to Diwali, the religious celebration that celebrates the victory of good over evil and the gaining of knowledge?",
+    "options": [
+      "The Festival of Lights",
+      "Hanukkah",
+      "The Festival of the Lanterns",
+      "The Festival of the Candles"
+    ],
+    "correctAnswers": [
+      "The Festival of Lights"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights."
+  },
+  {
+    "question": "In Wales, the jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’, ‘not guilty’ or ‘not proven’ based of what they have heard:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based of what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible."
+  },
+  {
+    "question": "The Prime Minister has a country house outside London called:",
+    "options": [
+      "Sparkle",
+      "Downing",
+      "Windsor",
+      "Chequers"
+    ],
+    "correctAnswers": [
+      "Chequers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Prime Minister has a country house outside London called Chequers."
+  },
+  {
+    "question": "In which English county is Maiden Castle located?",
+    "options": [
+      "Dorset",
+      "Devon",
+      "Somerset",
+      "Cornwall"
+    ],
+    "correctAnswers": [
+      "Dorset"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A very impressive hill fort can be seen today at Maiden Castle, in the English county of Dorset."
+  },
+  {
+    "question": "A National Insurance number does on its own prove to an employer that you have the right to work in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A National Insurance number does not on its own prove to an employer that you have the right to work in the UK."
+  },
+  {
+    "question": "Which of the following is a ceremonial role to be undertaken by the King?",
+    "options": [
+      "Opening the new parliamentary session every year",
+      "Visiting the major cities in the UK once every six months",
+      "Choosing the Prime Minister",
+      "Giving a speech on New Year’s Eve"
+    ],
+    "correctAnswers": [
+      "Opening the new parliamentary session every year"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead."
+  },
+  {
+    "question": "How long can you use your driving licence in the UK if you have a licence from another country?",
+    "options": [
+      "For up to 12 months",
+      "You need a UK driving licence",
+      "For as long as it is valid",
+      "For up to 2 years"
+    ],
+    "correctAnswers": [
+      "For up to 12 months"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you have a licence from another country, you may use it in the UK for up to 12 months."
+  },
+  {
+    "question": "What British discovery was influential in the development of computer science and the modern-day computer? The Radar",
+    "options": [
+      "The Radar",
+      "The Turing machine",
+      "The MRI scanner",
+      "The aeroplane"
+    ],
+    "correctAnswers": [
+      "The Turing machine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer."
+  },
+  {
+    "question": "Which Court deals with the serious criminal offences in England, Wales and Northern Ireland?",
+    "options": [
+      "The County Court",
+      "The Crown Court",
+      "The High Court",
+      "The Sheriff Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, serious criminal offences are tried in front of a judge and a jury in a Crown Court."
+  },
+  {
+    "question": "Which famous philosopher developed ideas about human nature during the 18th century and that have continued to influence philosophers over the years?",
+    "options": [
+      "Aristotle",
+      "Sigmund Freud",
+      "Platon",
+      "David Hume"
+    ],
+    "correctAnswers": [
+      "David Hume"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the 18th century, David Hume’s ideas about human nature continue to influence philosophers."
+  },
+  {
+    "question": "If you are arrested and taken to a police station, a police officer should:",
+    "options": [
+      "Make a copy of your ID and retain you until your lawyer arrives",
+      "Tell you the reason for your arrest and that you will be able to seek legal advice",
+      "Offer you a cup of tea",
+      "Explain the law to you and wait for your family to arrive"
+    ],
+    "correctAnswers": [
+      "Tell you the reason for your arrest and that you will be able to seek legal advice"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are arrested and taken to a police station, a police officer will tell you the reason for your arrest and you will be able to seek legal advice."
+  },
+  {
+    "question": "Which British actor has recently won an Oscar?",
+    "options": [
+      "Hugh Grant",
+      "Sir Anthony Hopkins",
+      "Jude Law",
+      "Richard Burton"
+    ],
+    "correctAnswers": [
+      "Sir Anthony Hopkins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton."
+  },
+  {
+    "question": "What TWO names are given to the day before Lent?",
+    "options": [
+      "Pancake day",
+      "Domesday",
+      "Shrove Tuesday",
+      "Ash Wednesday"
+    ],
+    "correctAnswers": [
+      "Pancake day",
+      "Shrove Tuesday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The day before Lent starts is called Shrove Tuesday, or Pancake Day."
+  },
+  {
+    "question": "When did the ‘Concorde’ aircraft carry passengers for the first time?",
+    "options": [
+      "In 1969",
+      "In 1970",
+      "In 1972",
+      "In 1976"
+    ],
+    "correctAnswers": [
+      "In 1976"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The ‘Concorde’ began carrying passengers in 1976."
+  },
+  {
+    "question": "The UK is one of five permanent members of the Security Council:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is one of five permanent members of the Security Council."
+  },
+  {
+    "question": "Which of the following landmarks is the largest expanse of fresh water in mainland Britain?",
+    "options": [
+      "The River Thames",
+      "Loch Lomond",
+      "Loch Ness",
+      "Lake District"
+    ],
+    "correctAnswers": [
+      "Loch Lomond"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Loch Lomond is the largest expanse of fresh water in mainland Britain and probably the best-known part of the park."
+  },
+  {
+    "question": "Who wrote the music for the popular show Jesus Christ Superstar?",
+    "options": [
+      "Andrew Lloyd Webber",
+      "Gilbert and Sullivan",
+      "Hans Holbein and Sir Anthony Van Dyck",
+      "Sir Laurence Olivier"
+    ],
+    "correctAnswers": [
+      "Andrew Lloyd Webber"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Andrew Lloyd Webber has written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, Jesus Christ Superstar and Evita, and also Cats and The Phantom of the Opera."
+  },
+  {
+    "question": "Which one of the following four changes did the Chartists did NOT campaign for?",
+    "options": [
+      "For any man to be able to stand as MP",
+      "Secret ballots",
+      "Elections every six years",
+      "For MPs to be paid"
+    ],
+    "correctAnswers": [
+      "Elections every six years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Chartists campaigned for every man to have the vote, elections every year, for all regions to be equal in the electoral system, secret ballots, for any man to be able to stand as an MP and for MPs to be paid."
+  },
+  {
+    "question": "Pantomimes are a British tradition that many theatres produce during:",
+    "options": [
+      "Easter",
+      "Christmas",
+      "Halloween",
+      "Pancake Day"
+    ],
+    "correctAnswers": [
+      "Christmas"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many theatres produce a pantomime at Christmas time."
+  }
+]

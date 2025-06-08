@@ -1,0 +1,335 @@
+[
+  {
+    "question": "Who was the first Briton to win the ‘Tour de France’?",
+    "options": [
+      "Sir Chris Hoy",
+      "Bradley Wiggins",
+      "Andy Murray",
+      "Sir Steve Redgrave"
+    ],
+    "correctAnswers": [
+      "Bradley Wiggins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Bradley Wiggins (1980-) was the first Briton to win the Tour de France."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "The English language has no dialects",
+      "The English language has many accents and dialects",
+      "Gaelic is spoken in North Wales",
+      "In parts of Northern Ireland people speak French"
+    ],
+    "correctAnswers": [
+      "The English language has many accents and dialects"
+    ],
+    "wrongAnswers": [],
+    "explanation": ""
+  },
+  {
+    "question": "How old do you need to be to go into betting shops or gambling clubs?",
+    "options": [
+      "16 years old",
+      "18 years old",
+      "20 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "18 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You have to be 18 to go into betting shops or gambling clubs."
+  },
+  {
+    "question": "What do Ian McEwan, Hilary Mantel and Julian Barnes have in common?",
+    "options": [
+      "They are British sports players",
+      "They were awarded with the Man Booker Prize for Fiction",
+      "They won a Nobel Prize in Literature",
+      "They were awarded with the Mercury Music Prize"
+    ],
+    "correctAnswers": [
+      "They were awarded with the Man Booker Prize for Fiction"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes."
+  },
+  {
+    "question": "Who was Henry Purcell?",
+    "options": [
+      "A German-born composer",
+      "An organist at Westminster Abbey",
+      "An opera composer",
+      "A jazz musician"
+    ],
+    "correctAnswers": [
+      "An organist at Westminster Abbey"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry Purcell (1659-95) was the organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe."
+  },
+  {
+    "question": "Where is the Giant’s Causeway located?",
+    "options": [
+      "Northern Ireland",
+      "Scotland",
+      "South-east coast of Wales",
+      "South-west coast of England"
+    ],
+    "correctAnswers": [
+      "Northern Ireland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Giant’s Causeway is located on the north-east coast of Northern Ireland."
+  },
+  {
+    "question": "During Halloween people carve lanterns out of ______ and put a candle inside of them.",
+    "options": [
+      "Pumpkins",
+      "Aubergines",
+      "Clay",
+      "Potatoes"
+    ],
+    "correctAnswers": [
+      "Pumpkins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During Halloween people carve lanterns out of pumpkins and put a candle inside of them."
+  },
+  {
+    "question": "Royal Ascot is a four-day horse race meeting in Berkshire attended by members of the Royal Family:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Royal Ascot , a five-day race meeting in Berkshire attended by members of the Royal Family."
+  },
+  {
+    "question": "Which of the following statements regarding Scottish television is TRUE?",
+    "options": [
+      "There is a channel with programmes in the Gaelic language",
+      "There are three channels in the Gaelic language",
+      "All programmes are broadcasted in English",
+      "There are no specific programmes to Scotland"
+    ],
+    "correctAnswers": [
+      "There is a channel with programmes in the Gaelic language"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, some Scotland-specific programmes are shown and there is also a channel with programmes in the Gaelic language."
+  },
+  {
+    "question": "Where does the biggest and most well-known Fringe Festival take place?",
+    "options": [
+      "Cambridge",
+      "Oxford",
+      "Edinburgh",
+      "Cardiff"
+    ],
+    "correctAnswers": [
+      "Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The biggest and most well-known Fringe Festival is the Edinburgh Festival Fringe."
+  },
+  {
+    "question": "Who composed a suite of pieces themed around the planets and the solar system called ‘The Planets’?",
+    "options": [
+      "The Edward Elgar",
+      "George Frederick Handel",
+      "Gustav Holst",
+      "Sir William Walton"
+    ],
+    "correctAnswers": [
+      "Gustav Holst"
+    ],
+    "wrongAnswers": [],
+    "explanation": "More recently, important composers include Gustav Holst (1874-1934), whose work includes The Planets, a suite of pieces themed around the planets and the solar system."
+  },
+  {
+    "question": "What was the population of the UK in 1998?",
+    "options": [
+      "40 million",
+      "50 million",
+      "55 million",
+      "57 million"
+    ],
+    "correctAnswers": [
+      "57 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1998 was 57 million people."
+  },
+  {
+    "question": "Which of the following is a musical venue located in London?",
+    "options": [
+      "The O2",
+      "Glastonbury",
+      "The Dome",
+      "The Fringe"
+    ],
+    "correctAnswers": [
+      "The O2"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are many large venues that host music events throughout the year, such as: Wembley Stadium; The O2 in Greenwich, south-east London."
+  },
+  {
+    "question": "Who directed the movie ‘The Killing Fields’ in 1984?",
+    "options": [
+      "Roland Joffé",
+      "Hugh Hudson",
+      "Kevin MacDonald",
+      "Nicolas Roeg"
+    ],
+    "correctAnswers": [
+      "Roland Joffé"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Killing Fields (1984) was directed by Roland Joffé."
+  },
+  {
+    "question": "Which TWO of the following castles are located in Scotland?",
+    "options": [
+      "Conwy Castle",
+      "Caernarfon Castle",
+      "Crathes Castle",
+      "Inveraray Castle"
+    ],
+    "correctAnswers": [
+      "Crathes Castle",
+      "Inveraray Castle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Inveraray Castle and Crathes Castle are located in Scotland."
+  },
+  {
+    "question": "Where is the Grand National horse racing event celebrated?",
+    "options": [
+      "In London",
+      "In Aintree",
+      "In Bedford",
+      "In Slough"
+    ],
+    "correctAnswers": [
+      "In Aintree"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Grand National horse racing event is celebrated in Aintree near Liverpool."
+  },
+  {
+    "question": "What was Charles Chaplin famous for?",
+    "options": [
+      "Special effects movies",
+      "Horror movies",
+      "Silent movies",
+      "Murder-mystery movies"
+    ],
+    "correctAnswers": [
+      "Silent movies"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood."
+  },
+  {
+    "question": "What percentage of the British population has a parent or grandparent born outside of the UK as a result of post-war immigration?",
+    "options": [
+      "Nearly 5% of the population",
+      "Nearly 10% of the population",
+      "Nearly 15% of the population",
+      "Nearly 25% of the population"
+    ],
+    "correctAnswers": [
+      "Nearly 10% of the population"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK."
+  },
+  {
+    "question": "Which of the following categories is recognised at the Laurence Olivier Awards?",
+    "options": [
+      "Music",
+      "Theatre",
+      "Event",
+      "Literature"
+    ],
+    "correctAnswers": [
+      "Theatre"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Laurence Olivier Awards recognise achievements in the area of theatre."
+  },
+  {
+    "question": "In the UK, there is a National Lottery for which draws are made every month:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. There is a National Lottery for which draws are made every week."
+  },
+  {
+    "question": "Where is Europe’s longest dry ski slope located?",
+    "options": [
+      "Near Swansea, in Wales",
+      "Near Edinburgh, in Scotland",
+      "Near Glasgow, in Scotland",
+      "Near Belfast, in Northern Ireland"
+    ],
+    "correctAnswers": [
+      "Near Edinburgh, in Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are five ski centres in Scotland, as well as Europe’s longest dry ski slope near Edinburgh."
+  },
+  {
+    "question": "What was the population of the UK in 1600?",
+    "options": [
+      "Just over 3 million",
+      "Just over 4 million",
+      "Just under 3 million",
+      "Just over 5 million"
+    ],
+    "correctAnswers": [
+      "Just over 4 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1600 was just over 4 million people."
+  },
+  {
+    "question": "What name is given to the 31st December in Scotland?",
+    "options": [
+      "Hogmanay",
+      "Bonfire Night",
+      "Vaisakhi",
+      "Diwali"
+    ],
+    "correctAnswers": [
+      "Hogmanay"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, the 31st of December is called Hogmanay."
+  },
+  {
+    "question": "When is the Sikh festival which celebrates the founding of the Sikh community (Khalsa) and known as Vaisakhi celebrated?",
+    "options": [
+      "14th of February",
+      "14th of April",
+      "30th of March",
+      "30th of April"
+    ],
+    "correctAnswers": [
+      "14th of April"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated on 14 April each year with parades, dancing and singing."
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "question": "Where is the official home of the Prime Minister?",
+    "options": [
+      "Buckingham Palace",
+      "Windsor Castle",
+      "10 Downing Street",
+      "21 Oxford Street"
+    ],
+    "correctAnswers": [
+      "10 Downing Street"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers."
+  },
+  {
+    "question": "What name is given to the elected members of the European Parliament?",
+    "options": [
+      "AMs",
+      "MEPs",
+      "MPs",
+      "MSPs"
+    ],
+    "correctAnswers": [
+      "MEPs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elections for the European Parliament are held every five years. Elected members are called members of the European Parliament (MEPs)."
+  },
+  {
+    "question": "Which court deals with cases involving personal injury, family matters, breaches of contract and divorce in England and Wales?",
+    "options": [
+      "The Crown Court",
+      "The High Court",
+      "County Courts",
+      "The Sheriff Court"
+    ],
+    "correctAnswers": [
+      "County Courts"
+    ],
+    "wrongAnswers": [],
+    "explanation": "County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court."
+  },
+  {
+    "question": "What is the name of the building where the Scottish Parliament meet?",
+    "options": [
+      "Holyrood",
+      "Senedd",
+      "Westminster",
+      "Stormont"
+    ],
+    "correctAnswers": [
+      "Holyrood"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood in Edinburgh."
+  },
+  {
+    "question": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+    "options": [
+      "The Justice of the Peace Court",
+      "The Magistrates’ Court",
+      "The High Court",
+      "The Crown Court"
+    ],
+    "correctAnswers": [
+      "The Magistrates’ Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court."
+  },
+  {
+    "question": "On which issues can the Northern Ireland Assembly NOT make decisions?",
+    "options": [
+      "Education",
+      "Defence",
+      "Agriculture",
+      "Health"
+    ],
+    "correctAnswers": [
+      "Defence"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly can make decisions on issues such as education, agriculture, the environment, health and social services. It cannot make decisions on defence."
+  },
+  {
+    "question": "What is the first verse of the National Anthem of the UK ‘God save the King’?",
+    "options": [
+      "Long to reign over us",
+      "God save the King!",
+      "Long live our noble King!",
+      "God save our gracious King!"
+    ],
+    "correctAnswers": [
+      "God save our gracious King!"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first verse of the National Anthem of the UK is ‘God save our gracious King!."
+  },
+  {
+    "question": "Who forms the shadow cabinet?",
+    "options": [
+      "Senior opposition MPs appointed by the leader of the opposition",
+      "Junior opposition MPs appointed by the leader of the governing party",
+      "Junior opposition MPs appointed by the leader of the opposition",
+      "Local councillors"
+    ],
+    "correctAnswers": [
+      "Senior opposition MPs appointed by the leader of the opposition"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The leader of the opposition appoints senior opposition MPs to be ‘shadow ministers’. They form the shadow cabinet and their role is to challenge the government and put forward alternative policies."
+  },
+  {
+    "question": "People in the UK have to pay tax on any earnings from (choose THREE options)?",
+    "options": [
+      "Profits in self-employment",
+      "Income from property, savings and dividends",
+      "Valuable gifts",
+      "Taxable benefits"
+    ],
+    "correctAnswers": [
+      "Profits in self-employment",
+      "Income from property, savings and dividends",
+      "Taxable benefits"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People in the UK have to pay tax on their income, which includes: wages from paid employment, profits from self-employment, taxable benefits, pensions and income from property, savings and dividends."
+  },
+  {
+    "question": "How many devolved administrations are there in the UK?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswers": [
+      "3"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are three devolved administrations in the UK, this include: the Welsh government, the Scottish Parliament and the Northern Ireland Assembly."
+  },
+  {
+    "question": "Who is responsible for interpreting the law and ensuring that trials are conducted fairly?",
+    "options": [
+      "The government",
+      "The police officers",
+      "The judiciary",
+      "The Prime Minister and the MPs"
+    ],
+    "correctAnswers": [
+      "The judiciary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Judges (who are together called ‘the judiciary’) are responsible for interpreting the law and ensuring that trials are conducted fairly."
+  },
+  {
+    "question": "How often do people who are 70 years old or over need to renew their driving licence?",
+    "options": [
+      "Every year",
+      "Every 2 years",
+      "Every 3 years",
+      "Every 5 years"
+    ],
+    "correctAnswers": [
+      "Every 3 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Drivers can use their driving licence until they are 70 years old. After that, the licence is valid for three years at a time."
+  },
+  {
+    "question": "Where are the Welsh government and the Senedd based?",
+    "options": [
+      "In Cardiff",
+      "In Swansea",
+      "In Conwy",
+      "In Llandudno"
+    ],
+    "correctAnswers": [
+      "In Cardiff"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Welsh government and the Senedd are based in Cardiff, the capital city of Wales."
+  },
+  {
+    "question": "Which of the following is not a member of the European Union?",
+    "options": [
+      "Finland",
+      "Denmark",
+      "Sweden",
+      "Norway"
+    ],
+    "correctAnswers": [
+      "Norway"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Norway is not a member of the European Union."
+  },
+  {
+    "question": "In the UK, alcohol cannot be sold to anyone under the age of:",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "21"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant."
+  },
+  {
+    "question": "To whom do new citizens have to swear or affirm loyalty as part of the citizenship ceremony?",
+    "options": [
+      "The Pope",
+      "The Prime Minister",
+      "The King",
+      "The Church of England"
+    ],
+    "correctAnswers": [
+      "The King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony."
+  },
+  {
+    "question": "How can you visit the UK Parliament (choose TWO options)?",
+    "options": [
+      "Arranging a tour through the visitor services",
+      "Writing to your local MP to ask for tickets",
+      "Queueing on the day at the public entrance",
+      "Contacting an MSP"
+    ],
+    "correctAnswers": [
+      "Writing to your local MP to ask for tickets",
+      "Queueing on the day at the public entrance"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To visit the UK Parliament, you can write to your local MP in advance to ask for tickets or you can Queue on the day at the public entrance."
+  },
+  {
+    "question": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership."
+  },
+  {
+    "question": "Which of the following drugs is illegal in the UK?",
+    "options": [
+      "Cannabis",
+      "Cocaine",
+      "Ecstasy",
+      "All of the above are illegal"
+    ],
+    "correctAnswers": [
+      "All of the above are illegal"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Drugs such as heroin, cocaine, ecstasy and cannabis are illegal in the UK."
+  },
+  {
+    "question": "What is the name of the building where the Northern Ireland Assembly meet?",
+    "options": [
+      "Westminster",
+      "Holyrood",
+      "Senedd",
+      "Stormont"
+    ],
+    "correctAnswers": [
+      "Stormont"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Northern Ireland elected members, known as MLAs, meet in the Northern Ireland Assembly at Stormont, in Belfast."
+  },
+  {
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+      "Uganda",
+      "Ghana",
+      "Malawi",
+      "Zimbabwe"
+    ],
+    "correctAnswers": [
+      "Zimbabwe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Zimbabwe is not a member of the Commonwealth."
+  },
+  {
+    "question": "Who makes the decisions on government policies in the UK?",
+    "options": [
+      "The monarch",
+      "Only the Prime Minister can make the decisions on government policies",
+      "The Prime Minister and the Cabinet",
+      "The monarch and the Prime Minister"
+    ],
+    "correctAnswers": [
+      "The Prime Minister and the Cabinet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Decisions on government policies are made by the Prime Minister and cabinet."
+  },
+  {
+    "question": "How often is the electoral register updated?",
+    "options": [
+      "Every year",
+      "Every six months",
+      "Every two years",
+      "Every three years"
+    ],
+    "correctAnswers": [
+      "Every year"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The electoral register is updated every year in September or October."
+  },
+  {
+    "question": "What do you need to be able to drive a car in the UK?",
+    "options": [
+      "A driving licence, a valid motor insurance, a MOT certificate and the road tax",
+      "A driving licence and a valid motor insurance only",
+      "A driving licence and a MOT certificate only",
+      "A driving licence only"
+    ],
+    "correctAnswers": [
+      "A driving licence, a valid motor insurance, a MOT certificate and the road tax"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax."
+  }
+]

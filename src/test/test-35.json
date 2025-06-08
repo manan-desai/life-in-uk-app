@@ -1,0 +1,324 @@
+[
+  {
+    "question": "What is the meaning of the term the ‘Divine Right of Kings’?",
+    "options": [
+      "The idea that the king was appointed by landowners",
+      "The Parliament and the King shared responsibilities",
+      "The King could rule the country but with the support of the Parliament",
+      "The idea that the king was directly appointed by God to rule"
+    ],
+    "correctAnswers": [
+      "The idea that the king was directly appointed by God to rule"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The ‘Divine Right of Kings’ refers to the idea that the king was directly appointed by God to rule and that the king should be able to act without having to seek approval from Parliament."
+  },
+  {
+    "question": "Who was the first person to lead a Roman invasion in Britain in 55 BC?",
+    "options": [
+      "Emperor Claudius",
+      "Napoleon",
+      "Julius Caesar",
+      "William Caxton"
+    ],
+    "correctAnswers": [
+      "Julius Caesar"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire."
+  },
+  {
+    "question": "Which of the following is NOT the responsibility of the MPs?",
+    "options": [
+      "Scrutinise and comment on what the government is doing",
+      "Represent everyone in the constituency",
+      "Protect life and property",
+      "Debate important national issues"
+    ],
+    "correctAnswers": [
+      "Protect life and property"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs have a number of different responsibilities. They represent everyone in their constituency, help to create new laws, scrutinize and comment on what the government is doing and debate important national issues."
+  },
+  {
+    "question": "When Henry VIII took the title ‘King of Ireland’, English laws were introduced and everyone except for local leaders were expected to follow the instructions of the Lord Lieutenants in Dublin:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When Henry VIII took the title ‘King of Ireland’, English laws were introduced and local leaders were expected to follow the instructions of the Lord Lieutenants in Dublin."
+  },
+  {
+    "question": "When is the anniversary of the Battle of the Boyne celebrated in Northern Ireland?",
+    "options": [
+      "March",
+      "May",
+      "June",
+      "July"
+    ],
+    "correctAnswers": [
+      "July"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Northern Ireland, the anniversary of the Battle of the Boyne is celebrated in July and is also a public holiday."
+  },
+  {
+    "question": "The clock tower is named ‘Elizabeth Tower’ in honour of ___________.",
+    "options": [
+      "Queen Elizabeth II’s Diamond Jubilee in 2012",
+      "Queen Elizabeth I’s Diamond Jubilee in 2012",
+      "Queen Elizabeth II’s Golden Jubilee in 2002",
+      "Queen Elizabeth I’s Golden Jubilee in 2002"
+    ],
+    "correctAnswers": [
+      "Queen Elizabeth II’s Diamond Jubilee in 2012"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The clock tower is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012."
+  },
+  {
+    "question": "When was Lincoln Cathedral built?",
+    "options": [
+      "In the 19th century",
+      "In medieval times",
+      "After the Roman invasion",
+      "In the 18th century"
+    ],
+    "correctAnswers": [
+      "In medieval times"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Lincoln Cathedral was built in the middle ages or medieval times."
+  },
+  {
+    "question": "Which of the following territories forms part of the UK?",
+    "options": [
+      "Scotland",
+      "The Isle of Man",
+      "Fiji",
+      "St Helena"
+    ],
+    "correctAnswers": [
+      "Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is formed by England, Scotland, Wales and Northern Ireland."
+  },
+  {
+    "question": "How old was Edward VI when he died?",
+    "options": [
+      "15 years old",
+      "1 year old",
+      "12 years old",
+      "17 years old"
+    ],
+    "correctAnswers": [
+      "15 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Edward VI died at the age of 15 after ruling for just over six years, and his half-sister Mary became queen."
+  },
+  {
+    "question": "What name was given to those who supported the king during the Civil War that began in 1642?",
+    "options": [
+      "The Cavaliers",
+      "The Suffragettes",
+      "The Suffragettes",
+      "The Squareheads"
+    ],
+    "correctAnswers": [
+      "The Cavaliers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Civil War that started in 1642 those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)."
+  },
+  {
+    "question": "The right to a fair trial is not included amongst the principles of the European Convention of Human Rights:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The right to a fair trial is one of the principles of the European Convention of Human Rights."
+  },
+  {
+    "question": "Why was Queen Mary known as ‘Bloody Mary’?",
+    "options": [
+      "She used to drink a lot",
+      "Because of all the blood from the wars she caused",
+      "She was a devout Catholic and persecuted Protestants",
+      "She used to punish people"
+    ],
+    "correctAnswers": [
+      "She was a devout Catholic and persecuted Protestants"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Queen Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody Mary’)."
+  },
+  {
+    "question": "Which of the following sentences is true?",
+    "options": [
+      "The UK is governed by the parliament sitting in Edinburgh.",
+      "Scotland and Wales have parliaments or assemblies of their own, but not Northern Ireland.",
+      "Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas.",
+      "The UK is governed by the parliament sitting in Glasgow."
+    ],
+    "correctAnswers": [
+      "Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas."
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas."
+  },
+  {
+    "question": "Which of the following lines from Shakespeare’s plays and poems is often still quoted?",
+    "options": [
+      "A daffodil by another name",
+      "All the world’s a stage",
+      "We shall never surrender",
+      "You shall be with me"
+    ],
+    "correctAnswers": [
+      "All the world’s a stage"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘All the world’s a stage’ is a line from William Shakespeare’s play As You Like It."
+  },
+  {
+    "question": "How many volunteers did the National Trust have when it first was formed in 1895?",
+    "options": [
+      "Two",
+      "Three",
+      "200",
+      "300"
+    ],
+    "correctAnswers": [
+      "Three"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust was founded in 1895 by three volunteers."
+  },
+  {
+    "question": "In the UK, brutality and violence in the home is not a crime:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, brutality and violence in the home is a serious crime."
+  },
+  {
+    "question": "When did modern tennis evolve in England?",
+    "options": [
+      "In the early 18th century",
+      "In the late 18th century",
+      "In the early 19th century",
+      "In the late 19th century"
+    ],
+    "correctAnswers": [
+      "In the late 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Modern tennis evolved in England in the late 19th century."
+  },
+  {
+    "question": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "The population is very equally distributed over the four parts of the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "Where was Anne Boleyn executed?",
+    "options": [
+      "In Conwy Castle",
+      "At the Tower of London",
+      "At the Houses of the Parliament",
+      "In France"
+    ],
+    "correctAnswers": [
+      "At the Tower of London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anne Boleyn was executed at the tower of London."
+  },
+  {
+    "question": "At the beginning of the Middle Ages, Ireland was not an independent country:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "At the beginning of the Middle Ages, Ireland was an independent country."
+  },
+  {
+    "question": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Where did Mary Stuart, the Queen of Scotland, spend most of her childhood?",
+    "options": [
+      "Spain",
+      "Germany",
+      "Holland",
+      "France"
+    ],
+    "correctAnswers": [
+      "France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mary Stuart, the Queen of Scotland, spent most of her childhood in France."
+  },
+  {
+    "question": "During the Middle Ages, several cathedrals had windows of stained glass, telling stories about:",
+    "options": [
+      "The journey of pilgrims to Canterbury",
+      "Noah’s Ark",
+      "The Bible and Christian saints",
+      "Medieval priests"
+    ],
+    "correctAnswers": [
+      "The Bible and Christian saints"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the middle ages, several cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example."
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "question": "Who was the first English Prime Minister?",
+    "options": [
+      "Henry Pelham",
+      "Sir Robert Walpole",
+      "Admiral Nelson",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "Sir Robert Walpole"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first man to be called this was Sir Robert Walpole, who was Prime Minister from 1721 to 1742."
+  },
+  {
+    "question": "Who was Robert Burns?",
+    "options": [
+      "A British musician",
+      "A Scottish poet",
+      "A Welsh scientist",
+      "An Irish engineer"
+    ],
+    "correctAnswers": [
+      "A Scottish poet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Known in Scotland as ‘The Bard’, Robert Burns was a Scottish poet."
+  },
+  {
+    "question": "Who established the Church of England?",
+    "options": [
+      "The King",
+      "The Archbishop of Canterbury",
+      "Henry VIII",
+      "Elizabeth I"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To divorce his first wife, Henry VIII needed the approval of the Pope. When the Pope refused, Henry established the Church of England. In this new church, the king, not the Pope, would have the power to appoint bishops and order how people should worship."
+  },
+  {
+    "question": "What name is given to the period in the 18th century when new ideas about politics, philosophy and science were developed?",
+    "options": [
+      "The Enlightenment",
+      "The Glorious Revolution",
+      "The Industrial Revolution",
+      "Elizabethan"
+    ],
+    "correctAnswers": [
+      "The Enlightenment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’."
+  },
+  {
+    "question": "What is the meaning of ‘Magna Carta’?",
+    "options": [
+      "The Big Charter",
+      "The Great Charter",
+      "The King’s Charter",
+      "The Small Charter"
+    ],
+    "correctAnswers": [
+      "The Great Charter"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Magna Carta (which means the Great Charter). The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make and change laws."
+  },
+  {
+    "question": "When did the Wars of the Roses end?",
+    "options": [
+      "1455",
+      "1462",
+      "1478",
+      "1485"
+    ],
+    "correctAnswers": [
+      "1485"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485."
+  },
+  {
+    "question": "The UK is not a full member of the European Union because it does not use the Euro currency:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The UK is a full member of the European Union but does not use the Euro currency."
+  },
+  {
+    "question": "Who was the British Minister after Margaret Thatcher?",
+    "options": [
+      "Tony Blair",
+      "Harold Macmillan",
+      "Gordon Brown",
+      "John Major"
+    ],
+    "correctAnswers": [
+      "John Major"
+    ],
+    "wrongAnswers": [],
+    "explanation": "John Major was Prime Minister after Mrs Thatcher, and helped establish the Northern Ireland peace process."
+  },
+  {
+    "question": "Who defeated Emperor Napoleon at the Battle of Waterloo in 1815?",
+    "options": [
+      "The Duke of Wellington",
+      "Admiral Nelson",
+      "Richard Arkwright",
+      "The Duke of Edinburgh"
+    ],
+    "correctAnswers": [
+      "The Duke of Wellington"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo."
+  },
+  {
+    "question": "What was the symbol of the House of Tudor?",
+    "options": [
+      "A red rose with a white rose inside it",
+      "A red rose",
+      "A white rose",
+      "A white rose with a red rose inside it"
+    ],
+    "correctAnswers": [
+      "A red rose with a white rose inside it"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies."
+  },
+  {
+    "question": "What animal is represented in the Welsh flag?",
+    "options": [
+      "A lion",
+      "A dragon",
+      "A tiger",
+      "A cat"
+    ],
+    "correctAnswers": [
+      "A dragon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is also an official Welsh flag, which shows a Welsh dragon. The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England."
+  },
+  {
+    "question": "Which famous economist developed ideas about economics during the 18th century and which are still referred to today?",
+    "options": [
+      "Robert Dudley Baxter",
+      "David Hume",
+      "Adam Smith",
+      "Henry George"
+    ],
+    "correctAnswers": [
+      "Adam Smith"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called ‘the Enlightenment’. Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today."
+  },
+  {
+    "question": "Who invented the cash-dispensing ATM (automatic teller machine) or ‘cashpoint’?",
+    "options": [
+      "Sir Peter Mansfield",
+      "James Goodfellow",
+      "Patrick Steptoe",
+      "Sir Tim Berners-Lee"
+    ],
+    "correctAnswers": [
+      "James Goodfellow"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 1960s, James Goodfellow (1937-) invented the cash-dispensing ATM (automatic teller machine) or ‘cashpoint’. The first of these was put into use by Barclays Bank in Enfield, north London in 1967."
+  },
+  {
+    "question": "What is the meaning of the term ‘Habeas corpus’?",
+    "options": [
+      "You must present the person in court",
+      "You must obey the law",
+      "You should go to court",
+      "You should not be judged"
+    ],
+    "correctAnswers": [
+      "You must present the person in court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Habeas corpus is Latin for ‘you must present the person in court’. The Habeas Corpus Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing."
+  },
+  {
+    "question": "Which German princess got married with Henry VIII?",
+    "options": [
+      "Jane Seymour",
+      "Anne of Cleves",
+      "Catherine Parr",
+      "Anne Boleyn"
+    ],
+    "correctAnswers": [
+      "Anne of Cleves"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anne of Cleves was a German princess who married Henry VIII for political reasons."
+  },
+  {
+    "question": "What was the most spoken language during the Iron Age?",
+    "options": [
+      "Anglo-Saxon",
+      "French",
+      "Celtic",
+      "Irish"
+    ],
+    "correctAnswers": [
+      "Celtic"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The language spoken during the Iron Age was part of the Celtic language family."
+  },
+  {
+    "question": "Which of the following was one of the most famous battles of the Hundred Years War?",
+    "options": [
+      "The Battle of Agincourt",
+      "The Battle of Bannockburn",
+      "The Battle of Culloden",
+      "The Battle of Waterloo"
+    ],
+    "correctAnswers": [
+      "The Battle of Agincourt"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s."
+  },
+  {
+    "question": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the engineers come from?",
+    "options": [
+      "France",
+      "Holland",
+      "Germany",
+      "Italy"
+    ],
+    "correctAnswers": [
+      "Germany"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Middle Ages, people came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland."
+  },
+  {
+    "question": "How many wives did Henry VIII have?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswers": [
+      "Six"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VIII had six wives."
+  },
+  {
+    "question": "When did the English become the preferred language of the royal court and Parliament?",
+    "options": [
+      "In 1300",
+      "In 1400",
+      "In 1345",
+      "In 1567"
+    ],
+    "correctAnswers": [
+      "In 1400"
+    ],
+    "wrongAnswers": [],
+    "explanation": "By 1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament."
+  },
+  {
+    "question": "What was Boudicca, the queen of the Iceni in what is now eastern England, known for?",
+    "options": [
+      "Her rebellion against the Vikings",
+      "Her rebellion against the Romans",
+      "Her rebellion against the Normans",
+      "Her rebellion against the Anglo-Saxons"
+    ],
+    "correctAnswers": [
+      "Her rebellion against the Romans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England."
+  },
+  {
+    "question": "When was the hovercraft invented?",
+    "options": [
+      "In the 1920s",
+      "In the 1930s",
+      "In the 1940s",
+      "In the 1950s"
+    ],
+    "correctAnswers": [
+      "In the 1950s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Christopher Cockerell (1910-99), a British inventor, invented the hovercraft in the 1950s."
+  },
+  {
+    "question": "Who is the author of the famous play ‘Macbeth’?",
+    "options": [
+      "Alexander Thomas",
+      "William Shakespeare",
+      "Harold Pinter",
+      "Evelyn Waugh"
+    ],
+    "correctAnswers": [
+      "William Shakespeare"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Macbeth is a famous play by William Shakespeare."
+  },
+  {
+    "question": "What animal was cloned by scientists Sir Ian Wilmot and Keith Campbell?",
+    "options": [
+      "A cow",
+      "A rabbit",
+      "A cat",
+      "A sheep"
+    ],
+    "correctAnswers": [
+      "A sheep"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  }
+]

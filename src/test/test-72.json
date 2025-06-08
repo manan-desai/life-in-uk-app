@@ -1,0 +1,321 @@
+[
+  {
+    "question": "Membership to the Commonwealth is compulsory for its members:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Membership to the Commonwealth is voluntary."
+  },
+  {
+    "question": "How many verdicts are possible in trials in Scotland?",
+    "options": [
+      "Two: ‘guilty’ or ‘not guilty’",
+      "Three: ‘guilty’, ‘not guilty’ or ‘not proven’",
+      "Three: ‘guilty’, ‘not guilty’ or ‘on hold’",
+      "Two: ‘guilty’ or ‘not proven’"
+    ],
+    "correctAnswers": [
+      "Three: ‘guilty’, ‘not guilty’ or ‘not proven’"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based of what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible."
+  },
+  {
+    "question": "Which of the following charities works with sick animals?",
+    "options": [
+      "PDSA",
+      "NSPCC",
+      "Crisis",
+      "Age UK"
+    ],
+    "correctAnswers": [
+      "PDSA"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The PDSA is the People’s Dispensary for Sick Animals."
+  },
+  {
+    "question": "Which of the following is the responsibility of the Home Secretary?",
+    "options": [
+      "Crime, policing and immigration",
+      "Managing relationships with foreign countries",
+      "Education and health",
+      "National and international defence"
+    ],
+    "correctAnswers": [
+      "Crime, policing and immigration"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "question": "What is the minimum age required for a citizen to stand for public office?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over can stand for public office."
+  },
+  {
+    "question": "Who makes sure that the opposition has a guaranteed amount of time to debate issues which it chooses during political debates?",
+    "options": [
+      "The shadow cabinet",
+      "The Speaker",
+      "The King",
+      "Nobody"
+    ],
+    "correctAnswers": [
+      "The Speaker"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker keeps order during political debates to make sure the rules are followed. This includes making sure the opposition has a guaranteed amount of time to debate issues which it chooses."
+  },
+  {
+    "question": "Citizens of Liechtenstein can drive in the UK for as long as their driving license is valid:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. If your driving licence if from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid."
+  },
+  {
+    "question": "What is the money raised from the Income Tax used for (choose THREE options)?",
+    "options": [
+      "Education",
+      "The National Grid system",
+      "Police and the Armed Forces",
+      "Roads"
+    ],
+    "correctAnswers": [
+      "Education",
+      "Police and the Armed Forces",
+      "Roads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Money raised from income tax pays for government services such as roads, education, police and the armed forces."
+  },
+  {
+    "question": "When were the Forced Marriage Protection Orders introduced for England, Wales and Northern Ireland, which aimed at protecting a person from being forced into a marriage, or to protect a person in a forced marriage?",
+    "options": [
+      "2007",
+      "2008",
+      "2010",
+      "2011"
+    ],
+    "correctAnswers": [
+      "2008"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007."
+  },
+  {
+    "question": "In the UK, if the jury finds a defendant guilty, the judge decides the penalty:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following countries is a member of the Commonwealth?",
+    "options": [
+      "Greece",
+      "Austria",
+      "Mexico",
+      "Bangladesh"
+    ],
+    "correctAnswers": [
+      "Bangladesh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bangladesh is a member of the Commonwealth."
+  },
+  {
+    "question": "Which of the following is NOT a principle included in the European Convention of Human Rights?",
+    "options": [
+      "Prohibition of torture",
+      "Prohibition of immoral thoughts",
+      "Freedom of expression (speech)",
+      "Prohibition of slavery and forced labour"
+    ],
+    "correctAnswers": [
+      "Prohibition of immoral thoughts"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Prohibition of  immoral thoughts is not one of the principles included in the European Convention of Human Rights."
+  },
+  {
+    "question": "A system of government where the whole adult population gets a say is known as:",
+    "options": [
+      "Monarchy",
+      "Republic",
+      "Communism",
+      "Democracy"
+    ],
+    "correctAnswers": [
+      "Democracy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Democracy is a system of government where the whole adult population gets a say. This might be by direct voting or by choosing representatives to make decisions on their behalf."
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Arranged marriages refer to marriages where both parties agree to the marriage",
+      "Arranged marriages refer to marriages where one or both parties do not give their consent to enter into the partnership"
+    ],
+    "correctAnswers": [
+      "Arranged marriages refer to marriages where both parties agree to the marriage"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Arranged marriages refer to marriages where both parties agree to the marriage."
+  },
+  {
+    "question": "The devolved governments in Scotland, Wales and Northern Ireland have the power to legislate on any issues that affect them:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Devolved governments in Scotland, Wales and Northern Ireland have the power to legislate on certain issues."
+  },
+  {
+    "question": "What name is given to the members of the House of Commons?",
+    "options": [
+      "MPs",
+      "AMs",
+      "Peers",
+      "MEPs"
+    ],
+    "correctAnswers": [
+      "MPs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "All of the elected MPs form the House of Commons."
+  },
+  {
+    "question": "Which of the following is NOT a role of the King:",
+    "options": [
+      "To inaugurate important business in the UK",
+      "To receive foreign ambassadors and high commissioners",
+      "To entertain visiting heads of state",
+      "To make state visits overseas"
+    ],
+    "correctAnswers": [
+      "To inaugurate important business in the UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King receives foreign ambassadors and high commissioners, entertains visiting heads of state, and makes state visits overseas in support of diplomatic and relationships with other counties."
+  },
+  {
+    "question": "The Speaker is a neutral MP and does not represent a political party:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with the constituents’ problems like any other MP."
+  },
+  {
+    "question": "How can a person facing domestic violence find a safe place to stay (choose TWO options)?",
+    "options": [
+      "Going to a hotel away from their home",
+      "Contacting the National Domestic Violence Freephone Helpline",
+      "Contacting the police",
+      "Contacting the hospital"
+    ],
+    "correctAnswers": [
+      "Contacting the National Domestic Violence Freephone Helpline",
+      "Contacting the police"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are facing domestic violence you can get help from the 24-hour National Domestic Violence Freephone Helpline on 0808 2000 247 at any time, or the police can help you find a safe place to stay."
+  },
+  {
+    "question": "Who has control over policy and laws governing defence, foreign affairs, immigration, taxation and social security in Northern Ireland?",
+    "options": [
+      "The Irish government",
+      "The central UK government",
+      "The Northern Ireland Assembly",
+      "The monarch"
+    ],
+    "correctAnswers": [
+      "The central UK government"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations."
+  },
+  {
+    "question": "The devolved governments in Scotland, Wales and Northern Ireland cannot control policies and laws governing taxation and social security:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations."
+  },
+  {
+    "question": "In the UK, brutality and violence in the home is not a crime:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. In the UK, brutality and violence in the home is a serious crime."
+  },
+  {
+    "question": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  }
+]

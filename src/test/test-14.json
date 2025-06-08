@@ -1,0 +1,335 @@
+[
+  {
+    "question": "Who was known as the Iron Duke?",
+    "options": [
+      "The Duke of Edinburgh",
+      "The Duke of Normandy",
+      "The Duke of Wellington",
+      "The Duke of Lancaster"
+    ],
+    "correctAnswers": [
+      "The Duke of Wellington"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister."
+  },
+  {
+    "question": "Who appoints the members of the Cabinet?",
+    "options": [
+      "The King",
+      "The Prime Minister",
+      "The Prince of Wales",
+      "The Magistrates"
+    ],
+    "correctAnswers": [
+      "The Prime Minister"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments."
+  },
+  {
+    "question": "Which of the following is NOT a British invention?",
+    "options": [
+      "The World Wide Web",
+      "The Turing machine",
+      "The hovercraft",
+      "The mobile phone"
+    ],
+    "correctAnswers": [
+      "The mobile phone"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The World Wide Web, the Turing machine and the hovercraft are British inventions. The mobile phone is not."
+  },
+  {
+    "question": "When did Argentina invade the Falklands Islands?",
+    "options": [
+      "In 1980",
+      "In 1982",
+      "In 1984",
+      "In 1992"
+    ],
+    "correctAnswers": [
+      "In 1982"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic."
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      "County Courts deal with a wide range of civil disputes including family matters, breaches of contract and divorce.",
+      "County Courts deal with a wide range of criminal disputes including family matters, breaches of contract and divorce."
+    ],
+    "correctAnswers": [
+      "County Courts deal with a wide range of civil disputes including family matters, breaches of contract and divorce."
+    ],
+    "wrongAnswers": [],
+    "explanation": "County Courts deal with a wide range of civil disputes including family matters, breaches of contract and divorce."
+  },
+  {
+    "question": "When is Boxing Day?",
+    "options": [
+      "24th of December",
+      "25th of December",
+      "26th of December",
+      "31st of December"
+    ],
+    "correctAnswers": [
+      "26th of December"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Boxing Day is on the 26th of December, the day after Christmas Day and is a public holiday."
+  },
+  {
+    "question": "According to 2011 Census, what percentage of the population identified themselves as Sikh?",
+    "options": [
+      "0.1%",
+      "0.5%",
+      "0.8%",
+      "2%"
+    ],
+    "correctAnswers": [
+      "0.8%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%), Hindu (1.5%), Sikh (0.8%), Jewish or Buddhist (both less than 0.5%)."
+  },
+  {
+    "question": "Which court usually deals with serious criminal cases in Scotland?",
+    "options": [
+      "The Sheriff Court",
+      "The Crown Court",
+      "The High Court",
+      "The Magistrates’ Court"
+    ],
+    "correctAnswers": [
+      "The Sheriff Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, serious criminal cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury. The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury."
+  },
+  {
+    "question": "Which of the following are British overseas territories?",
+    "options": [
+      "Ireland",
+      "The Canary Islands",
+      "St Helena",
+      "The Falkland Islands"
+    ],
+    "correctAnswers": [
+      "St Helena",
+      "The Falkland Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not part of it."
+  },
+  {
+    "question": "When did Alexander Fleming win the Nobel Prize in medicine for the discovery of the penicillin?",
+    "options": [
+      "In 1935",
+      "In 1945",
+      "In 1950",
+      "In 1952"
+    ],
+    "correctAnswers": [
+      "In 1945"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Fleming won the Nobel Prize in Medicine in 1945 for the discovery of the penicillin."
+  },
+  {
+    "question": "What is Sir Jackie Stewart famous for?",
+    "options": [
+      "He captained the English football team that won the World Cup in 1966",
+      "He captained the English cricket team",
+      "He won the Formula 1 world championship three times",
+      "He won gold medals in rowing in five consecutive Olympic Games"
+    ],
+    "correctAnswers": [
+      "He won the Formula 1 world championship three times"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Jackie Stewart is a Scottish former racing driver who won the Formula 1 world championship three times."
+  },
+  {
+    "question": "The decade of the 1960s was a period of significant social change, when there was growth in British fashion, cinema and popular music:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "When did Britain and France develop the world’s only supersonic commercial airliner known as ‘The Concorde’?",
+    "options": [
+      "1970s",
+      "1950s",
+      "1980s",
+      "1960s"
+    ],
+    "correctAnswers": [
+      "1960s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The 1960s was a time of technological progress, when Britain and France developed the world’s only supersonic commercial airliner, Concorde."
+  },
+  {
+    "question": "When was the United Nations set up?",
+    "options": [
+      "Before the Second World War",
+      "After the Second World War",
+      "Before the First World War",
+      "Before the War of the Roses"
+    ],
+    "correctAnswers": [
+      "After the Second World War"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
+  },
+  {
+    "question": "Where can you find copies of the ‘Hansard’?",
+    "options": [
+      "In the Guardian newspaper",
+      "In large libraries and at www.parliament.uk",
+      "In bookshops",
+      "In any library"
+    ],
+    "correctAnswers": [
+      "In large libraries and at www.parliament.uk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and at www.parliament.uk."
+  },
+  {
+    "question": "Which court normally deals with cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+    "options": [
+      "The High Court",
+      "The Youth Court",
+      "The Magistrates’ Court",
+      "The Sheriff Court"
+    ],
+    "correctAnswers": [
+      "The Youth Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go the Crown Court."
+  },
+  {
+    "question": "How old do you need to be to be able to go into betting shops or gambling clubs?",
+    "options": [
+      "16 years old",
+      "18 years old",
+      "20 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "18 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You have to be 18 to go into betting shops or gambling clubs."
+  },
+  {
+    "question": "Which flag has a diagonal white cross on a blue ground?",
+    "options": [
+      "The cross of St Andrew, patron saint of Scotland",
+      "The cross of St Patrick, patron saint of Ireland",
+      "The cross of St George, patron saint of England",
+      "The cross of St David, patron saint of Wales"
+    ],
+    "correctAnswers": [
+      "The cross of St Andrew, patron saint of Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground."
+  },
+  {
+    "question": "How long do Muslims fast for during Ramadan?",
+    "options": [
+      "A week",
+      "A month",
+      "Two weeks",
+      "Three weeks"
+    ],
+    "correctAnswers": [
+      "A month"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+  },
+  {
+    "question": "Which British actor has recently won an Oscar?",
+    "options": [
+      "Hugh Laurie",
+      "Colin Firth",
+      "Jude Law",
+      "Charles Chaplin"
+    ],
+    "correctAnswers": [
+      "Colin Firth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton."
+  },
+  {
+    "question": "Which was the first major railway built in Britain?",
+    "options": [
+      "High Speed 1",
+      "West Coast Main Line",
+      "Great Western Railway",
+      "East London Line"
+    ],
+    "correctAnswers": [
+      "Great Western Railway"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Great Western Railway was the first major railway built in Britain."
+  },
+  {
+    "question": "In the 15th century, Henry Tudor, the leader of the House of Lancaster, became:",
+    "options": [
+      "King Henry VIII",
+      "King Richard I",
+      "King Richard III",
+      "King Henry VII"
+    ],
+    "correctAnswers": [
+      "King Henry VII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1485, Henry Tudor, the leader of the House of Lancaster, became King Henry VII after defeating King Richard III of the House of York at the Battle of Bosworth Field."
+  },
+  {
+    "question": "How many senior MPs are appointed by the Prime Minister?",
+    "options": [
+      "Less than 10",
+      "About 15",
+      "About 20",
+      "More than 25"
+    ],
+    "correctAnswers": [
+      "About 20"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments."
+  },
+  {
+    "question": "Who won an Olympic gold medal in the pentathlon in 1972?",
+    "options": [
+      "Sir Ian Botham",
+      "Mary Peters",
+      "Dame Kelly Holmes",
+      "Jessica Ennis"
+    ],
+    "correctAnswers": [
+      "Mary Peters"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mary Peters was a talented athlete who won an Olympic gold medal in the pentathlon in 1972."
+  }
+]

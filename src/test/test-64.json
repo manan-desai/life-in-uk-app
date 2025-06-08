@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Members of the European Parliament (MEPs) are elected on the basis of:",
+    "options": [
+      "Personal achievements",
+      "Instant run-off",
+      "First past the post system (the candidate who gets the most votes)",
+      "Proportional representation"
+    ],
+    "correctAnswers": [
+      "Proportional representation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elections to the European Parliament use a system of proportional representation, where seats are allocated to each party in proportion to the total number of votes it has won."
+  },
+  {
+    "question": "The North Atlantic Treaty Organisation is a group of European and North American countries that was created with which TWO purposes:",
+    "options": [
+      "Protect and promote human rights in those countries",
+      "Help each other if they come under attack",
+      "Maintain peace between all its members",
+      "Promote free trade amongst those countries"
+    ],
+    "correctAnswers": [
+      "Help each other if they come under attack",
+      "Maintain peace between all its members"
+    ],
+    "wrongAnswers": [],
+    "explanation": "NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members."
+  },
+  {
+    "question": "The small claims procedure is used in England and Wales for minor disputes for:",
+    "options": [
+      "Claims of less than £3,000",
+      "Claims of less than £4,000",
+      "Claims of less than £3,500",
+      "Claims of less than £10,000"
+    ],
+    "correctAnswers": [
+      "Claims of less than £10,000"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland."
+  },
+  {
+    "question": "Which of the following is the responsibility of the Chancellor of the Exchequer?",
+    "options": [
+      "Education",
+      "Agriculture",
+      "Economy",
+      "Defence"
+    ],
+    "correctAnswers": [
+      "Economy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Chancellor of the Exchequer is responsible for the economy."
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      "Proceedings in Parliament are broadcast on television and published in official reports",
+      "Proceedings in Parliament are not broadcast on television but published in official reports",
+      "Proceedings in Parliament are broadcast on the radio and not published in official reports",
+      "Proceedings in Parliament are broadcast on the radio only"
+    ],
+    "correctAnswers": [
+      "Proceedings in Parliament are broadcast on television and published in official reports"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard."
+  },
+  {
+    "question": "The public can listen to debates in the Palace of Westminster from public galleries in the House of Commons but not in the House of Lords:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords."
+  },
+  {
+    "question": "Which of the following organisations has no power to make laws but draws up conventions and charters, including the European Convention on Human Rights and Fundamental Freedoms?",
+    "options": [
+      "The UN Security Council",
+      "The Council of Europe",
+      "The United Nations",
+      "The European Union"
+    ],
+    "correctAnswers": [
+      "The Council of Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Council of Europe is responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights."
+  },
+  {
+    "question": "Which Court deals with the most serious criminal cases, such as murder, in Scotland?",
+    "options": [
+      "The High Court",
+      "The Sheriff Court",
+      "The Court of Session",
+      "The Crown Court"
+    ],
+    "correctAnswers": [
+      "The High Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most serious criminal cases in Scotland, such as murder, are heard at a High Court with a judge and jury."
+  },
+  {
+    "question": "The leader of the opposition leads his or her party in pointing out what they see as the government’s (choose TWO options):",
+    "options": [
+      "Failures",
+      "Achievements",
+      "Strengths",
+      "Weaknesses"
+    ],
+    "correctAnswers": [
+      "Failures",
+      "Weaknesses"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The leader of the opposition leads his or her party in pointing out what they see as the government’s failures and weaknesses."
+  },
+  {
+    "question": "What is the minimum age requirement to drive a mopped in the UK?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "21"
+    ],
+    "correctAnswers": [
+      "16"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You need to be at least 16 years old to ride a moped, and there are other age requirements and special tests for driving large vehicles."
+  },
+  {
+    "question": "How many countries formed the European Economic Community (EEC) when it was first created in 1957?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Nine"
+    ],
+    "correctAnswers": [
+      "Six"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957."
+  },
+  {
+    "question": "What is donated blood used for?",
+    "options": [
+      "To help people with a wide range of injuries and illnesses",
+      "Blood cannot be donated in the UK",
+      "To carry out research with your DNA",
+      "To be stored in the hospital in case you need it in the future"
+    ],
+    "correctAnswers": [
+      "To help people with a wide range of injuries and illnesses"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Donated blood is used by hospitals to help people with a wide range of injuries and illnesses."
+  },
+  {
+    "question": "In which city is the Northern Ireland Assembly building, also known as Stormont, located?",
+    "options": [
+      "London",
+      "Belfast",
+      "Cardiff",
+      "Dublin"
+    ],
+    "correctAnswers": [
+      "Belfast"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Northern Ireland elected members, known as MLAs, meet in the Northern Ireland Assembly at Stormont, in Belfast."
+  },
+  {
+    "question": "What can living people donate that may help other people with injuries or illnesses (choose TWO options)?",
+    "options": [
+      "Blood",
+      "Saliva",
+      "A kidney",
+      "Their liver"
+    ],
+    "correctAnswers": [
+      "Blood",
+      "A kidney"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Living people can donate blood and a kidney."
+  },
+  {
+    "question": "Where is the office of the MPs located?",
+    "options": [
+      "10 Downing Street",
+      "The House of Commons",
+      "The House of Lords",
+      "Buckingham Palace"
+    ],
+    "correctAnswers": [
+      "The House of Commons"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The MP’s office is located at The House of Commons, Westminster, London, SW1A OAA."
+  },
+  {
+    "question": "Which TWO of the following statements is TRUE with regards to Magistrates and Justices of the Peace (JPs) in England, Wales and Scotland?",
+    "options": [
+      "They usually work unpaid",
+      "They do not need legal qualifications",
+      "They are legally qualified",
+      "They are paid"
+    ],
+    "correctAnswers": [
+      "They usually work unpaid",
+      "They do not need legal qualifications"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Scotland Magistrates and Justices of the Peace (JPs) usually work unpaid and do not need legal qualifications."
+  },
+  {
+    "question": "The House of Commons is normally more independent of the government than the House of Lords:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The House of Lords is normally more independent of the government than the House of Commons."
+  },
+  {
+    "question": "In Northern Ireland members of the Legislative Assembly (MLAs) are elected on the basis of:",
+    "options": [
+      "Proportional representation",
+      "Personal achievements",
+      "First past the post system",
+      "Instant run-off"
+    ],
+    "correctAnswers": [
+      "Proportional representation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation."
+  },
+  {
+    "question": "How can MPs be contacted (choose TWO options)?",
+    "options": [
+      "By letter",
+      "By going to your local council and asking for an appointment",
+      "By phoning their constituency office",
+      "Through facebook"
+    ],
+    "correctAnswers": [
+      "By letter",
+      "By phoning their constituency office"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs can be contacted by letter or telephone at their constituency office, or at their office in the House of Commons. In addition, many MPs, SMs and MSPs hold regular local ‘surgeries’, where constituents can go in person to talk about issues that are of concern to them."
+  },
+  {
+    "question": "Does Britain have a written constitution?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "No"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government."
+  },
+  {
+    "question": "When were the United Nations set up?",
+    "options": [
+      "Before the Second World War",
+      "After the Second World War",
+      "Before the First World War",
+      "Before the War of the Roses"
+    ],
+    "correctAnswers": [
+      "After the Second World War"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
+  },
+  {
+    "question": "Where can you find copies of the ‘Hansard’?",
+    "options": [
+      "In the Guardian newspaper",
+      "In large libraries and at www.parliament.uk",
+      "In the bookshop",
+      "In any library"
+    ],
+    "correctAnswers": [
+      "In large libraries and at www.parliament.uk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and at www.parliament.uk."
+  },
+  {
+    "question": "Which court normally deals with cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+    "options": [
+      "The High Court",
+      "The Youth Court",
+      "The Magistrates’ Court",
+      "The Sheriff Court"
+    ],
+    "correctAnswers": [
+      "The Youth Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go the Crown Court."
+  },
+  {
+    "question": "How many senior MPs are appointed by the Prime Minister?",
+    "options": [
+      "Almost 30",
+      "15",
+      "About 20",
+      "25"
+    ],
+    "correctAnswers": [
+      "About 20"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments."
+  }
+]

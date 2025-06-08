@@ -1,0 +1,340 @@
+[
+  {
+    "question": "Who succeeded Theresa May as Prime Minister on the 24th July 2019?",
+    "options": [
+      "Rishi Sunak",
+      "Gordon Brown",
+      "David Cameron",
+      "Boris Johnson"
+    ],
+    "correctAnswers": [
+      "Boris Johnson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Theresa May was succeeded by Boris Johnson on 24 July 2019."
+  },
+  {
+    "question": "What name is given to the period of rapid development of industry in Britain in the 18th and 19th centuries?",
+    "options": [
+      "The Enlightenment",
+      "The Industrial Revolution",
+      "The Victorian period",
+      "The inter-war period"
+    ],
+    "correctAnswers": [
+      "The Industrial Revolution"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries."
+  },
+  {
+    "question": "During the slave trade, slaves were taken from West Africa to America and the Caribbean to work on tobacco and sugar plantations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is TRUE."
+  },
+  {
+    "question": "Who was responsible for the construction of the Great Western Railway?",
+    "options": [
+      "Isambard Kingdom Brunel",
+      "Sir Norman Foster",
+      "Sir Christopher Wren",
+      "Robert Adam"
+    ],
+    "correctAnswers": [
+      "Isambard Kingdom Brunel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Isambard Kingdom Brunel was responsible for constructing the Great Western Railway, which was the first major railway built in Britain."
+  },
+  {
+    "question": "In which of the following areas has the Senedd the power to make laws (choose four answers)?",
+    "options": [
+      "Education and training",
+      "Military defence",
+      "Economic development",
+      "Housing",
+      "Immigration",
+      "Health and social services"
+    ],
+    "correctAnswers": [
+      "Education and training",
+      "Economic development",
+      "Housing",
+      "Health and social services"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Senedd has the power to make laws in 21 areas, including: education and training, health and social services, economic development and housing."
+  },
+  {
+    "question": "How many members comprise the UN Security Council?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "25"
+    ],
+    "correctAnswers": [
+      "15"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace."
+  },
+  {
+    "question": "Which TWO of the following forts form part of Hadrian’s Wall?",
+    "options": [
+      "Vindolanda",
+      "Stonehenge",
+      "Housesteads",
+      "Maiden"
+    ],
+    "correctAnswers": [
+      "Vindolanda",
+      "Housesteads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Parts of Hadrian’s Wall include the forts of Housesteads and Vindolanda."
+  },
+  {
+    "question": "Members of the Welsh government can speak in either English or Welsh, but all of the Senedd’s publications have to be in English:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the Welsh government can speak in either English or Welsh, and all publications of the Senedd’s publications are in both languages."
+  },
+  {
+    "question": "Why did Elizabeth I keep her cousin Mary prisoner for 20 years?",
+    "options": [
+      "She did not agree with her political views",
+      "She suspected Mary of wanting to take over the English throne",
+      "She had killed her son",
+      "She was a spy of the Spanish Armada"
+    ],
+    "correctAnswers": [
+      "She suspected Mary of wanting to take over the English throne"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth suspected Mary of wanting to take over the English throne, and kept her prisoner for 20 years."
+  },
+  {
+    "question": "What was the name of the first cloned mammal?",
+    "options": [
+      "Molly",
+      "Dolly",
+      "Colin",
+      "Alice"
+    ],
+    "correctAnswers": [
+      "Dolly"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1996, two British scientists, Sir Ian Wilmot and Keith Campbell, led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  },
+  {
+    "question": "Who is responsible for the creation of the European Convention on Human Rights and Fundamental Freedoms?",
+    "options": [
+      "The UN Security Council",
+      "The Council of Europe",
+      "The United Nations",
+      "The Commonwealth"
+    ],
+    "correctAnswers": [
+      "The Council of Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Council of Europe has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms."
+  },
+  {
+    "question": "Who became Prime Minister of the UK in May 1940?",
+    "options": [
+      "Margaret Thatcher",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Harold Macmillan"
+    ],
+    "correctAnswers": [
+      "Winston Churchill"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist. In May 1940 he became Prime Minister."
+  },
+  {
+    "question": "Members of the House of Lords may stand for election to the House of Commons and are eligible for all public offices:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the House of Lords may not stand for election to the House of Commons but are eligible for all other public offices."
+  },
+  {
+    "question": "What can you find at the ‘Eden Project’?",
+    "options": [
+      "Giant greenhouses, house plants from all over the world",
+      "Animals from all over the world",
+      "Prehistoric monuments",
+      "An open market with local food"
+    ],
+    "correctAnswers": [
+      "Giant greenhouses, house plants from all over the world"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally."
+  },
+  {
+    "question": "What TWO names are given to the people who give tours at the Tower of London?",
+    "options": [
+      "Beefeaters",
+      "Suffragettes",
+      "Chartists",
+      "Yeoman Wardens"
+    ],
+    "correctAnswers": [
+      "Beefeaters",
+      "Yeoman Wardens"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Tours to the Tower of London are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history."
+  },
+  {
+    "question": "Which of the following is a traditional Scottish food?",
+    "options": [
+      "Roast beef",
+      "Haggis",
+      "Ulster fry",
+      "Custard pies"
+    ],
+    "correctAnswers": [
+      "Haggis"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Haggis – a sheep’s stomach stuffed with offal, suet, onions and oatmeal – is a traditional Scottish food."
+  },
+  {
+    "question": "How often do the Laurence Olivier Awards take place?",
+    "options": [
+      "Every six months",
+      "Annually",
+      "Every four years",
+      "Every two years"
+    ],
+    "correctAnswers": [
+      "Annually"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Laurence Olivier Awards take place annually at different venues in London."
+  },
+  {
+    "question": "When is Valentine’s Day?",
+    "options": [
+      "30th of October",
+      "14th of February",
+      "30th of November",
+      "27th of December"
+    ],
+    "correctAnswers": [
+      "14th of February"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Valentine’s Day is celebrated on the 14th of February."
+  },
+  {
+    "question": "When is St Patrick’s Day, patron to of Northern Ireland?",
+    "options": [
+      "23rd of April",
+      "30th of November",
+      "1st of March",
+      "17th of March"
+    ],
+    "correctAnswers": [
+      "17th of March"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Patrick’s Day, patron to of Northern Ireland is on the 17th of March."
+  },
+  {
+    "question": "What does the term ‘PDSA’ stand for?",
+    "options": [
+      "People’s Defence for Sick Animals",
+      "People’s Dispensary for Sick Animals",
+      "Pilot Program for Sustainable Agriculture",
+      "Program Directive for Sustainable Agriculture"
+    ],
+    "correctAnswers": [
+      "People’s Dispensary for Sick Animals"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘PDSA’ stands for People’s Dispensary for Sick Animals."
+  },
+  {
+    "question": "Which of the following TWO islands are ‘Crown dependencies’?",
+    "options": [
+      "Ceylon",
+      "The Isle of Man",
+      "The Channel Islands",
+      "Ireland"
+    ],
+    "correctAnswers": [
+      "The Isle of Man",
+      "The Channel Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’."
+  },
+  {
+    "question": "When did English settlers begin to colonise the eastern coast of America?",
+    "options": [
+      "During James I’s time",
+      "During Henry VII’s time",
+      "During Henry VIII’s time",
+      "During Elizabeth I’s time"
+    ],
+    "correctAnswers": [
+      "During Elizabeth I’s time"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Elizabeth I’s time, English settlers first began to colonise the eastern coast of America."
+  },
+  {
+    "question": "When did the Black Death come to England?",
+    "options": [
+      "In 1248",
+      "In 1348",
+      "In 1358",
+      "In 1414"
+    ],
+    "correctAnswers": [
+      "In 1348"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death."
+  },
+  {
+    "question": "What is the name of the annual event that gives awards in a range of musical categories, such as best British group and best British solo artist?",
+    "options": [
+      "The Brit Awards",
+      "The MTV Awards",
+      "The BAFTA Awards",
+      "The Mercury Music Prize"
+    ],
+    "correctAnswers": [
+      "The Brit Awards"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Brit Awards is an annual event that gives awards in a range of categories, such as best British group and best British solo artist."
+  }
+]

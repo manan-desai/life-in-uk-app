@@ -1,0 +1,337 @@
+[
+  {
+    "question": "What day does Lent start?",
+    "options": [
+      "On Shrove Tuesday",
+      "On Ash Wednesday",
+      "On Easter Monday",
+      "On Easter Sunday"
+    ],
+    "correctAnswers": [
+      "On Ash Wednesday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Lent begins on Ash Wednesday."
+  },
+  {
+    "question": "How old do you need to be to be able to apply for a free TV licence?",
+    "options": [
+      "Over 65",
+      "Over 60",
+      "Over 70",
+      "Over 75"
+    ],
+    "correctAnswers": [
+      "Over 75"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount."
+  },
+  {
+    "question": "What time do usually pubs open on Sundays in the UK?",
+    "options": [
+      "10 am",
+      "11 am",
+      "12 pm",
+      "1 pm"
+    ],
+    "correctAnswers": [
+      "12 pm"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays)."
+  },
+  {
+    "question": "Which British sportswoman won two gold medals for running in the 2004 Olympic Games?",
+    "options": [
+      "Dame Ellen MacArthur",
+      "Jayne Torvill",
+      "Dame Kelly Holmes",
+      "Jessica Ennis-Hill"
+    ],
+    "correctAnswers": [
+      "Dame Kelly Holmes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dame Kelly Holmes won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records."
+  },
+  {
+    "question": "What percentage of the total British population is located in England alone?",
+    "options": [
+      "84%",
+      "60%",
+      "58%",
+      "79%"
+    ],
+    "correctAnswers": [
+      "84%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "What was the population of the UK in 2010?",
+    "options": [
+      "Just over 50 million",
+      "Just over 62 million",
+      "Just under 50 million",
+      "Just under 60 million"
+    ],
+    "correctAnswers": [
+      "Just over 62 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 2010 was just over 62 million people."
+  },
+  {
+    "question": "Which flower is associated with England?",
+    "options": [
+      "Daffodil",
+      "Shamrock",
+      "Rose",
+      "Thistle"
+    ],
+    "correctAnswers": [
+      "Rose"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The rose is the flower associated with England."
+  },
+  {
+    "question": "In which period did British Film studios flourish?",
+    "options": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "1950s"
+    ],
+    "correctAnswers": [
+      "1930s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "British film studios flourished in the 1930s."
+  },
+  {
+    "question": "According to the 2011 Census, what percentage of the population identified themselves as Sikh?",
+    "options": [
+      "0.1%",
+      "0.5%",
+      "0.8%",
+      "2%"
+    ],
+    "correctAnswers": [
+      "0.8%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "According to the 2011 Census, 0.8% of the population identified themselves as Sikh."
+  },
+  {
+    "question": "Which flower is associated with Wales?",
+    "options": [
+      "Daffodil",
+      "Rose",
+      "Shamrock",
+      "Thistle"
+    ],
+    "correctAnswers": [
+      "Daffodil"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The daffodil is the flower associated with Wales."
+  },
+  {
+    "question": "Which of the following is NOT a city of the UK?",
+    "options": [
+      "Belfast",
+      "Newport",
+      "Dublin",
+      "Dundee"
+    ],
+    "correctAnswers": [
+      "Dublin"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dublin is not a city of the UK."
+  },
+  {
+    "question": "When is Bonfire Night celebrated?",
+    "options": [
+      "5th of September",
+      "5th of November",
+      "15th of September",
+      "15th of November"
+    ],
+    "correctAnswers": [
+      "5th of November"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bonfire Night is celebrated on the 5th of November."
+  },
+  {
+    "question": "Which of the following statements regarding television in Northern Ireland is TRUE?",
+    "options": [
+      "Some programmes are broadcasted in Irish Gaelic",
+      "There is one Irish-language channel",
+      "All programmes are broadcasted in English",
+      "There are no specific programmes to Northern Ireland"
+    ],
+    "correctAnswers": [
+      "Some programmes are broadcasted in Irish Gaelic"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are programmes specific to Northern Ireland and some programmes broadcast in Irish Gaelic."
+  },
+  {
+    "question": "In the second half of the 19th century there was an important group of artists who painted detailed pictures on religious or literary themes in bright colours. These were known as:",
+    "options": [
+      "The Pre-Raphaelites",
+      "Suffragettes",
+      "Chartists",
+      "Elizabethans"
+    ],
+    "correctAnswers": [
+      "The Pre-Raphaelites"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Pre-Raphaelites were an important group of artists in the second half of the 19th century. They painted detailed pictures on religious or literary themes in bright colours. The group included Holman Hunt, Dante Gabriel Rossetti and Sir John Millais."
+  },
+  {
+    "question": "The Muslim festival known as Eid ul Adha reminds Muslims of their own commitment to God:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Eid ul Adha reminds Muslims of their own commitment to God."
+  },
+  {
+    "question": "What was the population of the UK in 1901?",
+    "options": [
+      "20 million",
+      "40 million",
+      "30 million",
+      "50 million"
+    ],
+    "correctAnswers": [
+      "40 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1901 was 40 million people."
+  },
+  {
+    "question": "When is Boxing Day celebrated?",
+    "options": [
+      "26th December",
+      "25th December",
+      "30th December",
+      "24th December"
+    ],
+    "correctAnswers": [
+      "26th December"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Boxing Day is the day after Christmas Day and is celebrated on the 26th December."
+  },
+  {
+    "question": "Which charity works for the preservation of buildings in England?",
+    "options": [
+      "Friends of the Earth",
+      "Oxfam",
+      "The National Trust",
+      "The RSPB"
+    ],
+    "correctAnswers": [
+      "The National Trust"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, many parts of the countryside and places of interest are kept open by the National Trust in England, Wales and Northern Ireland and the National Trust for Scotland. Both are charities that work to preserve important buildings, coastline and countryside in the UK."
+  },
+  {
+    "question": "Which of the following is a traditional Welsh food?",
+    "options": [
+      "Roast beef",
+      "Welsh cakes",
+      "Haggis",
+      "Ulster fry"
+    ],
+    "correctAnswers": [
+      "Welsh cakes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Welsh cakes are a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold."
+  },
+  {
+    "question": "When is the Jewish celebration known as Hanukkah normally celebrated?",
+    "options": [
+      "June or July",
+      "October or November",
+      "November or December",
+      "March or April"
+    ],
+    "correctAnswers": [
+      "November or December"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Hannukah is in November or December and is celebrated for eight days."
+  },
+  {
+    "question": "What musical award is given during the Mercury Music Prize?",
+    "options": [
+      "Best album from the UK",
+      "Best album from the UK and Ireland",
+      "Best solo artist from the UK",
+      "Best solo artist the UK and Ireland"
+    ],
+    "correctAnswers": [
+      "Best album from the UK and Ireland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland."
+  },
+  {
+    "question": "Which TWO of the following water sports are popular in the UK?",
+    "options": [
+      "Waterpolo",
+      "Rowing",
+      "Sailing",
+      "Surfing"
+    ],
+    "correctAnswers": [
+      "Rowing",
+      "Sailing"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sailing continues to be popular in the UK, reflecting our maritime heritage. Rowing is also popular, both as a leisure activity and as a competitive sport."
+  },
+  {
+    "question": "In the UK, what should dogs wear in public places?",
+    "options": [
+      "A collar with the name and address of the owner",
+      "A collar with the name of the dog",
+      "A tracking device in case they get lost",
+      "Clothes to avoid the cold in the winter"
+    ],
+    "correctAnswers": [
+      "A collar with the name and address of the owner"
+    ],
+    "wrongAnswers": [],
+    "explanation": "All dogs in public places must wear a collar showing the name and address of the owner."
+  },
+  {
+    "question": "According to the Citizenship Survey carried out in the UK in 2009, what percentage of the population identified themselves as Muslim?",
+    "options": [
+      "1%",
+      "2%",
+      "3%",
+      "4%"
+    ],
+    "correctAnswers": [
+      "4%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 2009 Citizenship Survey, 70% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4%), Hindu (2%), Sikh (1%), Jewish or Buddhist (both less than 0.5%), and 2% of people followed another religion."
+  }
+]

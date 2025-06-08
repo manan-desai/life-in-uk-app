@@ -1,0 +1,330 @@
+[
+  {
+    "question": "What is the name of the highest mountain in Wales?",
+    "options": [
+      "Lake District",
+      "Snowdon",
+      "South Downs",
+      "Giant’s Causeway"
+    ],
+    "correctAnswers": [
+      "Snowdon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Snowdon is the highest mountain in Wales."
+  },
+  {
+    "question": "Where did the Vikings come from?",
+    "options": [
+      "France and Germany",
+      "Sweden and Finland",
+      "Denmark and Norway",
+      "Sweden and Germany"
+    ],
+    "correctAnswers": [
+      "Denmark and Norway"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Vikings came from Denmark and Norway."
+  },
+  {
+    "question": "Who led a Scottish army against Oliver Cromwell just after England had been declared a Republic?",
+    "options": [
+      "Charles I",
+      "Charles II",
+      "Henry V",
+      "James I"
+    ],
+    "correctAnswers": [
+      "Charles II"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Charles II was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester."
+  },
+  {
+    "question": "How many pence are there in a pound?",
+    "options": [
+      "100 pence",
+      "50 pence",
+      "60 pence",
+      "10 pence"
+    ],
+    "correctAnswers": [
+      "100 pence"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 100 pence in a pound."
+  },
+  {
+    "question": "When are local elections for councillors held in most local authorities?",
+    "options": [
+      "In May",
+      "In March",
+      "In February",
+      "In June"
+    ],
+    "correctAnswers": [
+      "In May"
+    ],
+    "wrongAnswers": [],
+    "explanation": "For most local authorities, local elections for councillors are held in May every year."
+  },
+  {
+    "question": "What sort of stories were collected by the Canterbury Tales written by Geoffrey Chaucer?",
+    "options": [
+      "Love stories",
+      "Children’s stories",
+      "Travellers’ stories",
+      "War stories"
+    ],
+    "correctAnswers": [
+      "Travellers’ stories"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection poems is called The Canterbury Tales."
+  },
+  {
+    "question": "When did rugby originate?",
+    "options": [
+      "In the 15th century",
+      "In the 16th century",
+      "In the 18th century",
+      "In the 19th century"
+    ],
+    "correctAnswers": [
+      "In the 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Rugby originated in England in the early 19th century and is very popular in the UK today."
+  },
+  {
+    "question": "Which of the following lines does NOT form part of the citizenship pledge?",
+    "options": [
+      "I will give my loyalty to the United Kingdom",
+      "I will uphold its democratic values",
+      "Long live our noble King!",
+      "I will observe its laws faithfully"
+    ],
+    "correctAnswers": [
+      "Long live our noble King!"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Long live our noble King! is the second sentence of the National Anthem of the UK."
+  },
+  {
+    "question": "Which of the following is NOT protected by the laws of discrimination?",
+    "options": [
+      "Traditional customs",
+      "Disability",
+      "Pregnancy and Maternity",
+      "Religion or Belief"
+    ],
+    "correctAnswers": [
+      "Traditional customs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status."
+  },
+  {
+    "question": "Which Act abolished the old pocket and rotten boroughs and allowed more parliamentary seats to the towns and cities?",
+    "options": [
+      "The Reform Act of 1832",
+      "The Reform Act of 1842",
+      "The Emancipation Act 1833",
+      "The Emancipation Act 1835"
+    ],
+    "correctAnswers": [
+      "The Reform Act of 1832"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Reform Act of 1832 had greatly increased the number of people with the right to vote. The act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities."
+  },
+  {
+    "question": "In the UK, if the jury finds a defendant guilty, the judge decides the penalty:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following countries is a member of the Commonwealth?",
+    "options": [
+      "Greece",
+      "Austria",
+      "Mexico",
+      "Bangladesh"
+    ],
+    "correctAnswers": [
+      "Bangladesh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bangladesh is a member of the Commonwealth."
+  },
+  {
+    "question": "During the Crusades, European Christians fought for the control of:",
+    "options": [
+      "The holy land",
+      "Ireland",
+      "Central Europe",
+      "England"
+    ],
+    "correctAnswers": [
+      "The holy land"
+    ],
+    "wrongAnswers": [],
+    "explanation": "European Christians fought for control of the Holy Land."
+  },
+  {
+    "question": "The line ‘to be or not to be’ belongs to which of the following plays or poems written by William Shakespeare?",
+    "options": [
+      "Romeo and Juliet",
+      "Hamlet",
+      "As You Like It",
+      "Henry V"
+    ],
+    "correctAnswers": [
+      "Hamlet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘To be or not to be’ is a line from William Shakespeare’s play Hamlet."
+  },
+  {
+    "question": "Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised Prayer Book.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following is NOT a principle included in the European Convention of Human Rights?",
+    "options": [
+      "Prohibition of torture",
+      "Prohibition of immoral thoughts",
+      "Freedom of expression (speech)",
+      "Prohibition of slavery and forced labour"
+    ],
+    "correctAnswers": [
+      "Prohibition of immoral thoughts"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Prohibition of immoral thoughts is not one of the principles included in the European Convention of Human Rights."
+  },
+  {
+    "question": "What was the name of the project through which the atomic bomb was developed?",
+    "options": [
+      "The Manhattan project",
+      "The Michigan project",
+      "The Cambridge project",
+      "The Manchester project"
+    ],
+    "correctAnswers": [
+      "The Manhattan project"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb."
+  },
+  {
+    "question": "Who supported the Parliament during the Civil War that began in 1642?",
+    "options": [
+      "The Squareheads",
+      "The Cavaliers",
+      "The Suffragettes",
+      "The Roundheads"
+    ],
+    "correctAnswers": [
+      "The Roundheads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)."
+  },
+  {
+    "question": "Which of the following poets wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Blake",
+      "Sir Walter Scott",
+      "William Wordsworth"
+    ],
+    "correctAnswers": [
+      "Sir Walter Scott"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Walter Scott wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England"
+  },
+  {
+    "question": "A system of government where the whole adult population gets a say is known as:",
+    "options": [
+      "Monarchy",
+      "Republic",
+      "Communism",
+      "Democracy"
+    ],
+    "correctAnswers": [
+      "Democracy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Democracy is a system of government where the whole adult population gets a say. This might be by direct voting or by choosing representatives to make decisions on their behalf."
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Arranged marriages refer to marriages where both parties agree to the marriage",
+      "Arranged marriages refer to marriages where one or both parties do not give their consent to enter into the partnership"
+    ],
+    "correctAnswers": [
+      "Arranged marriages refer to marriages where both parties agree to the marriage"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Arranged marriages refer to marriages where both parties agree to the marriage."
+  },
+  {
+    "question": "The devolved governments in Scotland, Wales and Northern Ireland have the power to legislate on any issues that affect them:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Devolved governments in Scotland, Wales and Northern Ireland have the power to legislate on certain issues."
+  },
+  {
+    "question": "What name is given to the members of the House of Commons?",
+    "options": [
+      "MPs",
+      "AMs",
+      "Peers",
+      "MEPs"
+    ],
+    "correctAnswers": [
+      "MPs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "All of the elected MPs form the House of Commons."
+  },
+  {
+    "question": "Which golf ‘Major’ tournament is held outside the United States?",
+    "options": [
+      "The Masters Tournament",
+      "The U.S. Open",
+      "The Open Championship",
+      "The PGA Championship"
+    ],
+    "correctAnswers": [
+      "The Open Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The open championship is the only ‘Major’ tournament held outside the United States."
+  }
+]

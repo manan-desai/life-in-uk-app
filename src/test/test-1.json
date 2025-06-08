@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Who were the first people to arrive in Britain in what we call the Stone Age?",
+    "options": [
+      "Farmers",
+      "Hunter-gatherers",
+      "Warriors",
+      "Pirates"
+    ],
+    "correctAnswers": [
+      "Hunter-gatherers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age."
+  },
+  {
+    "question": "When did Britain become permanently separated from the continent by the Channel?",
+    "options": [
+      "10,000 years ago",
+      "50,000 years ago",
+      "15,000 years ago",
+      "18,000 years ago"
+    ],
+    "correctAnswers": [
+      "10,000 years ago"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Britain only became permanently separated from the continent by the Channel about 10,000 years ago."
+  },
+  {
+    "question": "The Commonwealth has no power over its members and it cannot suspend their membership:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Commonwealth has no power over its members, although it can suspend membership."
+  },
+  {
+    "question": "Which of the following statements regarding the Black Death is NOT true?",
+    "options": [
+      "One third of the population of England died and a similar proportion in Scotland and Wales",
+      "It was one of the worst disasters ever to strike Britain",
+      "It affected children and old people only",
+      "Following the Black Death, there were labour shortages"
+    ],
+    "correctAnswers": [
+      "It affected children and old people only"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales. This was one of the worst disasters ever to strike Britain. Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages."
+  },
+  {
+    "question": "Who was reigning in England when Wales became formally united with England by the Act for the Government of Wales?",
+    "options": [
+      "Henry VIII",
+      "Henry VII",
+      "Elizabeth I",
+      "James I"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the reign of Henry VIII, Wales became formally united with England by the Act for the Government of Wales."
+  },
+  {
+    "question": "The Elizabethan period is known for the richness of its poetry and drama, especially for the plays and poems of which playwright?",
+    "options": [
+      "Alexander Dumas",
+      "William Shakespeare",
+      "Charles Dickens",
+      "Thomas Hardy"
+    ],
+    "correctAnswers": [
+      "William Shakespeare"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Elizabethan period is remembered for the richness of its poetry and drama, especially the plays and poems of William Shakespeare."
+  },
+  {
+    "question": "Which of the following is NOT a fundamental principle of British life?",
+    "options": [
+      "Tolerance of those with different faiths and beliefs",
+      "The rule of law",
+      "Autocracy",
+      "Democracy"
+    ],
+    "correctAnswers": [
+      "Autocracy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The fundamental principles of British life include: tolerance of those with different faiths and beliefs, the rule of law, democracy, individual liberty and participation in community life."
+  },
+  {
+    "question": "Which TWO of the following are environmental charities?",
+    "options": [
+      "Crisis",
+      "The National Trust",
+      "Friends of the Earth",
+      "PDSA"
+    ],
+    "correctAnswers": [
+      "The National Trust",
+      "Friends of the Earth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust and Friends of the Earth are environmental charities."
+  },
+  {
+    "question": "Which flag has a diagonal red cross on a white ground?",
+    "options": [
+      "The cross of St George, patron saint of England",
+      "The cross of St Patrick, patron saint of Ireland",
+      "The cross of St David, patron saint of Wales",
+      "The cross of St Andrew, patron saint of Scotland"
+    ],
+    "correctAnswers": [
+      "The cross of St Patrick, patron saint of Ireland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground."
+  },
+  {
+    "question": "Where is the city of Swansea located?",
+    "options": [
+      "In England",
+      "In Scotland",
+      "In Wales",
+      "In the Isle of Man"
+    ],
+    "correctAnswers": [
+      "In Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Swansea is located in Wales."
+  },
+  {
+    "question": "When is Christmas Eve celebrated?",
+    "options": [
+      "24th of December",
+      "26th of December",
+      "25th of December",
+      "27th of December"
+    ],
+    "correctAnswers": [
+      "24th of December"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Christmas Eve is celebrated on the 24th of December."
+  },
+  {
+    "question": "Which British sportsman won five consecutive gold medals at the Olympic Games in the rowing category?",
+    "options": [
+      "Sir Chris Hoy",
+      "Christopher Dean",
+      "Bradley Wiggins",
+      "Sir Steve Redgrave"
+    ],
+    "correctAnswers": [
+      "Sir Steve Redgrave"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Steve Redgrave won gold medals in rowing in five consecutive Olympic Games and is one of Britain’s greatest Olympians."
+  },
+  {
+    "question": "What is the name of the centrepiece to the Remembrance Day service located in Whitehall, London?",
+    "options": [
+      "Cenotaph",
+      "Stonehenge",
+      "Grimsby",
+      "Scunthorpe"
+    ],
+    "correctAnswers": [
+      "Cenotaph"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Cenotaph in Whitehall is the site of the annual Remembrance Day service attended by the King, politicians and foreign ambassadors."
+  },
+  {
+    "question": "Who was the inventor of the World Wide Web?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Sir Peter Mansfield",
+      "Sir Ian Wilmut",
+      "Sir Bernard Lovell"
+    ],
+    "correctAnswers": [
+      "Sir Tim Berners-Lee"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955-), is British. Information was successfully transferred via the web for the first time on 25 December 1990."
+  },
+  {
+    "question": "What does the UK offer to its residents or citizens (choose FIVE answers)?",
+    "options": [
+      "Freedom of belief and religion",
+      "Freedom of speech",
+      "Free university tuition fees",
+      "Freedom from unfair discrimination",
+      "A right to a fair trial",
+      "A right to join in the election of a government"
+    ],
+    "correctAnswers": [
+      "Freedom of belief and religion",
+      "Freedom of speech",
+      "Freedom from unfair discrimination",
+      "A right to a fair trial",
+      "A right to join in the election of a government"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK offers to its residents or citizens: freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government."
+  },
+  {
+    "question": "When did the Wars of the Roses start?",
+    "options": [
+      "1388",
+      "1455",
+      "1462",
+      "1478"
+    ],
+    "correctAnswers": [
+      "1455"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose."
+  },
+  {
+    "question": "How many members does the Scottish Parliament have?",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "129"
+    ],
+    "correctAnswers": [
+      "129"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation."
+  },
+  {
+    "question": "What does the term ‘coalition’ refer to?",
+    "options": [
+      "If no political party wins a majority, a new election is held to vote for one of the top two parties only",
+      "The candidate who gets the most votes is elected",
+      "If no political party wins a majority, two parties may join and govern together",
+      "If an MP dies or resigns, there will be a fresh election"
+    ],
+    "correctAnswers": [
+      "If no political party wins a majority, two parties may join and govern together"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition."
+  },
+  {
+    "question": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Pool and darts are traditional pub games.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True."
+  },
+  {
+    "question": "When did the UK formally leave the European Union?",
+    "options": [
+      "31 January 2019",
+      "30 January 2020",
+      "31 January 2020",
+      "30 January 2019"
+    ],
+    "correctAnswers": [
+      "31 January 2020"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK formally left the European Union on 31 January 2020."
+  },
+  {
+    "question": "What is the minimum age requirement in the UK to drink wine or beer with a meal provided you are with someone over 18?",
+    "options": [
+      "14 years old",
+      "15 years old",
+      "16 years old",
+      "17 years old"
+    ],
+    "correctAnswers": [
+      "16 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When they are 16, people can drink wine or beer with a meal in a hotel or restaurant (including eating areas in pubs) as long as they are with someone over 18."
+  },
+  {
+    "question": "Who is the spiritual leader of the Church of England?",
+    "options": [
+      "The Pope",
+      "The Archbishop of Canterbury",
+      "St Augustine",
+      "St Columba"
+    ],
+    "correctAnswers": [
+      "The Archbishop of Canterbury"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The spiritual leader of  the Church of England is the Archbishop of Canterbury."
+  },
+  {
+    "question": "Civil servants cannot stand for public office:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Most citizens of the UK, Ireland or the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including: members of the armed forces, civil servants, people found guilty of certain criminal offences."
+  }
+]

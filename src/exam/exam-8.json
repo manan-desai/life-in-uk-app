@@ -1,0 +1,332 @@
+[
+  {
+    "question": "World War II started as a result of Germany invading which country?",
+    "options": [
+      "France",
+      "Russia",
+      "Poland",
+      "Austria"
+    ],
+    "correctAnswers": [
+      "Poland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Second World War started when Hitler invaded Poland in 1939. Britain and France declared war in order to stop his aggression."
+  },
+  {
+    "question": "Which flower is associated with Scotland?",
+    "options": [
+      "The Shamrock",
+      "The Rose",
+      "The Daffodil",
+      "The Thistle"
+    ],
+    "correctAnswers": [
+      "The Thistle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The flower associated with Scotland is the thistle."
+  },
+  {
+    "question": "Police complaints can only be made by writing to the Chief Constable of the police force involved.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Anyone can make a complaint about the police by going to a police station and writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland."
+  },
+  {
+    "question": "Which of the following is a responsibility of the Home Secretary?",
+    "options": [
+      "Economy",
+      "Crime",
+      "Education",
+      "Defence"
+    ],
+    "correctAnswers": [
+      "Crime"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "question": "When is St David’s day celebrated?",
+    "options": [
+      "1st March",
+      "17th March",
+      "23rd April",
+      "17th April"
+    ],
+    "correctAnswers": [
+      "1st March"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St David’s day, patron of Wales, is celebrated on the 1st of March."
+  },
+  {
+    "question": "What happened to ‘Mary, Queen of Scots’ after she spent 20 years in prison?",
+    "options": [
+      "She became Queen of England",
+      "She was sent to France",
+      "She escaped to Denmark",
+      "She was executed"
+    ],
+    "correctAnswers": [
+      "She was executed"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mary was eventually executed, accused of plotting against Elizabeth I."
+  },
+  {
+    "question": "What did Francis Crick discover?",
+    "options": [
+      "The MRI (magnetic resonance imaging) scanner",
+      "The jet engine",
+      "The IVF (in-vitro fertilisation) therapy",
+      "The structure of the DNA molecule"
+    ],
+    "correctAnswers": [
+      "The structure of the DNA molecule"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Francis Crick discovered the structure of the DNA molecule."
+  },
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "How many national parks are there in England, Wales and Scotland?",
+    "options": [
+      "25",
+      "15",
+      "18",
+      "42"
+    ],
+    "correctAnswers": [
+      "15"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 15 national parks in England, Wales and Scotland."
+  },
+  {
+    "question": "Is Northern Ireland part of Great Britain?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "No"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland."
+  },
+  {
+    "question": "If you are a dog owner, which two things should your dog’s collar have when you go out for a walk?",
+    "options": [
+      "The owner’s address",
+      "The owner’s name",
+      "The dog’s breed",
+      "The dog’s name"
+    ],
+    "correctAnswers": [
+      "The owner’s address",
+      "The owner’s name"
+    ],
+    "wrongAnswers": [],
+    "explanation": "All dogs in public places must wear a collar showing the name and address of the owner."
+  },
+  {
+    "question": "What day relates to the death of Jesus Christ?",
+    "options": [
+      "Good Friday",
+      "Easter Sunday",
+      "Easter Monday",
+      "Ash Wednesday"
+    ],
+    "correctAnswers": [
+      "Good Friday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Easter takes place in March or April. It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday."
+  },
+  {
+    "question": "A responsibility of the MPs is to represent everyone in their _______.",
+    "options": [
+      "County",
+      "Estate",
+      "District",
+      "Constituency"
+    ],
+    "correctAnswers": [
+      "Constituency"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A responsibility of the MPs is to represent everyone in their constituency."
+  },
+  {
+    "question": "What was achieved with the Magna Carta?",
+    "options": [
+      "It restricted the King’s power",
+      "It increased the King’s power",
+      "It restricted the rights of the farmers",
+      "It increased women’s power"
+    ],
+    "correctAnswers": [
+      "It restricted the King’s power"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Magna Carta established the idea that even the king was subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make and change laws. In future, the king would need to involve his noblemen in decisions."
+  },
+  {
+    "question": "Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "What year were women given the right to vote?",
+    "options": [
+      "1918",
+      "1925",
+      "1949",
+      "1914"
+    ],
+    "correctAnswers": [
+      "1918"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War."
+  },
+  {
+    "question": "Which two of the following are British overseas territories?",
+    "options": [
+      "St Helena",
+      "Solomon Islands",
+      "Mauritius",
+      "The Falkland Islands"
+    ],
+    "correctAnswers": [
+      "St Helena",
+      "The Falkland Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are several British overseas territories, such as St Helena and the Falkland Islands. They are linked to the UK but are not part of it."
+  },
+  {
+    "question": "Who did the English defeat in 1588?",
+    "options": [
+      "The Normans",
+      "The Romans",
+      "The Spanish Armada",
+      "The Saxons"
+    ],
+    "correctAnswers": [
+      "The Spanish Armada"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1588 the English defeated the Spanish Armada (a large fleet of ships)."
+  },
+  {
+    "question": "Who designed the Cenotaph?",
+    "options": [
+      "Sir Norman Foster",
+      "Lancelot ‘Capability’ Brown",
+      "Sir Edwin Lutyens",
+      "Isambard Kingdom Brunel"
+    ],
+    "correctAnswers": [
+      "Sir Edwin Lutyens"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Edwin Lutyens was responsible for designing many war memorials throughout the world, including the Cenotaph in Whitehall."
+  },
+  {
+    "question": "How often are the members of the Welsh government elected?",
+    "options": [
+      "Every 5 years",
+      "Every 2 years",
+      "Every 4 years",
+      "Every 3 years"
+    ],
+    "correctAnswers": [
+      "Every 4 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 60 members of the Welsh government or members of the Senedd (SMs) and elections are held every four years using a form of proportional representation."
+  },
+  {
+    "question": "During which period did the Beatles become popular and social laws were liberalised?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1950s"
+    ],
+    "correctAnswers": [
+      "1960s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones. It was also a time when social laws were liberalised, for example in relation to divorce and to abortion in England, Wales and Scotland. The position of women in the workplace also improved."
+  },
+  {
+    "question": "The Man Booker Prize is awarded in which of the following categories?",
+    "options": [
+      "Films",
+      "Sport",
+      "Literature",
+      "Music"
+    ],
+    "correctAnswers": [
+      "Literature"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel (literature) written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan, Hilary Mantel and Julian Barnes."
+  },
+  {
+    "question": "What sort of election takes place when a member of the Parliament (MP) dies or resigns?",
+    "options": [
+      "Coalition",
+      "Pre-selection",
+      "Random selection",
+      "By-election"
+    ],
+    "correctAnswers": [
+      "By-election"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency."
+  },
+  {
+    "question": "What is the Turner Prize?",
+    "options": [
+      "A literature award",
+      "A music award",
+      "A contemporary art award",
+      "A theatre award"
+    ],
+    "correctAnswers": [
+      "A contemporary art award"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Turner Prize was established in 1984 and celebrates contemporary art. The Turner Prize is recognised as one of the most prestigious visual art awards in Europe."
+  }
+]

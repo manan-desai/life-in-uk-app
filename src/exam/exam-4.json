@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What was the last battle between Great Britain and France?",
+    "options": [
+      "The Battle of Trafalgar",
+      "The Battle of Waterloo",
+      "The Battle of Hastings",
+      "Battle of Agincourt"
+    ],
+    "correctAnswers": [
+      "The Battle of Waterloo"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo."
+  },
+  {
+    "question": "Which flower is associated with Wales?",
+    "options": [
+      "Daffodil",
+      "Rose",
+      "Shamrock",
+      "Thistle"
+    ],
+    "correctAnswers": [
+      "Daffodil"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The flower associated with Wales is the daffodil."
+  },
+  {
+    "question": "During the reign of Charles II parts of London were destroyed, what was the cause of this destruction?",
+    "options": [
+      "A war",
+      "A flood",
+      "A fire",
+      "An earthquake"
+    ],
+    "correctAnswers": [
+      "A fire"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During Charles II’s reign, a great fire destroyed much of the city, including many churches and St Paul’s Cathedral."
+  },
+  {
+    "question": "How often are general elections held in the UK?",
+    "options": [
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years",
+      "Every 10 years"
+    ],
+    "correctAnswers": [
+      "Every 5 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs are elected at a General Election, which is held at least every five years."
+  },
+  {
+    "question": "Scotland has its own banknotes, which are valid everywhere in the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "What charity works to preserve important buildings, coastline and countryside in the UK?",
+    "options": [
+      "Shelter",
+      "Age UK",
+      "Crisis",
+      "The National Trust"
+    ],
+    "correctAnswers": [
+      "The National Trust"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust is a charity that works to preserve important buildings, coastline and countryside in the UK."
+  },
+  {
+    "question": "Great Britain refers only to England, Wales and Scotland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Who was the tribal leader who fought against the Romans?",
+    "options": [
+      "Cleopatra",
+      "Claudia",
+      "Boudicca",
+      "St Augustine"
+    ],
+    "correctAnswers": [
+      "Boudicca"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England."
+  },
+  {
+    "question": "Who was voted the greatest Briton of all time in 2002?",
+    "options": [
+      "Isaac Newton",
+      "Winston Churchill",
+      "Alexander Fleming",
+      "Mo Farat"
+    ],
+    "correctAnswers": [
+      "Winston Churchill"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Winston Churchill remains a much-admired figure to this day, and in 2002 was voted the greatest Briton of all time by the public."
+  },
+  {
+    "question": "Which two houses form the UK Parliament?",
+    "options": [
+      "The House of Lords",
+      "House of Members",
+      "House of Commons",
+      "House of Fraser"
+    ],
+    "correctAnswers": [
+      "The House of Lords",
+      "House of Commons"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK Parliament is formed of the House of Commons and the House of Lords."
+  },
+  {
+    "question": "When did women get the right to vote at the same age as men?",
+    "options": [
+      "1918",
+      "1928",
+      "1938",
+      "1948"
+    ],
+    "correctAnswers": [
+      "1928"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1928, women were given the right to vote at the age of 21, the same as men."
+  },
+  {
+    "question": "Who is the head of the Church of England?",
+    "options": [
+      "The Prime Minister",
+      "The Archbishop of Canterbury",
+      "The Pope",
+      "The monarch"
+    ],
+    "correctAnswers": [
+      "The monarch"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The monarch is the head of the Church of England."
+  },
+  {
+    "question": "What sort of event is the Grand National?",
+    "options": [
+      "Rugby",
+      "Golf",
+      "Horse Racing",
+      "Tennis"
+    ],
+    "correctAnswers": [
+      "Horse Racing"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Grand National is a horse racing event."
+  },
+  {
+    "question": "What type of literature are the Canterbury Tales?",
+    "options": [
+      "Poems",
+      "Novels",
+      "Jokes",
+      "Fables"
+    ],
+    "correctAnswers": [
+      "Poems"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. This collection of poems is called The Canterbury Tales."
+  },
+  {
+    "question": "When is Christmas Day?",
+    "options": [
+      "24th of December",
+      "25th of December",
+      "26th of December",
+      "27th of December"
+    ],
+    "correctAnswers": [
+      "25th of December"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Christmas Day is celebrated on the 25th of December."
+  },
+  {
+    "question": "Who supported King Charles I during the Civil War?",
+    "options": [
+      "Roundheads",
+      "Suffragettes",
+      "Quakers",
+      "Cavaliers"
+    ],
+    "correctAnswers": [
+      "Cavaliers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the civil war between the king and Parliament the country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)."
+  },
+  {
+    "question": "What battle is commemorated in the Bayeux Tapestry?",
+    "options": [
+      "The Battle of Waterloo",
+      "The Battle of Trafalgar",
+      "The Battle of Hastings",
+      "The Battle of Britain"
+    ],
+    "correctAnswers": [
+      "The Battle of Hastings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry."
+  },
+  {
+    "question": "Where was Anne Boleyn, the wife of Henry VIII, executed?",
+    "options": [
+      "Houses of the Parliament",
+      "Stonehenge",
+      "Tower of London",
+      "Whitehall"
+    ],
+    "correctAnswers": [
+      "Tower of London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anne Boleyn was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London."
+  },
+  {
+    "question": "Racial crime and smoking in public places are examples of:",
+    "options": [
+      "Civil offences",
+      "Criminal offences"
+    ],
+    "correctAnswers": [
+      "Criminal offences"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Racial crime and smoking in public places are examples of criminal offences."
+  },
+  {
+    "question": "What type of character was played by Charlie Chaplin?",
+    "options": [
+      "A superhero",
+      "A tramp",
+      "A scientific genius",
+      "A bandit"
+    ],
+    "correctAnswers": [
+      "A tramp"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood."
+  },
+  {
+    "question": "You have to be at least 21 years old to stand as MP.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is false. Anyone aged 18 or over can stand for election as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties. These are the Conservative Party, the Labour Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh or Northern Irish interests."
+  },
+  {
+    "question": "Who developed the radar?",
+    "options": [
+      "John Logie Baird",
+      "Sir Frank Whittle",
+      "Sir Christopher Cockrell",
+      "Sir Robert Watson-Watt"
+    ],
+    "correctAnswers": [
+      "Sir Robert Watson-Watt"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Robert Watson-Watt developed the radar."
+  },
+  {
+    "question": "Where is the official home of the Prime Minister?",
+    "options": [
+      "18 Oxford Street",
+      "Buckingham Palace",
+      "Windsor Castle",
+      "10 Downing Street"
+    ],
+    "correctAnswers": [
+      "10 Downing Street"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official home of the Prime Minister is 10 Downing Street."
+  },
+  {
+    "question": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+    "options": [
+      "Television",
+      "Internet",
+      "Newspapers",
+      "Radio"
+    ],
+    "correctAnswers": [
+      "Television",
+      "Radio"
+    ],
+    "wrongAnswers": [],
+    "explanation": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints."
+  }
+]

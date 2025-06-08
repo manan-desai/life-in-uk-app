@@ -1,0 +1,336 @@
+[
+  {
+    "question": "Which two languages were used across England during the Middle Ages?",
+    "options": [
+      "Welsh",
+      "Gaelic",
+      "Norman French",
+      "Anglo-Saxon"
+    ],
+    "correctAnswers": [
+      "Norman French",
+      "Anglo-Saxon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Middle Ages saw the development of a national culture and identity. After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon."
+  },
+  {
+    "question": "In 1776, which British colonies declared their independence because they demanded that there should be ‘no taxation without representation‘.",
+    "options": [
+      "North African",
+      "Asian",
+      "North American",
+      "South African"
+    ],
+    "correctAnswers": [
+      "North American"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1776, 13 North American colonies declared their independence, stating that people had a right to establish their own governments."
+  },
+  {
+    "question": "When was England ruled by a republic and not by a monarch?",
+    "options": [
+      "When Elizabeth I died without any successor",
+      "When Charles I was executed",
+      "When the Carta Magna restricted the king’s power",
+      "When kind Harold died after the Battle of Hastings"
+    ],
+    "correctAnswers": [
+      "When Charles I was executed"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When Charles I was executed, England declared itself a republic, called the Commonwealth. It no longer had a monarch."
+  },
+  {
+    "question": "Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?",
+    "options": [
+      "Harry Potter",
+      "Spider-man",
+      "The Lord of the Rings",
+      "Indiana Jones"
+    ],
+    "correctAnswers": [
+      "Harry Potter"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Some of the most commercially successful films of all time, including the two highest-grossing film franchises (Harry Potter and James Bond), have been produced in the UK."
+  },
+  {
+    "question": "When did the first farmers come to Britain?",
+    "options": [
+      "10,000 years ago",
+      "6,000 years ago",
+      "15,000 years ago",
+      "2,000 years ago"
+    ],
+    "correctAnswers": [
+      "6,000 years ago"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first farmers arrived in Britain 6,000 years ago."
+  },
+  {
+    "question": "When did the First World War end?",
+    "options": [
+      "At 12.00 pm on 11th November 1914",
+      "At 12.00 pm on 11th November 1918",
+      "At 11.00 am on 11th November 1914",
+      "At 11.00 am on 11th November 1918"
+    ],
+    "correctAnswers": [
+      "At 11.00 am on 11th November 1918"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies."
+  },
+  {
+    "question": "Can court orders be obtained to protect a person from being forced into a marriage?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "Yes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage."
+  },
+  {
+    "question": "What medal did Mary Peters win in the 1972 Olympics?",
+    "options": [
+      "She did not win any medals",
+      "Silver",
+      "Gold",
+      "Bronze"
+    ],
+    "correctAnswers": [
+      "Gold"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Born in Manchester, Mary Peters moved to Northern Ireland as a child. She was a talented athlete who won an Olympic gold medal in the pentathlon in 1972."
+  },
+  {
+    "question": "In England, Wales and Northern Ireland Youth Court cases are normally heard by (choose TWO answers)?",
+    "options": [
+      "Up to 3 specially trained magistrates",
+      "A District Judge",
+      "A sheriff",
+      "Up to 5 specially trained magistrates"
+    ],
+    "correctAnswers": [
+      "Up to 3 specially trained magistrates",
+      "A District Judge"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge."
+  },
+  {
+    "question": "What was invented by Alan Turing in the 1930s?",
+    "options": [
+      "The jet engine",
+      "The television",
+      "The Turing machine",
+      "The ball pen"
+    ],
+    "correctAnswers": [
+      "The Turing machine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s."
+  },
+  {
+    "question": "Which of the following tells us about how people lived in England just after the Norman Conquest?",
+    "options": [
+      "The Domesday Book",
+      "The Book of Common Prayer",
+      "The Canterbury Tales",
+      "The Carta Magna"
+    ],
+    "correctAnswers": [
+      "The Domesday Book"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book. It still exists today and gives a picture of society in England just after the Norman Conquest."
+  },
+  {
+    "question": "Who led a team of scientists to ‘split the atom‘ for the first time?",
+    "options": [
+      "Alexander Fleming",
+      "Alan Turing",
+      "Ernest Rutherford",
+      "Sir Peter Mansfield"
+    ],
+    "correctAnswers": [
+      "Ernest Rutherford"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom‘ and took part in the Manhattan Project in the United States, which developed the atomic bomb."
+  },
+  {
+    "question": "What song is sung by people in the UK and other countries when they are celebrating the New Year?",
+    "options": [
+      "Auld Lang Syne",
+      "The British Anthem",
+      "Jingle Bells",
+      "White Christmas"
+    ],
+    "correctAnswers": [
+      "Auld Lang Syne"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland)."
+  },
+  {
+    "question": "Who fought in the English Civil war of 1642?",
+    "options": [
+      "The House of York and the House of Lancaster",
+      "The Anglo-Saxons and the Vikings",
+      "The Cavaliers and the Roundheads",
+      "The House of Fraser and the House of Stuart"
+    ],
+    "correctAnswers": [
+      "The Cavaliers and the Roundheads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads)."
+  },
+  {
+    "question": "Which two of these forts were part of Hadrian‘s wall?",
+    "options": [
+      "Vindolanda",
+      "Maiden Castle",
+      "Housesteads",
+      "Grimsby"
+    ],
+    "correctAnswers": [
+      "Vindolanda",
+      "Housesteads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Parts of Hadrian‘s Wall, include the forts of Housesteads and Vindolanda."
+  },
+  {
+    "question": "What was the religion of the Puritans?",
+    "options": [
+      "Hindu",
+      "Catholic",
+      "Sikh",
+      "Protestant"
+    ],
+    "correctAnswers": [
+      "Protestant"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Puritans were a group of Protestants who advocated strict and simple religious doctrine and worship."
+  },
+  {
+    "question": "What is the name of Irish people who favoured complete independence from the UK in the 19th century?",
+    "options": [
+      "Fenians",
+      "Quakers",
+      "Highlanders",
+      "Suffragettes"
+    ],
+    "correctAnswers": [
+      "Fenians"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Irish Nationalist movement had grown strongly through the 19th century. Some, such as the Fenians, favoured complete independence."
+  },
+  {
+    "question": "Which two British pop music groups were famous during the Swinging Sixties?",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "ABBA",
+      "Radiohead"
+    ],
+    "correctAnswers": [
+      "The Rolling Stones",
+      "The Beatles"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music. Two well-known pop music groups at the time were The Beatles and The Rolling Stones."
+  },
+  {
+    "question": "What is the minimum age required to drive a motorcycle?",
+    "options": [
+      "16 years old",
+      "17 years old",
+      "18 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "17 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, you must be at least 17 years to drive a car or motorcycle and you must have a driving licence to drive on public roads."
+  },
+  {
+    "question": "The members of the House of Lords, known as peers, are elected by the people.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The members of the House of Lords, known as peers, are not elected by the people."
+  },
+  {
+    "question": "When did the Emancipation Act abolish slavery throughout the British Empire?",
+    "options": [
+      "1835",
+      "1823",
+      "1807",
+      "1833"
+    ],
+    "correctAnswers": [
+      "1833"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1833 the Emancipation Act abolished slavery throughout the British Empire."
+  },
+  {
+    "question": "Who is responsible for crime, policing and immigration?",
+    "options": [
+      "The Chancellor of the Exchequer",
+      "The Foreign Secretary",
+      "The Speaker",
+      "The Home Secretary"
+    ],
+    "correctAnswers": [
+      "The Home Secretary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "question": "What kind of genre was the film Wallace and Gromit created by Nick Park?",
+    "options": [
+      "A soap opera",
+      "A silent movie",
+      "An animated film",
+      "An action film"
+    ],
+    "correctAnswers": [
+      "An animated film"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Nick Park won four Oscars for his animated films, including three for films featuring Wallace and Gromit."
+  },
+  {
+    "question": "Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted."
+  }
+]

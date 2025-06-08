@@ -1,0 +1,336 @@
+[
+  {
+    "question": "Who defeated the French at the battle of Agincourt in 1415?",
+    "options": [
+      "King Edward I of England",
+      "William III of England",
+      "Henry VIII",
+      "King Henry V"
+    ],
+    "correctAnswers": [
+      "King Henry V"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French."
+  },
+  {
+    "question": "Which is the most famous tennis tournament hosted in Britain and which takes place each year at the All England Lawn Tennis and Croquet Club?",
+    "options": [
+      "Roland Garros",
+      "The Wimbledon Championships",
+      "The British open",
+      "The Queen’s open"
+    ],
+    "correctAnswers": [
+      "The Wimbledon Championships"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club."
+  },
+  {
+    "question": "What is the minimum age required for a citizen to stand for public office?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over can stand for public office."
+  },
+  {
+    "question": "Who makes sure that the opposition has a guaranteed amount of time to debate issues which it chooses during political debates?",
+    "options": [
+      "The shadow cabinet",
+      "The Speaker",
+      "The King",
+      "Nobody"
+    ],
+    "correctAnswers": [
+      "The Speaker"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker keeps order during political debates to make sure the rules are followed. This includes making sure the opposition has a guaranteed amount of time to debate issues which it chooses."
+  },
+  {
+    "question": "Citizens of Liechtenstein can drive in the UK for as long as their driving license is valid:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If your driving licence if from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid."
+  },
+  {
+    "question": "Which British Prime Minister nationalized major industries including coal and steel?",
+    "options": [
+      "Harold Macmillan",
+      "Clement Attlee",
+      "John Major",
+      "Sir Alec Douglas-Home"
+    ],
+    "correctAnswers": [
+      "Clement Attlee"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Clement Attlee’s government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge’s plans for a stronger welfare state. Attlee also introduced measures to improve the conditions of workers."
+  },
+  {
+    "question": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      "St Augustine",
+      "St Columba",
+      "St Andrew",
+      "Kenneth MacAlpin"
+    ],
+    "correctAnswers": [
+      "St Augustine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Augustine became the first Archbishop of Canterbury."
+  },
+  {
+    "question": "What is the money raised from the Income Tax used for (choose THREE options)?",
+    "options": [
+      "Education",
+      "The National Grid system",
+      "Police and the Armed Forces",
+      "Roads"
+    ],
+    "correctAnswers": [
+      "Education",
+      "Police and the Armed Forces",
+      "Roads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Money raised from income tax pays for government services such as roads, education, police and the armed forces."
+  },
+  {
+    "question": "What name is given to the clock tower at the Houses of Parliament in honour of Queen Elizabeth II’s Diamond Jubilee in 2012?",
+    "options": [
+      "Big Ben",
+      "Big Clock",
+      "Elizabeth Tower",
+      "Clock Tower"
+    ],
+    "correctAnswers": [
+      "Elizabeth Tower"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The clock tower at the Houses of Parliament in London is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012."
+  },
+  {
+    "question": "When were the Forced Marriage Protection Orders introduced for England, Wales and Northern Ireland, which aimed at protecting a person from being forced into a marriage, or to protect a person in a forced marriage?",
+    "options": [
+      "2007",
+      "2008",
+      "2010",
+      "2011"
+    ],
+    "correctAnswers": [
+      "2008"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007."
+  },
+  {
+    "question": "Whose details are NOT listed in the Phone Book?",
+    "options": [
+      "The King",
+      "MPs, SMs and MSPs",
+      "MEPs",
+      "All of the above"
+    ],
+    "correctAnswers": [
+      "The King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs, Senedd members (SMs) and members of the Scottish Parliament (MSPs) are also listed in The Phone Book, published by BT. The King is not."
+  },
+  {
+    "question": "Which of the following words comes from the Norman French?",
+    "options": [
+      "Apple",
+      "Beauty",
+      "Cow",
+      "Summer"
+    ],
+    "correctAnswers": [
+      "Beauty"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words."
+  },
+  {
+    "question": "How are the official reports where the Parliament’s proceedings are published called?",
+    "options": [
+      "Domesday Book",
+      "Hansard",
+      "Parliamentary reports",
+      "Carta Magna"
+    ],
+    "correctAnswers": [
+      "Hansard"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard."
+  },
+  {
+    "question": "How many Senedd members does the Welsh government have?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "75"
+    ],
+    "correctAnswers": [
+      "60"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Welsh government has 60 Senedd members (SMs) and elections are held every four years using a form of proportional representation."
+  },
+  {
+    "question": "Catherine Parr, the sixth wife of Henry VIII, was a cousin of Anne Boleyn:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Catherine Howard was a cousin of Anne Boleyn."
+  },
+  {
+    "question": "Who deals with cases involving personal injury, family matters, breaches of contract and divorce in Scotland?",
+    "options": [
+      "County Courts",
+      "The Sheriff Court",
+      "The Crown Court",
+      "The High Court"
+    ],
+    "correctAnswers": [
+      "The Sheriff Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court."
+  },
+  {
+    "question": "What was the symbol of York during the Wars of the Roses?",
+    "options": [
+      "A Red Rose",
+      "A White Rose",
+      "A Black Rose",
+      "A Purple Rose"
+    ],
+    "correctAnswers": [
+      "A White Rose"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The symbol of York during the Wars of the Roses was a white rose."
+  },
+  {
+    "question": "According to the 2011 Census, what percentage of the population identified themselves as Jewish?",
+    "options": [
+      "Less than 0.5%",
+      "Less than 1%",
+      "Less than 1.5%",
+      "Less than 2%"
+    ],
+    "correctAnswers": [
+      "Less than 0.5%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "According to the 2011 Census, less than 0.5% of people identify themselves as Jewish."
+  },
+  {
+    "question": "During which movement the Parliament passed laws giving women the right to equal pay and made it illegal for employees to discriminate against women because of their gender:",
+    "options": [
+      "The Punk movement",
+      "The Enlightenment",
+      "The Swinging Sixties",
+      "The Suffrage"
+    ],
+    "correctAnswers": [
+      "The Swinging Sixties"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Swinging Sixties was a time when the Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender."
+  },
+  {
+    "question": "What name is given to the members of the House of Lords?",
+    "options": [
+      "Cabinet",
+      "Cavaliers",
+      "Peers",
+      "Housesteads"
+    ],
+    "correctAnswers": [
+      "Peers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the House of Lords, known as peers, are not elected by the people and do not represent a constituency."
+  },
+  {
+    "question": "Where can you find a statue of Boudicca, the queen of the Iceni and one of the tribal leaders who fought against the Romans?",
+    "options": [
+      "At London Bridge",
+      "At Westminster Bridge",
+      "At the Tower of London",
+      "At St James’s Park"
+    ],
+    "correctAnswers": [
+      "At Westminster Bridge"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a statue of Boudicca, the queen of the Iceni, on Westminster Bridge in London, near the Houses of Parliament."
+  },
+  {
+    "question": "Which of the following castles is located in Scotland?",
+    "options": [
+      "Conwy Castle",
+      "Caernarfon Castle",
+      "Crathes Castle",
+      "Windsor Castle"
+    ],
+    "correctAnswers": [
+      "Crathes Castle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Crathes Castle and Inveraray Castle are located in Scotland."
+  },
+  {
+    "question": "For how long was Britain a republic under the leadership of Oliver Cromwell?",
+    "options": [
+      "9 years",
+      "10 years",
+      "11 years",
+      "12 years"
+    ],
+    "correctAnswers": [
+      "11 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Britain was a republic under the leadership of Oliver Cromwell for 11 years."
+  },
+  {
+    "question": "Magistrates and Justices of the Peace (JPs) are members of:",
+    "options": [
+      "The House of Commons",
+      "The Cabinet",
+      "The local community",
+      "The Parliament"
+    ],
+    "correctAnswers": [
+      "The local community"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Magistrates and Justices of the Peace (JPs) are members of the local community."
+  }
+]

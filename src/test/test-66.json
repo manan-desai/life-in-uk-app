@@ -1,0 +1,340 @@
+[
+  {
+    "question": "How many members does the Scottish Parliament have?",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "129"
+    ],
+    "correctAnswers": [
+      "129"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 129 members of the Scottish Parliament (MSPs), elected by a form of proportional representation."
+  },
+  {
+    "question": "What does the term ‘coalition’ refer to?",
+    "options": [
+      "If no political party wins a majority, up to three parties may join and govern together",
+      "The candidate who gets the most votes is elected",
+      "If no political party wins a majority, two parties may join and govern together",
+      "If an MP dies or resigns, there will be a fresh election"
+    ],
+    "correctAnswers": [
+      "If no political party wins a majority, two parties may join and govern together"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a coalition."
+  },
+  {
+    "question": "How much do you have to pay to visit the Palace of Westminster?",
+    "options": [
+      "£20",
+      "£5",
+      "£15",
+      "The entrance to the Palace of Westminster is free"
+    ],
+    "correctAnswers": [
+      "The entrance to the Palace of Westminster is free"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The entrance to the Palace of Westminster is free."
+  },
+  {
+    "question": "Civil servants cannot stand for public office:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including: members of the armed forces, civil servants, people found guilty of certain criminal offences."
+  },
+  {
+    "question": "What is the main function of the Council of Europe?",
+    "options": [
+      "Protect and promote human rights",
+      "Promote international trade relationships",
+      "Maintain international peace",
+      "Recommend action when there are international crises and threats to peace"
+    ],
+    "correctAnswers": [
+      "Protect and promote human rights"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Council of Europe has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries."
+  },
+  {
+    "question": "In which of the following areas has the Welsh government the power to make laws (choose four)?",
+    "options": [
+      "Education and training",
+      "Military defence",
+      "Economic development",
+      "Housing",
+      "Immigration",
+      "Health and social services"
+    ],
+    "correctAnswers": [
+      "Education and training",
+      "Economic development",
+      "Housing",
+      "Health and social services"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Welsh government has the power to make laws in 20 areas, including: education and training, health and social services, economic development and housing."
+  },
+  {
+    "question": "How many members comprise the UN Security Council?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "25"
+    ],
+    "correctAnswers": [
+      "15"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace."
+  },
+  {
+    "question": "Members in the Senedd can speak English and Welsh, but all publications of the Senedd must be in English:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Members in the Senedd can speak either in English or Welsh, and all of the Senedd\\'s publications are in both languages."
+  },
+  {
+    "question": "How many members does the Northern Ireland Assembly have?",
+    "options": [
+      "129",
+      "128",
+      "118",
+      "90"
+    ],
+    "correctAnswers": [
+      "90"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (Members of the Legislative Assembly). They are elected with a form of proportional representation."
+  },
+  {
+    "question": "Which of the following civil laws include disputes between landlords and tenants over issues such as repairs and eviction?",
+    "options": [
+      "Consumer law",
+      "Housing law",
+      "Debt law",
+      "Living law"
+    ],
+    "correctAnswers": [
+      "Housing law"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Housing law includes disputes between landlords and tenants over issues suck as repairs and eviction."
+  },
+  {
+    "question": "How can you visit the Scottish Parliament?",
+    "options": [
+      "Arranging a tour through the visitor services",
+      "Contacting the Education Service",
+      "Contacting an AM",
+      "Contacting an MP"
+    ],
+    "correctAnswers": [
+      "Arranging a tour through the visitor services"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To visit the Scottish Parliament, you can get information, book tickets or arrange tours through visitor services. You can also write to them at the Scottish Parliament, Edinburgh, EH99 1SP, telephone 0131 348 5200 or email sp.booking@scottish.parliament."
+  },
+  {
+    "question": "Which of the following is NOT a duty of the police?",
+    "options": [
+      "Protect life and property",
+      "Protect the environment",
+      "Prevent disturbances",
+      "Prevent and detect crimes"
+    ],
+    "correctAnswers": [
+      "Protect the environment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The job of the police in the UK is to protect life and property, prevent disturbances (also known as keeping the peace) and prevent and detect crime."
+  },
+  {
+    "question": "How often are the elections for the European Parliament held?",
+    "options": [
+      "Every year",
+      "Every two years",
+      "Every four years",
+      "Every five years"
+    ],
+    "correctAnswers": [
+      "Every five years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elections for the European Parliament are held every five years."
+  },
+  {
+    "question": "What do new citizens have to swear or affirm as part of the citizenship ceremony?",
+    "options": [
+      "They will remain in the UK",
+      "Loyalty to the King",
+      "Loyalty to the Pope",
+      "They will go to church at least once a week"
+    ],
+    "correctAnswers": [
+      "Loyalty to the King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony."
+  },
+  {
+    "question": "In which TWO cases may a person who has been summoned to do jury service be exempted from doing it:",
+    "options": [
+      "If they have a criminal conviction",
+      "If they have children",
+      "If they provide a good reason to be excused, such as ill health",
+      "If they have to go to work"
+    ],
+    "correctAnswers": [
+      "If they have a criminal conviction",
+      "If they provide a good reason to be excused, such as ill health"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Everyone who is summoned to do jury service must do it unless they are not eligible: for example, because they have a criminal conviction or if they provide a good reason to be excused, such as ill health."
+  },
+  {
+    "question": "What is the role of the shadow cabinet?",
+    "options": [
+      "To keep order during political debates to make sure the rules are followed",
+      "To challenge the government and put forward alternative policies",
+      "To point out what they see as the government’s failures and weaknesses",
+      "To control important public appointments"
+    ],
+    "correctAnswers": [
+      "To challenge the government and put forward alternative policies"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The role of the shadow cabinet is to challenge the government and put forward alternative policies."
+  },
+  {
+    "question": "If you are self-employed:",
+    "options": [
+      "You need to pay your own tax",
+      "Tax is automatically taken from your earnings by a specialised agency",
+      "You don’t need to pay tax",
+      "You only needed to pay tax on 50% of your earnings"
+    ],
+    "correctAnswers": [
+      "You need to pay your own tax"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return."
+  },
+  {
+    "question": "What name is given to the elected members of the Northern Ireland Assembly?",
+    "options": [
+      "MSPs",
+      "MLAs",
+      "MPs",
+      "AMs"
+    ],
+    "correctAnswers": [
+      "MLAs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the Northern Ireland Assembly are known as MLAs (members of the Legislative Assembly)."
+  },
+  {
+    "question": "Which senior MP is responsible for issues relating to crime, policing and immigration?",
+    "options": [
+      "The Home Secretary",
+      "The Foreign Secretary",
+      "The Chancellor of the Exchequer",
+      "The Prime Minister"
+    ],
+    "correctAnswers": [
+      "The Home Secretary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "question": "How can a person be protected from being forced into a marriage?",
+    "options": [
+      "By giving them a place to stay away from their family",
+      "Court orders can be obtained to protect a person from being forced into a marriage",
+      "By speaking to the person’s parents",
+      "There are no laws in the UK to avoid this"
+    ],
+    "correctAnswers": [
+      "Court orders can be obtained to protect a person from being forced into a marriage"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage."
+  },
+  {
+    "question": "Which of the following is NOT classified as a criminal offence in the UK?",
+    "options": [
+      "Smoking in public places",
+      "Selling or buying drugs",
+      "Carrying a weapon",
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "correctAnswers": [
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Unfair dismissal or discrimination in the workplace is classified as a civil offence."
+  },
+  {
+    "question": "Which of the following is NOT considered to be a main part of the British government?",
+    "options": [
+      "The monarchy",
+      "The European Council",
+      "The Prime Minister",
+      "The local government"
+    ],
+    "correctAnswers": [
+      "The European Council"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The European Council is not part of the British government."
+  },
+  {
+    "question": "Who appoints the members of the Cabinet?",
+    "options": [
+      "The King",
+      "The Prime Minister",
+      "The Prince of Wales",
+      "The Magistrates"
+    ],
+    "correctAnswers": [
+      "The Prime Minister"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments."
+  },
+  {
+    "question": "Which court usually deals with the MOST serious civil cases in Scotland?",
+    "options": [
+      "The Court of Session in Edinburgh",
+      "The Crown Court",
+      "The High Court",
+      "The Magistrates’ Court"
+    ],
+    "correctAnswers": [
+      "The Court of Session in Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court of England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh."
+  }
+]

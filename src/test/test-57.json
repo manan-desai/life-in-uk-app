@@ -1,0 +1,338 @@
+[
+  {
+    "question": "When does Lent take place?",
+    "options": [
+      "40 days before Christmas",
+      "40 days after Christmas",
+      "40 days before Easter",
+      "40 days after Easter"
+    ],
+    "correctAnswers": [
+      "40 days before Easter"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter."
+  },
+  {
+    "question": "Which of the following national galleries is NOT located in London?",
+    "options": [
+      "Tate Britain",
+      "The National Gallery",
+      "Tate Modern",
+      "The National Museum"
+    ],
+    "correctAnswers": [
+      "The National Museum"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Museum is located in Cardiff, Wales."
+  },
+  {
+    "question": "How much can you be fined if you watch TV but do not have a TV licence?",
+    "options": [
+      "Up to £500",
+      "Up to £1000",
+      "Up to £2000",
+      "Up to £3000"
+    ],
+    "correctAnswers": [
+      "Up to £1000"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You will receive a fine up to £1,000 if you watch TV but do not have a TV licence."
+  },
+  {
+    "question": "How old is the clock at the house of the parliament in London, also known as ‘Big Ben’?",
+    "options": [
+      "100 years old",
+      "150 years old",
+      "200 years old",
+      "250 years old"
+    ],
+    "correctAnswers": [
+      "150 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Big Ben is the nickname for the great bell of the clock at the House of Parliament in London. The clock is over 150 years old and is a popular tourist attraction."
+  },
+  {
+    "question": "Which is the oldest tennis tournament in the world?",
+    "options": [
+      "The Australian open",
+      "The U.S. Open",
+      "Roland Garros",
+      "The Wimbledon Championships"
+    ],
+    "correctAnswers": [
+      "The Wimbledon Championships"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass."
+  },
+  {
+    "question": "Where is the ‘Eden Project’ located?",
+    "options": [
+      "Cornwall",
+      "Devon",
+      "Doncaster",
+      "Dublin"
+    ],
+    "correctAnswers": [
+      "Cornwall"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Eden Project is located in Cornwall, in the south west of England."
+  },
+  {
+    "question": "Which of the following is a traditional food from Northern Ireland?",
+    "options": [
+      "Roast beef",
+      "Haggis",
+      "Sausage casserole",
+      "Ulster fry"
+    ],
+    "correctAnswers": [
+      "Ulster fry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Ulster fry – a fried meal with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread – is a traditional Northern Ireland."
+  },
+  {
+    "question": "Who is the author of the murder mystery play ‘The Mousetrap’?",
+    "options": [
+      "Tim Rice",
+      "Andrew Lloyd Webber",
+      "Dame Agatha Christie",
+      "Gilbert and Sullivan"
+    ],
+    "correctAnswers": [
+      "Dame Agatha Christie"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the west end since 1952 and has had the longest initial run of any show in history."
+  },
+  {
+    "question": "When is April Fool’s Day?",
+    "options": [
+      "1st of April",
+      "13th of April",
+      "30th of April",
+      "5th of April"
+    ],
+    "correctAnswers": [
+      "1st of April"
+    ],
+    "wrongAnswers": [],
+    "explanation": "April Fool’s Day is on the 1st of April."
+  },
+  {
+    "question": "Where is the city of Bradford located?",
+    "options": [
+      "In England",
+      "In Scotland",
+      "In Wales",
+      "In Northern Ireland"
+    ],
+    "correctAnswers": [
+      "In England"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bradford is located in England."
+  },
+  {
+    "question": "Which flag comprises a red cross on a white ground?",
+    "options": [
+      "The cross of St Andrew, patron saint of Scotland",
+      "The cross of St David, patron saint of Wales",
+      "The cross of St Patrick, patron saint of Ireland",
+      "The cross of St George, patron saint of England"
+    ],
+    "correctAnswers": [
+      "The cross of St George, patron saint of England"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cross of St George, patron saint of England, is a red cross on a white ground."
+  },
+  {
+    "question": "What is celebrated during Diwali?",
+    "options": [
+      "Jesus Christ rising from the dead",
+      "The victory of good over evil and the gaining of knowledge",
+      "The founding of the Sikh community known as the Khalsa",
+      "The beginning of the winter season"
+    ],
+    "correctAnswers": [
+      "The victory of good over evil and the gaining of knowledge"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwalli celebrates the victory of good over evil and the gaining of knowledge."
+  },
+  {
+    "question": "According to the 2011 Census, what percentage of the population identified themselves as Christian?",
+    "options": [
+      "35%",
+      "55%",
+      "70%",
+      "59%"
+    ],
+    "correctAnswers": [
+      "59%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 2011 census, 59% of people identified themselves as Christians."
+  },
+  {
+    "question": "Which golf ‘Major’ tournament is hosted by a different golf course every year?",
+    "options": [
+      "The Open Championship",
+      "The PGA Championship",
+      "The Masters Tournament",
+      "The U.S. Open"
+    ],
+    "correctAnswers": [
+      "The Open Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Open Championship is the only ‘Major’ tournament held outside United States. It is hosted by a different golf course every year."
+  },
+  {
+    "question": "Which British actor has recently won an Oscar?",
+    "options": [
+      "Hugh Grant",
+      "Sir Anthony Hopkins",
+      "Jude Law",
+      "Richard Burton"
+    ],
+    "correctAnswers": [
+      "Sir Anthony Hopkins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton."
+  },
+  {
+    "question": "What TWO names are given to the day before Lent?",
+    "options": [
+      "Pancake day",
+      "Domesday",
+      "Shrove Tuesday",
+      "Ash Wednesday"
+    ],
+    "correctAnswers": [
+      "Pancake day",
+      "Shrove Tuesday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The day before Lent starts is called Shrove Tuesday, or Pancake Day."
+  },
+  {
+    "question": "Which of the following landmarks is the largest expanse of fresh water in mainland Britain?",
+    "options": [
+      "The River Thames",
+      "Loch Lomond",
+      "Loch Ness",
+      "Lake District"
+    ],
+    "correctAnswers": [
+      "Loch Lomond"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Loch Lomond is the largest expanse of fresh water in mainland Britain and probably the best-known part of the park."
+  },
+  {
+    "question": "Who wrote the music for the popular show Jesus Christ Superstar?",
+    "options": [
+      "Andrew Lloyd Webber and Tim Rice",
+      "Gilbert and Sullivan",
+      "Hans Holbein and Sir Anthony Van Dyck",
+      "Sir Laurence Olivier"
+    ],
+    "correctAnswers": [
+      "Andrew Lloyd Webber and Tim Rice"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Andrew Lloyd Webber has written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, Jesus Christ Superstar and Evita, and also Cats and The Phantom of the Opera."
+  },
+  {
+    "question": "Pantomimes are a British tradition that many theatres produce during:",
+    "options": [
+      "Easter",
+      "Christmas",
+      "Halloween",
+      "Pancake Day"
+    ],
+    "correctAnswers": [
+      "Christmas"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many theatres produce a pantomime at Christmas time."
+  },
+  {
+    "question": "Which of the following meals is made of bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread?",
+    "options": [
+      "English breakfast",
+      "Haggis",
+      "Ulster fry",
+      "Sunday roast"
+    ],
+    "correctAnswers": [
+      "Ulster fry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Ulster fry is a fried meal from Northern Ireland with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread."
+  },
+  {
+    "question": "Which of the following is a showcase of mainly theatre and comedy performances?",
+    "options": [
+      "The Fringe",
+      "Diwali",
+      "Halloween",
+      "Lent"
+    ],
+    "correctAnswers": [
+      "The Fringe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Fringe is a showcase of mainly theatre and comedy performances."
+  },
+  {
+    "question": "Which of the following are public holidays in Scotland (choose TWO options)?",
+    "options": [
+      "24th of December",
+      "31st of December",
+      "1st of January",
+      "2nd of January"
+    ],
+    "correctAnswers": [
+      "1st of January",
+      "2nd of January"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, the 1st of January and the 2nd of January are bank holidays."
+  },
+  {
+    "question": "What name is given to the period of time when Christians take time to reflect and prepare for Easter?",
+    "options": [
+      "Halloween",
+      "Lent",
+      "Diwali",
+      "Hanukkah"
+    ],
+    "correctAnswers": [
+      "Lent"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Lent is a time when Christians take time to reflect and prepare for Easter."
+  },
+  {
+    "question": "In Wales, many people speak Gaelic – a completely different language from English – and it is taught in schools and universities:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False.﻿In Wales, many people speak Welsh – a completely different language from English – and it is taught in schools and universities."
+  }
+]

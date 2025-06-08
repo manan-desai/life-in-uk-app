@@ -1,0 +1,336 @@
+[
+  {
+    "question": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did glass manufacturers come from?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Holland",
+      "France"
+    ],
+    "correctAnswers": [
+      "Italy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Middle Ages people came to England from abroad to trade and also to work, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland."
+  },
+  {
+    "question": "Where can people facing domestic violence get help from?",
+    "options": [
+      "The NHS",
+      "The Citizens Advise Bureau",
+      "The Human Rights Commission",
+      "The RSPB"
+    ],
+    "correctAnswers": [
+      "The Citizens Advise Bureau"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People facing domestic violence can get help from a solicitor or the Citizens Advice Bureau."
+  },
+  {
+    "question": "Which American President worked closely with Margaret Thatcher?",
+    "options": [
+      "Hillary Clinton",
+      "Ronald Reagan",
+      "Jimmy Carter",
+      "George Bush"
+    ],
+    "correctAnswers": [
+      "Ronald Reagan"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher worked closely with the United States President, Ronald Reagan, and was one of the first Western leaders to recognise and welcome the changes in the leadership of the Soviet Union which eventually led to the end of the Cold War."
+  },
+  {
+    "question": "People might be taken to court if they owe money to someone.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      "St Patrick",
+      "St Columba",
+      "St Augustine",
+      "St Peter"
+    ],
+    "correctAnswers": [
+      "St Augustine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Augustine led missionaries from Rome, who spread Christianity in the south. St Augustine became the first Archbishop of Canterbury."
+  },
+  {
+    "question": "How many members does a jury have in England, Wales and Northern Ireland?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "18"
+    ],
+    "correctAnswers": [
+      "12"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members."
+  },
+  {
+    "question": "What is tested with a driving test (choose TWO options)?",
+    "options": [
+      "Your medical condition",
+      "Your knowledge",
+      "Your practical skills",
+      "Your physical condition"
+    ],
+    "correctAnswers": [
+      "Your knowledge",
+      "Your practical skills"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To get a UK driving licence you must pass a driving test, which tests both your knowledge and your practical skills."
+  },
+  {
+    "question": "What is the role of the Speaker?",
+    "options": [
+      "To keep order during political debates to make sure the rules are followed",
+      "To point out what they see as the government’s failures and weaknesses",
+      "To control important public appointments",
+      "To challenge the government and put forward alternative policies"
+    ],
+    "correctAnswers": [
+      "To keep order during political debates to make sure the rules are followed"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker keeps order during political debates to make sure the rules are followed."
+  },
+  {
+    "question": "Which of the following statements is FALSE regarding Youth Courts?",
+    "options": [
+      "The parents or carers of the young person being judged are expected to attend the hearing",
+      "Members of the public are not allowed in them",
+      "They are used for trials of young people aged 10 to 18",
+      "The name or photographs of the accused young person cannot be published in newspapers or used by the media"
+    ],
+    "correctAnswers": [
+      "They are used for trials of young people aged 10 to 18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "They are used for trials of young people aged 10 to 17."
+  },
+  {
+    "question": "Which TWO films were directed by David Lean?",
+    "options": [
+      "Brief Encounter",
+      "The 39 Steps",
+      "Lawrence of Arabia",
+      "Chariots of Fire"
+    ],
+    "correctAnswers": [
+      "Brief Encounter",
+      "Lawrence of Arabia"
+    ],
+    "wrongAnswers": [],
+    "explanation": "David Lean directed Brief Encounter (1945) and Lawrence of Arabia (1962)."
+  },
+  {
+    "question": "Which of the following venues is located in Glasgow?",
+    "options": [
+      "The O2",
+      "Wembley Stadium",
+      "The SEC Centre",
+      "Buckingham Palace"
+    ],
+    "correctAnswers": [
+      "The SEC Centre"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Exhibition and Conference Centre (SEC Centre) is located in Glasgow."
+  },
+  {
+    "question": "How many British casualties were recorded during the first day of the British attack of the Somme in July 1916 during the First World War?",
+    "options": [
+      "60,000",
+      "70,000",
+      "30,000",
+      "50,000"
+    ],
+    "correctAnswers": [
+      "60,000"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The British attack of the Somme in July 1916, resulted in about 60,000 British casualties on the first day alone."
+  },
+  {
+    "question": "The Welsh dragon on the Welsh flag does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which two countries developed the ‘Concorde’ aircraft?",
+    "options": [
+      "Germany and Italy",
+      "USA and Canada",
+      "Germany and Switzerland",
+      "France and Britain"
+    ],
+    "correctAnswers": [
+      "France and Britain"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Britain and France developed the world’s only supersonic commercial airliner, Concorde."
+  },
+  {
+    "question": "What was the population of the UK in 1801?",
+    "options": [
+      "5 million",
+      "8 million",
+      "10 million",
+      "12 million"
+    ],
+    "correctAnswers": [
+      "8 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1801 was 8 million people."
+  },
+  {
+    "question": "Where is there UK geographically located?",
+    "options": [
+      "In the north east of Europe",
+      "In the south east of Europe",
+      "In the north west of Europe",
+      "In the south west of Europe"
+    ],
+    "correctAnswers": [
+      "In the north west of Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is located in the north west of Europe."
+  },
+  {
+    "question": "What is the main function of the Council of Europe?",
+    "options": [
+      "To protect and promote human rights",
+      "To promote international trade relationships",
+      "To maintain international peace",
+      "To recommend action when there are international crises and threats to peace"
+    ],
+    "correctAnswers": [
+      "To protect and promote human rights"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Council of Europe is responsible for the protection and promotion of human rights in its member countries."
+  },
+  {
+    "question": "Sir Alfred Hitchcock was an important British film director",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Eminent directors included Sir Alexander Korda and Sir Alfred Hitchcock, who later left for Hollywood and remained an important film director until his death in 1980."
+  },
+  {
+    "question": "Which Scottish physician and researcher co-discovered the insulin used to treat diabetes?",
+    "options": [
+      "Francis Crick",
+      "Sir Robert Watson-Watt",
+      "John McLeod",
+      "John Logie Baird"
+    ],
+    "correctAnswers": [
+      "John McLeod"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish physician and researcher John Macleod was the co-discoverer of insulin, used to treat diabetes."
+  },
+  {
+    "question": "Who was voted the greatest Briton of all time in 2002?",
+    "options": [
+      "Clement Attlee",
+      "Winston Churchill",
+      "Anthony Eden",
+      "Harold Wilson"
+    ],
+    "correctAnswers": [
+      "Winston Churchill"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Winston Churchill in 2002 was voted the greatest Briton of all time by the public."
+  },
+  {
+    "question": "When is St George’s Day, patron of England?",
+    "options": [
+      "23rd of April",
+      "1st of March",
+      "17th of March",
+      "30th of November"
+    ],
+    "correctAnswers": [
+      "23rd of April"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St George’s Day, patron of England is celebrated on the 23rd of April."
+  },
+  {
+    "question": "Which TWO of the following responsibilities will you have as a permanent resident or citizen of the UK?",
+    "options": [
+      "To respect and obey the law",
+      "To go to church on Sundays",
+      "To look after the area in which you live and the environment",
+      "To do the military service"
+    ],
+    "correctAnswers": [
+      "To respect and obey the law",
+      "To look after the area in which you live and the environment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Respect and obey the law and look after the area in which you live and the environment are the correct answers."
+  },
+  {
+    "question": "Which TWO of the following social laws were liberalised during the ‘Swinging Sixties’?",
+    "options": [
+      "The law of abortion",
+      "The law of divorce",
+      "The law of immigration",
+      "The law of adoption"
+    ],
+    "correctAnswers": [
+      "The law of abortion",
+      "The law of divorce"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The law of abortion and the law of divorce were liberalised during the ‘Swinging Sixties’."
+  },
+  {
+    "question": "Who was the mother of Elizabeth I?",
+    "options": [
+      "Jane Seymour",
+      "Anne of Cleves",
+      "Catherine of Aragon",
+      "Anne Boleyn"
+    ],
+    "correctAnswers": [
+      "Anne Boleyn"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anne Boleyn and Henry VIII had one daughter, Elizabeth I."
+  }
+]

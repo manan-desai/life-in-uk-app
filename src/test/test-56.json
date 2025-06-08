@@ -1,0 +1,339 @@
+[
+  {
+    "question": "Which Scottish city is known as the home of golf?",
+    "options": [
+      "Dundee",
+      "Edinburgh",
+      "Aberdeen",
+      "St Andrews"
+    ],
+    "correctAnswers": [
+      "St Andrews"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St. Andrews in Scotland is known as the home of golf."
+  },
+  {
+    "question": "Which of the following operas was written by Gilbert and Sullivan?",
+    "options": [
+      "The Phantom of the Opera",
+      "The Mikado",
+      "The Mousetrap",
+      "Cats"
+    ],
+    "correctAnswers": [
+      "The Mikado"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 19th century, Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado."
+  },
+  {
+    "question": "Where is Loch Lomond and the Trossachs National Park located?",
+    "options": [
+      "East of Wales",
+      "West of Wales",
+      "West of Scotland",
+      "East of Scotland"
+    ],
+    "correctAnswers": [
+      "West of Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Loch Lomond and the Trossachs National Park is located in the west of Scotland."
+  },
+  {
+    "question": "By what other TWO names is the Church of England known for?",
+    "options": [
+      "The Anglican Church",
+      "The Union Church",
+      "The Greatest Church",
+      "The Episcopal Church"
+    ],
+    "correctAnswers": [
+      "The Anglican Church",
+      "The Episcopal Church"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States)."
+  },
+  {
+    "question": "Who used a system of land ownership known as feudalism?",
+    "options": [
+      "The Greek",
+      "The Vikings",
+      "The Normans",
+      "The Welsh"
+    ],
+    "correctAnswers": [
+      "The Normans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Normans used a system of land ownership known as feudalism."
+  },
+  {
+    "question": "In which city is the Welsh Assembly building, also known as Senedd, located?",
+    "options": [
+      "Edinburgh",
+      "Belfast",
+      "Cardiff Bay",
+      "Swansea"
+    ],
+    "correctAnswers": [
+      "Cardiff Bay"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Wales the elected members, known as AMs, meet in the Welsh Assembly in the Senedd in Cardiff Bay."
+  },
+  {
+    "question": "What architectural style became popular in the 19th century?",
+    "options": [
+      "Corinthian",
+      "Barroco",
+      "Medieval Gothic",
+      "Art Deco"
+    ],
+    "correctAnswers": [
+      "Medieval Gothic"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 19th century, the medieval ’gothic’ style became popular again. As cities expanded, many great public buildings were built in this style. The Houses of Parliament and St Pancras Station were built at this time, as were the town halls in cities such as Manchester and Sheffield."
+  },
+  {
+    "question": "Which of the following gardens is NOT located in England?",
+    "options": [
+      "Mount Stewart",
+      "Kew Gardens",
+      "Sissinghurst",
+      "Hidcote"
+    ],
+    "correctAnswers": [
+      "Mount Stewart"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland, Bodnant Garden in Wales, and Mount Stewart in Northern Ireland."
+  },
+  {
+    "question": "Which of the following is NOT a World Heritage Site?",
+    "options": [
+      "The London Eye",
+      "Stonehenge",
+      "The forts of Housesteads and Vindolanda",
+      "The Houses of Parliament"
+    ],
+    "correctAnswers": [
+      "The London Eye"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The London Eye is not a World Heritage Site."
+  },
+  {
+    "question": "Which famous murder-mystery play has been running in the west end since 1952 and has had the longest initial run of any show in history?",
+    "options": [
+      "The Phantom of the Opera",
+      "The Mousetrap",
+      "Evita",
+      "Jesus Christ Superstar"
+    ],
+    "correctAnswers": [
+      "The Mousetrap"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the west end since 1952 and has had the longest initial run of any show in history."
+  },
+  {
+    "question": "When was the Giant’s Causeway formed?",
+    "options": [
+      "20 million years ago",
+      "40 million years ago",
+      "50 million years ago",
+      "15 million years ago"
+    ],
+    "correctAnswers": [
+      "50 million years ago"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Giant’s Causeway was formed about 50 million years ago."
+  },
+  {
+    "question": "Who was the first person to sail single-handed around the world without stopping?",
+    "options": [
+      "Sir Francis Drake",
+      "Dame Ellen MacArthur",
+      "Sir Robin Knox-Johnston",
+      "Sir Francis Chichester"
+    ],
+    "correctAnswers": [
+      "Sir Robin Knox-Johnston"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A British sailor, Sir Francis Chichester, was the first person to sail singlehanded around the world, in 1966/67. Two years later, Sir Robin Knox-Johnston became the first person to do this without stopping."
+  },
+  {
+    "question": "Where is the National Horseracing Museum located?",
+    "options": [
+      "In Newmarket, Suffolk",
+      "In St Andrews, Scotland",
+      "In Richmond, London",
+      "In Aintree, near Liverpool"
+    ],
+    "correctAnswers": [
+      "In Newmarket, Suffolk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Horseracing Museum is located in Newmarket, Suffolk."
+  },
+  {
+    "question": "Which of the following is a popular showcase of mainly theatre and comedy performances and the biggest and most well-known festival that takes place during the Edinburgh Festival?",
+    "options": [
+      "The Proms",
+      "The Fringe",
+      "The Festival of Lights",
+      "The Aldeburgh Festival"
+    ],
+    "correctAnswers": [
+      "The Fringe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Fringe is a showcase of mainly theatre and comedy performances. It often shows experimental work.The biggest and most well-known being the Edinburgh Festival Fringe."
+  },
+  {
+    "question": "How old do you need to be to buy a lottery ticket or scratch card?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People under 18 are not allowed to participate in the National Lottery."
+  },
+  {
+    "question": "When did motor-car racing start in the UK?",
+    "options": [
+      "In 1889",
+      "In 1901",
+      "In 1902",
+      "In 1922"
+    ],
+    "correctAnswers": [
+      "In 1902"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Motor-car racing in the UK started in 1902."
+  },
+  {
+    "question": "Which one of the following gardens is located in Northern Ireland?",
+    "options": [
+      "Bodnant Garden",
+      "Mount Stewart",
+      "Sissinghurst",
+      "Hidcote"
+    ],
+    "correctAnswers": [
+      "Mount Stewart"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mount Stewart is located in Northern Ireland, Bodnant Garden in Wales and Sissinghurst and Hidcote in England."
+  },
+  {
+    "question": "When is the Mercury Music Prize awarded?",
+    "options": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "correctAnswers": [
+      "September"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Mercury Music Prize is awarded each September for the best album from the UK and Ireland."
+  },
+  {
+    "question": "What is the name of the only ‘Grand Slam’ tennis event played on grass?",
+    "options": [
+      "The Australian open",
+      "The Wimbledon Championships",
+      "The U.S. open",
+      "The Queen’s open"
+    ],
+    "correctAnswers": [
+      "The Wimbledon Championships"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Wimbledon Championships is the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass."
+  },
+  {
+    "question": "What name is given to the candelabrum lit during the eight-day holiday of Hanukkah?",
+    "options": [
+      "Menorah",
+      "Diwali",
+      "Ramadan",
+      "Baisakhi"
+    ],
+    "correctAnswers": [
+      "Menorah"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Hanukkah is in November or December and is celebrated for eight days. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "It is against the law to walk your dog on the beach",
+      "It is against the law to treat a pet cruelly or to neglect it",
+      "It is against the law to take pets into public places",
+      "It is against the law to feed your pet in public places"
+    ],
+    "correctAnswers": [
+      "It is against the law to treat a pet cruelly or to neglect it"
+    ],
+    "wrongAnswers": [],
+    "explanation": "It is against the law to treat a pet cruelly or to neglect it."
+  },
+  {
+    "question": "What charity works for the preservation of important buildings, the coastline and countryside in the UK?",
+    "options": [
+      "The National Trust",
+      "The RSPB",
+      "Shelter",
+      "Oxfam"
+    ],
+    "correctAnswers": [
+      "The National Trust"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust works for the preservation of important buildings, coastline and countryside in the UK."
+  },
+  {
+    "question": "When was the Queen’s Diamond Jubilee celebrated?",
+    "options": [
+      "2005",
+      "2010",
+      "2011",
+      "2012"
+    ],
+    "correctAnswers": [
+      "2012"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Queen’s Diamond Jubilee celebrated in 2012."
+  },
+  {
+    "question": "Which popular British sport can be traced back to the 15th century?",
+    "options": [
+      "Football",
+      "Golf",
+      "Rugby",
+      "Tennis"
+    ],
+    "correctAnswers": [
+      "Golf"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The modern game of golf can be traced back to 15th century Scotland."
+  }
+]

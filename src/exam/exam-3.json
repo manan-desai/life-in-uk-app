@@ -1,0 +1,334 @@
+[
+  {
+    "question": "Which of the following is a fundamental principle of British life?",
+    "options": [
+      "Communism",
+      "Intolerance",
+      "Individual liberty",
+      "Inequity"
+    ],
+    "correctAnswers": [
+      "Individual liberty"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Individual liberty is the correct answer."
+  },
+  {
+    "question": "Wales has its own established church.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. There is no established Church in Wales or Northern Ireland."
+  },
+  {
+    "question": "How is New Year’s Eve called in Scotland?",
+    "options": [
+      "Vaisakhi",
+      "Hannukah",
+      "Diwali",
+      "Hogmanay"
+    ],
+    "correctAnswers": [
+      "Hogmanay"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, the 31st of December (New Year’s Eve) is called Hogmanay."
+  },
+  {
+    "question": "Why did Henry VIII establish the church of England?",
+    "options": [
+      "Because the Pope didn’t let him divorce his first wife, Catherine of Aragon",
+      "Because the Pope didn’t let him marry Catherine Howard",
+      "Because the Pope wanted England to be a Catholic country",
+      "Because the Pope didn’t let him divorce his wife, Anne of Cleves"
+    ],
+    "correctAnswers": [
+      "Because the Pope didn’t let him divorce his first wife, Catherine of Aragon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the church of England."
+  },
+  {
+    "question": "What is the name of the long war that English kings fought with France in the middle ages?",
+    "options": [
+      "The Crimean War",
+      "The First World War",
+      "The Hundred Years War",
+      "The Boer War"
+    ],
+    "correctAnswers": [
+      "The Hundred Years War"
+    ],
+    "wrongAnswers": [],
+    "explanation": "English kings fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years)."
+  },
+  {
+    "question": "Who was supported by clansmen from the Scottish highlands and raised and army in 1745?",
+    "options": [
+      "Bonnie Prince Charlie",
+      "Robert Burns",
+      "Oliver Cromwell",
+      "Kenneth MacAlpin"
+    ],
+    "correctAnswers": [
+      "Bonnie Prince Charlie"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1745 there was another attempt to put a Stuart king back on the throne in place of George I’s son, George II. Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised and army."
+  },
+  {
+    "question": "If you think someone is trying to persuade you to join an extremist or terrorist activity, who should you contact?",
+    "options": [
+      "The Home Office",
+      "Your local police force",
+      "Your local MP",
+      "Your family"
+    ],
+    "correctAnswers": [
+      "Your local police force"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local police force."
+  },
+  {
+    "question": "It is compulsory for 16 and 17-year-olds to join the National Citizen Service programme.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project. Therefore, it is optional."
+  },
+  {
+    "question": "What is the name of the tour guides that tell visitors stories about the Tower of London’s history?",
+    "options": [
+      "Knights",
+      "Chartists",
+      "Suffragettes",
+      "Beefeaters"
+    ],
+    "correctAnswers": [
+      "Beefeaters"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Tours are given at the Tower of London by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building’s history."
+  },
+  {
+    "question": "Which two countries developed the Concorde, the world’s only supersonic commercial airliner?",
+    "options": [
+      "Italy",
+      "Britain",
+      "Germany",
+      "France"
+    ],
+    "correctAnswers": [
+      "Britain",
+      "France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Britain and France developed the world’s only supersonic commercial airliner, Concorde."
+  },
+  {
+    "question": "Where is Snowdonia located?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "England",
+      "Northern Ireland"
+    ],
+    "correctAnswers": [
+      "Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Snowdonia is in Wales."
+  },
+  {
+    "question": "Who wrote Sherlock Holmes?",
+    "options": [
+      "Evelyn Waugh",
+      "Sir Kingsley Amis",
+      "Graham Greene",
+      "Sir Arthur Conan Doyle"
+    ],
+    "correctAnswers": [
+      "Sir Arthur Conan Doyle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Arthur Conan Doyle is the author of Sherlock Holmes."
+  },
+  {
+    "question": "Which country was invaded by Germany in 1939?",
+    "options": [
+      "Austria",
+      "Italy",
+      "Russia",
+      "Poland"
+    ],
+    "correctAnswers": [
+      "Poland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Germany invaded Poland in 1939."
+  },
+  {
+    "question": "Who is the patron Saint of Wales?",
+    "options": [
+      "St David",
+      "St George",
+      "St Patrick",
+      "St Andrew"
+    ],
+    "correctAnswers": [
+      "St David"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The patron Saint of Wales is St David."
+  },
+  {
+    "question": "Lake District is the largest national park of England.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "What is the name of the area in London where famous theatres are located?",
+    "options": [
+      "Soho",
+      "Theatreland",
+      "Westminster",
+      "Hyde Park"
+    ],
+    "correctAnswers": [
+      "Theatreland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "London’s west end, also known as ‘Theatreland’, is particularly well known for its theatres."
+  },
+  {
+    "question": "Which two of the following are key roles of school governors?",
+    "options": [
+      "Monitoring student’s behaviour",
+      "Monitoring and evaluating school performance",
+      "Setting the strategic direction of the school",
+      "Giving awards to the best students of the school"
+    ],
+    "correctAnswers": [
+      "Monitoring and evaluating school performance",
+      "Setting the strategic direction of the school"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Governors and school boards have an important part to play in raising school standards. They have three key roles: setting the strategic direction of the school, ensuring accountability and monitoring and evaluating school performance."
+  },
+  {
+    "question": "What led the American colonies to want their independence from Britain?",
+    "options": [
+      "The British government wanted to control their borders",
+      "They were running out of resources",
+      "The British government wanted to tax them",
+      "There were not enough jobs for the local people"
+    ],
+    "correctAnswers": [
+      "The British government wanted to tax them"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The British government wanted to tax the colonies."
+  },
+  {
+    "question": "When did the Black Death take place?",
+    "options": [
+      "The Golden Age",
+      "The Stone Age",
+      "The Middle Ages",
+      "The Iron Age"
+    ],
+    "correctAnswers": [
+      "The Middle Ages"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1348 (Middle Ages) the Black Death came to Britain."
+  },
+  {
+    "question": "Who was the leader of the suffragettes, the group that campaigned for women’s rights to vote?",
+    "options": [
+      "Queen Victoria",
+      "Oliver Cromwell",
+      "Florence Nightingale",
+      "Emmeline Pankhurst"
+    ],
+    "correctAnswers": [
+      "Emmeline Pankhurst"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Emmeline Pankhurst was the leader of the suffragettes."
+  },
+  {
+    "question": "Cardiff is the capital city of which country?",
+    "options": [
+      "Scotland",
+      "Northern Ireland",
+      "Ireland",
+      "Wales"
+    ],
+    "correctAnswers": [
+      "Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The capital city of Wales is Cardiff."
+  },
+  {
+    "question": "During the Great Depression in the 1930s which industry was badly affected?",
+    "options": [
+      "Housing construction",
+      "Shipbuilding",
+      "Automobile",
+      "Aviation"
+    ],
+    "correctAnswers": [
+      "Shipbuilding"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the ‘Great Depression’ in the 1930s the traditional heavy industries such as shipbuilding were badly affected."
+  },
+  {
+    "question": "Who was the first man in the world to run 1 mile in under 4 minutes?",
+    "options": [
+      "Sir Chris Hoy",
+      "Sir Roger Bannister",
+      "David Weir",
+      "Mo Farah"
+    ],
+    "correctAnswers": [
+      "Sir Roger Bannister"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Roger Bannister was the first man in the world to run a mile in under four minutes, in 1954."
+  },
+  {
+    "question": "Which festival celebrates the end of Ramadan, when Muslims have fasted for a month?",
+    "options": [
+      "Hannukah",
+      "Vaisakhi",
+      "Eid ul Adha",
+      "Eid al-Fitr"
+    ],
+    "correctAnswers": [
+      "Eid al-Fitr"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+  }
+]

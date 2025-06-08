@@ -1,0 +1,333 @@
+[
+  {
+    "question": "How old do you need to be to buy a lottery ticket or scratch card?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People under 18 are not allowed to participate in the National Lottery."
+  },
+  {
+    "question": "Where was Catherine of Aragon (the first wife of Henry VIII) from?",
+    "options": [
+      "Spain",
+      "Germany",
+      "England",
+      "French"
+    ],
+    "correctAnswers": [
+      "Spain"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Catherine of Aragon was a Spanish princess."
+  },
+  {
+    "question": "When did motor-car racing start in the UK?",
+    "options": [
+      "In 1889",
+      "In 1901",
+      "In 1902",
+      "In 1922"
+    ],
+    "correctAnswers": [
+      "In 1902"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Motor-car racing in the UK started in 1902."
+  },
+  {
+    "question": "The Commonwealth is based on the core values of democracy, good government and the rule of law:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Commonwealth is based on the core values of democracy, good government and the rule of law."
+  },
+  {
+    "question": "How long does it take to donate blood?",
+    "options": [
+      "About half an hour",
+      "About an hour",
+      "About two hours",
+      "About 15 minutes"
+    ],
+    "correctAnswers": [
+      "About an hour"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Giving blood only takes about an hour to do."
+  },
+  {
+    "question": "When did the post-war economic boom come to an end?",
+    "options": [
+      "In the early 1970s",
+      "In the late 1970s",
+      "In the early 1960s",
+      "In the late 1960s"
+    ],
+    "correctAnswers": [
+      "In the late 1970s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the late 1970s, the post-war economic boom came to an end."
+  },
+  {
+    "question": "During its government, Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers."
+  },
+  {
+    "question": "Who sat at the House of Commons during the Middle Ages?",
+    "options": [
+      "Knights and wealthy people from towns and cities",
+      "Farmers and blacksmiths",
+      "Great landowners and bishops",
+      "Everyone could sit at the House of Commons"
+    ],
+    "correctAnswers": [
+      "Knights and wealthy people from towns and cities"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the Middle Ages, Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons."
+  },
+  {
+    "question": "Which of the following words come from the Anglo-Saxon language?",
+    "options": [
+      "Apple and summer",
+      "Music and dance",
+      "Grimsby and scunthorpe",
+      "Canute and boat"
+    ],
+    "correctAnswers": [
+      "Apple and summer"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The words ‘Apple’ and ‘summer’ are based on Anglo-Saxon words."
+  },
+  {
+    "question": "Where do local authorities get funding from (choose TWO answers)?",
+    "options": [
+      "The King",
+      "The central government",
+      "Donations made by local residents",
+      "Local taxes"
+    ],
+    "correctAnswers": [
+      "The central government",
+      "Local taxes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Local authorities provide a range of services in their areas. They are funded by money from central government and by local taxes."
+  },
+  {
+    "question": "If you are self-employed:",
+    "options": [
+      "You need to pay your own tax",
+      "Tax is automatically taken from your earnings by a specialised agency",
+      "You don’t need to pay tax",
+      "You only needed to pay tax on 50% of your earnings"
+    ],
+    "correctAnswers": [
+      "You need to pay your own tax"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return."
+  },
+  {
+    "question": "What name is given to the elected members of the Northern Ireland Assembly?",
+    "options": [
+      "MSPs",
+      "MLAs",
+      "MPs",
+      "SMs"
+    ],
+    "correctAnswers": [
+      "MLAs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the Northern Ireland Assembly are known as MLAs (members of the Legislative Assembly)."
+  },
+  {
+    "question": "How long does the Hanukkah celebration last for?",
+    "options": [
+      "Eight days",
+      "40 days",
+      "Five days",
+      "A fortnight"
+    ],
+    "correctAnswers": [
+      "Eight days"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Hanukkah is in November or December and is celebrated for eight days."
+  },
+  {
+    "question": "Which of the following areas did the British Empire NOT cover during the Victorian period?",
+    "options": [
+      "Mexico",
+      "Australia",
+      "India",
+      "Large parts of Africa"
+    ],
+    "correctAnswers": [
+      "Mexico"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa."
+  },
+  {
+    "question": "What percentage of the total British population is located in Wales?",
+    "options": [
+      "30%",
+      "5%",
+      "8%",
+      "3%"
+    ],
+    "correctAnswers": [
+      "5%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The total British population located in Wales is around 5%."
+  },
+  {
+    "question": "Which senior MP is responsible for issues relating to crime, policing and immigration?",
+    "options": [
+      "The Home Secretary",
+      "The Foreign Secretary",
+      "The Chancellor of the Exchequer",
+      "The Prime Minister"
+    ],
+    "correctAnswers": [
+      "The Home Secretary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Home Secretary is responsible for crime, policing and immigration."
+  },
+  {
+    "question": "Which British scientist led the development of the atomic bomb?",
+    "options": [
+      "Howard Florey",
+      "Ernst Chain",
+      "Ernest Rutherford",
+      "Keith Campbell"
+    ],
+    "correctAnswers": [
+      "Ernest Rutherford"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb."
+  },
+  {
+    "question": "Which of the following movies played an important role in boosting morale during the Second World War?",
+    "options": [
+      "The Ladykillers",
+      "Carry on",
+      "Passport to Pimlico",
+      "In Which We Serve"
+    ],
+    "correctAnswers": [
+      "In Which We Serve"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Second World War, British movies (for example, In Which We Serve) played an important part in boosting morale."
+  },
+  {
+    "question": "After the Black Death, the growing wealth in the towns led to the development of a strong middle class:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "After the Black Death, new social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class."
+  },
+  {
+    "question": "What was the ability of the Harrier jump jet aircraft?",
+    "options": [
+      "To carry 1,000 passengers",
+      "To take off vertically",
+      "To float on water",
+      "To reach supersonic speeds"
+    ],
+    "correctAnswers": [
+      "To take off vertically"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Harrier jump jet, an aircraft capable of taking off vertically, was also designed and developed in the UK."
+  },
+  {
+    "question": "Who won the 2012 Olympic gold medal in heptathlon?",
+    "options": [
+      "Ellie Simmonds",
+      "Jessica Ennis",
+      "Dame Kelly Holmes",
+      "Jayne Torvill"
+    ],
+    "correctAnswers": [
+      "Jessica Ennis"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Jessica Ennis (1986-) won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records."
+  },
+  {
+    "question": "What is the name of the annual cultural Welsh festival which includes music, dance, art and original performances largely in Welsh?",
+    "options": [
+      "The Arts Festival of Wales",
+      "The National Eisteddfod of Wales",
+      "The Music Festival of Wales",
+      "The National Performance Festival of Wales"
+    ],
+    "correctAnswers": [
+      "The National Eisteddfod of Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Eisteddfod of Wales is an annual cultural festival which includes music, dance, art and original performances largely in Welsh. It includes a number of important competitions for Welsh poetry."
+  },
+  {
+    "question": "What is the most well-known rugby league (club) competition?",
+    "options": [
+      "The Grand National",
+      "The All England championship",
+      "The Six Nations championship",
+      "The Super League"
+    ],
+    "correctAnswers": [
+      "The Super League"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Super League is the most well-known rugby league (club) competition."
+  },
+  {
+    "question": "Where do the Laurence Olivier Awards take place?",
+    "options": [
+      "In London",
+      "In Manchester",
+      "In Liverpool",
+      "In Edinburgh"
+    ],
+    "correctAnswers": [
+      "In London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Laurence Olivier Awards take place annually at different venues in London."
+  }
+]

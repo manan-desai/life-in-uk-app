@@ -1,0 +1,334 @@
+[
+  {
+    "question": "How many times have the Olympic Games been hosted in the UK?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctAnswers": [
+      "Three"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK has hosted the Olympic games on three occasions: 1908, 1948 and 2012."
+  },
+  {
+    "question": "When were films first shown publicly in the UK?",
+    "options": [
+      "In 1887",
+      "In 1896",
+      "In 1897",
+      "In 1886"
+    ],
+    "correctAnswers": [
+      "In 1896"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Films were first shown publicly in the UK in 1896 and film screenings very quickly became popular. From the beginning, British film makers became famous for clever special effects and this continues to be an area of British expertise."
+  },
+  {
+    "question": "How long does Diwali last for?",
+    "options": [
+      "A weekend",
+      "40 days",
+      "Five days",
+      "A week"
+    ],
+    "correctAnswers": [
+      "Five days"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali normally falls in October or November and lasts for five days."
+  },
+  {
+    "question": "What was the population of the UK in 2005?",
+    "options": [
+      "Just under 50 million",
+      "Just under 60 million",
+      "Just over 50 million",
+      "Just under 62 million"
+    ],
+    "correctAnswers": [
+      "Just under 60 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 2005 was just under 60 million."
+  },
+  {
+    "question": "What game do usually people play at Halloween?",
+    "options": [
+      "Chess",
+      "Trick or treat",
+      "Hide and seek",
+      "Netball"
+    ],
+    "correctAnswers": [
+      "Trick or treat"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During Halloween young people will often dress up in frightening costumes to play ‘trick or treat’."
+  },
+  {
+    "question": "What is the most well-known gallery in Wales?",
+    "options": [
+      "Tate Britain",
+      "The National Museum",
+      "The National Gallery",
+      "Tate Modern"
+    ],
+    "correctAnswers": [
+      "The National Museum"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, some of the most well-known galleries are The National Gallery, Tate Britain and Tate Modern in London, the National Museum in Cardiff, and the National Gallery of Scotland in Edinburgh."
+  },
+  {
+    "question": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from:",
+    "options": [
+      "The Commonwealth, Ireland or Zimbabwe",
+      "The European Union, Zambia or Zimbabwe",
+      "The Commonwealth, the USA or Australia",
+      "The European Union, Canada or Australia"
+    ],
+    "correctAnswers": [
+      "The Commonwealth, Ireland or Zimbabwe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Man Booker Prize for Fiction is awarded annually for the best fiction novel written by an author from the Commonwealth, Ireland or Zimbabwe. It has been awarded since 1968."
+  },
+  {
+    "question": "Which of the following statements regarding Gaelic language is TRUE?",
+    "options": [
+      "In Wales, Gaelic is spoken in some parts of the coast",
+      "In Scotland, Gaelic is spoken everywhere",
+      "In Scotland, Gaelic is spoken in some parts of the Highlands and Islands",
+      "In Wales, Gaelic is the main language"
+    ],
+    "correctAnswers": [
+      "In Scotland, Gaelic is spoken in some parts of the Highlands and Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, Gaelic (again, a different language) is spoken in some parts of the Highlands and Islands, and in Northern Ireland some people speak Irish Gaelic."
+  },
+  {
+    "question": "Where was the main Olympic site for the 2012 Games?",
+    "options": [
+      "Stratford",
+      "Bristol",
+      "Wimbledon",
+      "Watford"
+    ],
+    "correctAnswers": [
+      "Stratford"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The main Olympic site for the 2012 Games was in Stratford, East London."
+  },
+  {
+    "question": "Who can get a 50% discount on their TV licences?",
+    "options": [
+      "Blind people",
+      "People over 65",
+      "People over 75",
+      "People on benefits"
+    ],
+    "correctAnswers": [
+      "Blind people"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount."
+  },
+  {
+    "question": "Which British city is famous for its celebration of Diwali?",
+    "options": [
+      "London",
+      "Newcastle upon Tyne",
+      "Leicester",
+      "Manchester"
+    ],
+    "correctAnswers": [
+      "Leicester"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a famous celebration of Diwali in Leicester."
+  },
+  {
+    "question": "Which of the following British actresses has NOT won an Oscar?",
+    "options": [
+      "Tilda Swinton",
+      "Dame Judi Dench",
+      "Emily Watson",
+      "Kate Winslet"
+    ],
+    "correctAnswers": [
+      "Emily Watson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton. Emily Watson has not won an oscar."
+  },
+  {
+    "question": "Which of the following sports has a long association with royalty?",
+    "options": [
+      "Rugby",
+      "Horse racing",
+      "Formula 1",
+      "Sailing"
+    ],
+    "correctAnswers": [
+      "Horse racing"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Horse racing has a long association with royalty."
+  },
+  {
+    "question": "Hanukkah is a Jewish festival created to remember the Jews’ struggle for religious freedom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews’ struggle for religious freedom."
+  },
+  {
+    "question": "What is the capital city of the UK?",
+    "options": [
+      "Manchester",
+      "Liverpool",
+      "London",
+      "Cambridge"
+    ],
+    "correctAnswers": [
+      "London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The capital city of the UK is London."
+  },
+  {
+    "question": "What is Hogmanay?",
+    "options": [
+      "The equivalent of Christmas Day in Scotland",
+      "The equivalent of New Year’s Eve in Scotland",
+      "The equivalent of Christmas Day in Wales",
+      "The equivalent of New Year’s Eve in Wales"
+    ],
+    "correctAnswers": [
+      "The equivalent of New Year’s Eve in Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, 31 December is called Hogmanay."
+  },
+  {
+    "question": "On Remembrance Day, there is a two-minute silence at 11 AM to commemorate those who died fighting during the First World War?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. On Remembrance Day at 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London."
+  },
+  {
+    "question": "What is the distance between the north coast of Scotland and the south-west corner of England?",
+    "options": [
+      "470 miles",
+      "490 miles",
+      "840 miles",
+      "870 miles"
+    ],
+    "correctAnswers": [
+      "870 miles"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, the longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres)."
+  },
+  {
+    "question": "How many volunteers work for the National Trust?",
+    "options": [
+      "More than 71,000",
+      "More than 81,000",
+      "More than 61,000",
+      "More than 91,000"
+    ],
+    "correctAnswers": [
+      "More than 61,000"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are now more than 61,000 volunteers helping to keep the National Trust running."
+  },
+  {
+    "question": "What was the population of the UK in 1851?",
+    "options": [
+      "20 million",
+      "40 million",
+      "30 million",
+      "50 million"
+    ],
+    "correctAnswers": [
+      "20 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1851 was 20 million people."
+  },
+  {
+    "question": "Which British playwright had a great influence on the English language and invented many words that are still common today?",
+    "options": [
+      "William Shakespeare",
+      "Graham Greene",
+      "Dylan Thomas",
+      "Harold Pinter"
+    ],
+    "correctAnswers": [
+      "William Shakespeare"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Shakespeare had a great influence on the English language and invented many words that are still common today."
+  },
+  {
+    "question": "What do Lewis Hamilton, Jenson Button and Damon Hill have in common?",
+    "options": [
+      "They are football players",
+      "They have won the Formula 1 World Championship",
+      "They won gold Olympic medals",
+      "They have won the Six Nations Championship"
+    ],
+    "correctAnswers": [
+      "They have won the Formula 1 World Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Lewis Hamilton, Jenson Button and Damon Hill have won the Formula 1 World Championship."
+  },
+  {
+    "question": "According to the 2011 census, what percentage of people said that they had no religion?",
+    "options": [
+      "10%",
+      "11%",
+      "20%",
+      "25%"
+    ],
+    "correctAnswers": [
+      "25%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 2011 census, 25% of people said they had no religion."
+  },
+  {
+    "question": "What other name is given to Diwali, the religious celebration that celebrates the victory of good over evil and the gaining of knowledge?",
+    "options": [
+      "The Festival of Lights",
+      "Hanukkah",
+      "The Festival of the Lanterns",
+      "The Festival of the Candles"
+    ],
+    "correctAnswers": [
+      "The Festival of Lights"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights."
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "question": "What TWO films were directed by David Lean?",
+    "options": [
+      "Brief Encounter",
+      "The 39 Steps",
+      "Lawrence of Arabia",
+      "Chariots of Fire"
+    ],
+    "correctAnswers": [
+      "Brief Encounter",
+      "Lawrence of Arabia"
+    ],
+    "wrongAnswers": [],
+    "explanation": "David Lean directed Brief Encounter in 1945 and Lawrence of Arabia in 1962."
+  },
+  {
+    "question": "Which religious community celebrates Vaisakhi?",
+    "options": [
+      "Muslim",
+      "Hindu",
+      "Sikh",
+      "Jewish"
+    ],
+    "correctAnswers": [
+      "Sikh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa."
+  },
+  {
+    "question": "Which book written by JRR Tolkien was voted the country’s best-loved novel in 2003?",
+    "options": [
+      "Harry Potter",
+      "The Lord of the Rings",
+      "Sense and Sensibility",
+      "Pride and Prejudice"
+    ],
+    "correctAnswers": [
+      "The Lord of the Rings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel."
+  },
+  {
+    "question": "Which Anglo-Saxon poem is about a hero’s battle against monsters and has been translated into modern English?",
+    "options": [
+      "Beowulf",
+      "Paradise Lost",
+      "Canterbury Tales",
+      "Braveheart"
+    ],
+    "correctAnswers": [
+      "Beowulf"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Anglo-Saxon poem Beowulf tells of its hero’s battles against monsters and is still translated into modern English."
+  },
+  {
+    "question": "Which of the following movies was directed by Alfred Hitchcock in 1935?",
+    "options": [
+      "Don’t Look Now",
+      "Touching the Void",
+      "The Third Man",
+      "The 39 Steps"
+    ],
+    "correctAnswers": [
+      "The 39 Steps"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The 39 Steps (1935) was directed by Alfred Hitchcock."
+  },
+  {
+    "question": "What is the note with the highest value in the UK?",
+    "options": [
+      "£20",
+      "£50",
+      "£100",
+      "£500"
+    ],
+    "correctAnswers": [
+      "£50"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The note with the highest value in the UK is the £50 note."
+  },
+  {
+    "question": "Which is the most famous tennis tournament hosted in Britain and which takes place each year at the All England Lawn Tennis and Croquet Club?",
+    "options": [
+      "Roland Garros",
+      "The Wimbledon Championships",
+      "The British open",
+      "The Queen’s open"
+    ],
+    "correctAnswers": [
+      "The Wimbledon Championships"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club."
+  },
+  {
+    "question": "What name is given to the clock tower at the Houses of Parliament in honour of Queen Elizabeth II’s Diamond Jubilee in 2012?",
+    "options": [
+      "Big Ben",
+      "Big Clock",
+      "Elizabeth Tower",
+      "Clock Tower"
+    ],
+    "correctAnswers": [
+      "Elizabeth Tower"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The clock tower at the Houses of Parliament in London is named ‘Elizabeth Tower’ in honour of Queen Elizabeth II’s Diamond Jubilee in 2012."
+  },
+  {
+    "question": "Which British actor has recently won an Oscar?",
+    "options": [
+      "Daniel Day Lewis",
+      "Sir Anthony Hopkins",
+      "Jude Law",
+      "Richard Burton"
+    ],
+    "correctAnswers": [
+      "Sir Anthony Hopkins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton."
+  },
+  {
+    "question": "What TWO names are given to the day before Lent?",
+    "options": [
+      "Pancake day",
+      "Domesday",
+      "Shrove Tuesday",
+      "Ash Wednesday"
+    ],
+    "correctAnswers": [
+      "Pancake day",
+      "Shrove Tuesday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The day before Lent starts is called Shrove Tuesday, or Pancake Day."
+  },
+  {
+    "question": "Which of the following landmarks is the largest expanse of fresh water in mainland Britain?",
+    "options": [
+      "The River Thames",
+      "Loch Lomond",
+      "Loch Ness",
+      "Lake District"
+    ],
+    "correctAnswers": [
+      "Loch Lomond"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Loch Lomond is the largest expanse of fresh water in mainland Britain and probably the best-known part of the park."
+  },
+  {
+    "question": "Who wrote the music for the popular show Jesus Christ Superstar?",
+    "options": [
+      "Andrew Lloyd Webber",
+      "Gilbert and Sullivan",
+      "Hans Holbein and Sir Anthony Van Dyck",
+      "Sir Laurence Olivier"
+    ],
+    "correctAnswers": [
+      "Andrew Lloyd Webber"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Andrew Lloyd Webber has written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, Jesus Christ Superstar and Evita, and also Cats and The Phantom of the Opera."
+  },
+  {
+    "question": "Pantomimes are a British tradition that many theatres produce during:",
+    "options": [
+      "Easter",
+      "Christmas",
+      "Halloween",
+      "Pancake Day"
+    ],
+    "correctAnswers": [
+      "Christmas"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many theatres produce a pantomime at Christmas time."
+  },
+  {
+    "question": "What is the minimum age requirement to buy alcohol in a pub or night club in the UK?",
+    "options": [
+      "16 years old",
+      "18 years old",
+      "20 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "18 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To buy alcohol in a pub or night club you must be 18 or over, but people under that age may be allowed in some pubs with an adult. When they are 16, people can drink wine or beer with a meal in a hotel or restaurant (including eating areas in pubs) as long as they are with someone over 18."
+  },
+  {
+    "question": "What is the coin with the highest value in the UK?",
+    "options": [
+      "50p",
+      "£2",
+      "£5",
+      "£10"
+    ],
+    "correctAnswers": [
+      "£2"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The coin with the highest value in the UK is worth £2."
+  },
+  {
+    "question": "Which TWO of the following are famous horse racing events in the UK?",
+    "options": [
+      "The Major Race",
+      "The Grand National",
+      "Royal Ascot",
+      "Six Nations Championship"
+    ],
+    "correctAnswers": [
+      "The Grand National",
+      "Royal Ascot"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Grand National and Royal Ascot are famous horse racing events that take place in the UK."
+  },
+  {
+    "question": "Who wrote an oratorio called ‘Messiah’, which is regularly sung by choirs at Easter time?",
+    "options": [
+      "George Frederick Handel",
+      "Sir Edward Elgar",
+      "Gustav Holst",
+      "Henry Purcell"
+    ],
+    "correctAnswers": [
+      "George Frederick Handel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "George Frederick Handel wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time."
+  },
+  {
+    "question": "Which of the following is England’s largest national park?",
+    "options": [
+      "The Lake District",
+      "Snowdonia",
+      "South Downs",
+      "Loch Lomond and the Trossachs"
+    ],
+    "correctAnswers": [
+      "The Lake District"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Lake District is England’s largest national park, covering 912 square miles (2,362 square kilometres)."
+  },
+  {
+    "question": "Which of the following is a traditional English food?",
+    "options": [
+      "French fries",
+      "Roast beef",
+      "Haggis",
+      "Ulster fry"
+    ],
+    "correctAnswers": [
+      "Roast beef"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Roast beef is a traditional English food, which is served with potatoes, vegetables, Yorkshire puddings (batter that is baked in the oven) and other accompaniments."
+  },
+  {
+    "question": "What are pantomimes based on?",
+    "options": [
+      "Fairy stories",
+      "Drama stories",
+      "Traditional stories",
+      "War stories"
+    ],
+    "correctAnswers": [
+      "Fairy stories"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Pantomimes are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences."
+  },
+  {
+    "question": "Who was the first person to sail single-handed around the world in 1966/67?",
+    "options": [
+      "Sir Robin Knox-Johnston",
+      "Sir Francis Chichester",
+      "Sir Francis Drake",
+      "Dame Ellen MacArthur"
+    ],
+    "correctAnswers": [
+      "Sir Francis Chichester"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A British sailor, Sir Francis Chichester, was the first person to sail singlehanded around the world, in 1966/67."
+  },
+  {
+    "question": "Who led the group of Catholics who tried to kill the Protestant king with a bomb in the Houses of the Parliament in 1605?",
+    "options": [
+      "Oliver Cromwell",
+      "Alexander II",
+      "Guy Fawkes",
+      "Adrian IV"
+    ],
+    "correctAnswers": [
+      "Guy Fawkes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1605, a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament. This is the origin of the Bonfire Night celebration on the 5th November, when people in Great Britain set off fireworks at home or in special displays."
+  },
+  {
+    "question": "The UK continues to be a world leader in the development and manufacture of motor-sport technology:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. There is a long history of motor sport in the UK, for both cars and motor cycles. Motor-car racing in the UK started in 1902. The UK continues to be a world leader in the development and manufacture of motor-sport technology."
+  },
+  {
+    "question": "Where is the Scottish Exhibition and Conference Centre (SEC Centre) located?",
+    "options": [
+      "Aberdeen",
+      "Glasgow",
+      "Edinburgh",
+      "Dundee"
+    ],
+    "correctAnswers": [
+      "Glasgow"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Exhibition and Conference Centre (SEC Centre) is in Glasgow."
+  }
+]

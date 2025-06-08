@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Where was William Shakespeare born?",
+    "options": [
+      "London",
+      "Liverpool",
+      "Stratford upon Avon",
+      "Newcastle upon Tyne"
+    ],
+    "correctAnswers": [
+      "Stratford upon Avon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Shakespeare was born in Stratford-upon-Avon."
+  },
+  {
+    "question": "Which TWO islands are closely linked to the UK but are not part of it?",
+    "options": [
+      "The Isle of Man",
+      "Malta",
+      "The Channel Islands",
+      "Fiji"
+    ],
+    "correctAnswers": [
+      "The Isle of Man",
+      "The Channel Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Channel Islands and the Isle of Man are closely linked to the UK but are not part of it."
+  },
+  {
+    "question": "Who gave Henry VIII the son he wanted, Edward?",
+    "options": [
+      "Jane Seymour",
+      "Catherine of Aragon",
+      "Anne of Cleves",
+      "Catherine Parr"
+    ],
+    "correctAnswers": [
+      "Jane Seymour"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Jane Seymour gave Henry VIII the son he wanted, Edward."
+  },
+  {
+    "question": "The Middle Ages or medieval times relate to the time that goes from the period after the Norman Conquest until the year:",
+    "options": [
+      "1385",
+      "1485",
+      "1495",
+      "1595"
+    ],
+    "correctAnswers": [
+      "1485"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The period after the Norman Conquest up until about 1485 is called the Middle Ages (or the medieval period)."
+  },
+  {
+    "question": "Who is the heir to the throne of the UK?",
+    "options": [
+      "Prince William",
+      "Prince Harry",
+      "Prince James",
+      "Prince Philip"
+    ],
+    "correctAnswers": [
+      "Prince William"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King’s eldest son, Prince William (the Prince of Wales), is the heir to the throne."
+  },
+  {
+    "question": "Which flower is associated with Wales?",
+    "options": [
+      "Daffodil",
+      "Rose",
+      "Shamrock",
+      "Thistle"
+    ],
+    "correctAnswers": [
+      "Daffodil"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The daffodil is the flower associated with Wales."
+  },
+  {
+    "question": "What was the nickname given to the Scottish poet Robert Burns?",
+    "options": [
+      "The Great",
+      "The Bard",
+      "The Lover",
+      "The Scottish"
+    ],
+    "correctAnswers": [
+      "The Bard"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Robert Burns, a Scottish poet, was Known in Scotland as ‘The Bard’."
+  },
+  {
+    "question": "When was Ireland divided into two countries?",
+    "options": [
+      "In 1920",
+      "In 1922",
+      "In 1925",
+      "In 1928"
+    ],
+    "correctAnswers": [
+      "In 1922"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries."
+  },
+  {
+    "question": "Which of the following is NOT a city of the UK?",
+    "options": [
+      "Belfast",
+      "Newport",
+      "Dublin",
+      "Dundee"
+    ],
+    "correctAnswers": [
+      "Dublin"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dublin is not a city of the UK."
+  },
+  {
+    "question": "When is Bonfire Night celebrated?",
+    "options": [
+      "5th of September",
+      "5th of November",
+      "15th of September",
+      "15th of November"
+    ],
+    "correctAnswers": [
+      "5th of November"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bonfire Night is celebrated on the 5th of November."
+  },
+  {
+    "question": "What is the name of the event that refers to the 6 June 1944 when Allied Forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II?",
+    "options": [
+      "D-Day",
+      "Domesday",
+      "A-Day",
+      "Allies Day"
+    ],
+    "correctAnswers": [
+      "D-Day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘D-Day’ refers to the 6th of June 1944, when allied forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II."
+  },
+  {
+    "question": "In the UK, many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing."
+  },
+  {
+    "question": "What is the name of the building where the Northern Ireland Assembly meet?",
+    "options": [
+      "Westminster",
+      "Holyrood",
+      "Senedd",
+      "Stormont"
+    ],
+    "correctAnswers": [
+      "Stormont"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Northern Ireland elected members, known as MLAs, meet in the Northern Ireland Assembly at Stormont, in Belfast."
+  },
+  {
+    "question": "Which British Prime Minister led the Conservative government from 1979 to 1990?",
+    "options": [
+      "John Major",
+      "Harold Macmillan",
+      "Margaret Thatcher",
+      "Sir Alec Douglas-Home"
+    ],
+    "correctAnswers": [
+      "Margaret Thatcher"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990."
+  },
+  {
+    "question": "Which of the following civilisations is known for having built roads and public buildings, creating a structure of law and having introduced new plants and animals in Britain?",
+    "options": [
+      "The Romans",
+      "The Vikings",
+      "The Normans",
+      "The Germans"
+    ],
+    "correctAnswers": [
+      "The Romans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals."
+  },
+  {
+    "question": "How often does the Edinburgh Festival take place?",
+    "options": [
+      "Every six months",
+      "Every summer",
+      "Every spring",
+      "Every month"
+    ],
+    "correctAnswers": [
+      "Every summer"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer."
+  },
+  {
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+      "Uganda",
+      "Ghana",
+      "Malawi",
+      "Zimbabwe"
+    ],
+    "correctAnswers": [
+      "Zimbabwe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Zimbabwe is not a member of the Commonwealth."
+  },
+  {
+    "question": "What marked the beginning of what is called ‘constitutional monarchy’?",
+    "options": [
+      "The laws passed after the Glorious Revolution",
+      "A speech given by the King",
+      "The emergence of new ideas about politics, philosophy and science",
+      "The development of the Bessemer process"
+    ],
+    "correctAnswers": [
+      "The laws passed after the Glorious Revolution"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The laws passed after the Glorious Revolution are the beginning of what is called ‘constitutional monarchy’."
+  },
+  {
+    "question": "What name is given to the day that marks the end of the Ramadan, when Muslims have fasted for a month?",
+    "options": [
+      "Vaisakhi",
+      "Eid a-Fitr",
+      "Eid ul Adha",
+      "Hanukkah"
+    ],
+    "correctAnswers": [
+      "Eid a-Fitr"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month."
+  },
+  {
+    "question": "Who is the fastest person to have sailed around the world single-handed?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Dame Ellen MacArthur",
+      "Jayne Torvill",
+      "Bradley Wiggins"
+    ],
+    "correctAnswers": [
+      "Dame Ellen MacArthur"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dame Ellen MacArthur is a yachtswoman and in 2004 became the fastest person to sail around the world single-handed."
+  },
+  {
+    "question": "Who makes the decisions on government policies in the UK?",
+    "options": [
+      "The monarch",
+      "Only the Prime Minister can make the decisions on government policies",
+      "The Prime Minister and the Cabinet",
+      "The monarch and the Prime Minister"
+    ],
+    "correctAnswers": [
+      "The Prime Minister and the Cabinet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Decisions on government policies are made by the Prime Minister and cabinet."
+  },
+  {
+    "question": "Where does the most famous sailing event in the UK take place?",
+    "options": [
+      "Holyhead, North Wales",
+      "Cowes, The Isle of Wight",
+      "Douglas, The Isle of Man",
+      "Plymouth, England"
+    ],
+    "correctAnswers": [
+      "Cowes, The Isle of Wight"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous sailing event in the UK takes place at Cowes on the Isle of Wight."
+  },
+  {
+    "question": "How often is the electoral register updated?",
+    "options": [
+      "Every year",
+      "Every six months",
+      "Every two years",
+      "Every three years"
+    ],
+    "correctAnswers": [
+      "Every year"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The electoral register is updated every year in September or October."
+  },
+  {
+    "question": "What do you need to drive a car in the UK?",
+    "options": [
+      "A driving licence, a valid motor insurance, a MOT certificate and the road tax",
+      "A driving licence and a valid motor insurance only",
+      "A driving licence and a MOT certificate only",
+      "A driving licence only"
+    ],
+    "correctAnswers": [
+      "A driving licence, a valid motor insurance, a MOT certificate and the road tax"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax."
+  }
+]

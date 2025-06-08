@@ -1,0 +1,329 @@
+[
+  {
+    "question": "Which of the following is a Crown Dependency but not part of the UK?",
+    "options": [
+      "Shetland",
+      "Isle of Wight",
+      "Isle of Man",
+      "Anglesey"
+    ],
+    "correctAnswers": [
+      "Isle of Man"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Channel Islands and the Isle of Man are closely linked with the UK but are not part of it. They have their own governments and are called ‘Crown dependencies‘."
+  },
+  {
+    "question": "Is the BBC controlled by the government?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "No"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government."
+  },
+  {
+    "question": "How many members does the Northern Ireland Assembly have?",
+    "options": [
+      "12",
+      "60",
+      "90",
+      "108"
+    ],
+    "correctAnswers": [
+      "90"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly)."
+  },
+  {
+    "question": "Who was in charge of the British fleet at the Battle of Trafalgar?",
+    "options": [
+      "Oliver Cromwell",
+      "The Duke of Wellington",
+      "Robert the Bruce",
+      "Admiral Nelson"
+    ],
+    "correctAnswers": [
+      "Admiral Nelson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle."
+  },
+  {
+    "question": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+    "options": [
+      "The names of Iron Age kings",
+      "The names of Iron Age Gods",
+      "The names of trees",
+      "The names of animals"
+    ],
+    "correctAnswers": [
+      "The names of Iron Age kings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings."
+  },
+  {
+    "question": "Towns, cities and rural areas in the UK are governed by government appointed officials.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False.Towns, cities and rural areas in the UK are governed by democratically elected councils, often called ‘local authorities‘."
+  },
+  {
+    "question": "Where is the Tate Art Gallery located?",
+    "options": [
+      "Glasgow",
+      "Cardiff",
+      "London",
+      "Belfast"
+    ],
+    "correctAnswers": [
+      "London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Tate Britain and Tate Modern are in London."
+  },
+  {
+    "question": "The version of the Bible created by King James I is known as:",
+    "options": [
+      "Authorised version",
+      "Reformed version",
+      "Approved version",
+      "Unique version"
+    ],
+    "correctAnswers": [
+      "Authorised version"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One achievement of King James‘ reign was a new translation of the Bible into English. This translation is known as the ‘King James Version‘ or the ‘Authorised Version‘."
+  },
+  {
+    "question": "What is the period of the 1960s known for?",
+    "options": [
+      "A downgrade in manufacturing",
+      "A growth in British fashion and pop music",
+      "A shortage of water",
+      "A blockage of social laws"
+    ],
+    "correctAnswers": [
+      "A growth in British fashion and pop music"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘Swinging Sixties’. There was growth in British fashion, cinema and popular music."
+  },
+  {
+    "question": "Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?",
+    "options": [
+      "Pakistan",
+      "Germany",
+      "India",
+      "France"
+    ],
+    "correctAnswers": [
+      "France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Between 1680 and 1720 many refugees called Huguenots came from France."
+  },
+  {
+    "question": "What is the most famous tennis tournament played in the UK?",
+    "options": [
+      "The Queen’s Club Championships",
+      "Wimbledon",
+      "Roland Garros",
+      "The Aegon Championships"
+    ],
+    "correctAnswers": [
+      "Wimbledon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club."
+  },
+  {
+    "question": "MPs can only be contacted at their office in the House of Commons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. You can contact MPs by letter or telephone at their constituency office, or at their office in the House of Commons. In addition, many MPs, SMs and MSPs hold regular local ‘surgeries‘, where constituents can go in person to talk about issues that are of concern to them."
+  },
+  {
+    "question": "What is the day when jokes are published in newspapers and telecast on TV?",
+    "options": [
+      "April Fool‘s Day",
+      "Boxing Day",
+      "Halloween",
+      "Valentine‘s Day"
+    ],
+    "correctAnswers": [
+      "April Fool‘s Day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "April Fool‘s Day, 1 April, is a day when people play jokes on each other until midday. The television and newspapers often have stories that are April Fool jokes."
+  },
+  {
+    "question": "Which Scottish king defeated the English at the Battle of Bannockburn?",
+    "options": [
+      "King Charles I",
+      "King James I",
+      "Admiral Nelson",
+      "Robert the Bruce"
+    ],
+    "correctAnswers": [
+      "Robert the Bruce"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn, and Scotland remained unconquered by the English."
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Sir Peter Mansfield",
+      "Sir Ian Wilmot",
+      "Sir Robert Edwards"
+    ],
+    "correctAnswers": [
+      "Sir Tim Berners-Lee"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The inventor of the World Wide Web was Sir Tim Berners-Lee."
+  },
+  {
+    "question": "How are civil servants appointed and what political party do they belong to?",
+    "options": [
+      "They are chosen on merit and form part of the Liberal Democrats party",
+      "They are chosen randomly and form part of the Conservative party",
+      "They are chosen randomly and are politically neutral",
+      "They are chosen on merit and are politically neutral"
+    ],
+    "correctAnswers": [
+      "They are chosen on merit and are politically neutral"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Civil servants are chosen on merit and are politically neutral – they are not political appointees."
+  },
+  {
+    "question": "What is known as the “Dunkirk spirit”?",
+    "options": [
+      "When the German air force bombed London and other British cities at night-time",
+      "The evacuation of Allied soldiers from France during World War II",
+      "When new social classes appeared after the Black Death",
+      "The period when many refugees called Huguenots came from France"
+    ],
+    "correctAnswers": [
+      "The evacuation of Allied soldiers from France during World War II"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During WWII as France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk."
+  },
+  {
+    "question": "You have to be at least 21 years old to serve on a jury.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Anyone who is on the electoral register and is aged 18 to 70 can serve on a jury."
+  },
+  {
+    "question": "If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):",
+    "options": [
+      "Respect the rights of others, including their right to their own opinions",
+      "Buy a house in the UK",
+      "Look after yourself and your family",
+      "Marry a British citizen"
+    ],
+    "correctAnswers": [
+      "Respect the rights of others, including their right to their own opinions",
+      "Look after yourself and your family"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you wish to be a permanent resident or citizen of the UK, you should: respect the rights of others, including their right to their own opinions, look after yourself and your family, respect and obey the law, treat others with fairness and look after the area in which you live and the environment."
+  },
+  {
+    "question": "Which of the following major sports event took place in the UK in 2012?",
+    "options": [
+      "The Football World Cup",
+      "The Rugby World Cup",
+      "The Olympic games",
+      "The Eurocup Basketball"
+    ],
+    "correctAnswers": [
+      "The Olympic games"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK has hosted the Olympic games on three occasions: 1908, 1948 and 2012."
+  },
+  {
+    "question": "Charles I believed in the ’Divine Right of Kings’ so he tried:",
+    "options": [
+      "To rule without the Parliament",
+      "To rule with the approval of the Parliament",
+      "To raise money for the Parliament",
+      "To restore Catholicism in Britain"
+    ],
+    "correctAnswers": [
+      "To rule without the Parliament"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Charles I believed in the ’Divine Right of Kings’: the idea that the king was directly appointed by God to rule. He thought that the king should be able to act without having to seek approval from Parliament and he tried to rule without the Parliament."
+  },
+  {
+    "question": "What is the Union Jack?",
+    "options": [
+      "The Flag of the Commonwealth",
+      "The Flag of the United Kingdom",
+      "The shield used by British Knights",
+      "A trade union to protect workers rights"
+    ],
+    "correctAnswers": [
+      "The Flag of the United Kingdom"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Union Flag, the Flag of the United Kingdom is also known as the Union Jack."
+  },
+  {
+    "question": "Who was voted the greatest Briton of all time in 2002?",
+    "options": [
+      "Mo Farah",
+      "Admiral Nelson",
+      "Winston Churchill",
+      "Clement Attlee"
+    ],
+    "correctAnswers": [
+      "Winston Churchill"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 2002 Winston Churchill was voted the greatest Briton of all time by the public."
+  },
+  {
+    "question": "Which of the following statements is true:",
+    "options": [
+      "Women in Britain today make up about half of the workforce.",
+      "Women in Britain today make up about one quarter of the workforce."
+    ],
+    "correctAnswers": [
+      "Women in Britain today make up about half of the workforce."
+    ],
+    "wrongAnswers": [],
+    "explanation": "Women in Britain today make up about half of the workforce."
+  }
+]

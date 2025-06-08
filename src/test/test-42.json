@@ -1,0 +1,339 @@
+[
+  {
+    "question": "Who was the first person to lead a Roman invasion in Britain in 55 BC?",
+    "options": [
+      "Emperor Claudius",
+      "Julius Caesar",
+      "Napoleon",
+      "William Caxton"
+    ],
+    "correctAnswers": [
+      "Julius Caesar"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC."
+  },
+  {
+    "question": "Which name is given to the tombs where people buried their dead during the Bronze Age?",
+    "options": [
+      "Skara Brae",
+      "Hill forts",
+      "Round barrows",
+      "Canute"
+    ],
+    "correctAnswers": [
+      "Round barrows"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Bronze Age people lived in roundhouses and buried their dead in tombs called round barrows."
+  },
+  {
+    "question": "What did the ‘Bill of Rights‘ confirm in 1689?",
+    "options": [
+      "Women‘s right to vote",
+      "The rights of Parliament and the limits of the king‘s power",
+      "The supreme power of the king",
+      "The freedom of speech"
+    ],
+    "correctAnswers": [
+      "The rights of Parliament and the limits of the king‘s power"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power. Parliament took control of who could be monarch and declared that the king or queen must be a Protestant."
+  },
+  {
+    "question": "Who designed the Clifton Suspension Bridge located over the Avon George?",
+    "options": [
+      "Sir Norman Foster",
+      "Isambard Kingdom Brunel",
+      "Richard Arkwright",
+      "Robert Adam"
+    ],
+    "correctAnswers": [
+      "Isambard Kingdom Brunel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Clifton Suspension Bridge was designed by Isambard Kingdom Brunel and is spanning the Avon Gorge."
+  },
+  {
+    "question": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the glass manufacturers come from?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Holland",
+      "France"
+    ],
+    "correctAnswers": [
+      "Italy"
+    ],
+    "wrongAnswers": [],
+    "explanation": ""
+  },
+  {
+    "question": "Which American President worked closely with Margaret Thatcher?",
+    "options": [
+      "Hillary Clinton",
+      "Ronald Reagan",
+      "Jimmy Carter",
+      "George Bush"
+    ],
+    "correctAnswers": [
+      "Ronald Reagan"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher worked closely with the United States President, Ronald Reagan, and was one of the first Western leaders to recognise and welcome the changes in the leadership of the Soviet Union which eventually led to the end of the Cold War."
+  },
+  {
+    "question": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      "St Patrick",
+      "St Columba",
+      "St Augustine",
+      "St Peter"
+    ],
+    "correctAnswers": [
+      "St Augustine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Augustine was the first Archbishop of Canterbury."
+  },
+  {
+    "question": "Who was the first wife of Henry VIII?",
+    "options": [
+      "Anne Boleyn",
+      "Catherine of Aragon",
+      "Anne of Cleves",
+      "Catherine Howard"
+    ],
+    "correctAnswers": [
+      "Catherine of Aragon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Catherine of Aragon was the first wife of Henry VIII."
+  },
+  {
+    "question": "Which of the following flags is not represented in the union flag?",
+    "options": [
+      "Welsh",
+      "Scottish",
+      "English",
+      "Irish"
+    ],
+    "correctAnswers": [
+      "Welsh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Welsh dragon does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already united with England."
+  },
+  {
+    "question": "When did ‘the Concorde’ aircraft fly for the first time?",
+    "options": [
+      "In 1969",
+      "In 1970",
+      "In 1975",
+      "In 1976"
+    ],
+    "correctAnswers": [
+      "In 1969"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Concorde first flew in 1969 and began carrying passengers in 1976."
+  },
+  {
+    "question": "By what other name is the Conservative Party also known as?",
+    "options": [
+      "The Labour Party",
+      "The Tudors",
+      "The Green Party",
+      "The Tories"
+    ],
+    "correctAnswers": [
+      "The Tories"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The modern Conservative Party is still sometimes referred to as the Tories."
+  },
+  {
+    "question": "When did Adolf Hitler come to power in Germany?",
+    "options": [
+      "In 1922",
+      "In 1931",
+      "In 1933",
+      "In 1942"
+    ],
+    "correctAnswers": [
+      "In 1933"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Adolf Hitler came to power in Germany in 1933."
+  },
+  {
+    "question": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+    "options": [
+      "Celtic symbols",
+      "The names of Iron Age Kings",
+      "Drawings of animals",
+      "The names of medicine plants"
+    ],
+    "correctAnswers": [
+      "The names of Iron Age Kings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "They made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings."
+  },
+  {
+    "question": "When did Emmeline Pankhurst set up the Women’s Franchise League, which fought to get the vote in local elections for married women?",
+    "options": [
+      "1880",
+      "1889",
+      "1890",
+      "1899"
+    ],
+    "correctAnswers": [
+      "1889"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women‘s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women‘s Social and Political Union (WSPU)."
+  },
+  {
+    "question": "In which English county is the monument of Stonehenge located?",
+    "options": [
+      "Bedfordshire",
+      "Cheshire",
+      "Wiltshire",
+      "Cornwall"
+    ],
+    "correctAnswers": [
+      "Wiltshire"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The ancestors of these first farmers probably came from south-east Europe. These people built houses, tombs and monuments on the land. One of these monuments,Stonehenge, still stands in what is now the English county of Wiltshire."
+  },
+  {
+    "question": "What is the best-known work from Robert Burns?",
+    "options": [
+      "Auld Lang Syne",
+      "Hamlet",
+      "A rose by another name",
+      "George\\'s Marvellous Medicine"
+    ],
+    "correctAnswers": [
+      "Auld Lang Syne"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Burns‘ best-known work is probably the song Auld Lang Syne, which is sung by people in the UK and other countries when they are celebrating the New Year (or Hogmanay as it is called in Scotland)."
+  },
+  {
+    "question": "Which of the following crosses does NOT form part of the Union Flag?",
+    "options": [
+      "The cross of St George, patron saint of England",
+      "The cross of St David, patron saint of Wales",
+      "The cross of St Patrick, patron saint of Ireland",
+      "The cross of St Andrew, patron saint of Scotland"
+    ],
+    "correctAnswers": [
+      "The cross of St David, patron saint of Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cross of St David, patron saint of Wales does not form part of the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England."
+  },
+  {
+    "question": "What British actor was best known for his roles in various Shakespeare plays?",
+    "options": [
+      "Sir Laurence Olivier",
+      "Joseph Turner",
+      "Andrew Lloyd Webber",
+      "Tim Rice"
+    ],
+    "correctAnswers": [
+      "Sir Laurence Olivier"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Laurence Olivier Awards take place annually at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, late Lord Olivier, who was best known for his roles in various Shakespeare plays."
+  },
+  {
+    "question": "What name is given to the period of rapid development of industry in Britain in the 18th and 19th centuries?",
+    "options": [
+      "The Enlightenment",
+      "The Industrial Revolution",
+      "The Victorian period",
+      "The inter-war period"
+    ],
+    "correctAnswers": [
+      "The Industrial Revolution"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries."
+  },
+  {
+    "question": "Who was responsible for the construction of the Great Western Railway?",
+    "options": [
+      "Isambard Kingdom Brunel",
+      "Sir Norman Foster",
+      "Sir Christopher Wren",
+      "Robert Adam"
+    ],
+    "correctAnswers": [
+      "Isambard Kingdom Brunel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Isambard Kingdom Brunel was responsible for constructing the Great Western Railway, which was the first major railway built in Britain."
+  },
+  {
+    "question": "Which TWO of the following forts form part of Hadrian’s Wall?",
+    "options": [
+      "Vindolanda",
+      "Stonehenge",
+      "Housesteads",
+      "Maiden"
+    ],
+    "correctAnswers": [
+      "Vindolanda",
+      "Housesteads"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Parts of Hadrian‘s Wall include the forts of Housesteads and Vindolanda."
+  },
+  {
+    "question": "Why did Elizabeth I keep her cousin Mary prisoner for 20 years?",
+    "options": [
+      "She did not agree with her political views",
+      "She suspected Mary of wanting to take over the English throne",
+      "She had killed her son",
+      "She was a spy of the Spanish Armada"
+    ],
+    "correctAnswers": [
+      "She suspected Mary of wanting to take over the English throne"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth suspected Mary of wanting to take over the English throne, and kept her prisoner for 20 years."
+  },
+  {
+    "question": "What was the name of the first cloned mammal?",
+    "options": [
+      "Molly",
+      "Dolly",
+      "Colin",
+      "Alice"
+    ],
+    "correctAnswers": [
+      "Dolly"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  },
+  {
+    "question": "How many British casualties were recorded during the First World War?",
+    "options": [
+      "More than 2 million people",
+      "More than 3 million people",
+      "More than 4 million people",
+      "More than 5 million people"
+    ],
+    "correctAnswers": [
+      "More than 2 million people"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the First World War millions of people were killed or wounded, with more than 2 million British casualties."
+  }
+]

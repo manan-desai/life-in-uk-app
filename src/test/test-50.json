@@ -1,0 +1,336 @@
+[
+  {
+    "question": "The line ‘a rose by any other name’ belongs to which of the following plays or poems written by William Shakespeare?",
+    "options": [
+      "Romeo and Juliet",
+      "Hamlet",
+      "As You Like It",
+      "Henry V"
+    ],
+    "correctAnswers": [
+      "Romeo and Juliet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A rose by any other name’ is a line from William Shakespeare’s play Romeo and Juliet."
+  },
+  {
+    "question": "Which British scientist made important discoveries working with steam power?",
+    "options": [
+      "David Hume",
+      "Adan Smith",
+      "Alan Turing",
+      "James Watt"
+    ],
+    "correctAnswers": [
+      "James Watt"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution."
+  },
+  {
+    "question": "When was the first television broadcast made?",
+    "options": [
+      "In 1922",
+      "In 1932",
+      "In 1942",
+      "In 1952"
+    ],
+    "correctAnswers": [
+      "In 1932"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1932 Scotsman John Logie Baird made the first television broadcast between London and Glasgow."
+  },
+  {
+    "question": "Who invented the hovercraft?",
+    "options": [
+      "Sir Frank Whittle",
+      "Sir Christopher Cockerell",
+      "John Logie Baird",
+      "Sir Robert Edwards"
+    ],
+    "correctAnswers": [
+      "Sir Christopher Cockerell"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Christopher Cockerell invented the hovercraft."
+  },
+  {
+    "question": "Which of the following events relates to the German bombing of London and other cities at night time during the World War II?",
+    "options": [
+      "The Bombing",
+      "The German raid",
+      "The Blitz",
+      "The Axis"
+    ],
+    "correctAnswers": [
+      "The Blitz"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Blitz﻿ relates to the German air force bombing London and other British cities at night-time during ‘the Battle of Britain’, in the summer of 1940."
+  },
+  {
+    "question": "Which of the following social changes took place during the ‘Swinging Sixties’?",
+    "options": [
+      "The position of women in the workplace was improved",
+      "Everyone could study in the University for free",
+      "People from the same gender were allowed to get married",
+      "All musical events were free"
+    ],
+    "correctAnswers": [
+      "The position of women in the workplace was improved"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the ‘Swinging Sixties’ the position of women in the workplace improved."
+  },
+  {
+    "question": "Where was Emmeline Pankhurst born?",
+    "options": [
+      "Liverpool",
+      "Kent",
+      "Manchester",
+      "Chester"
+    ],
+    "correctAnswers": [
+      "Manchester"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Emmeline Pankhurst was born in Manchester in 1858."
+  },
+  {
+    "question": "Which of the following is a British invention from the 20th century?",
+    "options": [
+      "The Harrier jump jet",
+      "Radon",
+      "Paraffin wax",
+      "The lightbulb"
+    ],
+    "correctAnswers": [
+      "The Harrier jump jet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Harrier jump jet, an aircraft capable of taking off vertically, is a British invention of the 20th century."
+  },
+  {
+    "question": "When did Winston Churchill die?",
+    "options": [
+      "In 1964",
+      "In 1960",
+      "In 1965",
+      "In 1955"
+    ],
+    "correctAnswers": [
+      "In 1965"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Winston Churchill died in 1965."
+  },
+  {
+    "question": "During the 17th century there were two main groups in Parliament, which were known as:",
+    "options": [
+      "The Whigs and the Tories",
+      "The Liberal Democrats and the Labour Party",
+      "The lefties and the right wing",
+      "The Conservative Party and the Liberal Democrats"
+    ],
+    "correctAnswers": [
+      "The Whigs and the Tories"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the 17th century there were two main groups in Parliament, known as the Whigs and the Tories."
+  },
+  {
+    "question": "When was the Women’s Social and Political Union (WSPU) established?",
+    "options": [
+      "1889",
+      "1901",
+      "1899",
+      "1903"
+    ],
+    "correctAnswers": [
+      "1903"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1903 Emmeline Pankhurst helped found the Women’s Social and Political Union (WSPU)."
+  },
+  {
+    "question": "Under which Act was the United Kingdom of Great Britain created?",
+    "options": [
+      "The Act of Union",
+      "The Great Act",
+      "The United Kingdom Act",
+      "The Act of Great Britain"
+    ],
+    "correctAnswers": [
+      "The Act of Union"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Act of Union, known as the Treaty of Union in Scotland, was agreed in 1707, creating the Kingdom of Great Britain."
+  },
+  {
+    "question": "When did the first farmers arrive in Britain?",
+    "options": [
+      "6,000 years ago",
+      "7,000 years ago",
+      "8,000 years ago",
+      "10,000 years ago"
+    ],
+    "correctAnswers": [
+      "6,000 years ago"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first farmers arrived in Britain 6,000 years ago."
+  },
+  {
+    "question": "For which purpose was the Statute of Rhuddlan introduced?",
+    "options": [
+      "To annex Scotland to the Crown of England",
+      "To annex Northern Ireland to the Crown of England",
+      "To annex Ireland to the Crown of England",
+      "To annex Wales to the Crown of England"
+    ],
+    "correctAnswers": [
+      "To annex Wales to the Crown of England"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England."
+  },
+  {
+    "question": "When did Henry VIII start reining?",
+    "options": [
+      "In April 1509",
+      "In June 1497",
+      "In March 1515",
+      "In August 1495"
+    ],
+    "correctAnswers": [
+      "In April 1509"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VIII was king of England from 21 April 1509 until his death on 28 January 1547."
+  },
+  {
+    "question": "In May 2010, the Conservative and Liberal Democrat parties formed a coalition and the leader of the Liberal Democrat Party, David Cameron, became Prime Minister:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister."
+  },
+  {
+    "question": "Which hill fort from the Iron Age can be seen in the county of Dorset?",
+    "options": [
+      "Conwy Castle",
+      "Caernarfon Castle",
+      "Edinburgh Castle",
+      "Maiden Castle"
+    ],
+    "correctAnswers": [
+      "Maiden Castle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A very impressive hill fort from the Iron Age can still be seen today at Maiden Castle, in the English county of Dorset."
+  },
+  {
+    "question": "What was the biggest source of employment in Britain before the 18th century?",
+    "options": [
+      "The ship industry",
+      "Agriculture",
+      "Teaching",
+      "Manufacturing jobs"
+    ],
+    "correctAnswers": [
+      "Agriculture"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Before the 18th century, agriculture was the biggest source of employment in Britain."
+  },
+  {
+    "question": "Why was the ‘Habeas Corpus Act’ of 1679 an important piece of legislation?",
+    "options": [
+      "It allowed people over 21 years old to vote",
+      "It guaranteed that no one could be held prisoner unlawfully",
+      "It abolished slavery throughout the British Empire",
+      "It abolished a number of taxes on imported goods in the UK"
+    ],
+    "correctAnswers": [
+      "It guaranteed that no one could be held prisoner unlawfully"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing."
+  },
+  {
+    "question": "Who was Prime Minister in England from 1721 to 1742?",
+    "options": [
+      "Sir Robert Walpole",
+      "Admiral Nelson",
+      "Henry Pelham",
+      "Charles Edward Stuart"
+    ],
+    "correctAnswers": [
+      "Sir Robert Walpole"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first man to be called this was Sir Robert Walpole, who was Prime Minister from 1721 to 1742."
+  },
+  {
+    "question": "The Battle of Hastings  is commemorated in a great piece of embroidery, which is known as:",
+    "options": [
+      "The Hastings tapestry",
+      "The Bayeux tapestry",
+      "The Normand tapestry",
+      "The Domesday tapestry"
+    ],
+    "correctAnswers": [
+      "The Bayeux tapestry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry, which can still be seen in France today."
+  },
+  {
+    "question": "Which of the following countries did NOT join the European Economic Community when it was first formed in 1957 (choose ONE option)?",
+    "options": [
+      "Luxembourg",
+      "West Germany",
+      "The UK",
+      "The Netherlands"
+    ],
+    "correctAnswers": [
+      "The UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At first the UK did not wish to join the EEC but it eventually did so in 1973."
+  },
+  {
+    "question": "When was Ireland divided into two countries?",
+    "options": [
+      "In 1920",
+      "In 1922",
+      "In 1925",
+      "In 1928"
+    ],
+    "correctAnswers": [
+      "In 1922"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries."
+  },
+  {
+    "question": "The Middle Ages or medieval times relate to the time that goes from the period after the Norman Conquest until the year:",
+    "options": [
+      "1385",
+      "1485",
+      "1495",
+      "1595"
+    ],
+    "correctAnswers": [
+      "1485"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The period after the Norman Conquest up until about 1485 is called the Middle Ages (or the medieval period)."
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "Forcing another person to marry is a civil offence",
+      "Forcing another person to marry is a criminal offence",
+      "Forcing another person to marry is not punished in the UK",
+      "Forcing another person to marry is common in the UK"
+    ],
+    "correctAnswers": [
+      "Forcing another person to marry is a criminal offence"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forcing another person to marry is a criminal offence."
+  },
+  {
+    "question": "Where do UK residents need to register their car or motorcycle?",
+    "options": [
+      "At the Home Office",
+      "At the Ministry of Transport (MOT)",
+      "At the Driver and Vehicle Licensing Agency (DVLA)",
+      "At their Local Council"
+    ],
+    "correctAnswers": [
+      "At the Driver and Vehicle Licensing Agency (DVLA)"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA)."
+  },
+  {
+    "question": "Which court deals with serious criminal offences in Wales?",
+    "options": [
+      "The Sheriff Court",
+      "The Crown Court",
+      "The High Court",
+      "The Magistrates’ Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, serious criminal offences are tried in front of a judge and a jury in a Crown Court. In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury."
+  },
+  {
+    "question": "When were Protection Orders to protect a person from being forced into a marriage, or to protect a person in a forced marriage introduced for Scotland?",
+    "options": [
+      "2007",
+      "2008",
+      "2010",
+      "2011"
+    ],
+    "correctAnswers": [
+      "2011"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage. Similar Protection Orders were introduced in Scotland in November 2011."
+  },
+  {
+    "question": "Since when have hereditary peers lost the automatic right to attend the House of Lords?",
+    "options": [
+      "1985",
+      "1995",
+      "1989",
+      "1999"
+    ],
+    "correctAnswers": [
+      "1999"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords."
+  },
+  {
+    "question": "What name is given to the elected members of the Welsh government?",
+    "options": [
+      "MSPs",
+      "SMs",
+      "MLAs",
+      "MPs"
+    ],
+    "correctAnswers": [
+      "SMs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 60 members of the Senedd (SMs) and elections are held every four years using a form of proportional representation."
+  },
+  {
+    "question": "How often do the ministers that form the Cabinet meet to make important decisions about government policy?",
+    "options": [
+      "Every day",
+      "Weekly",
+      "Monthly",
+      "Every six months"
+    ],
+    "correctAnswers": [
+      "Weekly"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cabinet is a committee which usually meets weekly and makes important decisions about government policy."
+  },
+  {
+    "question": "How many countries are members of the United Nations?",
+    "options": [
+      "More than 190 countries",
+      "More than 150 countries",
+      "More than 140 countries",
+      "More than 180 countries"
+    ],
+    "correctAnswers": [
+      "More than 190 countries"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is part of the United Nations (UN), an international organization with more than 190 countries as members."
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      "The police force is a public service that helps and protects everyone",
+      "The police force is a private service that helps and protects everyone",
+      "The police force is a private service in charge of rescuing people from dangerous situations",
+      "The police force is a public service that works to avoid road accidents"
+    ],
+    "correctAnswers": [
+      "The police force is a public service that helps and protects everyone"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The police force is a public service that helps and protects everyone, no matter what their background or where they live."
+  },
+  {
+    "question": "What is the system by which the income tax is automatically taken from the employee’s income by their employer and paid directly to HM Revenue & Customs (HMRC)?",
+    "options": [
+      "Self-assessment",
+      "“Pay As You Earn” (PAYE)",
+      "Tax return",
+      "Pension tax"
+    ],
+    "correctAnswers": [
+      "“Pay As You Earn” (PAYE)"
+    ],
+    "wrongAnswers": [],
+    "explanation": "For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called “Pay As You Earn” (PAYE)."
+  },
+  {
+    "question": "How many local authorities are there in London?",
+    "options": [
+      "22",
+      "25",
+      "33",
+      "43"
+    ],
+    "correctAnswers": [
+      "33"
+    ],
+    "wrongAnswers": [],
+    "explanation": "London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital."
+  },
+  {
+    "question": "Who is the head of the state in the UK?",
+    "options": [
+      "The Prime Minister",
+      "King Charles III",
+      "Prince William of Wales",
+      "Prince Philip, the Duke of Edinburgh"
+    ],
+    "correctAnswers": [
+      "King Charles III"
+    ],
+    "wrongAnswers": [],
+    "explanation": "King Charles III is the head of state of the UK."
+  },
+  {
+    "question": "Members of the Scottish Parliament (MSPs) are elected on the basis of:",
+    "options": [
+      "Proportional representation",
+      "Personal achievements",
+      "Instant run-off",
+      "First past the post system (the candidate who gets the most votes)"
+    ],
+    "correctAnswers": [
+      "Proportional representation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the Scottish Parliament (MSPs) are elected by a form of proportional representation."
+  },
+  {
+    "question": "The action of handing out leaflets in the street or knocking on people’s doors to ask for their political support is known as:",
+    "options": [
+      "Shadowing",
+      "Canvassing",
+      "Marketing",
+      "Persuasion"
+    ],
+    "correctAnswers": [
+      "Canvassing"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The action of handing out leaflets in the street or knocking on people’s doors to ask for their political support is known as canvassing."
+  },
+  {
+    "question": "Which of the following is a charity that works with old people?",
+    "options": [
+      "Shelter",
+      "Age UK",
+      "Crisis",
+      "Cancer Research UK"
+    ],
+    "correctAnswers": [
+      "Age UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Age UK is a charity that works with old people."
+  },
+  {
+    "question": "How many members does the Council of Europe have?",
+    "options": [
+      "15",
+      "47",
+      "190",
+      "5"
+    ],
+    "correctAnswers": [
+      "47"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Council of Europe is separate from the EU. It has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries."
+  },
+  {
+    "question": "In the UK, Members of the Parliament (MPs) are elected on the basis of:",
+    "options": [
+      "Personal achievements",
+      "Instant run-off",
+      "First past the post system (the candidate who gets the most votes)",
+      "Proportional representation"
+    ],
+    "correctAnswers": [
+      "First past the post system (the candidate who gets the most votes)"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs are elected through a system called ‘first past the post’. In  constituency, the candidate who gets the most votes is elected."
+  },
+  {
+    "question": "People in the UK do NOT have to pay tax on:",
+    "options": [
+      "Income from expensive gifts",
+      "Income from savings",
+      "Income from property",
+      "Pensions"
+    ],
+    "correctAnswers": [
+      "Income from expensive gifts"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People in the UK have to pay tax on their income, which includes: wages from paid employment, profits from self-employment, taxable benefits, pensions and income from property, savings and dividends."
+  },
+  {
+    "question": "What Treaty established the European Economic Union in 1957?",
+    "options": [
+      "The Treaty of Rome",
+      "The Treaty of Vienna",
+      "The Treaty of Brussels",
+      "The Act of Union"
+    ],
+    "correctAnswers": [
+      "The Treaty of Rome"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on 25 March 1957."
+  },
+  {
+    "question": "When did hereditary peers lose the automatic right to attend the House of Lords?",
+    "options": [
+      "1979",
+      "1989",
+      "1999",
+      "2001"
+    ],
+    "correctAnswers": [
+      "1999"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords."
+  },
+  {
+    "question": "When did the King start reining?",
+    "options": [
+      "In 2020",
+      "In 2021",
+      "In 2022",
+      "In 2023"
+    ],
+    "correctAnswers": [
+      "In 2022"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King has reigned since his mother’s death in September 2022."
+  },
+  {
+    "question": "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media."
+  },
+  {
+    "question": "How do we call a set of principles by which a country is governed and which includes all of the institutions that are responsible for running the country and how their power is kept in check?",
+    "options": [
+      "Revolution",
+      "Constitution",
+      "Monarchy",
+      "Democracy"
+    ],
+    "correctAnswers": [
+      "Constitution"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A constitution is a set of principles by which a country is governed. It includes all of the institutions that are responsible for running the country and how their power is kept in check."
+  },
+  {
+    "question": "What is the National Anthem of the UK?",
+    "options": [
+      "God save the King",
+      "God save the Queen",
+      "United kingdoms",
+      "God save the land"
+    ],
+    "correctAnswers": [
+      "God save the King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Anthem of the UK is ‘God Save the king’."
+  }
+]

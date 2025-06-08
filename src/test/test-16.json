@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Who was Prime Minister of Britain from 1721 to 1742?",
+    "options": [
+      "Sir Robert Walpole",
+      "Admiral Nelson",
+      "Henry Pelham",
+      "Charles Edward Stuart"
+    ],
+    "correctAnswers": [
+      "Sir Robert Walpole"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Robert Walpole was Prime Minister from 1721 to 1742."
+  },
+  {
+    "question": "What is celebrated during Diwali?",
+    "options": [
+      "Jesus Christ rising from the dead",
+      "The victory of good over evil and the gaining of knowledge",
+      "The founding of the Sikh community known as the Khalsa",
+      "The beginning of the winter season"
+    ],
+    "correctAnswers": [
+      "The victory of good over evil and the gaining of knowledge"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwalli celebrates the victory of good over evil and the gaining of knowledge."
+  },
+  {
+    "question": "Who chairs the debates in the House of Commons?",
+    "options": [
+      "The shadow cabinet",
+      "The Speaker",
+      "The Prime Minister",
+      "The leader of the opposition"
+    ],
+    "correctAnswers": [
+      "The Speaker"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Debates in the House of Commons are chaired by the Speaker."
+  },
+  {
+    "question": "The Battle of Hastings is commemorated in a great piece of embroidery, which is known as:",
+    "options": [
+      "The Hastings tapestry",
+      "The Bayeux tapestry",
+      "The Normand tapestry",
+      "The Domesday tapestry"
+    ],
+    "correctAnswers": [
+      "The Bayeux tapestry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry, which can still be seen in France today."
+  },
+  {
+    "question": "A woman who is violent towards her partner cannot be prosecuted in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted."
+  },
+  {
+    "question": "According to the 2011 census, what percentage of the population identified themselves as Christian?",
+    "options": [
+      "35%",
+      "55%",
+      "70%",
+      "59%"
+    ],
+    "correctAnswers": [
+      "59%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "According to the 2011 Census, 59% of people identified themselves as Christians."
+  },
+  {
+    "question": "Many MPs, SMs and MSPs hold regular local events where constituents can go in person to talk about issues that are of concern to them. These are known as:",
+    "options": [
+      "Hansard",
+      "Local ‘surgeries’",
+      "Local ‘meetings’",
+      "Constituents ‘reunions’"
+    ],
+    "correctAnswers": [
+      "Local ‘surgeries’"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many MPs, SMs and MSPs hold regular local ‘surgeries’, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the local newspaper."
+  },
+  {
+    "question": "Which golf ‘Major’ tournament is hosted by a different golf course every year?",
+    "options": [
+      "The Open Championship",
+      "The PGA Championship",
+      "The Masters Tournament",
+      "The U.S. Open"
+    ],
+    "correctAnswers": [
+      "The Open Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The open championship is the only ‘Major’ tournament held outside United States. It is hosted by a different golf course every year."
+  },
+  {
+    "question": "Which act introduced the Forced Marriage Protection Orders for England, Wales and Northern Ireland in 2008?",
+    "options": [
+      "The Forced Marriage (Civil Protection) Act 2007",
+      "The Free Marriage (Civil Protection) Act 2007",
+      "The Forced Marriage (Civil Protection) Act 2011",
+      "The Free Marriage (Civil Protection) Act 2011"
+    ],
+    "correctAnswers": [
+      "The Forced Marriage (Civil Protection) Act 2007"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Similar Protection Orders were introduced in Scotland in November 2011."
+  },
+  {
+    "question": "Which of the following countries did NOT join the European Economic Community when it was first formed in 1957?",
+    "options": [
+      "Luxembourg",
+      "West Germany",
+      "The UK",
+      "The Netherlands"
+    ],
+    "correctAnswers": [
+      "The UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At first the UK did not wish to join the EEC but it eventually did so in 1973."
+  },
+  {
+    "question": "How many members does the Northern Ireland assembly have?",
+    "options": [
+      "90",
+      "80",
+      "118",
+      "108"
+    ],
+    "correctAnswers": [
+      "90"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation."
+  },
+  {
+    "question": "Which of the following civil laws include disputes between landlords and tenants over issues such as repairs and eviction?",
+    "options": [
+      "Consumer law",
+      "Housing law",
+      "Debt law",
+      "Living law"
+    ],
+    "correctAnswers": [
+      "Housing law"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Housing law includes disputes between landlords and tenants over issues suck as repairs and eviction."
+  },
+  {
+    "question": "How can you visit the Scottish Parliament?",
+    "options": [
+      "Arranging a tour through the visitor services",
+      "Contacting the Education Service",
+      "Contacting an AM",
+      "Contacting an MP"
+    ],
+    "correctAnswers": [
+      "Arranging a tour through the visitor services"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To visit the Scottish Parliament, you can get information, book tickets or arrange tours through visitor services. You can also write to them at the Scottish Parliament, Edinburgh, EH99 1SP, telephone 0131 348 5200 or email sp.booking@scottish.parliament."
+  },
+  {
+    "question": "Which of the following gardens is located in Wales?",
+    "options": [
+      "Bodnant Garden",
+      "Kew Gardens",
+      "Hidcote",
+      "Sissinghurst"
+    ],
+    "correctAnswers": [
+      "Bodnant Garden"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland, Bodnant Garden in Wales, and Mount Stewart in Northern Ireland."
+  },
+  {
+    "question": "Who was reining in Britain when the British Empire became the largest empire the world has ever seen, with an estimated population of more than 400 million people?",
+    "options": [
+      "Elizabeth I",
+      "Queen Anne",
+      "Queen Victoria",
+      "Henry VIII"
+    ],
+    "correctAnswers": [
+      "Queen Victoria"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people."
+  },
+  {
+    "question": "Which of the following is NOT a duty of the police?",
+    "options": [
+      "Protect life and property",
+      "Protect the environment",
+      "Prevent disturbances",
+      "Prevent and detect crimes"
+    ],
+    "correctAnswers": [
+      "Protect the environment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The job of the police in the UK is to protect life and property, prevent disturbances (also known as keeping the peace) and prevent and detect crime."
+  },
+  {
+    "question": "The UK is not part of which of the following international institutions?",
+    "options": [
+      "Council of Europe",
+      "North Atlantic Treaty Organization (NATO)",
+      "United Nations",
+      "European Union"
+    ],
+    "correctAnswers": [
+      "European Union"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is a member of the Council of Europe, the United Nations and the North Atlantic Treaty Organization (NATO). The UK is no longer a member of the European Union."
+  },
+  {
+    "question": "Where is the National Gallery of Scotland located?",
+    "options": [
+      "In Edinburgh",
+      "In Glasgow",
+      "In Aberdeen",
+      "In Fife"
+    ],
+    "correctAnswers": [
+      "In Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Gallery of Scotland is in Edinburgh."
+  },
+  {
+    "question": "Where are the ancestors of the first farmers to arrive in Britain believed to come from?",
+    "options": [
+      "North-east Europe",
+      "North-west Europe",
+      "South-east Europe",
+      "South-west Europe"
+    ],
+    "correctAnswers": [
+      "South-east Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first farmers arrived in Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe."
+  },
+  {
+    "question": "What religion did Elizabeth I follow?",
+    "options": [
+      "Catholic",
+      "Protestant",
+      "Hindu",
+      "Buddhist"
+    ],
+    "correctAnswers": [
+      "Protestant"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Queen Elizabeth I was a Protestant."
+  },
+  {
+    "question": "Who directed the movie ‘Chariots of Fire’ in 1981?",
+    "options": [
+      "Mike Newell",
+      "Hugh Hudson",
+      "Kevin MacDonald",
+      "Nicolas Roeg"
+    ],
+    "correctAnswers": [
+      "Hugh Hudson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Chariots of Fire (1981) was directed by Hugh Hudson."
+  },
+  {
+    "question": "What do new citizens have to swear or affirm as part of the citizenship ceremony?",
+    "options": [
+      "They will remain in the UK",
+      "Loyalty to the King",
+      "Loyalty to the Pope",
+      "They will go to church at least once a week"
+    ],
+    "correctAnswers": [
+      "Loyalty to the King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony."
+  },
+  {
+    "question": "In which TWO cases may a person who has been summoned to do jury service be exempted from doing it:",
+    "options": [
+      "If they have a criminal conviction",
+      "If they have children",
+      "If they provide a good reason to be excused, such as ill health",
+      "If they have to go to work"
+    ],
+    "correctAnswers": [
+      "If they have a criminal conviction",
+      "If they provide a good reason to be excused, such as ill health"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health."
+  },
+  {
+    "question": "What is the role of the shadow cabinet?",
+    "options": [
+      "To keep order during political debates to make sure the rules are followed",
+      "To challenge the government and put forward alternative policies",
+      "To point out what they see as the government’s failures and weaknesses",
+      "To control important public appointments"
+    ],
+    "correctAnswers": [
+      "To challenge the government and put forward alternative policies"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Incorrect The role of the shadow cabinet is to challenge the government and put forward alternative policies."
+  }
+]

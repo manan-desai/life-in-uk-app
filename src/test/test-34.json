@@ -1,0 +1,319 @@
+[
+  {
+    "question": "As part of the citizenship ceremony, new citizens pledge their loyalty to the United Kingdom and to respect its rights and freedoms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following countries is NOT a member of the Commonwealth?",
+    "options": [
+      "Ghana",
+      "Cyprus",
+      "Greece",
+      "Sierra Leone"
+    ],
+    "correctAnswers": [
+      "Greece"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Greece is not a member of the Commonwealth."
+  },
+  {
+    "question": "The Welsh government has 30 Senedd members.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Welsh government has 60 Senedd members."
+  },
+  {
+    "question": "Who was the first person to print books using a printing press in England?",
+    "options": [
+      "William Caxton",
+      "Geoffrey Chaucer",
+      "John Barbour",
+      "Jane Austen"
+    ],
+    "correctAnswers": [
+      "William Caxton"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Caxton was the first person in England to print books using a printing press."
+  },
+  {
+    "question": "In England, Wales and Scotland, most minor criminal cases are dealt with in a Magistrates’ Court:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court."
+  },
+  {
+    "question": "When did the UK sign the European Convention of Human Rights?",
+    "options": [
+      "1940",
+      "1945",
+      "1950",
+      "1955"
+    ],
+    "correctAnswers": [
+      "1950"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK was one of the first countries to sign the Convention in 1950."
+  },
+  {
+    "question": "Which is the most famous rugby union competition?",
+    "options": [
+      "The Grand National",
+      "The Six Nations Championship",
+      "The All England Championship",
+      "The Super League"
+    ],
+    "correctAnswers": [
+      "The Six Nations Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy."
+  },
+  {
+    "question": "After Oliver Cromwell defeated the Scottish army in the Battles of Dunbar and Worcester, Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following is an ancient festival and has roots in the pagan festival to mark the beginning of winter?",
+    "options": [
+      "Lent",
+      "Easter",
+      "Halloween",
+      "Hogmanay"
+    ],
+    "correctAnswers": [
+      "Halloween"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Halloween, 31 October, is and ancient festival and has roots in the pagan festival to mark the beginning of winter."
+  },
+  {
+    "question": "Which TWO British kings believed in the ‘Divine Right of Kings’?",
+    "options": [
+      "Richard I",
+      "James I",
+      "Charles I",
+      "Henry V"
+    ],
+    "correctAnswers": [
+      "James I",
+      "Charles I"
+    ],
+    "wrongAnswers": [],
+    "explanation": "James I and his son Charles I both believed in the ‘Divine Right of Kings’: the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament."
+  },
+  {
+    "question": "What was the name of the European Union when it was first established?",
+    "options": [
+      "European Political Union",
+      "Union of European Countries",
+      "European Economic Community",
+      "Europe United"
+    ],
+    "correctAnswers": [
+      "European Economic Community"
+    ],
+    "wrongAnswers": [],
+    "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. The EEC became a part of the European Union when it was formed in 1993."
+  },
+  {
+    "question": "By 1200, the English ruled an area of Scotland known as the Pale, around Edinburgh:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "By 1200, the English ruled an area of Ireland known as the Pale, around Dublin."
+  },
+  {
+    "question": "Which of the following British poets was inspired by nature?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Blake",
+      "Sir Walter Scott",
+      "William Wordsworth"
+    ],
+    "correctAnswers": [
+      "William Wordsworth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Wordsworth was inspired by nature."
+  },
+  {
+    "question": "Which Act incorporated the European Convention of Human Rights into UK law?",
+    "options": [
+      "The Discrimination Act 1995",
+      "The Equality Act 2010",
+      "The Freedom Act 2012",
+      "The Human Rights Act 1998"
+    ],
+    "correctAnswers": [
+      "The Human Rights Act 1998"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law."
+  },
+  {
+    "question": "After the Second World War, the UK was exhausted economically.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Although the UK had won the war, the country was exhausted economically after WWII."
+  },
+  {
+    "question": "What percentage of the total British population is located in Northern Ireland?",
+    "options": [
+      "30%",
+      "5%",
+      "8%",
+      "Less than 3%"
+    ],
+    "correctAnswers": [
+      "Less than 3%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes killed the Protestant king with a bomb in the Houses of Parliament:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament."
+  },
+  {
+    "question": "Who was Florence Nightingale?",
+    "options": [
+      "A nurse who worked in military hospitals, treating soldiers who were fighting in the Crimean War",
+      "One of the tribal leaders who fought against the Romans",
+      "A scientist who proposed that enemy aircraft could be detected by radio waves",
+      "A mathematician who was influential in the development of computer science"
+    ],
+    "correctAnswers": [
+      "A nurse who worked in military hospitals, treating soldiers who were fighting in the Crimean War"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Florence Nightingale was a nurse who worked in military hospitals, treating soldiers who were fighting in the Crimean War."
+  },
+  {
+    "question": "Where is the Scottish Grand National horse racing event celebrated?",
+    "options": [
+      "St Andrews",
+      "Ayr",
+      "Fife",
+      "Glasgow"
+    ],
+    "correctAnswers": [
+      "Ayr"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Grand National horse racing event is celebrated at Ayr."
+  },
+  {
+    "question": "Arranged marriages are not acceptable in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Arranged marriages, where both parties agree to the marriage, are acceptable in the UK."
+  },
+  {
+    "question": "Who was the Prime Minister of the UK from 1945 to 1951?",
+    "options": [
+      "Margaret Thatcher",
+      "John Major",
+      "Clement Attlee",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "Clement Attlee"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Clement Attlee was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years."
+  },
+  {
+    "question": "Who represents the UK to the rest of the world?",
+    "options": [
+      "The Prime Minister",
+      "Prince Harry",
+      "Prince William",
+      "The King"
+    ],
+    "correctAnswers": [
+      "The King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King represents the UK to the rest of the world."
+  },
+  {
+    "question": "Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Queen Elizabeth I was a Catholic:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Queen Elizabeth I was a Protestant."
+  }
+]

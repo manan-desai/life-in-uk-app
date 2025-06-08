@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Why did Henry VIII decide to divorce Catherine of Aragon?",
+    "options": [
+      "She was unpopular in the country",
+      "She was too old to give him another child",
+      "For political reasons",
+      "She was accused of taking lovers to the Palace"
+    ],
+    "correctAnswers": [
+      "She was too old to give him another child"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When Catherine was too old to give him another child, Henry decided to divorce her, hoping that another wife would give him a son to be his heir."
+  },
+  {
+    "question": "What characterised the Bronze Age?",
+    "options": [
+      "People were farmers who lived in large villages",
+      "People lived in roundhouses and buried their dead in tombs",
+      "People were nomads and hunters",
+      "People were divided into clans"
+    ],
+    "correctAnswers": [
+      "People lived in roundhouses and buried their dead in tombs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Bronze Age people lived in roundhouses and buried their dead in tombs called round barrows."
+  },
+  {
+    "question": "How many British citizens left the country between 1853 and 1913?",
+    "options": [
+      "10 million",
+      "13 million",
+      "15 million",
+      "18 million"
+    ],
+    "correctAnswers": [
+      "13 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Between 1853 and 1913, as many as 13 million British citizens left the country."
+  },
+  {
+    "question": "Who was known as the Iron Duke?",
+    "options": [
+      "The Duke of Edinburgh",
+      "The Duke of Normandy",
+      "The Duke of Wellington",
+      "The Duke of Lancaster"
+    ],
+    "correctAnswers": [
+      "The Duke of Wellington"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister."
+  },
+  {
+    "question": "Which of the following is NOT a British invention?",
+    "options": [
+      "The World Wide Web",
+      "The Turing machine",
+      "The hovercraft",
+      "The mobile phone"
+    ],
+    "correctAnswers": [
+      "The mobile phone"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The World Wide Web, the Turing machine and the hovercraft are British inventions. The mobile phone is not."
+  },
+  {
+    "question": "When did Argentina invade the Falklands Islands?",
+    "options": [
+      "In 1980",
+      "In 1982",
+      "In 1984",
+      "In 1992"
+    ],
+    "correctAnswers": [
+      "In 1982"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic."
+  },
+  {
+    "question": "When did Alexander Fleming win the Nobel Prize in medicine for the discovery of penicillin?",
+    "options": [
+      "In 1935",
+      "In 1945",
+      "In 1950",
+      "In 1952"
+    ],
+    "correctAnswers": [
+      "In 1945"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Fleming won the Nobel Prize in Medicine in 1945 for the discovery of the penicillin."
+  },
+  {
+    "question": "When did the Roman army leave Britain?",
+    "options": [
+      "AD 410",
+      "AD 510",
+      "AD 600",
+      "AD 530"
+    ],
+    "correctAnswers": [
+      "AD 410"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned."
+  },
+  {
+    "question": "When was Emmeline Pankhurst born?",
+    "options": [
+      "1858",
+      "1868",
+      "1845",
+      "1901"
+    ],
+    "correctAnswers": [
+      "1858"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women‘s Franchise League in 1889, which fought to get the vote in local elections for married women."
+  },
+  {
+    "question": "How long did the First World War last for?",
+    "options": [
+      "Two years",
+      "Three years",
+      "Four years",
+      "Six years"
+    ],
+    "correctAnswers": [
+      "Four years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The First World War lasted four years (1914 – 1918)."
+  },
+  {
+    "question": "Who was Henry VII?",
+    "options": [
+      "The leader of the House of York",
+      "The leader of the House of Lancaster",
+      "The leader of the House of Buckingham",
+      "The leader of the House of Leeds"
+    ],
+    "correctAnswers": [
+      "The leader of the House of Lancaster"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VII was the leader of the House of Lancaster."
+  },
+  {
+    "question": "Which of the following areas did the British Empire NOT cover during the Victorian period?",
+    "options": [
+      "Mexico",
+      "Australia",
+      "India",
+      "Large parts of Africa"
+    ],
+    "correctAnswers": [
+      "Mexico"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa."
+  },
+  {
+    "question": "Which British scientist led the development of the atomic bomb?",
+    "options": [
+      "Howard Florey",
+      "Ernst Chain",
+      "Ernest Rutherford",
+      "Keith Campbell"
+    ],
+    "correctAnswers": [
+      "Ernest Rutherford"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom‘ and took part in the Manhattan Project in the United States, which developed the atomic bomb."
+  },
+  {
+    "question": "After the Black Death, the growing wealth in the towns led to the development of a strong middle class:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. After the Black Death, new social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class."
+  },
+  {
+    "question": "What was the ability of the Harrier jump jet aircraft?",
+    "options": [
+      "To carry 1,000 passengers",
+      "To take off vertically",
+      "To float on water",
+      "To reach supersonic speeds"
+    ],
+    "correctAnswers": [
+      "To take off vertically"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Harrier jump jet, an aircraft capable of taking off vertically, was also designed and developed in the UK."
+  },
+  {
+    "question": "Which TWO of Henry VIII’s wives were accused of taking lovers and executed?",
+    "options": [
+      "Anne of Cleves",
+      "Catherine Howard",
+      "Catherine Parr",
+      "Anne Boleyn"
+    ],
+    "correctAnswers": [
+      "Catherine Howard",
+      "Anne Boleyn"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anne Boleyn and Catherine Howard were accused of taking lovers and executed."
+  },
+  {
+    "question": "Which two scientists led a team which was the first to succeed in cloning a mammal, Dolly the sheep?",
+    "options": [
+      "Sir Frank Whittle and Sir Christopher Cockrell",
+      "Sir Robert Edwards and Patrick Steptoe",
+      "Sir Ian Wilmot and Keith Campbell",
+      "Francis Creek and John Logie Baird"
+    ],
+    "correctAnswers": [
+      "Sir Ian Wilmot and Keith Campbell"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  },
+  {
+    "question": "What British discovery was influential in the development of computer science and the modern-day computer?",
+    "options": [
+      "The Radar",
+      "The Turing machine",
+      "The MRI scanner",
+      "The aeroplane"
+    ],
+    "correctAnswers": [
+      "The Turing machine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer."
+  },
+  {
+    "question": "Which famous philosopher developed ideas about human nature during the 18th century and that have continued to influence philosophers over the years?",
+    "options": [
+      "Aristotle",
+      "Sigmund Freud",
+      "Platon",
+      "David Hume"
+    ],
+    "correctAnswers": [
+      "David Hume"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the 18th century, David Hume‘s ideas about human nature continue to influence philosophers."
+  },
+  {
+    "question": "When did the ‘Concorde‘ aircraft carry passengers for the first time?",
+    "options": [
+      "In 1969",
+      "In 1970",
+      "In 1972",
+      "In 1976"
+    ],
+    "correctAnswers": [
+      "In 1976"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The ‘Concorde‘ began carrying passengers in 1976."
+  },
+  {
+    "question": "Which prehistoric village located in northern Europe has helped archaeologists to understand more about how people lived near the end of the Stone Age?",
+    "options": [
+      "Stonehenge",
+      "Scunthorpe",
+      "Danelaw",
+      "Skara Brae"
+    ],
+    "correctAnswers": [
+      "Skara Brae"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
+  },
+  {
+    "question": "During the Middle Ages, a Parliament was developed in Scotland, which had three Houses called Estates. These were:",
+    "options": [
+      "The lords, the commons and the clergy",
+      "The lords, the commons and the farmers",
+      "The farmers, the blacksmiths and the clergy",
+      "The farmers, the blacksmiths and the teachers"
+    ],
+    "correctAnswers": [
+      "The lords, the commons and the clergy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Parliament developed in Scotland in the Middle Ages had three Houses, called Estates: the lords, the commons and the clergy."
+  },
+  {
+    "question": "Which of the following scientific discoveries helped the progress of the Industrial Revolution?",
+    "options": [
+      "Penicilin",
+      "The aeroplane",
+      "Steam power",
+      "The lightbulb"
+    ],
+    "correctAnswers": [
+      "Steam power"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientific discoveries, such as James Watt‘s work on steam power, helped the progress of the Industrial Revolution."
+  },
+  {
+    "question": "Where in England was one of the Anglo-Saxon kings buried with treasure and armour?",
+    "options": [
+      "Maiden Castle, Dorset",
+      "Sutton Hoo, Suffolk",
+      "Conwy Castle, Wales",
+      "The Tower of London"
+    ],
+    "correctAnswers": [
+      "Sutton Hoo, Suffolk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The burial place of one of the Anglo-Saxon kings was at Sutton Hoo in modern Suffolk."
+  }
+]

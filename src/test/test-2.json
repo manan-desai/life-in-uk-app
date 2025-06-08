@@ -1,0 +1,339 @@
+[
+  {
+    "question": "Which Scottish city is known as the home of golf?",
+    "options": [
+      "Dundee",
+      "Edinburgh",
+      "Aberdeen",
+      "St Andrews"
+    ],
+    "correctAnswers": [
+      "St Andrews"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St. Andrews in Scotland is known as the home of golf."
+  },
+  {
+    "question": "Which court deals with the most serious cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+    "options": [
+      "The High Court",
+      "The Youth Court",
+      "The Magistrates’ Court",
+      "The Crown Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go the Crown Court."
+  },
+  {
+    "question": "What is the name of the best preserved prehistoric village in northern Europe and which origin traces back to the Stone Age?",
+    "options": [
+      "Maiden",
+      "Skara Brae",
+      "Stonehenge",
+      "Bayeux"
+    ],
+    "correctAnswers": [
+      "Skara Brae"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
+  },
+  {
+    "question": "When was the National Trust founded?",
+    "options": [
+      "1890",
+      "1895",
+      "1980",
+      "1910"
+    ],
+    "correctAnswers": [
+      "1895"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust was founded in 1895 by three volunteers."
+  },
+  {
+    "question": "After the Black Death, new social classes appeared in England, including owners of large areas of land known as:",
+    "options": [
+      "Judiciary",
+      "Gentry",
+      "Clans",
+      "Nobility"
+    ],
+    "correctAnswers": [
+      "Gentry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class."
+  },
+  {
+    "question": "Elizabeth I was the younger daughter of which King?",
+    "options": [
+      "James I",
+      "William the Great",
+      "Henry VII",
+      "Henry VIII"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth I was the younger daughter of Henry VIII."
+  },
+  {
+    "question": "Which of the following operas was written by Gilbert and Sullivan?",
+    "options": [
+      "The Phantom of the Opera",
+      "The Mikado",
+      "The Mousetrap",
+      "Cats"
+    ],
+    "correctAnswers": [
+      "The Mikado"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 19th century, Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado."
+  },
+  {
+    "question": "Where is Loch Lomond and the Trossachs National Park located?",
+    "options": [
+      "East of Wales",
+      "West of Wales",
+      "West of Scotland",
+      "East of Scotland"
+    ],
+    "correctAnswers": [
+      "West of Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Loch Lomond and the Trossachs National Park is located in the west of Scotland."
+  },
+  {
+    "question": "Who is married to the King of the United Kingdom?",
+    "options": [
+      "Kate, the Princess of Wales",
+      "Camila, the Queen Consort",
+      "Camila, the Princess of Wales",
+      "Kate, the Queen Consort"
+    ],
+    "correctAnswers": [
+      "Camila, the Queen Consort"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King of the United Kingdom is married to Camila, the Queen Consort."
+  },
+  {
+    "question": "By what TWO other names is the Church of England known?",
+    "options": [
+      "The Anglican Church",
+      "The Union Church",
+      "The Greatest Church",
+      "The Episcopal Church"
+    ],
+    "correctAnswers": [
+      "The Anglican Church",
+      "The Episcopal Church"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States)."
+  },
+  {
+    "question": "Who was the first British Prime Minister?",
+    "options": [
+      "Henry Pelham",
+      "Sir Robert Walpole",
+      "Admiral Nelson",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "Sir Robert Walpole"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first man to British Prime Minister was Sir Robert Walpole, who was Prime Minister from 1721 to 1742."
+  },
+  {
+    "question": "What day does Lent start?",
+    "options": [
+      "On Shrove Tuesday",
+      "On Ash Wednesday",
+      "On Easter Monday",
+      "On Easter Sunday"
+    ],
+    "correctAnswers": [
+      "On Ash Wednesday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Lent begins on Ash Wednesday."
+  },
+  {
+    "question": "How old do you need to be to apply for a free TV licence?",
+    "options": [
+      "Over 65",
+      "Over 60",
+      "Over 70",
+      "Over 75"
+    ],
+    "correctAnswers": [
+      "Over 75"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount."
+  },
+  {
+    "question": "What time do pubs usually open on Sundays in the UK?",
+    "options": [
+      "10 am",
+      "11 am",
+      "12 pm",
+      "1 pm"
+    ],
+    "correctAnswers": [
+      "12 pm"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays)."
+  },
+  {
+    "question": "What is the official home of the Prime Minister?",
+    "options": [
+      "Buckingham Palace",
+      "Windsor Castle",
+      "10 Downing Street",
+      "21 Oxford Street"
+    ],
+    "correctAnswers": [
+      "10 Downing Street"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament. He or she also has a country house outside London called Chequers."
+  },
+  {
+    "question": "When did the Conservative government called a referendum on the UK’s membership of the European Union?",
+    "options": [
+      "23rd July 2016",
+      "23rd June 2016",
+      "23rd June 2015",
+      "23rd July 2015"
+    ],
+    "correctAnswers": [
+      "23rd June 2016"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Conservative government called a referendum on the UK’s membership of the European Union on the 23rd June 2016."
+  },
+  {
+    "question": "Which British sportswoman won two gold medals for running in the 2004 Olympic Games?",
+    "options": [
+      "Dame Ellen MacArthur",
+      "Jayne Torvill",
+      "Dame Kelly Holmes",
+      "Jessica Ennis-Hill"
+    ],
+    "correctAnswers": [
+      "Dame Kelly Holmes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Dame Kelly Holmes won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records."
+  },
+  {
+    "question": "What percentage of the total British population is located in England alone?",
+    "options": [
+      "84%",
+      "60%",
+      "58%",
+      "79%"
+    ],
+    "correctAnswers": [
+      "84%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "What was the population of the UK in 2010?",
+    "options": [
+      "Just over 50 million",
+      "Just over 62 million",
+      "Just under 50 million",
+      "Just under 60 million"
+    ],
+    "correctAnswers": [
+      "Just over 62 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 2010 was just over 62 million people."
+  },
+  {
+    "question": "Which court deals with cases involving personal injury, family matters, breaches of contract and divorce in England and Wales?",
+    "options": [
+      "The Crown Court",
+      "The High Court",
+      "County Courts",
+      "The Sheriff Court"
+    ],
+    "correctAnswers": [
+      "County Courts"
+    ],
+    "wrongAnswers": [],
+    "explanation": "County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court."
+  },
+  {
+    "question": "What is the name of the building where the Scottish Parliament meet?",
+    "options": [
+      "Holyrood",
+      "Senedd",
+      "Westminster",
+      "Stormont"
+    ],
+    "correctAnswers": [
+      "Holyrood"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood in Edinburgh."
+  },
+  {
+    "question": "Which flower is associated with England?",
+    "options": [
+      "Daffodil",
+      "Shamrock",
+      "Rose",
+      "Thistle"
+    ],
+    "correctAnswers": [
+      "Rose"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The rose is the flower associated with England."
+  },
+  {
+    "question": "Who was Robert Burns?",
+    "options": [
+      "A British musician",
+      "A Scottish poet",
+      "A Welsh scientist",
+      "An Irish engineer"
+    ],
+    "correctAnswers": [
+      "A Scottish poet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Known in Scotland as ‘The Bard’, Robert Burns was a Scottish poet."
+  },
+  {
+    "question": "In which period did British Film studios flourish?",
+    "options": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "1950s"
+    ],
+    "correctAnswers": [
+      "1930s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "British film studios flourished in the 1930s."
+  }
+]

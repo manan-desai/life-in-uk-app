@@ -1,0 +1,337 @@
+[
+  {
+    "question": "The Commonwealth has no power over its members and it cannot suspend their membership:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The Commonwealth has no power over its members, although it can suspend membership."
+  },
+  {
+    "question": "Which TWO of the following are environmental charities?",
+    "options": [
+      "Crisis",
+      "The National Trust",
+      "Friends of the Earth",
+      "PDSA"
+    ],
+    "correctAnswers": [
+      "The National Trust",
+      "Friends of the Earth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust and Friends of the Earth are environmental charities."
+  },
+  {
+    "question": "How often are elections held for the Senedd?",
+    "options": [
+      "Every three years",
+      "Every four years",
+      "Every five years",
+      "Every six years"
+    ],
+    "correctAnswers": [
+      "Every four years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Senedd has 60 Senedd members (SMs) and elections are held every four years using a form of proportional representation."
+  },
+  {
+    "question": "What is the name given to the person appointed by local authorities to be the ceremonial leader of a particular council?",
+    "options": [
+      "Council candidate",
+      "Mayor",
+      "Peer",
+      "Magistrate"
+    ],
+    "correctAnswers": [
+      "Mayor"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many local authorities appoint a mayor, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration."
+  },
+  {
+    "question": "What is the meaning of the term ‘first past the post’?",
+    "options": [
+      "In each constituency, the candidate who gets the most votes is elected",
+      "If no political party wins a majority, two parties may join and govern together",
+      "If an MP dies or resigns, there will be a fresh election",
+      "The Speaker will be chosen by other MPs in a secret ballot"
+    ],
+    "correctAnswers": [
+      "In each constituency, the candidate who gets the most votes is elected"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs are elected through a system called ‘first past the post’. In each constituency, the candidate who gets the most votes is elected."
+  },
+  {
+    "question": "Which court deals with the MOST serious criminal cases in Scotland, such as murder?",
+    "options": [
+      "The Magistrates’ Court",
+      "The Sheriff Court",
+      "The Crown Court",
+      "The High Court"
+    ],
+    "correctAnswers": [
+      "The High Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury. The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury."
+  },
+  {
+    "question": "Who is the ceremonial head of the Commonwealth?",
+    "options": [
+      "The British King",
+      "The Pope",
+      "The President of the United States",
+      "The Prime Minister of the UK"
+    ],
+    "correctAnswers": [
+      "The British King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King is the ceremonial head of the Commonwealth."
+  },
+  {
+    "question": "Who is the chief officer of the House of Commons?",
+    "options": [
+      "The Prime Minister",
+      "The Speaker",
+      "The Archbishop of Canterbury",
+      "The leader of the opposition"
+    ],
+    "correctAnswers": [
+      "The Speaker"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker is the chief officer of the House of Commons."
+  },
+  {
+    "question": "What characterises the British constitution?",
+    "options": [
+      "It was written by the Prime Minister",
+      "It was written by the King",
+      "It is not written down in any single document, and therefore it is described as ‘unwritten",
+      "It was written by Henry VIII"
+    ],
+    "correctAnswers": [
+      "It is not written down in any single document, and therefore it is described as ‘unwritten"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The British constitution is not written down in any single document, and therefore it is described as ‘unwritten’."
+  },
+  {
+    "question": "Who forms the judiciary?",
+    "options": [
+      "The judges together",
+      "The Magistrates together",
+      "The MPs together",
+      "The judges and Magistrates together"
+    ],
+    "correctAnswers": [
+      "The judges together"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Judges (who are together called ‘the judiciary’) are responsible for interpreting the law and ensuring that trials are conducted fairly."
+  },
+  {
+    "question": "Which court deals with minor criminal offences in Scotland?",
+    "options": [
+      "The Justice of the Peace Court",
+      "The Magistrates’ Court",
+      "The Sheriff Court",
+      "The Crown Court"
+    ],
+    "correctAnswers": [
+      "The Justice of the Peace Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, minor criminal offences go to a Justice of the Peace Court."
+  },
+  {
+    "question": "If an MP dies or resigns, there will be a fresh election, which is known as:",
+    "options": [
+      "Hansard",
+      "First past the post",
+      "By-election",
+      "Coalition"
+    ],
+    "correctAnswers": [
+      "By-election"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency."
+  },
+  {
+    "question": "A person who has not paid enough National Insurance contributions will not be able to receive certain contributory benefits including (choose TWO options):",
+    "options": [
+      "Jobseeker’s Allowance",
+      "A full state retirement pension",
+      "Housing benefit",
+      "Working tax credits"
+    ],
+    "correctAnswers": [
+      "Jobseeker’s Allowance",
+      "A full state retirement pension"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as Jobseeker’s Allowance or a full state retirement pension."
+  },
+  {
+    "question": "How are life peers appointed?",
+    "options": [
+      "By the monarch on the advice of the Prime Minister",
+      "By the Prime Minister on the advice of the King",
+      "By the shadow cabinet",
+      "By the MPs"
+    ],
+    "correctAnswers": [
+      "By the monarch on the advice of the Prime Minister"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Life peers are appointed by the monarch on the advice of the Prime Minister."
+  },
+  {
+    "question": "In England, Wales and Northern Ireland, if an accused person is aged 18, the case will be heard in a Youth Court:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge."
+  },
+  {
+    "question": "The UN was set up after the First World War and aims to prevent war and promote international peace and security:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The UN was set up after the Second World War and aims to prevent war and promote international peace and security."
+  },
+  {
+    "question": "What is played at important national occasions and at events attended by the King or the Royal Family?",
+    "options": [
+      "Folk music",
+      "The Beatles",
+      "The National Anthem",
+      "Opera music"
+    ],
+    "correctAnswers": [
+      "The National Anthem"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Anthem of the UK is ‘God Save the King’ is played at important national occasions and at events attended by the King or the Royal Family."
+  },
+  {
+    "question": "How many members does a jury have in Scotland?",
+    "options": [
+      "15",
+      "10",
+      "14",
+      "16"
+    ],
+    "correctAnswers": [
+      "15"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members."
+  },
+  {
+    "question": "How can you visit the Northern Ireland Assembly (choose TWO options)?",
+    "options": [
+      "Contacting the Education Service",
+      "Contacting an MSP",
+      "Contacting an MLA",
+      "Arranging a tour through the visitor services"
+    ],
+    "correctAnswers": [
+      "Contacting the Education Service",
+      "Contacting an MLA"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can either contact the Education Service (details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk) or contact an MLA."
+  },
+  {
+    "question": "Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over can stand for public office, except for (choose THREE options):",
+    "options": [
+      "People found guilty of certain criminal offences",
+      "People without a university degree",
+      "Civil servants",
+      "Members of the Armed Forces"
+    ],
+    "correctAnswers": [
+      "People found guilty of certain criminal offences",
+      "Civil servants",
+      "Members of the Armed Forces"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including: members of the armed forces, civil servants and people found guilty of certain criminal offences."
+  },
+  {
+    "question": "On which of the following issues the  Northern Ireland Assembly CANNOT make decisions?",
+    "options": [
+      "Health",
+      "Education",
+      "The Environment",
+      "Planning"
+    ],
+    "correctAnswers": [
+      "Planning"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly can make decisions on issues such as education, agriculture, the environment, health and social services. It cannot make decisions on planning issues."
+  },
+  {
+    "question": "In which city is the Scottish Parliament building, also known as Holyrood, located?",
+    "options": [
+      "Edinburgh",
+      "Belfast",
+      "Aberdeen",
+      "Glasgow"
+    ],
+    "correctAnswers": [
+      "Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood in Edinburgh."
+  },
+  {
+    "question": "What name is given to the elected members of the Scottish Parliament?",
+    "options": [
+      "MSPs",
+      "AMs",
+      "MLAs",
+      "MPs"
+    ],
+    "correctAnswers": [
+      "MSPs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elected members of the Scottish Parliament are known as Members of the Scottish Parliament (MSPs)."
+  },
+  {
+    "question": "The public can listen to debates in the Palace of Westminster from public galleries located in:",
+    "options": [
+      "The House of Commons only",
+      "The House of Lords only",
+      "Both, the House of Commons and House of Lords",
+      "All of the above are false"
+    ],
+    "correctAnswers": [
+      "Both, the House of Commons and House of Lords"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords."
+  }
+]

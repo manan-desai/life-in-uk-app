@@ -1,0 +1,341 @@
+[
+  {
+    "question": "Which of the following venues is located in Glasgow?",
+    "options": [
+      "The O2",
+      "Wembley Stadium",
+      "The SEC Centre",
+      "Buckingham Palace"
+    ],
+    "correctAnswers": [
+      "The SEC Centre"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Exhibition and Conference Centre (SEC Centre) is located in Glasgow."
+  },
+  {
+    "question": "What was the population of the UK in 1801?",
+    "options": [
+      "5 million",
+      "8 million",
+      "10 million",
+      "12 million"
+    ],
+    "correctAnswers": [
+      "8 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1801 was 8 million people."
+  },
+  {
+    "question": "Where is the UK geographically located?",
+    "options": [
+      "In the north east of Europe",
+      "In the south east of Europe",
+      "In the north west of Europe",
+      "In the south west of Europe"
+    ],
+    "correctAnswers": [
+      "In the north west of Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is located in the north west of Europe."
+  },
+  {
+    "question": "When did Sir Alfred Hitchcock die?",
+    "options": [
+      "1970",
+      "1975",
+      "1978",
+      "1980"
+    ],
+    "correctAnswers": [
+      "1980"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Alfred Hitchcock died in 1980."
+  },
+  {
+    "question": "When is St George’s Day, patron of England, celebrated?",
+    "options": [
+      "23rd of April",
+      "1st of March",
+      "17th of March",
+      "30th of November"
+    ],
+    "correctAnswers": [
+      "23rd of April"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St George’s Day, patron of England, is celebrated on the 23rd of April."
+  },
+  {
+    "question": "How many Welsh-language channels are there in Wales?",
+    "options": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctAnswers": [
+      "One"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a Welsh-language channel in Wales."
+  },
+  {
+    "question": "What is the nickname given to the great bell of the clock at the House of Parliament in London?",
+    "options": [
+      "Tower of London",
+      "Buckingham clock",
+      "Big Ben",
+      "Big Clock"
+    ],
+    "correctAnswers": [
+      "Big Ben"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Big Ben is the nickname for the great bell of the clock at the House of Parliament in London."
+  },
+  {
+    "question": "According to the 2011 Census, what percentage of the population identified themselves as Jewish?",
+    "options": [
+      "Less than 0.5%",
+      "Less than 1%",
+      "Less than 1.5%",
+      "Less than 2%"
+    ],
+    "correctAnswers": [
+      "Less than 0.5%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "According to the 2011 census, less than 0.5% of people identify themselves as Jewish."
+  },
+  {
+    "question": "Which of the following castles is located in Scotland?",
+    "options": [
+      "Conwy Castle",
+      "Caernarfon Castle",
+      "Crathes Castle",
+      "Windsor Castle"
+    ],
+    "correctAnswers": [
+      "Crathes Castle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Crathes Castle and Inveraray Castle are located in Scotland."
+  },
+  {
+    "question": "Who were the Pre-Raphaelites?",
+    "options": [
+      "An important group of musicians from the 16th century",
+      "An important group who demanded the vote for the working classes",
+      "An important group of artists in the second half of the 19th century",
+      "A group of explorers who arrived in the south-east coast of Australia"
+    ],
+    "correctAnswers": [
+      "An important group of artists in the second half of the 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Pre-Raphaelites were an important group of artists in the second half of the 19th century. They painted detailed pictures on religious or literary themes in bright colours. The group included Holman Hunt, Dante Gabriel Rossetti and Sir John Millais."
+  },
+  {
+    "question": "When was St Pancras Station built?",
+    "options": [
+      "In the 18th century",
+      "In the 19th century",
+      "In the 20th century",
+      "In the 21st century"
+    ],
+    "correctAnswers": [
+      "In the 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Pancras Station was built in the 19th century."
+  },
+  {
+    "question": "Which TWO of the following soap operas are popular in the UK?",
+    "options": [
+      "Braveheart",
+      "Coronation Street",
+      "EastEnders",
+      "Heroes"
+    ],
+    "correctAnswers": [
+      "Coronation Street",
+      "EastEnders"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Popular programmes in the UK include regular soap operas such as Coronation Street and EastEnders."
+  },
+  {
+    "question": "Which of the following gardens is located in Wales?",
+    "options": [
+      "Bodnant Garden",
+      "Kew Gardens",
+      "Hidcote",
+      "Sissinghurst"
+    ],
+    "correctAnswers": [
+      "Bodnant Garden"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland, Bodnant Garden in Wales, and Mount Stewart in Northern Ireland."
+  },
+  {
+    "question": "Where is the National Gallery of Scotland located?",
+    "options": [
+      "In Edinburgh",
+      "In Glasgow",
+      "In Aberdeen",
+      "In Fife"
+    ],
+    "correctAnswers": [
+      "In Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Gallery of Scotland is in Edinburgh."
+  },
+  {
+    "question": "Who directed the movie ‘Chariots of Fire’ in 1981?",
+    "options": [
+      "Mike Newell",
+      "Hugh Hudson",
+      "Kevin MacDonald",
+      "Nicolas Roeg"
+    ],
+    "correctAnswers": [
+      "Hugh Hudson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Chariots of Fire (1981) was directed by Hugh Hudson."
+  },
+  {
+    "question": "When was the first tennis club founded in the UK?",
+    "options": [
+      "1772",
+      "1872",
+      "1862",
+      "1762"
+    ],
+    "correctAnswers": [
+      "1872"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first tennis club was founded in Leamington Spa in 1872."
+  },
+  {
+    "question": "What is the currency in the UK?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Dinar"
+    ],
+    "correctAnswers": [
+      "Pound"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The currency in the UK is the pound sterling (symbol £)."
+  },
+  {
+    "question": "When is Diwali normally celebrated?",
+    "options": [
+      "June or July",
+      "October or November",
+      "November or December",
+      "March or April"
+    ],
+    "correctAnswers": [
+      "October or November"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali normally falls in October or November and lasts for five days."
+  },
+  {
+    "question": "Which TWO universities compete with each other on a rowing race along the River Thames every year?",
+    "options": [
+      "University College of London",
+      "Imperial College",
+      "Cambridge University",
+      "Oxford University"
+    ],
+    "correctAnswers": [
+      "Cambridge University",
+      "Oxford University"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a popular yearly rowing race on the Thames between Oxford and Cambridge Universities."
+  },
+  {
+    "question": "Where is the city of Swansea located?",
+    "options": [
+      "In England",
+      "In Scotland",
+      "In Wales",
+      "In the Isle of Man"
+    ],
+    "correctAnswers": [
+      "In Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Swansea is located in Wales."
+  },
+  {
+    "question": "What time do pubs usually open during the week?",
+    "options": [
+      "9 am",
+      "10 am",
+      "11 am",
+      "12 pm"
+    ],
+    "correctAnswers": [
+      "11 am"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Pubs are usually open during the day from 11.00 am (12 noon on Sundays)."
+  },
+  {
+    "question": "In which TWO movie categories does Britain continue to be particularly strong at?",
+    "options": [
+      "Special effects movies",
+      "Action movies",
+      "Thrillers",
+      "Animation movies"
+    ],
+    "correctAnswers": [
+      "Special effects movies",
+      "Animation movies"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Britain continues to be particularly strong in special effects and animation."
+  },
+  {
+    "question": "Which notable British artist was a portrait painter who often painted people in country or garden scenery?",
+    "options": [
+      "Thomas Gainsborough",
+      "David Allan",
+      "Joseph Turner",
+      "John Constable"
+    ],
+    "correctAnswers": [
+      "Thomas Gainsborough"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Thomas Gainsborough (1727-88) was a portrait painter who often painted people in country or garden scenery."
+  },
+  {
+    "question": "During which religious celebration do Muslims sacrifice an animal to eat?",
+    "options": [
+      "Eid ul Adha",
+      "Eid a-Fitr",
+      "Ramadan",
+      "Vaisakhi"
+    ],
+    "correctAnswers": [
+      "Eid ul Adha"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many Muslims sacrifice an animal to eat during Eid ul Adha."
+  }
+]

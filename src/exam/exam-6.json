@@ -1,0 +1,339 @@
+[
+  {
+    "question": "As a British citizen what are your responsibilities (choose two answers)?",
+    "options": [
+      "To respect and obey the law",
+      "To walk your dog only during the day",
+      "To go to church on Sunday",
+      "To look after yourself and your family"
+    ],
+    "correctAnswers": [
+      "To respect and obey the law",
+      "To look after yourself and your family"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law, look after yourself and your family, respect the rights of others, including their right to their own opinions, treat others with fairness and look after the area in which you live and the environment."
+  },
+  {
+    "question": "Who made the first coins to be minted in Britain?",
+    "options": [
+      "The people of the Stone Age",
+      "The Anglo-saxons",
+      "The people of the Iron Age",
+      "The Romans"
+    ],
+    "correctAnswers": [
+      "The people of the Iron Age"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The people of the Iron Age made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings. This marks the beginnings of British history."
+  },
+  {
+    "question": "Who built the Tower of London?",
+    "options": [
+      "William the Conqueror",
+      "Queen Victoria",
+      "Queen Elizabeth I",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "William the Conqueror"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The correct answer is William the Conqueror."
+  },
+  {
+    "question": "There are 15 national parks in England, Wales and Scotland. What are national parks?",
+    "options": [
+      "Giant greenhouses",
+      "Land formations of columns made from volcanic lava",
+      "Areas of protected countryside",
+      "Medieval buildings"
+    ],
+    "correctAnswers": [
+      "Areas of protected countryside"
+    ],
+    "wrongAnswers": [],
+    "explanation": "National Parks are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape."
+  },
+  {
+    "question": "Northern Ireland has its own established church.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. There is no established Church in Wales or Northern Ireland."
+  },
+  {
+    "question": "Which three territories form Great Britain?",
+    "options": [
+      "Wales",
+      "Northern Ireland",
+      "England",
+      "Scotland"
+    ],
+    "correctAnswers": [
+      "Wales",
+      "England",
+      "Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland."
+  },
+  {
+    "question": "How often are ’Prime Minister’s Questions’ held in the parliament?",
+    "options": [
+      "Every day",
+      "Every week",
+      "Every two weeks",
+      "Once a month"
+    ],
+    "correctAnswers": [
+      "Every week"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Prime Minister’s Questions takes place every week while Parliament is sitting."
+  },
+  {
+    "question": "Which king was executed in 1649?",
+    "options": [
+      "James I",
+      "Charles II",
+      "James VII",
+      "Charles I"
+    ],
+    "correctAnswers": [
+      "Charles I"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The correct answer is Charles I."
+  },
+  {
+    "question": "Where was William Shakespeare born?",
+    "options": [
+      "Manchester",
+      "Oldham",
+      "Stratford-upon-Avon",
+      "Lincolnshire"
+    ],
+    "correctAnswers": [
+      "Stratford-upon-Avon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Shakespeare was born in Stratford-upon-Avon, England."
+  },
+  {
+    "question": "Which two of the following are famous British Paralympians?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Baroness Tanni Grey-Thompson",
+      "Jayne Torvill",
+      "Ellie Simmonds"
+    ],
+    "correctAnswers": [
+      "Baroness Tanni Grey-Thompson",
+      "Ellie Simmonds"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Baroness Tanni Grey-Thompson and Ellie Simmonds are the correct answers."
+  },
+  {
+    "question": "Who was reigning in England when English settlers first began to colonise the eastern coast of America?",
+    "options": [
+      "Queen Victoria",
+      "Henry VIII",
+      "Elizabeth I",
+      "Charles II"
+    ],
+    "correctAnswers": [
+      "Elizabeth I"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Elizabeth I’s time, English settlers first began to colonise the eastern coast of America."
+  },
+  {
+    "question": "Scotland and Wales use a system called ‘individual registration’ where all those entitled to vote must complete their own registration form.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Northern Ireland uses a system called ‘individual registration’ and all those entitled to vote must complete their own registration form."
+  },
+  {
+    "question": "On what day is the birth of Jesus Christ celebrated?",
+    "options": [
+      "Father’s Day",
+      "Christmas Day",
+      "New Year",
+      "Boxing Day"
+    ],
+    "correctAnswers": [
+      "Christmas Day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Christmas Day, 25th of December, celebrates the birth of Jesus Christ."
+  },
+  {
+    "question": "What sort of battle was the ’Battle of Britain’, fought between Germany and Britain in the summer of 1940?",
+    "options": [
+      "A battle in the sea",
+      "An aerial battle",
+      "A battle in the mountains",
+      "A battle without rifles"
+    ],
+    "correctAnswers": [
+      "An aerial battle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘The Battle of Britain’ was a crucial aerial battle fought between Germany and Britain in the summer of 1940."
+  },
+  {
+    "question": "Where is Swansea located?",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "correctAnswers": [
+      "Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Swansea it is located in Wales."
+  },
+  {
+    "question": "Which two political parties formed a coalition in 2010?",
+    "options": [
+      "The Conservative Party",
+      "The Green Party",
+      "The Labour Party",
+      "The Liberal Democrats Party"
+    ],
+    "correctAnswers": [
+      "The Conservative Party",
+      "The Liberal Democrats Party"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In May 2010 the Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister."
+  },
+  {
+    "question": "Who established the Church of England?",
+    "options": [
+      "Henry VIII",
+      "Oliver Cromwell",
+      "Winston Churchill",
+      "William of Orange"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The correct answer is Henry VIII."
+  },
+  {
+    "question": "In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?",
+    "options": [
+      "Measles",
+      "Leprosy",
+      "Smallpox",
+      "The Black Death"
+    ],
+    "correctAnswers": [
+      "The Black Death"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales."
+  },
+  {
+    "question": "Haggis is a traditional food from which area?",
+    "options": [
+      "Wales",
+      "England",
+      "Northern Ireland",
+      "Scotland"
+    ],
+    "correctAnswers": [
+      "Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Haggis is a traditional food from Scotland."
+  },
+  {
+    "question": "Which court deals with minor criminal offences in Scotland?",
+    "options": [
+      "The Sheriff Court",
+      "The Magistrates’ Court",
+      "The Crown Court",
+      "The Justice of the Peace Court"
+    ],
+    "correctAnswers": [
+      "The Justice of the Peace Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland, minor criminal offences go to a Justice of the Peace Court."
+  },
+  {
+    "question": "Which two of the following records give us information about England during the reign of William I?",
+    "options": [
+      "The Magna Carta",
+      "The Domesday Book",
+      "The Bayeux Tapestry",
+      "The Canterbury Tales"
+    ],
+    "correctAnswers": [
+      "The Domesday Book",
+      "The Bayeux Tapestry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Domesday Book and the Bayeux Tapestry."
+  },
+  {
+    "question": "In 1913, the British government promised ‘Home Rule’ for Ireland, why were changes in Ireland delayed until 1921?",
+    "options": [
+      "Due to the outbreak of the First World War",
+      "Due to the outbreak of the Second World War",
+      "Because there was not a king on the British throne",
+      "Due to the outbreak of the Black Death"
+    ],
+    "correctAnswers": [
+      "Due to the outbreak of the First World War"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The outbreak of the First World War led the British government to postpone any changes in Ireland."
+  },
+  {
+    "question": "Which of the following statements is true:",
+    "options": [
+      "Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants.",
+      "Elizabeth I was a Catholic and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants."
+    ],
+    "correctAnswers": [
+      "Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants."
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants."
+  },
+  {
+    "question": "Which two documents do you need to apply for a National Insurance number?",
+    "options": [
+      "A document with your address on it, such as a tenancy agreement",
+      "Documents that prove that you have permission to work in the UK",
+      "A contract from your employer",
+      "Documents that prove your identity"
+    ],
+    "correctAnswers": [
+      "Documents that prove that you have permission to work in the UK",
+      "Documents that prove your identity"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To apply for a National Insurance number you need documents that prove your identity and that you have permission to work in the UK."
+  }
+]

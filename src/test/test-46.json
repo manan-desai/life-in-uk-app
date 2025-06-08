@@ -1,0 +1,336 @@
+[
+  {
+    "question": "Who defeated the French at the battle of Agincourt in 1415?",
+    "options": [
+      "King Edward I of England",
+      "William III of England",
+      "Henry VIII",
+      "King Henry V"
+    ],
+    "correctAnswers": [
+      "King Henry V"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French."
+  },
+  {
+    "question": "Which British Prime Minister nationalised major industries including coal and steel?",
+    "options": [
+      "Harold Macmillan",
+      "Clement Attlee",
+      "John Major",
+      "Sir Alec Douglas-Home"
+    ],
+    "correctAnswers": [
+      "Clement Attlee"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Clement Attlee’s government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge’s plans for a stronger welfare state. Attlee also introduced measures to improve the conditions of workers."
+  },
+  {
+    "question": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      "St Augustine",
+      "St Columba",
+      "St Andrew",
+      "Kenneth MacAlpin"
+    ],
+    "correctAnswers": [
+      "St Augustine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Augustine became the first Archbishop of Canterbury."
+  },
+  {
+    "question": "Which British explorer mapped the coast of Australia?",
+    "options": [
+      "Sake Dean Mahomet",
+      "Richard Arkwright",
+      "Captain James Cook",
+      "Admiral Nelson"
+    ],
+    "correctAnswers": [
+      "Captain James Cook"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Captain James Cook mapped the coast of Australia and a few colonies were established there."
+  },
+  {
+    "question": "What were the main occupations of the people during the Iron Age?",
+    "options": [
+      "Fishermen and butchers",
+      "Farmers, craft workers or warriors",
+      "Knights, doctors or musicians",
+      "Engineers, teachers or lawyers"
+    ],
+    "correctAnswers": [
+      "Farmers, craft workers or warriors"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Iron Age most people were farmers, craft workers or warriors."
+  },
+  {
+    "question": "What was the name of Sir Francis Drake’s ship and which was one of the first to sail around the world?",
+    "options": [
+      "The Golden Eye",
+      "The Golden Hind",
+      "Elizabeth",
+      "The Sharp"
+    ],
+    "correctAnswers": [
+      "The Golden Hind"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England’s naval tradition. His ship, the Golden Hind, was one of the first to sail right around (‘circumnavigate’) the world."
+  },
+  {
+    "question": "Why did Henry VIII marry Anne of Cleves?",
+    "options": [
+      "He was deeply in love",
+      "For political reasons",
+      "For her fortune",
+      "She was expecting a child"
+    ],
+    "correctAnswers": [
+      "For political reasons"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry married Anne of Cleves for political reasons but divorced her soon after."
+  },
+  {
+    "question": "How many American colonies declared their independence in 1776, stating that people had a right to establish their own governments?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswers": [
+      "13"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments."
+  },
+  {
+    "question": "Where was Catherine of Aragon (the first wife of Henry VIII) from?",
+    "options": [
+      "Spain",
+      "Germany",
+      "England",
+      "French"
+    ],
+    "correctAnswers": [
+      "Spain"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Catherine of Aragon was a Spanish princess."
+  },
+  {
+    "question": "When did the post-war economic boom come to an end?",
+    "options": [
+      "In the early 1970s",
+      "In the late 1970s",
+      "In the early 1960s",
+      "In the late 1960s"
+    ],
+    "correctAnswers": [
+      "In the late 1970s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the late 1970s, the post-war economic boom came to an end."
+  },
+  {
+    "question": "During her government, Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers."
+  },
+  {
+    "question": "Who sat at the House of Commons during the Middle Ages?",
+    "options": [
+      "Knights and wealthy people from towns and cities",
+      "Farmers and blacksmiths",
+      "Great landowners and bishops",
+      "Everyone could sit at the House of Commons"
+    ],
+    "correctAnswers": [
+      "Knights and wealthy people from towns and cities"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the Middle Ages, Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons."
+  },
+  {
+    "question": "Which of the following words come from the Anglo-Saxon language?",
+    "options": [
+      "Apple and summer",
+      "Music and dance",
+      "Grimsby and scunthorpe",
+      "Canute and boat"
+    ],
+    "correctAnswers": [
+      "Apple and summer"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The words ‘Apple’ and ‘summer’ are based on Anglo-Saxon words."
+  },
+  {
+    "question": "How old was the Queen of Scotland, Mary Stuart, when she became queen?",
+    "options": [
+      "Two years old",
+      "A month old",
+      "A week old",
+      "5 years old"
+    ],
+    "correctAnswers": [
+      "A week old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was only a week old when her father died and she became queen."
+  },
+  {
+    "question": "Which British playwright had a great influence on the English language and invented many words that are still common today?",
+    "options": [
+      "William Shakespeare",
+      "Graham Greene",
+      "Dylan Thomas",
+      "Harold Pinter"
+    ],
+    "correctAnswers": [
+      "William Shakespeare"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Shakespeare had a great influence on the English language and invented many words that are still common today."
+  },
+  {
+    "question": "What proportion of the population died as a result of the Black Death in England?",
+    "options": [
+      "Half of the population",
+      "One third of the population",
+      "55% of the population",
+      "One quarter of the population"
+    ],
+    "correctAnswers": [
+      "One third of the population"
+    ],
+    "wrongAnswers": [],
+    "explanation": "As a result of the Black Death, one third of the population of England died and a similar proportion in Scotland and Wales."
+  },
+  {
+    "question": "Who wrote a famous series of poems in English about a group of people going to Canterbury on a pilgrimage and known as ‘The Canterbury Tales’?",
+    "options": [
+      "William Shakespeare",
+      "Geoffrey Chaucer",
+      "Jane Austen",
+      "Charles Dickens"
+    ],
+    "correctAnswers": [
+      "Geoffrey Chaucer"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told."
+  },
+  {
+    "question": "Which of the following is NOT a British invention of the 20th century?",
+    "options": [
+      "The radar",
+      "The Turing machine",
+      "The World Wide Web",
+      "Radioactivity"
+    ],
+    "correctAnswers": [
+      "Radioactivity"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Radioactivity is not a British invention."
+  },
+  {
+    "question": "Which British Prime Minister was famous for the speech ‘I have nothing to offer but blood, toil, tears and sweat’?",
+    "options": [
+      "Clement Attlee",
+      "Anthony Eden",
+      "Winston Churchill",
+      "Harold Wilson"
+    ],
+    "correctAnswers": [
+      "Winston Churchill"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Second World War, Winston Churchill made many famous speeches including lines which you may still hear:  ‘I have nothing to offer but blood, toil, tears and sweat’. This was Churchill’s first speech to the House of Commons after he became Prime Minister, 1940."
+  },
+  {
+    "question": "Which of the following countries did NOT belong to the Allies during World War II?",
+    "options": [
+      "France",
+      "Bulgaria",
+      "The UK",
+      "Australia"
+    ],
+    "correctAnswers": [
+      "Bulgaria"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bulgaria was not part of the Allies during the Second World War."
+  },
+  {
+    "question": "Which famous architect designed St Paul’s Cathedral after it was destroyed by a fire in 1666?",
+    "options": [
+      "Sir Christopher Wren",
+      "Isaac Newton",
+      "Robert Burns",
+      "Isambard Kingdom Brunel"
+    ],
+    "correctAnswers": [
+      "Sir Christopher Wren"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1666, a great fire destroyed much of the city of London, including many churches and St Paul’s Cathedral. London was rebuilt with a new St Paul’s, which was designed by a famous architect, Sir Christopher Wren."
+  },
+  {
+    "question": "Who proposed that enemy aircrafts could be detected by radio waves and is responsible for the development of the radar?",
+    "options": [
+      "Sir Robert Watson-Watt",
+      "John McLeod",
+      "John Logie Baird",
+      "Alan Turing"
+    ],
+    "correctAnswers": [
+      "Sir Robert Watson-Watt"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Radar was developed by Scotsman Sir Robert Watson-Watt (1892-1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935."
+  },
+  {
+    "question": "Who sat at the House of Lords during the Middle Ages?",
+    "options": [
+      "Great landowners and bishops",
+      "Knights, who were usually smaller landowners",
+      "Wealthy people from towns and cities",
+      "Farmers and blacksmiths"
+    ],
+    "correctAnswers": [
+      "Great landowners and bishops"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Middle Ages, great landowners and bishops sat in the House of Lords."
+  },
+  {
+    "question": "Which of the following countries was NOT part of the Central Powers during the First World War?",
+    "options": [
+      "Germany",
+      "Serbia",
+      "Austria",
+      "Hungary"
+    ],
+    "correctAnswers": [
+      "Serbia"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the First World War Serbia formed part of the Allied powers."
+  }
+]

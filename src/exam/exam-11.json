@@ -1,0 +1,333 @@
+[
+  {
+    "question": "Is St Helena part of the UK?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "No"
+    ],
+    "wrongAnswers": [],
+    "explanation": "British overseas territories, such as St Helena and the Falkland Islands are linked to the UK but are not part of it."
+  },
+  {
+    "question": "Where is Theatreland?",
+    "options": [
+      "Docklands",
+      "London’s East End",
+      "London’s West End",
+      "London’s South End"
+    ],
+    "correctAnswers": [
+      "London’s West End"
+    ],
+    "wrongAnswers": [],
+    "explanation": "London’s West End, also known as ‘Theatreland’, is particularly well known for its theatres."
+  },
+  {
+    "question": "What is the name of the UK currency?",
+    "options": [
+      "Euro",
+      "Pound Sterling",
+      "Peso",
+      "Dollar"
+    ],
+    "correctAnswers": [
+      "Pound Sterling"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The currency in the UK is the pound sterling (symbol £)."
+  },
+  {
+    "question": "What other name is given to Diwali?",
+    "options": [
+      "The Festival of Lights",
+      "Ash Wednesday",
+      "Good Friday",
+      "Easter Monday"
+    ],
+    "correctAnswers": [
+      "The Festival of Lights"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali is often called the Festival of Lights."
+  },
+  {
+    "question": "What is the Enlightenment?",
+    "options": [
+      "A period of total peace in England",
+      "A period when new ideas about politics, philosophy and science were developed",
+      "A period when England became the largest empire the world had ever seen",
+      "A period of economic recovery after the Second World War"
+    ],
+    "correctAnswers": [
+      "A period when new ideas about politics, philosophy and science were developed"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Enlightenment was a period during the 18th century when new ideas about politics, philosophy and science were developed."
+  },
+  {
+    "question": "Which of the following charities helps the environment?",
+    "options": [
+      "NSPCC",
+      "Shelter",
+      "Friends of the Earth",
+      "Crisis"
+    ],
+    "correctAnswers": [
+      "Friends of the Earth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Friends of the Earth is an environmental charity."
+  },
+  {
+    "question": "Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?",
+    "options": [
+      "The Battle of Britain",
+      "The Battle of Worcester",
+      "The Battle of Dunbar",
+      "The Battle of Marston Moor"
+    ],
+    "correctAnswers": [
+      "The Battle of Britain"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The correct answer is the Battle of Britain."
+  },
+  {
+    "question": "What was Margaret Thatcher famous for?",
+    "options": [
+      "She fought for the right to vote for women",
+      "She was the first woman Prime Minister of the UK",
+      "She set up the women’s Franchise League",
+      "She was the founder of modern nursing"
+    ],
+    "correctAnswers": [
+      "She was the first woman Prime Minister of the UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher was the first woman Prime Minister of the UK."
+  },
+  {
+    "question": "Which two languages combined to become one English language?",
+    "options": [
+      "Latin",
+      "Anglo-Saxon",
+      "Proto-Celtic",
+      "Norman French"
+    ],
+    "correctAnswers": [
+      "Anglo-Saxon",
+      "Norman French"
+    ],
+    "wrongAnswers": [],
+    "explanation": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language."
+  },
+  {
+    "question": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Where did the Spanish Armada come from?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "South America"
+    ],
+    "correctAnswers": [
+      "Spain"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1588 the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism."
+  },
+  {
+    "question": "What is the name of the War Memorial located in Whitehall?",
+    "options": [
+      "Dumfries",
+      "Cenotaph",
+      "Royal Crescent",
+      "The White Tower"
+    ],
+    "correctAnswers": [
+      "Cenotaph"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Cenotaph is a war memorial located in Whitehall."
+  },
+  {
+    "question": "The UK government has never suspended the Northern Ireland Assembly.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The Northern Ireland Assembly has been suspended on a few occasions."
+  },
+  {
+    "question": "What kind of church did Scotland establish in 1560?",
+    "options": [
+      "A Catholic church",
+      "A Protestant church"
+    ],
+    "correctAnswers": [
+      "A Protestant church"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1560, the predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. A Protestant Church of Scotland with an elected leadership was established but, unlike in England, this was not a state Church."
+  },
+  {
+    "question": "When was the Domesday Book written?",
+    "options": [
+      "After the Viking invasion",
+      "After the Norman conquest",
+      "After the last Roman invasion",
+      "After the Anglo-Saxon invasion"
+    ],
+    "correctAnswers": [
+      "After the Norman conquest"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William the conqueror sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. This was called the Domesday Book, which gives a picture of society in England just after the Norman Conquest."
+  },
+  {
+    "question": "The Northern Ireland Assembly cannot make decisions on which two of the following issues?",
+    "options": [
+      "Immigration",
+      "Education",
+      "Agriculture",
+      "Defence"
+    ],
+    "correctAnswers": [
+      "Immigration",
+      "Defence"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly can make decisions on issues such as: education, agriculture, the environment health and social services, but it cannot make decisions on immigration or defence issues."
+  },
+  {
+    "question": "What should you do to make a complaint about the police (choose two answers)?",
+    "options": [
+      "Write a complaint letter to the House of Commons",
+      "Go to the Police station directly",
+      "Write to the Chief Constable of the police force involved",
+      "Write to your MP"
+    ],
+    "correctAnswers": [
+      "Go to the Police station directly",
+      "Write to the Chief Constable of the police force involved"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anyone can make a complaint about the police by going to a police station and writing to the Chief Constable of the police force involved. Complaints can also be made to an independent body: the Independent Police Complaints Commission in England and Wales, the Police Complaints Commissioner for Scotland or the Police Ombudsman for Northern Ireland."
+  },
+  {
+    "question": "What flower did William Wordsworth write about?",
+    "options": [
+      "Rose",
+      "Daffodil",
+      "Thistle",
+      "Shamrock"
+    ],
+    "correctAnswers": [
+      "Daffodil"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Wordsworth wrote ‘The Daffodils’."
+  },
+  {
+    "question": "When is St Andrew’s day celebrated?",
+    "options": [
+      "17th April",
+      "31st December",
+      "1st March",
+      "30th November"
+    ],
+    "correctAnswers": [
+      "30th November"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St Andrew’s day, patron of Scotland, is celebrated on the 30th of November."
+  },
+  {
+    "question": "Who was the architect that rebuilt Saint Paul’s cathedral after the Great Fire in 1666?",
+    "options": [
+      "Robert Adam",
+      "Sir Christopher Wren",
+      "Sir Norman Foster",
+      "Dame Zaha Hadid"
+    ],
+    "correctAnswers": [
+      "Sir Christopher Wren"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1666, a great fire destroyed much of the city, including many churches and St Paul’s Cathedral. London was rebuilt with a new St Paul\\\\\\\\\\\\\\'s, which was designed by a famous architect, Sir Christopher Wren."
+  },
+  {
+    "question": "When were the first coins in Britain made?",
+    "options": [
+      "The Stone Age",
+      "The Bronze Age",
+      "The Iron Age",
+      "The Middle Ages"
+    ],
+    "correctAnswers": [
+      "The Iron Age"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The people of the Iron Age made the first coins to be minted in Britain."
+  },
+  {
+    "question": "Who was Emmeline Pankhurst?",
+    "options": [
+      "A suffragette",
+      "A nurse",
+      "A doctor",
+      "A scientist"
+    ],
+    "correctAnswers": [
+      "A suffragette"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called ‘suffragettes’."
+  },
+  {
+    "question": "Who did Britain fight against in the Crimean War?",
+    "options": [
+      "Turkey",
+      "Russia",
+      "France",
+      "Germany"
+    ],
+    "correctAnswers": [
+      "Russia"
+    ],
+    "wrongAnswers": [],
+    "explanation": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War."
+  },
+  {
+    "question": "How old do you have to be to buy alcohol in the UK?",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant)."
+  }
+]

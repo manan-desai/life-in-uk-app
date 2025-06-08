@@ -1,0 +1,329 @@
+[
+  {
+    "question": "Which court deals with the most serious cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+    "options": [
+      "The High Court",
+      "The Youth Court",
+      "The Magistrates’ Court",
+      "The Crown Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go the Crown Court."
+  },
+  {
+    "question": "When was the National Trust founded?",
+    "options": [
+      "1890",
+      "1895",
+      "1980",
+      "1910"
+    ],
+    "correctAnswers": [
+      "1895"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust was founded in 1895 by three volunteers."
+  },
+  {
+    "question": "Who is married to the King of the United Kingdom?",
+    "options": [
+      "Kate, the Princess of Wales",
+      "Camila, the Queen Consort",
+      "Camila, the Princess of Wales",
+      "Kate, the Queen Consort"
+    ],
+    "correctAnswers": [
+      "Camila, the Queen Consort"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The King is married to Camilla, the Queen Consort."
+  },
+  {
+    "question": "What is the name of the building where the Senedd members meet?",
+    "options": [
+      "Westminster",
+      "Stormont",
+      "Holyrood",
+      "Senedd"
+    ],
+    "correctAnswers": [
+      "Senedd"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Wales the elected members, known as SMs, meet in the Senedd building in Cardiff Bay."
+  },
+  {
+    "question": "When did the ‘Habeas Corpus Act’ become law?",
+    "options": [
+      "In 1679",
+      "In 1669",
+      "In 1689",
+      "In 1709"
+    ],
+    "correctAnswers": [
+      "In 1679"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Habeas Corpus Act became law in 1679."
+  },
+  {
+    "question": "When was the Treaty of Rome signed?",
+    "options": [
+      "25th May 1957",
+      "25th March 1957",
+      "28th May 1957",
+      "28th March 1957"
+    ],
+    "correctAnswers": [
+      "25th March 1957"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, Germany, Italy, Luxembourg and the Netherlands) who signed the Treaty of Rome on the 25th March 1957."
+  },
+  {
+    "question": "The King is the head of state in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "How often are the general elections held in the UK?",
+    "options": [
+      "Every year",
+      "Every 2 years",
+      "Every 4 years",
+      "Every 5 years"
+    ],
+    "correctAnswers": [
+      "Every 5 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs are elected at a General Election, which is held at least every five years."
+  },
+  {
+    "question": "What is the name of the building where the Northern Ireland Assembly members meet?",
+    "options": [
+      "Westminster",
+      "Holyrood",
+      "Senedd",
+      "Stormont"
+    ],
+    "correctAnswers": [
+      "Stormont"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly building is known as Stormont."
+  },
+  {
+    "question": "Which of the following is NOT a function of the House of Lords?",
+    "options": [
+      "Suggest amendments to existing laws",
+      "Check laws that have been passed by the House of Commons",
+      "Propose new laws",
+      "Cancel existing laws"
+    ],
+    "correctAnswers": [
+      "Cancel existing laws"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people."
+  },
+  {
+    "question": "How is the Speaker elected?",
+    "options": [
+      "By other MPs in a secret ballot",
+      "By the members of the House of Lords by proportional representation",
+      "By the members of the House of Commons in a public ballot",
+      "By the Prime Minister"
+    ],
+    "correctAnswers": [
+      "By other MPs in a secret ballot"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker is chosen by other MPs in a secret ballot."
+  },
+  {
+    "question": "When was the Northern Ireland Parliament established for the first time?",
+    "options": [
+      "In 1922",
+      "In 1932",
+      "In 1925",
+      "In 1928"
+    ],
+    "correctAnswers": [
+      "In 1922"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Parliament was first established in 1922."
+  },
+  {
+    "question": "What name is given to the system used to deal with children and young people who have committed an offence in Scotland?",
+    "options": [
+      "The Children’s Hearings System",
+      "The Youth Court System",
+      "The Sheriff Court for Young Children",
+      "The Young’s System"
+    ],
+    "correctAnswers": [
+      "The Children’s Hearings System"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence."
+  },
+  {
+    "question": "What is the function of the UN Security Council?",
+    "options": [
+      "Recommend action when there are international crises and threats to peace",
+      "Recommend humanitarian action when there are natural disasters",
+      "Protect and promote human rights",
+      "Promote international trade relationships"
+    ],
+    "correctAnswers": [
+      "Recommend action when there are international crises and threats to peace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UN Security Council recommends action when there are international crises and threats to peace."
+  },
+  {
+    "question": "Which of the following charities works for the prevention of cruelty to children?",
+    "options": [
+      "PDSA",
+      "RSPB",
+      "NSPCC",
+      "Crisis"
+    ],
+    "correctAnswers": [
+      "NSPCC"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The NSPCC is the National Society for the Prevention of Cruelty to Children."
+  },
+  {
+    "question": "What does the term ‘Hansard’ relate to?",
+    "options": [
+      "Official reports were proceedings in Parliament are published",
+      "A popular British soap opera",
+      "A festival which celebrates the founding of the Sikh community",
+      "A public holiday"
+    ],
+    "correctAnswers": [
+      "Official reports were proceedings in Parliament are published"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard."
+  },
+  {
+    "question": "In Wales, the jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’, ‘not guilty’ or ‘not proven’ based of what they have heard:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based of what they have heard. In Scotland (not Wales), a third verdict of ‘not proven’ is also possible."
+  },
+  {
+    "question": "A National Insurance number does on its own prove to an employer that you have the right to work in the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. A National Insurance number does not on its own prove to an employer that you have the right to work in the UK."
+  },
+  {
+    "question": "When driving in the UK, where do you need to display the tax disc which shows that the annual road tax has been paid?",
+    "options": [
+      "Anywhere inside the car",
+      "The windowscreen of the car",
+      "The wheel of the car",
+      "The boot of the car"
+    ],
+    "correctAnswers": [
+      "The windowscreen of the car"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When driving in the UK, you must pay an annual road tax and display the tax disc, which shows that the tax has been paid, on the windowscreen."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "A jury is made up of members of the public who have applied to be part of it",
+      "A jury is made up of members of the public chosen at random from the local electoral register"
+    ],
+    "correctAnswers": [
+      "A jury is made up of members of the public chosen at random from the local electoral register"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A jury is made up of members of the public chosen at random from the local electoral register."
+  },
+  {
+    "question": "It is a civil offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. It is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin."
+  },
+  {
+    "question": "Where can you get contact details for all your representatives and their parties (choose TWO options)?",
+    "options": [
+      "At bookshops",
+      "Your local supermarket",
+      "Your local library",
+      "www.parliament.uk"
+    ],
+    "correctAnswers": [
+      "Your local library",
+      "www.parliament.uk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You can get contact details for all your representatives and their parties from your local library and from http://www.parliament.uk."
+  },
+  {
+    "question": "What is the Old Bailey?",
+    "options": [
+      "A Famous criminal Court",
+      "A Scottish drink",
+      "The name of a traditional Welsh cake",
+      "A British national park"
+    ],
+    "correctAnswers": [
+      "A Famous criminal Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Old Bailey is probably the most famous criminal court in the world."
+  },
+  {
+    "question": "What is the relationship between the monarch and the government?",
+    "options": [
+      "Approve the government’s decisions on government policies",
+      "Advise, warn and encourage the government’s decisions",
+      "Advise, encourage and approve the government’s decisions",
+      "Advise and approve the government’s decisions"
+    ],
+    "correctAnswers": [
+      "Advise, warn and encourage the government’s decisions"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The monarch has regular meetings with the Prime Minister and can advise, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet."
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "question": "What name is given to the elected members of the Welsh government?",
+    "options": [
+      "MSPs",
+      "SMs",
+      "MLAs",
+      "MPs"
+    ],
+    "correctAnswers": [
+      "SMs"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Wales the elected members are known as SMs or Senedd Members."
+  },
+  {
+    "question": "How often do the ministers that form the Cabinet meet to make important decisions about government policy?",
+    "options": [
+      "Every day",
+      "Weekly",
+      "Monthly",
+      "Every six months"
+    ],
+    "correctAnswers": [
+      "Weekly"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cabinet is a committee which usually meets weekly and makes important decisions about government policy."
+  },
+  {
+    "question": "How many Welsh-language channels are there in Wales?",
+    "options": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctAnswers": [
+      "One"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is one Welsh-language channel in Wales."
+  },
+  {
+    "question": "What is the nickname for the great bell of the clock at the Houses of Parliament in London?",
+    "options": [
+      "Tower of London",
+      "Buckingham clock",
+      "Big Ben",
+      "Big Clock"
+    ],
+    "correctAnswers": [
+      "Big Ben"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Big Ben is the nickname for the great bell of the clock at the House of Parliament in London."
+  },
+  {
+    "question": "How many countries are members of the United Nations?",
+    "options": [
+      "More than 190 countries",
+      "More than 150 countries",
+      "More than 140 countries",
+      "More than 180 countries"
+    ],
+    "correctAnswers": [
+      "More than 190 countries"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is part of the United Nations (UN), an international organization with more than 190 countries as members."
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      "The police force is a public service that helps and protects everyone",
+      "The police force is a private service that helps and protects everyone",
+      "The police force is a private service in charge of rescuing people from dangerous situations",
+      "The police force is a public service that works to avoid road accidents"
+    ],
+    "correctAnswers": [
+      "The police force is a public service that helps and protects everyone"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The police force is a public service that helps and protects everyone, no matter what their background or where they live."
+  },
+  {
+    "question": "What is the system by which the income tax is automatically taken from the employee’s income by their employer and paid directly to HM Revenue & Customs (HMRC)?",
+    "options": [
+      "Self-assessment",
+      "“Pay As You Earn” (PAYE)",
+      "Tax return",
+      "Pension tax"
+    ],
+    "correctAnswers": [
+      "“Pay As You Earn” (PAYE)"
+    ],
+    "wrongAnswers": [],
+    "explanation": "For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called “Pay As You Earn” (PAYE)."
+  },
+  {
+    "question": "How many British casualties were recorded during the First World War?",
+    "options": [
+      "More than 2 million people",
+      "More than 3 million people",
+      "More than 4 million people",
+      "More than 5 million people"
+    ],
+    "correctAnswers": [
+      "More than 2 million people"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the First World War millions of people were killed or wounded, with more than 2 million British casualties."
+  },
+  {
+    "question": "Why did Henry VIII decide to divorce Catherine of Aragon?",
+    "options": [
+      "She was unpopular in the country",
+      "She was too old to give him another child",
+      "For political reasons",
+      "She was accused of taking lovers to the Palace"
+    ],
+    "correctAnswers": [
+      "She was too old to give him another child"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When Catherine was too old to give him another child, Henry VIII decided to divorce her, hoping that another wife would give him a son to be his heir."
+  },
+  {
+    "question": "How many local authorities are there in London?",
+    "options": [
+      "22",
+      "25",
+      "33",
+      "43"
+    ],
+    "correctAnswers": [
+      "33"
+    ],
+    "wrongAnswers": [],
+    "explanation": "London has 33 local authorities, with the Greater London Authority and the Mayor of London coordinating policies across the capital."
+  },
+  {
+    "question": "When did British combat troops leave Iraq?",
+    "options": [
+      "In 2004",
+      "In 2005",
+      "In 2006",
+      "In 2009"
+    ],
+    "correctAnswers": [
+      "In 2009"
+    ],
+    "wrongAnswers": [],
+    "explanation": "British combat troops left Iraq in 2009."
+  },
+  {
+    "question": "Where is the Parliament of the UK?",
+    "options": [
+      "In Manchester",
+      "In Westminster",
+      "In Windsor Castle",
+      "In Buckingham Palace"
+    ],
+    "correctAnswers": [
+      "In Westminster"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is governed by the parliament sitting in Westminster."
+  },
+  {
+    "question": "Which of the following is a criminal offence?",
+    "options": [
+      "Selling tobacco to someone under the age of 18",
+      "Owing money to someone",
+      "Discrimination in the workplace",
+      "Selling faulty goods or services"
+    ],
+    "correctAnswers": [
+      "Selling tobacco to someone under the age of 18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18."
+  },
+  {
+    "question": "Who used a system of land ownership known as feudalism?",
+    "options": [
+      "The Greeks",
+      "The Vikings",
+      "The Normans",
+      "The Welsh"
+    ],
+    "correctAnswers": [
+      "The Normans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Normans used a system of land ownership known as feudalism."
+  },
+  {
+    "question": "The line ‘all the world’s a stage’ belongs to which of the following plays or poems written by William Shakespeare?",
+    "options": [
+      "Romeo and Juliet",
+      "Hamlet",
+      "As You Like It",
+      "Sonnet 18"
+    ],
+    "correctAnswers": [
+      "As You Like It"
+    ],
+    "wrongAnswers": [],
+    "explanation": "All the world’s a stage’ are lines from William Shakespeare’s play As You Like It."
+  },
+  {
+    "question": "During the times of Elizabeth I, English settlers began to colonise:",
+    "options": [
+      "Indonesia",
+      "The eastern coast of America",
+      "The western coast of Australia",
+      "The Pacific Islands"
+    ],
+    "correctAnswers": [
+      "The eastern coast of America"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Elizabeth I’s time, English settlers first began to colonise the eastern coast of America."
+  },
+  {
+    "question": "In which city is the Welsh government building, also known as Senedd, located?",
+    "options": [
+      "Edinburgh",
+      "Belfast",
+      "Cardiff Bay",
+      "Swansea"
+    ],
+    "correctAnswers": [
+      "Cardiff Bay"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Wales the elected members, known as SMs, meet at the Senedd in Cardiff Bay."
+  },
+  {
+    "question": "What architectural style became popular in the 19th century?",
+    "options": [
+      "Corinthian",
+      "Barroco",
+      "Medieval Gothic",
+      "Art Deco"
+    ],
+    "correctAnswers": [
+      "Medieval Gothic"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 19th century, the medieval ’gothic’ style became popular again. As cities expanded, many great public buildings were built in this style. The Houses of Parliament and St Pancras Station were built at this time, as were the town halls in cities such as Manchester and Sheffield."
+  },
+  {
+    "question": "Which of the following gardens is NOT located in England?",
+    "options": [
+      "Mount Stewart",
+      "Kew Gardens",
+      "Sissinghurst",
+      "Hidcote"
+    ],
+    "correctAnswers": [
+      "Mount Stewart"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland, Bodnant Garden in Wales, and Mount Stewart in Northern Ireland."
+  },
+  {
+    "question": "Which TWO families started a civil war to decide who should be king of England in 1455?",
+    "options": [
+      "The House of Lancaster",
+      "The House of Kent",
+      "The House of York",
+      "The House of Newcastle"
+    ],
+    "correctAnswers": [
+      "The House of Lancaster",
+      "The House of York"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York."
+  },
+  {
+    "question": "Who was in charge of the British fleet at the Battle of Trafalgar?",
+    "options": [
+      "Admiral Nelson",
+      "Oliver Cromwell",
+      "The Duke of Wellington",
+      "Henry VIII"
+    ],
+    "correctAnswers": [
+      "Admiral Nelson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle."
+  },
+  {
+    "question": "Which court deals with serious criminal offences in Northern Ireland?",
+    "options": [
+      "The Sheriff Court",
+      "The Crown Court",
+      "The Magistrates’ Court",
+      "The High Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, serious offences are tried in front of a judge and a jury in a Crown Court. In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury."
+  },
+  {
+    "question": "Which political party does the Speaker represent?",
+    "options": [
+      "The Liberal Democrats",
+      "The Conservative party",
+      "The Labour Party",
+      "They do not represent any political party"
+    ],
+    "correctAnswers": [
+      "They do not represent any political party"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with the constituents’ problems like any other MP."
+  },
+  {
+    "question": "When was the Scottish Parliament formed?",
+    "options": [
+      "In 2000",
+      "In 2002",
+      "In 1999",
+      "In 1998"
+    ],
+    "correctAnswers": [
+      "In 1999"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Parliament was formed in 1999."
+  }
+]

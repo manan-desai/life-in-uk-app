@@ -1,0 +1,338 @@
+[
+  {
+    "question": "What does the UK offer to its permanent residents or citizens?",
+    "options": [
+      "A right to judge others",
+      "A right to join in the election of a government",
+      "Free access to all national museums",
+      "A discount in taxes"
+    ],
+    "correctAnswers": [
+      "A right to join in the election of a government"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A right to join in the election of a government is the correct answer."
+  },
+  {
+    "question": "Which of the following is NOT a fundamental principle of British life?",
+    "options": [
+      "Tolerance of those with different faiths and beliefs",
+      "The rule of law",
+      "Autocracy",
+      "Democracy"
+    ],
+    "correctAnswers": [
+      "Autocracy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The fundamental principles of British life include: tolerance of those with different faiths and beliefs, the rule of law, democracy, individual liberty and participation in community life."
+  },
+  {
+    "question": "What do you need to apply to become a permanent resident or citizen of the UK (choose TWO options)?",
+    "options": [
+      "A British driving licence",
+      "To be able to speak and read English",
+      "A British university degree",
+      "A good understanding of life in the UK"
+    ],
+    "correctAnswers": [
+      "To be able to speak and read English",
+      "A good understanding of life in the UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK offers to its residents or citizens: freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial and a right to join in the election of a government."
+  },
+  {
+    "question": "What does the UK offer to its residents or citizens (choose FIVE answers)?",
+    "options": [
+      "Freedom of belief and religion",
+      "Freedom of speech",
+      "Freedom from unfair discrimination",
+      "A right to a fair trial",
+      "Free university tuition fees",
+      "A right to join in the election of a government"
+    ],
+    "correctAnswers": [
+      "Freedom of belief and religion",
+      "Freedom of speech",
+      "Freedom from unfair discrimination",
+      "A right to a fair trial",
+      "A right to join in the election of a government"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To apply to become a permanent resident or citizen of the UK, you will need to speak and read English and have a good understanding of life in the UK."
+  },
+  {
+    "question": "Which of the following is a fundamental principle of life in the UK?",
+    "options": [
+      "Intolerance of those with different beliefs",
+      "Individual liberty",
+      "Rule of men",
+      "Lack of social cohesion"
+    ],
+    "correctAnswers": [
+      "Individual liberty"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The fundamental principles of British life include: democracy, the rule of law, individual liberty, tolerance of those with different faiths and beliefs, and participation in community life."
+  },
+  {
+    "question": "Which TWO of the following responsibilities will you have as a permanent resident or citizen of the UK?",
+    "options": [
+      "To respect and obey the law",
+      "To go to church on Sundays",
+      "To look after the area in which you live and the environment",
+      "To do the military service"
+    ],
+    "correctAnswers": [
+      "To respect and obey the law",
+      "To look after the area in which you live and the environment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you wish to be a permanent resident or citizen of the UK, you should respect and obey the law, respect the rights of others, including their right to their own opinions, treat others with fairness, look after yourself and your family and look after the area in which you live and the environment."
+  },
+  {
+    "question": "Participation in community life is a fundamental principle of British life.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The fundamental principles of British life include: participation in community life."
+  },
+  {
+    "question": "To look after yourself and your family is one of the responsibilities that you will have as a permanent resident or citizen of the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is TRUE."
+  },
+  {
+    "question": "In which of the following languages is the life in the UK test NOT available?",
+    "options": [
+      "English",
+      "Scottish Gaelic",
+      "French",
+      "Welsh"
+    ],
+    "correctAnswers": [
+      "French"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic."
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "options": [
+      "To apply to become a permanent resident or citizen of the UK, you will need to have a university degree",
+      "To apply to become a permanent resident or citizen of the UK, you will need to have a good understanding of life in the UK",
+      "To apply to become a permanent resident or citizen of the UK, you will need to have British relatives",
+      "To apply to become a permanent resident or citizen of the UK, you will need to have knowledge of the British laws"
+    ],
+    "correctAnswers": [
+      "To apply to become a permanent resident or citizen of the UK, you will need to have a good understanding of life in the UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To apply to become a permanent resident or citizen of the UK, you will need to have a good understanding of life in the UK and be able to speak and read English."
+  },
+  {
+    "question": "Which TWO of the following are fundamental principles of British life?",
+    "options": [
+      "Tolerance of those with different faiths and beliefs",
+      "Buying food from local business",
+      "The rule of law",
+      "Doing the military service"
+    ],
+    "correctAnswers": [
+      "Tolerance of those with different faiths and beliefs",
+      "The rule of law"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Tolerance of those with different faiths and beliefs and the rule of law are fundamental principles of British life."
+  },
+  {
+    "question": "Which TWO of the following islands are known as ‘Crown dependencies’?",
+    "options": [
+      "Ceylon",
+      "The Isle of Man",
+      "The Channel Islands",
+      "Ireland"
+    ],
+    "correctAnswers": [
+      "The Isle of Man",
+      "The Channel Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’."
+  },
+  {
+    "question": "What does the UK offer in return to its residents or citizens?",
+    "options": [
+      "Free undergraduate tuition fees",
+      "A right to a fair trial",
+      "VIP tickets for local events",
+      "Free parking across the country"
+    ],
+    "correctAnswers": [
+      "A right to a fair trial"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A right to a fair trial is the correct answer."
+  },
+  {
+    "question": "Which of the following territories does not belong to Great Britain?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "Northern Ireland",
+      "England"
+    ],
+    "correctAnswers": [
+      "Northern Ireland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘Great Britain’ refers only to England, Scotland and Wales, not to Northern Ireland."
+  },
+  {
+    "question": "Which of the following are British overseas territories?",
+    "options": [
+      "Ireland",
+      "The Canary Islands",
+      "St Helena",
+      "The Falkland Islands"
+    ],
+    "correctAnswers": [
+      "St Helena",
+      "The Falkland Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not part of it."
+  },
+  {
+    "question": "Where is the Parliament of the UK located?",
+    "options": [
+      "In Manchester",
+      "In Westminster",
+      "In Windsor Castle",
+      "In Buckingham Palace"
+    ],
+    "correctAnswers": [
+      "In Westminster"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is governed by the parliament sitting in Westminster."
+  },
+  {
+    "question": "St Helena is a British overseas territory.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "British overseas territories in other parts of the world include St Helena and the Falkland Islands. They are also linked to the UK but are not part of it."
+  },
+  {
+    "question": "The Isle of Man is a Crown dependency.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called ‘Crown dependencies’."
+  },
+  {
+    "question": "British values and principles are based on history and traditions and are protected by law, customs and expectations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Channel Islands and the Isle of Man are closely linked to the UK but are not part of it."
+  },
+  {
+    "question": "Which of the following lines does NOT form part of the citizenship pledge?",
+    "options": [
+      "I will give my loyalty to the United Kingdom",
+      "I will uphold its democratic values",
+      "Long live our noble King!",
+      "I will observe its laws faithfully"
+    ],
+    "correctAnswers": [
+      "Long live our noble King!"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "As part of the citizenship ceremony, new citizens pledge their loyalty to the United Kingdom and to respect its rights and freedoms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Long live our noble King! is the second sentence of the National Anthem of the UK."
+  },
+  {
+    "question": "Which of the following are ’Crown dependencies’?",
+    "options": [
+      "Ireland and Malta",
+      "The Maldives and Anglesey",
+      "The Isle of Man and the Channel Islands",
+      "The Isle of Wight and Northern Ireland"
+    ],
+    "correctAnswers": [
+      "The Isle of Man and the Channel Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which TWO islands are closely linked to the UK but are not part of it?",
+    "options": [
+      "The Isle of Man",
+      "Malta",
+      "The Channel Islands",
+      "Fiji"
+    ],
+    "correctAnswers": [
+      "The Isle of Man",
+      "The Channel Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Isle of Man and the Channel Islands are ’Crown dependencies’."
+  },
+  {
+    "question": "Which of the following sentences is true?",
+    "options": [
+      "The UK is governed by the parliament sitting in Edinburgh.",
+      "Scotland and Wales have parliaments or assemblies of their own, but not Northern Ireland.",
+      "Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas.",
+      "The UK is governed by the parliament sitting in Glasgow."
+    ],
+    "correctAnswers": [
+      "Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas."
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas."
+  }
+]

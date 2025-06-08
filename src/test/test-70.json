@@ -1,0 +1,339 @@
+[
+  {
+    "question": "The UK is a ‘constitutional monarchy’:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Where can people facing domestic violence get help from (choose TWO options)?",
+    "options": [
+      "The NHS",
+      "The Citizens Advise Bureau",
+      "The Human Rights Commission",
+      "A solicitor"
+    ],
+    "correctAnswers": [
+      "The Citizens Advise Bureau",
+      "A solicitor"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A solicitor or the Citizens Advice Bureau can explain the available options to anyone facing domestic violence."
+  },
+  {
+    "question": "People might be taken to court if they owe money to someone:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "How many members does a jury have in England, Wales and Northern Ireland?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "18"
+    ],
+    "correctAnswers": [
+      "12"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members."
+  },
+  {
+    "question": "What TWO tests do you need to pass to get a driving licence in the UK?",
+    "options": [
+      "A medical test",
+      "A knowledge test",
+      "A practical test",
+      "A physical test"
+    ],
+    "correctAnswers": [
+      "A knowledge test",
+      "A practical test"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To get a UK driving licence you must pass a driving test, which tests both your knowledge and your practical skills."
+  },
+  {
+    "question": "What is the role of the Speaker?",
+    "options": [
+      "To keep order during political debates to make sure the rules are followed",
+      "To point out what they see as the government’s failures and weaknesses",
+      "To control important public appointments",
+      "To challenge the government and put forward alternative policies"
+    ],
+    "correctAnswers": [
+      "To keep order during political debates to make sure the rules are followed"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker keeps order during political debates to make sure the rules are followed."
+  },
+  {
+    "question": "Which of the following statements is FALSE regarding Youth Courts?",
+    "options": [
+      "The parents or carers of the young person being judged are expected to attend the hearing",
+      "Members of the public are not allowed in them",
+      "They are used for trials of young people aged 10 to 18",
+      "The name or photographs of the accused young person cannot be published in newspapers or used by the media"
+    ],
+    "correctAnswers": [
+      "They are used for trials of young people aged 10 to 18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "They are used for trials of young people aged 10 to 17."
+  },
+  {
+    "question": "Who is responsible for the creation of the European Convention on Human Rights and Fundamental Freedoms?",
+    "options": [
+      "The UN Security Council",
+      "The Council of Europe",
+      "The United Nations",
+      "The Commonwealth"
+    ],
+    "correctAnswers": [
+      "The Council of Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Council of Europe has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms."
+  },
+  {
+    "question": "Members of the House of Lords may stand for election to the House of Commons and are eligible for all public offices:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Members of the House of Lords may not stand for election to the House of Commons but are eligible for all other public offices."
+  },
+  {
+    "question": "What does the following term ‘PDSA’ stand for?",
+    "options": [
+      "People’s Defence for Sick Animals",
+      "People’s Dispensary for Sick Animals",
+      "People’s Dispensary for Single Animals",
+      "People’s Defence for Single Animals"
+    ],
+    "correctAnswers": [
+      "People’s Dispensary for Sick Animals"
+    ],
+    "wrongAnswers": [],
+    "explanation": "PDSA’ stands for People’s Dispensary for Sick Animals."
+  },
+  {
+    "question": "The Commonwealth is based on the core values of democracy, good government and the rule of law:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "How long does it take to donate blood?",
+    "options": [
+      "About half an hour",
+      "About an hour",
+      "About two hours",
+      "About 15 minutes"
+    ],
+    "correctAnswers": [
+      "About an hour"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Giving blood only takes about an hour to do."
+  },
+  {
+    "question": "Where do local authorities get funding from (choose TWO answers)?",
+    "options": [
+      "The King",
+      "The central government",
+      "Donations made by local residents",
+      "Local taxes"
+    ],
+    "correctAnswers": [
+      "The central government",
+      "Local taxes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Local authorities are funded by money from the central government and by local taxes."
+  },
+  {
+    "question": "What does the term MEPs stand for?",
+    "options": [
+      "Members of the European Parliament",
+      "Members of the Parliament",
+      "Magistrates of the European Parliament",
+      "Members of the European parties"
+    ],
+    "correctAnswers": [
+      "Members of the European Parliament"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MEPs stands for Members of the European Parliament."
+  },
+  {
+    "question": "In which of the following matters can the Scottish Parliament legislate (choose FIVE options)?",
+    "options": [
+      "Additional tax-raising powers",
+      "Economic development",
+      "Health",
+      "Education",
+      "Civil and criminal law",
+      "Immigration",
+      "Planning"
+    ],
+    "correctAnswers": [
+      "Additional tax-raising powers",
+      "Health",
+      "Education",
+      "Civil and criminal law",
+      "Planning"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Parliament can legislate on: civil and criminal law, health, education, planning and additional tax-raising powers."
+  },
+  {
+    "question": "Drinking in public can be a criminal offence and you can be fined or arrested for it:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This stamens is true."
+  },
+  {
+    "question": "Whose details are NOT listed in the Phone Book?",
+    "options": [
+      "The King",
+      "MPs, SMs and MSPs",
+      "MEPs",
+      "None of the above"
+    ],
+    "correctAnswers": [
+      "The King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs, SMs and MSPs are listed in The Phone Book. The King is not."
+  },
+  {
+    "question": "What is the name of the official reports where the Parliament’s proceedings are published?",
+    "options": [
+      "Domesday Book",
+      "Hansard",
+      "Parliamentary reports",
+      "Carta Magna"
+    ],
+    "correctAnswers": [
+      "Hansard"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard."
+  },
+  {
+    "question": "How many members does the Senedd have?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "75"
+    ],
+    "correctAnswers": [
+      "60"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Senedd has 60 Senedd members (SMs) and elections are held every four years using a form of proportional representation."
+  },
+  {
+    "question": "Who deals with cases involving personal injury, family matters, breaches of contract and divorce in Scotland?",
+    "options": [
+      "County Courts",
+      "The Sheriff Court",
+      "The Crown Court",
+      "The High Court"
+    ],
+    "correctAnswers": [
+      "The Sheriff Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Civil disputes such as people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce are dealt with in the Sheriff Court in Scotland."
+  },
+  {
+    "question": "What name is given to the members of the House of Lords?",
+    "options": [
+      "Cabinet",
+      "Cavaliers",
+      "Peers",
+      "Housesteads"
+    ],
+    "correctAnswers": [
+      "Peers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the House of Lords are known as peers."
+  },
+  {
+    "question": "Magistrates and Justices of the Peace (JPs) are members of:",
+    "options": [
+      "The House of Commons",
+      "The Cabinet",
+      "The local community",
+      "The Parliament"
+    ],
+    "correctAnswers": [
+      "The local community"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Magistrates and Justices of the Peace (JPs) are members of the local community."
+  },
+  {
+    "question": "How can you visit the Northern Ireland Assembly (choose TWO options)?",
+    "options": [
+      "Contacting the Education Service",
+      "Contacting an MSP",
+      "Contacting an MLA",
+      "Arranging a tour through the visitor services"
+    ],
+    "correctAnswers": [
+      "Contacting the Education Service",
+      "Contacting an MLA"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can either contact the Education Service (details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk) or contact an MLA."
+  },
+  {
+    "question": "For what sort of claims is the small claims procedure in Northern Ireland used?",
+    "options": [
+      "Claims of less than £3,000",
+      "Claims of less than £4,000",
+      "Claims of less than £5,000",
+      "Claims of less than £6,000"
+    ],
+    "correctAnswers": [
+      "Claims of less than £3,000"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The small claims procedure is used for claims of less than £10,000 in England and Wales and less than £3,000 in Scotland and Northern Ireland."
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "question": "For which purpose was the Statute of Rhuddlan introduced?",
+    "options": [
+      "To annex Scotland to the Crown of England",
+      "To annex Northern Ireland to the Crown of England",
+      "To annex Ireland to the Crown of England",
+      "To annex Wales to the Crown of England"
+    ],
+    "correctAnswers": [
+      "To annex Wales to the Crown of England"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England."
+  },
+  {
+    "question": "How can a person be protected from being forced into a marriage?",
+    "options": [
+      "By giving them a place to stay away from their family",
+      "Court orders can be obtained to protect a person from being forced into a marriage",
+      "By speaking to the person’s parents",
+      "There are no laws in the UK to avoid this"
+    ],
+    "correctAnswers": [
+      "Court orders can be obtained to protect a person from being forced into a marriage"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage."
+  },
+  {
+    "question": "When was the first tennis club founded in the UK?",
+    "options": [
+      "1772",
+      "1872",
+      "1862",
+      "1762"
+    ],
+    "correctAnswers": [
+      "1872"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first tennis club was founded in Leamington Spa in 1872."
+  },
+  {
+    "question": "Which of the following is NOT classified as a criminal offence in the UK?",
+    "options": [
+      "Smoking in public places",
+      "Selling or buying drugs",
+      "Carrying a weapon",
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "correctAnswers": [
+      "Unfair dismissal or discrimination in the workplace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Unfair dismissal or discrimination in the workplace is classified as a civil offence."
+  },
+  {
+    "question": "When did Henry VIII start reining?",
+    "options": [
+      "In April 1509",
+      "In June 1497",
+      "In March 1515",
+      "In August 1495"
+    ],
+    "correctAnswers": [
+      "In April 1509"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VIII was king of England from 21 April 1509 until his death on 28 January 1547."
+  },
+  {
+    "question": "What is the currency in the UK?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Dinar"
+    ],
+    "correctAnswers": [
+      "Pound"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The currency in the UK is the pound sterling (symbol £)."
+  },
+  {
+    "question": "In May 2010, the Conservative and Liberal Democrat parties formed a coalition and the leader of the Liberal Democrat Party, David Cameron, became Prime Minister:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister."
+  },
+  {
+    "question": "When is Diwali normally celebrated?",
+    "options": [
+      "June or July",
+      "October or November",
+      "November or December",
+      "March or April"
+    ],
+    "correctAnswers": [
+      "October or November"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Diwali normally falls in October or November and lasts for five days."
+  },
+  {
+    "question": "Which of the following is NOT considered to be a main part of the British government?",
+    "options": [
+      "The monarchy",
+      "The European Council",
+      "The Prime Minister",
+      "The local government"
+    ],
+    "correctAnswers": [
+      "The European Council"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The European Council is not part of the British government."
+  },
+  {
+    "question": "Which TWO universities compete with each other on a rowing race along the River Thames every year?",
+    "options": [
+      "University College of London",
+      "Imperial College",
+      "Cambridge University",
+      "Oxford University"
+    ],
+    "correctAnswers": [
+      "Cambridge University",
+      "Oxford University"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a popular yearly rowing race on the Thames between Oxford and Cambridge Universities."
+  },
+  {
+    "question": "What is the name of Admiral Nelson’s ship?",
+    "options": [
+      "HMS Victory",
+      "Golden Hind",
+      "Canute",
+      "Grimsby"
+    ],
+    "correctAnswers": [
+      "HMS Victory"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Admiral Nelson’s ship was known as the HMS Victory."
+  },
+  {
+    "question": "When driving in the UK, where do you need to display the tax disc which shows that the annual road tax has been paid?",
+    "options": [
+      "Anywhere inside the car",
+      "The windowscreen of the car",
+      "The wheel of the car",
+      "The boot of the car"
+    ],
+    "correctAnswers": [
+      "The windowscreen of the car"
+    ],
+    "wrongAnswers": [],
+    "explanation": "When driving in the UK, you must pay an annual road tax and display the tax disc, which shows that the tax has been paid, on the windowscreen."
+  },
+  {
+    "question": "What is the capital of the UK?",
+    "options": [
+      "Edinburgh",
+      "London",
+      "Belfast",
+      "Cardiff"
+    ],
+    "correctAnswers": [
+      "London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The capital city of the UK is London."
+  },
+  {
+    "question": "Which of the following is NOT a British film?",
+    "options": [
+      "Lawrence of Arabia",
+      "The 39 Steps",
+      "The Lord of the Rings",
+      "Women in Love"
+    ],
+    "correctAnswers": [
+      "The Lord of the Rings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Lord of the Rings is not the British film."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "A jury is made up of members of the public who have applied to be part of it",
+      "A jury is made up of members of the public chosen at random from the local electoral register"
+    ],
+    "correctAnswers": [
+      "A jury is made up of members of the public chosen at random from the local electoral register"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A jury is made up of members of the public chosen at random from the local electoral register."
+  },
+  {
+    "question": "When is St David’s Day, patron of Wales?",
+    "options": [
+      "1st of March",
+      "17th of March",
+      "23rd of April",
+      "30th of November"
+    ],
+    "correctAnswers": [
+      "1st of March"
+    ],
+    "wrongAnswers": [],
+    "explanation": "St David’s Day, patron of Wales is celebrated on the 1st of March."
+  },
+  {
+    "question": "What name is given to the red flowers found on the battlefields of the First World War and which people wear during Remembrance Day?",
+    "options": [
+      "Blitzs",
+      "Poppies",
+      "Daffodils",
+      "Carnations"
+    ],
+    "correctAnswers": [
+      "Poppies"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Remembrance Day people wear poppies(the red flower found on the battlefields of the First World War)."
+  },
+  {
+    "question": "It is a civil offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "It is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin."
+  },
+  {
+    "question": "Where can you get contact details for all your representatives and their parties (choose TWO options)?",
+    "options": [
+      "At bookshops",
+      "Your local supermarket",
+      "Your local library",
+      "www.parliament.uk"
+    ],
+    "correctAnswers": [
+      "Your local library",
+      "www.parliament.uk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You can get contact details for all your representatives and their parties from your local library and from http://www.parliament.uk."
+  },
+  {
+    "question": "What is the Old Bailey?",
+    "options": [
+      "A Famous criminal Court",
+      "A Scottish drink",
+      "The name of a traditional Welsh cake",
+      "A British national park"
+    ],
+    "correctAnswers": [
+      "A Famous criminal Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Old Bailey is probably the most famous criminal court in the world."
+  },
+  {
+    "question": "What is the name of the oldest continuously working film studio facility in the world?",
+    "options": [
+      "Ealing Studios",
+      "Pinewood Studios Group",
+      "Pixar Animation Studios",
+      "Time Warner"
+    ],
+    "correctAnswers": [
+      "Ealing Studios"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Ealing Studios has a claim to being the oldest continuously working film studio facility in the world."
+  },
+  {
+    "question": "What are the British scientists Sir Ian Wilmot and Keith Campbell famous for?",
+    "options": [
+      "The first ‘test-tube baby’",
+      "The cloning of the first mammal, Dolly the sheep",
+      "The invention of the MRI (magnetic resonance imaging) scanner",
+      "The invention of the World Wide Web"
+    ],
+    "correctAnswers": [
+      "The cloning of the first mammal, Dolly the sheep"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Ian Wilmot and Keith Campbell led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  },
+  {
+    "question": "By which name is London’s west end known for?",
+    "options": [
+      "Theatreland",
+      "Operaland",
+      "Home of rugby",
+      "Home of golf"
+    ],
+    "correctAnswers": [
+      "Theatreland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "London’s west end is also known as ‘Theatreland’."
+  },
+  {
+    "question": "Which of the following was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition?",
+    "options": [
+      "Alan Turing",
+      "Sir Francis Drake",
+      "James VI of Scotland",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "Sir Francis Drake"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Francis Drake was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition."
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "question": "Which political party did Margaret Thatcher belong to?",
+    "options": [
+      "Green Party",
+      "Conservative Party",
+      "Liberal Democrats Party",
+      "Democratic Unionist Party"
+    ],
+    "correctAnswers": [
+      "Conservative Party"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher led the Conservative government from 1979 to 1990."
+  },
+  {
+    "question": "In which city is the Millennium Stadium located?",
+    "options": [
+      "Birmingham",
+      "Nottingham",
+      "Liverpool",
+      "Cardiff"
+    ],
+    "correctAnswers": [
+      "Cardiff"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Millennium Stadium is located in Cardiff."
+  },
+  {
+    "question": "Who lost a lot of power and influence after the Battle of Culloden in 1746?",
+    "options": [
+      "The church",
+      "Politicians",
+      "The clans",
+      "The King"
+    ],
+    "correctAnswers": [
+      "The clans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The clans lost a lot of their power and influence after Culloden. Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used."
+  },
+  {
+    "question": "What UK landmark was voted as Britain’s favourite view in 2007?",
+    "options": [
+      "Wastwater in the Lake District",
+      "Snowdon in Snowdonia",
+      "The Crown Jewels at the Tower of London",
+      "Loch Lomond in Scotland"
+    ],
+    "correctAnswers": [
+      "Wastwater in the Lake District"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 2007, television viewers voted Wastwater as Britain’s favourite view."
+  },
+  {
+    "question": "When did the development of a free press take place?",
+    "options": [
+      "1795",
+      "1685",
+      "1695",
+      "1785"
+    ],
+    "correctAnswers": [
+      "1695"
+    ],
+    "wrongAnswers": [],
+    "explanation": "From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published."
+  },
+  {
+    "question": "Which was the last successful foreign invasion of England?",
+    "options": [
+      "The Roman invasion",
+      "The Anglo-Saxon invasion",
+      "The Norman Conquest",
+      "The Viking invasion"
+    ],
+    "correctAnswers": [
+      "The Norman Conquest"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England."
+  },
+  {
+    "question": "Who was Richard Austen Butler?",
+    "options": [
+      "A British economist",
+      "A Welsh poet",
+      "A Labour MP",
+      "A Conservative MP"
+    ],
+    "correctAnswers": [
+      "A Conservative MP"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Richard Austen Butler (later Lord Butler) became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941."
+  },
+  {
+    "question": "What kind of sport is played at the Wimbledon Championships?",
+    "options": [
+      "Football",
+      "Tennis",
+      "Rugby",
+      "Cricket"
+    ],
+    "correctAnswers": [
+      "Tennis"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous tennis tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club."
+  },
+  {
+    "question": "Where was Isaac Newton from?",
+    "options": [
+      "Lincolnshire",
+      "Stratford-upon-Avon",
+      "Cardiff",
+      "Edinburgh"
+    ],
+    "correctAnswers": [
+      "Lincolnshire"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Isaac Newton was born in Lincolnshire, eastern England."
+  },
+  {
+    "question": "Under which Act was The Kingdom of Great Britain created?",
+    "options": [
+      "The Reform Act",
+      "The Act of Union",
+      "The Emancipation Act",
+      "The Butler Act"
+    ],
+    "correctAnswers": [
+      "The Act of Union"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain."
+  },
+  {
+    "question": "The Council of Europe has the power to make new laws.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The Council of Europe has NO power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights."
+  },
+  {
+    "question": "Which TWO British poets wrote about their experiences in the WWI?",
+    "options": [
+      "Lord Byron and Percy Shelley",
+      "John Keats and Alfred Lord Tennyson",
+      "Robert and Elizabeth Browning",
+      "Wilfred Owen and Siegfried Sassoon"
+    ],
+    "correctAnswers": [
+      "Wilfred Owen and Siegfried Sassoon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Wilfred Owen and Siegfried Sassoon were inspired to write about their experiences in the First World War."
+  },
+  {
+    "question": "If you are found driving while exceeding the alcohol limit you will:",
+    "options": [
+      "Not be allowed to drive again",
+      "Be taken to the hospital",
+      "Be arrested",
+      "Be taken home by the police"
+    ],
+    "correctAnswers": [
+      "Be arrested"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you are found driving while exceeding the alcohol limit you will be arrested."
+  },
+  {
+    "question": "Which TWO of the following are core values of a civil servant?",
+    "options": [
+      "Objectivity",
+      "Competitiveness",
+      "Talent",
+      "Honesty"
+    ],
+    "correctAnswers": [
+      "Objectivity",
+      "Honesty"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The core values of civil servants include: integrity, honesty, objectivity and impartiality (including being politically neutral)."
+  },
+  {
+    "question": "Which of the following countries belongs to the Commonwealth?",
+    "options": [
+      "Norway",
+      "Zimbabwe",
+      "Nauru",
+      "Algeria"
+    ],
+    "correctAnswers": [
+      "Nauru"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Nauru is a member of the Commonwealth."
+  },
+  {
+    "question": "What is the name of the first Danish king to rule in England?",
+    "options": [
+      "Canute",
+      "Kenneth MacAlpin",
+      "Henry V",
+      "Edward I"
+    ],
+    "correctAnswers": [
+      "Canute"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was Cnut, also named Canute."
+  },
+  {
+    "question": "What name was given to the members of the Women’s Social and Political Union founded in 1903?",
+    "options": [
+      "Gentry",
+      "Boers",
+      "Rebels",
+      "Suffragettes"
+    ],
+    "correctAnswers": [
+      "Suffragettes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1903 Emmeline Pankhurst helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called ‘suffragettes’."
+  },
+  {
+    "question": "It is a civil offence to owe money to someone and you might be taken to court.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Owing money to someone is a civil offence."
+  },
+  {
+    "question": "In which country of the British Empire did the Boer War take place?",
+    "options": [
+      "South Africa",
+      "India",
+      "Bangladesh",
+      "Mauritius"
+    ],
+    "correctAnswers": [
+      "South Africa"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers."
+  },
+  {
+    "question": "Robert Louis Stevenson, Graham Greene and Sir Kingsley Amis were British writers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is True."
+  },
+  {
+    "question": "Which new industries developed in the UK during the Great Depression (choose 2 answers)?",
+    "options": [
+      "The metallurgic industry",
+      "The automobile industry",
+      "The shipbuilding industry",
+      "The aviation industry"
+    ],
+    "correctAnswers": [
+      "The automobile industry",
+      "The aviation industry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1929, the world entered the ‘Great Depression’ and some parts of the UK suffered mass unemployment. The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed."
+  },
+  {
+    "question": "Which of the following is a traditional pub game?",
+    "options": [
+      "Darts",
+      "Hide and seek",
+      "Bingo",
+      "Checkers"
+    ],
+    "correctAnswers": [
+      "Darts"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Pool and darts are traditional pub games."
+  },
+  {
+    "question": "When was the Battle of Agincourt fought?",
+    "options": [
+      "1348",
+      "1415",
+      "1315",
+      "1448"
+    ],
+    "correctAnswers": [
+      "1415"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s."
+  },
+  {
+    "question": "What is the Bessemer process?",
+    "options": [
+      "An industrial process for the mass-production of iron",
+      "An industrial process for the mass-production of copper",
+      "An industrial process for the mass-production of titanium",
+      "An industrial process for the mass-production of steel"
+    ],
+    "correctAnswers": [
+      "An industrial process for the mass-production of steel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways."
+  }
+]

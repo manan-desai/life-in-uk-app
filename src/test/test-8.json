@@ -1,0 +1,341 @@
+[
+  {
+    "question": "Who was the first wife of Henry VIII?",
+    "options": [
+      "Anne Boleyn",
+      "Catherine of Aragon",
+      "Anne of Cleves",
+      "Catherine Howard"
+    ],
+    "correctAnswers": [
+      "Catherine of Aragon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Catherine of Aragon was the first wife of Henry VIII."
+  },
+  {
+    "question": "Which of the following flags is not represented in the union flag?",
+    "options": [
+      "Welsh",
+      "Scottish",
+      "English",
+      "Irish"
+    ],
+    "correctAnswers": [
+      "Welsh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Welsh flag does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England."
+  },
+  {
+    "question": "When does the Edinburgh Festival take place?",
+    "options": [
+      "Every summer",
+      "Every spring",
+      "Every winter",
+      "Every autumn"
+    ],
+    "correctAnswers": [
+      "Every summer"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer."
+  },
+  {
+    "question": "When did ‘the Concorde’ aircraft fly for the first time?",
+    "options": [
+      "In 1969",
+      "In 1970",
+      "In 1975",
+      "In 1976"
+    ],
+    "correctAnswers": [
+      "In 1969"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The ‘Concorde’, the world’s only supersonic passenger aircraft, first flew in 1969."
+  },
+  {
+    "question": "By which other name is the Conservative Party also known as?",
+    "options": [
+      "The Labour Party",
+      "The Whigs",
+      "The Green Party",
+      "The Tories"
+    ],
+    "correctAnswers": [
+      "The Tories"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The modern Conservative Party is still sometimes referred to as ‘The Tories’."
+  },
+  {
+    "question": "When was the Northern Ireland Parliament established for the first time?",
+    "options": [
+      "In 1922",
+      "In 1972",
+      "In 1998",
+      "In 1969"
+    ],
+    "correctAnswers": [
+      "In 1922"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Parliament was first established in 1922."
+  },
+  {
+    "question": "What is the opposition?",
+    "options": [
+      "The second largest party in the House of Lords",
+      "The third largest party in the House of Commons",
+      "The second largest party in the House of Commons",
+      "The third largest party in the House of Lords"
+    ],
+    "correctAnswers": [
+      "The second largest party in the House of Commons"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The second-largest party in the House of Commons is called the opposition."
+  },
+  {
+    "question": "Which two languages combined form the basis of the English language?",
+    "options": [
+      "French and Swedish",
+      "Latin and Celtic",
+      "Latin and Greek",
+      "Norman French and Anglo-Saxon"
+    ],
+    "correctAnswers": [
+      "Norman French and Anglo-Saxon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language."
+  },
+  {
+    "question": "Which THREE of the following are known to be main parts of the British government?",
+    "options": [
+      "The cabinet",
+      "The judiciary",
+      "The local organizations",
+      "The police"
+    ],
+    "correctAnswers": [
+      "The cabinet",
+      "The judiciary",
+      "The police"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, there are several different parts of government. The main ones are: the monarchy, the Parliament (the House of Commons and the House of Lords), the Prime Minister, the cabinet, the judiciary (courts), the police, the civil service and the local government."
+  },
+  {
+    "question": "When did Adolf Hitler come to power in Germany?",
+    "options": [
+      "In 1922",
+      "In 1931",
+      "In 1933",
+      "In 1942"
+    ],
+    "correctAnswers": [
+      "In 1933"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Adolf Hitler came to power in Germany in 1933."
+  },
+  {
+    "question": "Who invented the hovercraft?",
+    "options": [
+      "Sir Frank Whittle",
+      "Sir Christopher Cockerell",
+      "John Logie Baird",
+      "Sir Robert Edwards"
+    ],
+    "correctAnswers": [
+      "Sir Christopher Cockerell"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Christopher Cockerell (1910-99), a British inventor, invented the hovercraft in the 1950s."
+  },
+  {
+    "question": "Which court deals with serious criminal offences in Wales?",
+    "options": [
+      "The Sheriff Court",
+      "The Crown Court",
+      "The High Court",
+      "The Magistrates’ Court"
+    ],
+    "correctAnswers": [
+      "The Crown Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland, serious criminal offences are tried in front of a judge and a jury in a Crown Court. In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury."
+  },
+  {
+    "question": "What is the minimum age requirement to buy alcohol in a pub or night club in the UK?",
+    "options": [
+      "16 years old",
+      "18 years old",
+      "20 years old",
+      "21 years old"
+    ],
+    "correctAnswers": [
+      "18 years old"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To buy alcohol in a pub or night club you must be 18 or over, but people under that age may be allowed in some pubs with an adult."
+  },
+  {
+    "question": "What is the coin with the highest value in the UK?",
+    "options": [
+      "50p",
+      "£2",
+      "£5",
+      "£10"
+    ],
+    "correctAnswers": [
+      "£2"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The coin with the highest value in the UK is the £2 coin."
+  },
+  {
+    "question": "When were Protection Orders to protect a person from being forced into a marriage introduced in Scotland?",
+    "options": [
+      "2007",
+      "2008",
+      "2010",
+      "2011"
+    ],
+    "correctAnswers": [
+      "2011"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage. Similar Protection Orders were introduced in Scotland in November 2011."
+  },
+  {
+    "question": "Which TWO of the following are famous horse racing events in the UK?",
+    "options": [
+      "The Major Race",
+      "The Grand National",
+      "Royal Ascot",
+      "Six Nations Championship"
+    ],
+    "correctAnswers": [
+      "The Grand National",
+      "Royal Ascot"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Famous horse-racing events in the UK include Royal Ascot and the Grand National."
+  },
+  {
+    "question": "Which of the following events relates to the German bombing of London and other British cities at night time during the World War II?",
+    "options": [
+      "The Bombing",
+      "The German raid",
+      "The Blitz",
+      "The Axis"
+    ],
+    "correctAnswers": [
+      "The Blitz"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Blitz relates to the German bombing of London and other British cities at night time during the World War II"
+  },
+  {
+    "question": "Who wrote an oratorio called ‘Messiah’, which is regularly sung by choirs at Easter time?",
+    "options": [
+      "George Frederick Handel",
+      "Sir Edward Elgar",
+      "Gustav Holst",
+      "Henry Purcell"
+    ],
+    "correctAnswers": [
+      "George Frederick Handel"
+    ],
+    "wrongAnswers": [],
+    "explanation": "George Frederick Handel wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time."
+  },
+  {
+    "question": "When did hereditary peers lose the automatic right to attend the House of Lords?",
+    "options": [
+      "1985",
+      "1995",
+      "1989",
+      "1999"
+    ],
+    "correctAnswers": [
+      "1999"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords."
+  },
+  {
+    "question": "Which of the following is England’s largest national park?",
+    "options": [
+      "The Lake District",
+      "Snowdonia",
+      "South Downs",
+      "Loch Lomond and the Trossachs"
+    ],
+    "correctAnswers": [
+      "The Lake District"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Lake District is England’s largest national park."
+  },
+  {
+    "question": "Which of the following social changes took place during the ‘Swinging Sixties’?",
+    "options": [
+      "The position of women in the workplace was improved",
+      "Everyone could study in the University for free",
+      "People from the same gender were allowed to get married",
+      "All musical events were free"
+    ],
+    "correctAnswers": [
+      "The position of women in the workplace was improved"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The position of women in the workplace was improved during the ‘Swinging Sixties’."
+  },
+  {
+    "question": "Where was Emmeline Pankhurst born?",
+    "options": [
+      "Liverpool",
+      "Kent",
+      "Manchester",
+      "Chester"
+    ],
+    "correctAnswers": [
+      "Manchester"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Emmeline Pankhurst was born in Manchester in 1858."
+  },
+  {
+    "question": "Which of the following is a traditional English food?",
+    "options": [
+      "French fries",
+      "Roast beef",
+      "Haggis",
+      "Ulster fry"
+    ],
+    "correctAnswers": [
+      "Roast beef"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Roast beef is a traditional English food."
+  },
+  {
+    "question": "What are pantomimes based on?",
+    "options": [
+      "Fairy stories",
+      "Drama stories",
+      "Traditional stories",
+      "War stories"
+    ],
+    "correctAnswers": [
+      "Fairy stories"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Pantomimes are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences."
+  }
+]

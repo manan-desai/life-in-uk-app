@@ -1,0 +1,336 @@
+[
+  {
+    "question": "How often are the general elections held in the UK?",
+    "options": [
+      "Every year",
+      "Every 2 years",
+      "Every 4 years",
+      "Every 5 years"
+    ],
+    "correctAnswers": [
+      "Every 5 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "MPs are elected at a General Election, which is held at least every five years."
+  },
+  {
+    "question": "Where is the Grand National horse racing event celebrated?",
+    "options": [
+      "In London",
+      "In Aintree",
+      "In Bedford",
+      "In Slough"
+    ],
+    "correctAnswers": [
+      "In Aintree"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Grand National horse racing event is celebrated in Aintree near Liverpool."
+  },
+  {
+    "question": "What was Charles Chaplin famous for?",
+    "options": [
+      "Special effects movies",
+      "Horror movies",
+      "Silent movies",
+      "Murder-mystery movies"
+    ],
+    "correctAnswers": [
+      "Silent movies"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Charles (Charlie) Chaplin became famous in silent movies for his tramp character and was one of many British actors to make a career in Hollywood."
+  },
+  {
+    "question": "What was Boudicca, the queen of the Iceni in what is now eastern England, known for?",
+    "options": [
+      "Her rebellion against the Vikings",
+      "Her rebellion against the Romans",
+      "Her rebellion against the Normans",
+      "Her rebellion against the Anglo-Saxons"
+    ],
+    "correctAnswers": [
+      "Her rebellion against the Romans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England."
+  },
+  {
+    "question": "What percentage of the British population has a parent or grandparent born outside of the UK as a result of post-war immigration?",
+    "options": [
+      "Nearly 5% of the population",
+      "Nearly 10% of the population",
+      "Nearly 15% of the population",
+      "Nearly 25% of the population"
+    ],
+    "correctAnswers": [
+      "Nearly 10% of the population"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK."
+  },
+  {
+    "question": "When was the hovercraft invented?",
+    "options": [
+      "In the 1920s",
+      "In the 1930s",
+      "In the 1940s",
+      "In the 1950s"
+    ],
+    "correctAnswers": [
+      "In the 1950s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Christopher Cockerell (1910-99), a British inventor, invented the hovercraft in the 1950s."
+  },
+  {
+    "question": "Who is the author of the famous play ‘Macbeth’?",
+    "options": [
+      "Alexander Thomas",
+      "William Shakespeare",
+      "Harold Pinter",
+      "Evelyn Waugh"
+    ],
+    "correctAnswers": [
+      "William Shakespeare"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Macbeth is a famous play by William Shakespeare."
+  },
+  {
+    "question": "What animal was cloned by scientists Sir Ian Wilmot and Keith Campbell?",
+    "options": [
+      "A cow",
+      "A rabbit",
+      "A cat",
+      "A sheep"
+    ],
+    "correctAnswers": [
+      "A sheep"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1996, two British scientists, Sir Ian Wilmot (1944-) and Keith Campbell (1954-2012), led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  },
+  {
+    "question": "What is the name of the building where the Northern Ireland Assembly meet?",
+    "options": [
+      "Westminster",
+      "Holyrood",
+      "Senedd",
+      "Stormont"
+    ],
+    "correctAnswers": [
+      "Stormont"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly building is known as Stormont."
+  },
+  {
+    "question": "Which of the following is NOT a function of the House of Lords?",
+    "options": [
+      "Suggest amendments to existing laws",
+      "Check laws that have been passed by the House of Commons",
+      "Propose new laws",
+      "Cancel existing laws"
+    ],
+    "correctAnswers": [
+      "Cancel existing laws"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The House of Lords can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the people."
+  },
+  {
+    "question": "Which of the following is NOT a World Heritage Site?",
+    "options": [
+      "The London Eye",
+      "Stonehenge",
+      "The forts of Housesteads and Vindolanda",
+      "The Houses of Parliament"
+    ],
+    "correctAnswers": [
+      "The London Eye"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The London Eye is not a World Heritage Site."
+  },
+  {
+    "question": "Which famous murder-mystery play has been running in the west end since 1952 and has had the longest initial run of any show in history?",
+    "options": [
+      "The Phantom of the Opera",
+      "The Mousetrap",
+      "Evita",
+      "Jesus Christ Superstar"
+    ],
+    "correctAnswers": [
+      "The Mousetrap"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the west end since 1952 and has had the longest initial run of any show in history."
+  },
+  {
+    "question": "When was the Giant’s Causeway formed?",
+    "options": [
+      "20 million years ago",
+      "40 million years ago",
+      "50 million years ago",
+      "15 million years ago"
+    ],
+    "correctAnswers": [
+      "50 million years ago"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Giant’s Causeway was formed about 50 million years ago."
+  },
+  {
+    "question": "Who was the first person to sail single-handed around the world without stopping?",
+    "options": [
+      "Sir Francis Drake",
+      "Dame Ellen MacArthur",
+      "Sir Robin Knox-Johnston",
+      "Sir Francis Chichester"
+    ],
+    "correctAnswers": [
+      "Sir Robin Knox-Johnston"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A British sailor, Sir Francis Chichester, was the first person to sail singlehanded around the world, in 1966/67. Two years later, Sir Robin Knox- Johnston became the first person to do this without stopping."
+  },
+  {
+    "question": "What British writer created the fictional detective Sherlock Holmes?",
+    "options": [
+      "Sir Kingsley Amis",
+      "Robert Louis Stevenson",
+      "Sir Arthur Conan Doyle",
+      "Jane Austen"
+    ],
+    "correctAnswers": [
+      "Sir Arthur Conan Doyle"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Arthur Conan Doyle was a Scottish doctor and writer. He was best known for his stories about Sherlock Holmes, who was one of the first fictional detectives."
+  },
+  {
+    "question": "How can you visit the Senedd?",
+    "options": [
+      "Contacting the Education Service",
+      "Contacting the Senedd Booking Service",
+      "Contacting an MP",
+      "Contacting an MLA"
+    ],
+    "correctAnswers": [
+      "Contacting the Senedd Booking Service"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To book guided tours or seats in the public galleries for the Senedd you can contact the Senedd Booking Service on 0300 200 6565, email contact@senedd.wales or visit www.senedd.wales for an online booking form."
+  },
+  {
+    "question": "How were Elizabeth I and ‘Mary, Queen of Scots’ related?",
+    "options": [
+      "They were cousins",
+      "They were sisters",
+      "They were mother and daughter",
+      "They were not related"
+    ],
+    "correctAnswers": [
+      "They were cousins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘Mary, Queen of Scots’ was Elizabeth I’s cousin."
+  },
+  {
+    "question": "Choose the correct answer. The Middle Ages were:",
+    "options": [
+      "A period of peace in Britain",
+      "A period where liberal ideas were introduced in Britain",
+      "A period of constant war",
+      "A period where new ideas about politics and philosophy were introduced in Britain"
+    ],
+    "correctAnswers": [
+      "A period of constant war"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Middle Ages (or the medieval period) was a time of almost constant war."
+  },
+  {
+    "question": "What does the NATO stand for?",
+    "options": [
+      "The North American Transparent Organisation",
+      "The North Atlantic Trust Organisation",
+      "The North Atlantic Treaty Organisation",
+      "The North American Treaty Organisation"
+    ],
+    "correctAnswers": [
+      "The North Atlantic Treaty Organisation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "NATO stands for The North Atlantic Treaty Organisation."
+  },
+  {
+    "question": "What characterised the people from the Bronze Age?",
+    "options": [
+      "They were accomplished metalworkers",
+      "They were farmers who lived in large villages",
+      "They were nomads and hunters",
+      "They were divided into clans"
+    ],
+    "correctAnswers": [
+      "They were accomplished metalworkers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The people of the Bronze Age were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons."
+  },
+  {
+    "question": "Where is the National Horseracing Museum located?",
+    "options": [
+      "In Newmarket, Suffolk",
+      "In St Andrews, Scotland",
+      "In Richmond, London",
+      "In Aintree, near Liverpool"
+    ],
+    "correctAnswers": [
+      "In Newmarket, Suffolk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Horseracing Museum is located in Newmarket, Suffolk."
+  },
+  {
+    "question": "In which of the following matters the Scottish Parliament CANNOT legislate?",
+    "options": [
+      "Health",
+      "Education",
+      "Immigration",
+      "Planning"
+    ],
+    "correctAnswers": [
+      "Immigration"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The matters on which the Scottish Parliament can legislate include: civil and criminal law, health, education, planning and additional tax-raising powers."
+  },
+  {
+    "question": "Which of the following is a popular showcase of mainly theatre and comedy performances and the biggest and most well-known festival that takes place during the Edinburgh Festival?",
+    "options": [
+      "The Proms",
+      "The Fringe",
+      "The Festival of Lights",
+      "The Aldeburgh Festival"
+    ],
+    "correctAnswers": [
+      "The Fringe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Fringe is a showcase of mainly theatre and comedy performances. It often shows experimental work.The biggest and most well-known being the Edinburgh Festival Fringe."
+  },
+  {
+    "question": "Does Britain have a constitutional monarchy?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "Yes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK has a constitutional monarchy."
+  }
+]

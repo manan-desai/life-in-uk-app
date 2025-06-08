@@ -1,0 +1,338 @@
+[
+  {
+    "question": "Elizabeth I was the younger daughter of which King?",
+    "options": [
+      "James I",
+      "William the Great",
+      "Henry VII",
+      "Henry VIII"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth I was the younger daughter of Henry VIII."
+  },
+  {
+    "question": "When did the First World War end?",
+    "options": [
+      "9th of November 1918",
+      "11th of November 1918",
+      "9th of December 1918",
+      "11th of December 1918"
+    ],
+    "correctAnswers": [
+      "11th of November 1918"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies."
+  },
+  {
+    "question": "Which British scientist was awarded a Nobel Prize for discovering the structure of the DNA molecule?",
+    "options": [
+      "Alan Turing",
+      "Sir Frank Whittle",
+      "Sir Christopher Cockrell",
+      "Francis Crick"
+    ],
+    "correctAnswers": [
+      "Francis Crick"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. Francis Crick (1916-2004), one of those awarded the Nobel Prize for this discovery, was British."
+  },
+  {
+    "question": "When did people learn how to make bronze?",
+    "options": [
+      "Around 3,000 years ago",
+      "Around 4,000 years ago",
+      "Around 5,000 years ago",
+      "Around 2,000 years ago"
+    ],
+    "correctAnswers": [
+      "Around 4,000 years ago"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Around 4,000 years ago, people learned to make bronze. We call this period the Bronze Age."
+  },
+  {
+    "question": "Who was Boudicca?",
+    "options": [
+      "One of the tribal leaders who fought against the Romans",
+      "One of the architects who built Hadrian’s Wall",
+      "A Viking king",
+      "One of the tribal leaders who fought against the Vikings"
+    ],
+    "correctAnswers": [
+      "One of the tribal leaders who fought against the Romans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England."
+  },
+  {
+    "question": "What actions did Henry VII take after his victory in the Wars of the Roses?",
+    "options": [
+      "Reduced the power of the nobles",
+      "Broke away with the Church of Rome",
+      "Converted Britain to the Christianism",
+      "Increased the power of the nobles"
+    ],
+    "correctAnswers": [
+      "Reduced the power of the nobles"
+    ],
+    "wrongAnswers": [],
+    "explanation": "After his victory in the Wars of the Roses, Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles."
+  },
+  {
+    "question": "Who became Prime Minister of the UK in May 2010?",
+    "options": [
+      "David Cameron",
+      "Gordon Brown",
+      "Tony Blair",
+      "Ed Miliband"
+    ],
+    "correctAnswers": [
+      "David Cameron"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister."
+  },
+  {
+    "question": "How were Elizabeth I and ‘Mary, Queen of Scots’ related?",
+    "options": [
+      "They were cousins",
+      "They were sisters",
+      "They were mother and daughter",
+      "They were not related"
+    ],
+    "correctAnswers": [
+      "They were cousins"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mary, Queen of Scots’ was Elizabeth I’s cousin."
+  },
+  {
+    "question": "Choose the correct answer, the Middle Ages was:",
+    "options": [
+      "A period of peace in Britain",
+      "A period where liberal ideas were introduced in Britain",
+      "A period of constant war",
+      "A period where new ideas about politics and philosophy were introduced in Britain"
+    ],
+    "correctAnswers": [
+      "A period of constant war"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Middle Ages (or the medieval period) was a time of almost constant war."
+  },
+  {
+    "question": "What does the acronym NATO stand for?",
+    "options": [
+      "The North American Transparent Organisation",
+      "The North Atlantic Trust Organisation",
+      "The North Atlantic Treaty Organisation",
+      "The North American Treaty Organisation"
+    ],
+    "correctAnswers": [
+      "The North Atlantic Treaty Organisation"
+    ],
+    "wrongAnswers": [],
+    "explanation": "NATO stands for The North Atlantic Treaty Organisation."
+  },
+  {
+    "question": "What characterised the people from the Bronze Age?",
+    "options": [
+      "They were accomplished metalworkers",
+      "They were farmers who lived in large villages",
+      "They were nomads and hunters",
+      "They were divided into clans"
+    ],
+    "correctAnswers": [
+      "They were accomplished metalworkers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The people of the Bronze Age were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons."
+  },
+  {
+    "question": "What is the name of the event that refers to the 6 June 1944 when Allied Forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II?",
+    "options": [
+      "D-Day",
+      "Domesday",
+      "A-Day",
+      "Allies Day"
+    ],
+    "correctAnswers": [
+      "D-Day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "‘D-Day’ refers to the 6th of June 1944, when allied forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II."
+  },
+  {
+    "question": "Which British Prime Minister led the Conservative government from 1979 to 1990?",
+    "options": [
+      "John Major",
+      "Harold Macmillan",
+      "Margaret Thatcher",
+      "Sir Alec Douglas-Home"
+    ],
+    "correctAnswers": [
+      "Margaret Thatcher"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990."
+  },
+  {
+    "question": "Which of the following civilisations is known for having built roads and public buildings, creating a structure of law and having introduced new plants and animals in Britain?",
+    "options": [
+      "The Romans",
+      "The Vikings",
+      "The Normans",
+      "The Germans"
+    ],
+    "correctAnswers": [
+      "The Romans"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals."
+  },
+  {
+    "question": "What marked the beginning of what is called ‘constitutional monarchy’?",
+    "options": [
+      "The laws passed after the Glorious Revolution",
+      "A speech given by the King",
+      "The emergence of new ideas about politics, philosophy and science",
+      "The development of the Bessemer process"
+    ],
+    "correctAnswers": [
+      "The laws passed after the Glorious Revolution"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The laws passed after the Glorious Revolution are the beginning of what is called ‘constitutional monarchy’."
+  },
+  {
+    "question": "When was the Turing machine discovered?",
+    "options": [
+      "In the 1920s",
+      "In the 1930s",
+      "In the 1940s",
+      "In the 1950s"
+    ],
+    "correctAnswers": [
+      "In the 1930s"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s."
+  },
+  {
+    "question": "During which period were the House of Lords and House of Commons established?",
+    "options": [
+      "Middle Ages",
+      "Iron Age",
+      "The Roman Invasion",
+      "The Anglo-Saxon Invasion"
+    ],
+    "correctAnswers": [
+      "Middle Ages"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as Houses were established. These were the House of the Commons on the House of the Lords."
+  },
+  {
+    "question": "How many years did Queen Victoria reign for?",
+    "options": [
+      "Only two years",
+      "Almost 64 years",
+      "Less than two years",
+      "Almost 50 years"
+    ],
+    "correctAnswers": [
+      "Almost 64 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years."
+  },
+  {
+    "question": "What is the name of Admiral Nelson’s ship?",
+    "options": [
+      "HMS Victory",
+      "Golden Hind",
+      "Canute",
+      "Grimsby"
+    ],
+    "correctAnswers": [
+      "HMS Victory"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Admiral Nelson’s ship was known as the HMS Victory."
+  },
+  {
+    "question": "What are the British scientists Sir Ian Wilmot and Keith Campbell famous for?",
+    "options": [
+      "The first ‘test-tube baby’",
+      "The cloning of the first mammal, Dolly the sheep",
+      "The invention of the MRI (magnetic resonance imaging) scanner",
+      "The invention of the World Wide Web"
+    ],
+    "correctAnswers": [
+      "The cloning of the first mammal, Dolly the sheep"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Ian Wilmot and Keith Campbell led a team which was the first to succeed in cloning a mammal, Dolly the sheep."
+  },
+  {
+    "question": "Which of the following was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition?",
+    "options": [
+      "Alan Turing",
+      "Sir Francis Drake",
+      "James VI of Scotland",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "Sir Francis Drake"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Francis Drake was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition."
+  },
+  {
+    "question": "Who was the inventor of the World Wide Web?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Sir Peter Mansfield",
+      "Sir Ian Wilmot",
+      "Sir Bernard Lovell"
+    ],
+    "correctAnswers": [
+      "Sir Tim Berners-Lee"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The inventor of the World Wide Web, Sir Tim Berners-Lee (1955-), is British. Information was successfully transferred via the web for the first time on 25 December 1990."
+  },
+  {
+    "question": "When did the Wars of the Roses start?",
+    "options": [
+      "1388",
+      "1455",
+      "1462",
+      "1478"
+    ],
+    "correctAnswers": [
+      "1455"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1455, a civil war was begun to decide who should be king of England. It was fought between the supporters of two families: the House of Lancaster and the House of York. This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose."
+  },
+  {
+    "question": "When did the UK join the European Economic Community (EEC)?",
+    "options": [
+      "In 1957",
+      "In 1963",
+      "In 1973",
+      "In 1977"
+    ],
+    "correctAnswers": [
+      "In 1973"
+    ],
+    "wrongAnswers": [],
+    "explanation": "At first the UK did not wish to join the EEC but it eventually did so in 1973."
+  }
+]

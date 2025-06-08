@@ -1,0 +1,335 @@
+[
+  {
+    "question": "What are two responsibilities that you will have as a British citizen or permanent resident of the UK?",
+    "options": [
+      "To look after the area in which you live and the environment",
+      "To look after yourself and your family",
+      "To stay in the UK forever",
+      "To promote work in your local community"
+    ],
+    "correctAnswers": [
+      "To look after the area in which you live and the environment",
+      "To look after yourself and your family"
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you wish to be a permanent resident or citizen of the UK, you should: look after yourself and your family, look after the area in which you live and the environment, respect and obey the law, respect the rights of others, including their right to their own opinions and treat others with fairness."
+  },
+  {
+    "question": "Where is Big Ben located?",
+    "options": [
+      "Buckingham Palace",
+      "The Tower of London",
+      "Trafalgar Square",
+      "The Houses of the Parliament"
+    ],
+    "correctAnswers": [
+      "The Houses of the Parliament"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Big Ben is the nickname for the great bell of the clock at the Houses of Parliament in London."
+  },
+  {
+    "question": "When were men and women given the right to vote at the age of 21?",
+    "options": [
+      "1918",
+      "1903",
+      "1928",
+      "1923"
+    ],
+    "correctAnswers": [
+      "1928"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1928, women were given the right to vote at the age of 21, the same as men."
+  },
+  {
+    "question": "Where is the UK geographically located?",
+    "options": [
+      "South west of Europe",
+      "North east of Europe",
+      "North west of Europe",
+      "South east of Europe"
+    ],
+    "correctAnswers": [
+      "North west of Europe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is located in the north west of Europe."
+  },
+  {
+    "question": "Who is the patron Saint of Scotland?",
+    "options": [
+      "St David",
+      "St Patrick",
+      "St George",
+      "St Andrew"
+    ],
+    "correctAnswers": [
+      "St Andrew"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The patron Saint of Scotland is St Andrew."
+  },
+  {
+    "question": "Which two houses fought in the Wars of the Roses?",
+    "options": [
+      "The House of Chester",
+      "The House of York",
+      "The House of Lancaster",
+      "The House of Newcastle"
+    ],
+    "correctAnswers": [
+      "The House of York",
+      "The House of Lancaster"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Wars of the Roses were fought between the supporters of two families: the House of Lancaster and the House of York."
+  },
+  {
+    "question": "The Bill of Rights of 1689 confirmed the right to vote for all adult men.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king’s power."
+  },
+  {
+    "question": "What is the Cenotaph?",
+    "options": [
+      "A flower",
+      "A Christian church",
+      "A war memorial",
+      "A theatre"
+    ],
+    "correctAnswers": [
+      "A war memorial"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Cenotaph is a war memorial and it is the site of the annual Remembrance Day service attended by the King, politicians and foreign ambassadors."
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": [
+      "Mary Stuart",
+      "Theresa May",
+      "Margaret Thatcher",
+      "Florence Nightingale"
+    ],
+    "correctAnswers": [
+      "Margaret Thatcher"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Margaret Thatcher was the first woman Prime Minister of the UK."
+  },
+  {
+    "question": "Who chairs the debates at the House of Commons?",
+    "options": [
+      "A bishop",
+      "The Prime Minister",
+      "The Speaker",
+      "The archbishop of Canterbury"
+    ],
+    "correctAnswers": [
+      "The Speaker"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Debates in the House of Commons are chaired by the Speaker."
+  },
+  {
+    "question": "Who was the captain of the English football team that won the World Cup in 1966?",
+    "options": [
+      "Sir Roger Bannister",
+      "Sir Jackie Stewart",
+      "Sir Ian Botham",
+      "Bobby Moore"
+    ],
+    "correctAnswers": [
+      "Bobby Moore"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bobby Moore captained the English football team that won the World Cup in 1966."
+  },
+  {
+    "question": "When did the English defeat the Spanish Armada?",
+    "options": [
+      "1466",
+      "1066",
+      "1254",
+      "1588"
+    ],
+    "correctAnswers": [
+      "1588"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1588 the English defeated the Spanish Armada."
+  },
+  {
+    "question": "Anyone can make a complaint about the police by writing to the Chief Constable of the police force involved.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is TRUE."
+  },
+  {
+    "question": "What is the minimum age required to serve on a jury?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "correctAnswers": [
+      "18"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Anyone who is on the electoral register and is aged 18 to 70 can be asked to serve on a jury."
+  },
+  {
+    "question": "How is a jury selected?",
+    "options": [
+      "From the NHS registration system",
+      "Randomly from the electoral register",
+      "Alphabetically from the telephone directory",
+      "From a postcode selection"
+    ],
+    "correctAnswers": [
+      "Randomly from the electoral register"
+    ],
+    "wrongAnswers": [],
+    "explanation": "As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 can be asked to do this."
+  },
+  {
+    "question": "What is a bank holiday?",
+    "options": [
+      "A public holiday when banks are open all day",
+      "A public holiday for people working in banks",
+      "An additional day off that every worker in the UK is entitled to",
+      "A public holiday when banks and many other businesses are closed for the day"
+    ],
+    "correctAnswers": [
+      "A public holiday when banks and many other businesses are closed for the day"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are public holidays each year called bank holidays, when banks and many other businesses are closed for the day."
+  },
+  {
+    "question": "What will you be given to vote before a general election takes place?",
+    "options": [
+      "A ballot slip",
+      "A poll card",
+      "A voting slip",
+      "A poll tax relief"
+    ],
+    "correctAnswers": [
+      "A poll card"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Before the election you will be sent a poll card."
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Solicitors’ charges are usually based on how much time they spend on a case",
+      "Solicitors’ charges are usually based on the nature of a case and its importance"
+    ],
+    "correctAnswers": [
+      "Solicitors’ charges are usually based on how much time they spend on a case"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Solicitors’ charges are usually based on how much time they spend of a case."
+  },
+  {
+    "question": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+    "options": [
+      "Television",
+      "Internet",
+      "Newspapers",
+      "Radio"
+    ],
+    "correctAnswers": [
+      "Television",
+      "Radio"
+    ],
+    "wrongAnswers": [],
+    "explanation": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints."
+  },
+  {
+    "question": "Which of the following territories is a Crown dependency but is NOT part of the UK?",
+    "options": [
+      "Northern Ireland",
+      "Wales",
+      "The Channel Islands",
+      "Scotland"
+    ],
+    "correctAnswers": [
+      "The Channel Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Channel Islands is a British overseas territory linked to the UK, but it is not part of it."
+  },
+  {
+    "question": "What did Sir Frank Whittle invent in the 1930s?",
+    "options": [
+      "Radar",
+      "Hovercraft",
+      "Jet engine",
+      "Ballpoint pen"
+    ],
+    "correctAnswers": [
+      "Jet engine"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The jet engine was developed in Britain in the 1930s by Sir Frank Whittle."
+  },
+  {
+    "question": "Who wrote ‘The Daffodils’?",
+    "options": [
+      "William Blake",
+      "Robert Browning",
+      "Lord Byron",
+      "William Wordsworth"
+    ],
+    "correctAnswers": [
+      "William Wordsworth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The British poet William Wordsworth wrote ‘The Daffodils’."
+  },
+  {
+    "question": "Who was given the title of Lord Protector?",
+    "options": [
+      "Charles I",
+      "Charles II",
+      "Winston Churchill",
+      "Oliver Cromwell"
+    ],
+    "correctAnswers": [
+      "Oliver Cromwell"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Oliver Cromwell was given the title of Lord Protector and ruled until his death in 1658."
+  },
+  {
+    "question": "What are the 40 days before Easter called?",
+    "options": [
+      "Diwali",
+      "Lent",
+      "Hannukah",
+      "Vaisakhi"
+    ],
+    "correctAnswers": [
+      "Lent"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The 40 days before Easter are known as Lent."
+  }
+]

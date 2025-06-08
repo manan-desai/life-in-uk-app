@@ -1,0 +1,327 @@
+[
+  {
+    "question": "Where does the UK Parliament sit?",
+    "options": [
+      "Westminster",
+      "Stormont",
+      "Holyrood",
+      "Senedd"
+    ],
+    "correctAnswers": [
+      "Westminster"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UK is governed by the parliament sitting in Westminster."
+  },
+  {
+    "question": "When did King Edward I of England introduced the Statute of Rhuddlan by which Wales annexed to the Crown of England?",
+    "options": [
+      "In 1284",
+      "In 1235",
+      "In 1304",
+      "In 1340"
+    ],
+    "correctAnswers": [
+      "In 1284"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England."
+  },
+  {
+    "question": "Which of the following public services can be controlled by the devolved administrations?",
+    "options": [
+      "Defence",
+      "Immigration",
+      "Foreign Affairs",
+      "Education"
+    ],
+    "correctAnswers": [
+      "Education"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Some public services, such as education, are controlled by the devolved administrations."
+  },
+  {
+    "question": "The Senedd has been suspended on a few occasions:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Northern Ireland Assembly has been suspended on a few occasions."
+  },
+  {
+    "question": "The settlements of Scottish and English Protestants in Ulster (the northern province of Ireland) during the reigns of Elizabeth I and James I, who took over the land from Catholic landholders is known as:",
+    "options": [
+      "Plantations",
+      "Cavaliers",
+      "Puritans",
+      "Pale"
+    ],
+    "correctAnswers": [
+      "Plantations"
+    ],
+    "wrongAnswers": [],
+    "explanation": "These settlements were known as plantations."
+  },
+  {
+    "question": "Which of the following jobs is usually unpaid in England, Wales and Scotland?",
+    "options": [
+      "Magistrates and Justices of the Peace",
+      "Civil Lawyers",
+      "Wardens",
+      "Policeman"
+    ],
+    "correctAnswers": [
+      "Magistrates and Justices of the Peace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Scotland, Magistrates and Justices of the Peace (JPs) are members of the local community and they usually work unpaid and do not need legal qualifications."
+  },
+  {
+    "question": "Which of the following is a traditional character of the pantomimes?",
+    "options": [
+      "The gentleman",
+      "The Dame",
+      "A unicorn",
+      "A mermaid"
+    ],
+    "correctAnswers": [
+      "The Dame"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the traditional characters of the pantomimes is the Dame, a woman played by a man."
+  },
+  {
+    "question": "In the UK, most people live in towns and cities and very small parts of Britain are countryside:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Most people live in towns and cities but much of Britain is still countryside."
+  },
+  {
+    "question": "What was the symbol of Lancaster during the Wars of the Roses?",
+    "options": [
+      "A Red Rose",
+      "A White Rose",
+      "A Green Rose",
+      "A Purple Rose"
+    ],
+    "correctAnswers": [
+      "A Red Rose"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Wars of the Roses, the symbol of Lancaster was a red rose."
+  },
+  {
+    "question": "After King Alfred the Great defeated the Vikings, many of the Viking invaders stayed in Britain, especially in the east and north of England in an area called:",
+    "options": [
+      "Bayeux",
+      "Stonehenge",
+      "Danelaw",
+      "Canute"
+    ],
+    "correctAnswers": [
+      "Danelaw"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as the Danelaw."
+  },
+  {
+    "question": "The Reform Act of 1832 increased the number of people with the right to vote:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. The Reform Act of 1832 had greatly increased the number of people with the right to vote."
+  },
+  {
+    "question": "Which of the following is a famous example of stained glass?",
+    "options": [
+      "York Minster",
+      "Bayeux",
+      "Vindolanda",
+      "Housesteads"
+    ],
+    "correctAnswers": [
+      "York Minster"
+    ],
+    "wrongAnswers": [],
+    "explanation": "York Minster is a famous example of stained glass used on the windows of some cathedrals during the middle ages."
+  },
+  {
+    "question": "Who is the head of the Church of England?",
+    "options": [
+      "The Pope",
+      "The monarch",
+      "The Archbishop of Canterbury",
+      "The Prime Minister"
+    ],
+    "correctAnswers": [
+      "The monarch"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The monarch is the head of the Church of England."
+  },
+  {
+    "question": "Who is responsible for managing relationships with foreign countries?",
+    "options": [
+      "The Chancellor of the Exchequer",
+      "The Foreign Secretary",
+      "The Home Secretary",
+      "The King"
+    ],
+    "correctAnswers": [
+      "The Foreign Secretary"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Foreign Secretary is responsible for managing relationships with foreign countries."
+  },
+  {
+    "question": "Which TWO of the following poems are from the Middle Ages?",
+    "options": [
+      "The Canterbury Tales",
+      "Paradise Lost",
+      "Sir Gawain and the Green Knight",
+      "MacBeth"
+    ],
+    "correctAnswers": [
+      "The Canterbury Tales",
+      "Sir Gawain and the Green Knight"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Poems which survive from the Middle Ages include Chaucer’s Canterbury Tales and a poem called Sir Gawain and the Green Knight, about one of the knights at the court of King Arthur."
+  },
+  {
+    "question": "If a husband forces his wife to have sex, he can be charged with rape:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Any man who forces a woman to have sex, including a woman’s husband, can be charged with rape."
+  },
+  {
+    "question": "Who defeated the English at the Battle of Bannockburn in 1314?",
+    "options": [
+      "Robert the Bruce",
+      "King Edward I",
+      "Admiral Nelson",
+      "The Normans"
+    ],
+    "correctAnswers": [
+      "Robert the Bruce"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn."
+  },
+  {
+    "question": "In the UK, owners are responsible for keeping their dog under control and for cleaning up after the animal in public places:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "How long did the Hundred Years War fought between England and France last for?",
+    "options": [
+      "100 years",
+      "101 years",
+      "115 years",
+      "116 years"
+    ],
+    "correctAnswers": [
+      "116 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "English kings fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years)."
+  },
+  {
+    "question": "When did Gordon Brown take over as Prime Minister from his predecessor Tony Blair?",
+    "options": [
+      "In 2007",
+      "In 2008",
+      "In 2009",
+      "In 2010"
+    ],
+    "correctAnswers": [
+      "In 2007"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Gordon Brown took over as Prime Minister from Tony Blair in 2007."
+  },
+  {
+    "question": "The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in French.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic."
+  },
+  {
+    "question": "Where in England was one of the Anglo-Saxon kings buried with treasure and armour?",
+    "options": [
+      "Maiden Castle, Dorset",
+      "Sutton Hoo, Suffolk",
+      "Conwy Castle, Wales",
+      "The Tower of London"
+    ],
+    "correctAnswers": [
+      "Sutton Hoo, Suffolk"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The burial place of one of the Anglo-Saxon kings was at Sutton Hoo in modern Suffolk."
+  },
+  {
+    "question": "Which British writer wrote satirical novels including Brideshead Revisited?",
+    "options": [
+      "Evelyn Waugh",
+      "Sir Arthur Conan Doyle",
+      "Sir Kingsley Amis",
+      "Thomas Hardy"
+    ],
+    "correctAnswers": [
+      "Evelyn Waugh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Evelyn Waugh wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited."
+  },
+  {
+    "question": "Where is the best preserved prehistoric village in northern Europe located?",
+    "options": [
+      "Cardiff, Wales",
+      "Edinburgh, the capital of the Scotland",
+      "Orkney, off the north coast of Scotland",
+      "The Isle of Wight"
+    ],
+    "correctAnswers": [
+      "Orkney, off the north coast of Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe."
+  }
+]

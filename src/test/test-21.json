@@ -1,0 +1,337 @@
+[
+  {
+    "question": "Which British explorer mapped the coast of Australia?",
+    "options": [
+      "Sake Dean Mahomet",
+      "Richard Arkwright",
+      "Captain James Cook",
+      "Admiral Nelson"
+    ],
+    "correctAnswers": [
+      "Captain James Cook"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Captain James Cook mapped the coast of Australia and a few colonies were established there."
+  },
+  {
+    "question": "How many members does a jury have in Scotland?",
+    "options": [
+      "15",
+      "10",
+      "14",
+      "16"
+    ],
+    "correctAnswers": [
+      "15"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members."
+  },
+  {
+    "question": "Who can get a 50% discount on their TV licences?",
+    "options": [
+      "Blind people",
+      "People over 65",
+      "People over 75",
+      "People on benefits"
+    ],
+    "correctAnswers": [
+      "Blind people"
+    ],
+    "wrongAnswers": [],
+    "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount."
+  },
+  {
+    "question": "Which British city is famous for its celebration of Diwali?",
+    "options": [
+      "London",
+      "Newcastle upon Tyne",
+      "Leicester",
+      "Manchester"
+    ],
+    "correctAnswers": [
+      "Leicester"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a famous celebration of Diwali in Leicester."
+  },
+  {
+    "question": "Which of the following British actresses has NOT won an Oscar?",
+    "options": [
+      "Tilda Swinton",
+      "Dame Judi Dench",
+      "Emily Watson",
+      "Kate Winslet"
+    ],
+    "correctAnswers": [
+      "Emily Watson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton. Emily Watson has not won an oscar."
+  },
+  {
+    "question": "Which of the following sports has a long association with royalty?",
+    "options": [
+      "Rugby",
+      "Horse racing",
+      "Formula 1",
+      "Sailing"
+    ],
+    "correctAnswers": [
+      "Horse racing"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Horse racing has a long association with royalty."
+  },
+  {
+    "question": "Hanukkah is a Jewish festival celebrated to remember the Jews’ struggle for religious freedom.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Hanukkah is in November or December and is celebrated for eight days. It is to remember the Jews’ struggle for religious freedom."
+  },
+  {
+    "question": "How can you visit the Northern Ireland Assembly (choose TWO options)?",
+    "options": [
+      "Contacting the Education Service",
+      "Contacting an MSP",
+      "Contacting an MLA",
+      "Arranging a tour through the visitor services"
+    ],
+    "correctAnswers": [
+      "Contacting the Education Service",
+      "Contacting an MLA"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can either contact the Education Service (details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk) or contact an MLA."
+  },
+  {
+    "question": "Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over can stand for public office, except for (choose THREE options):",
+    "options": [
+      "People found guilty of certain criminal offences",
+      "People without a university degree",
+      "Civil servants",
+      "Members of the Armed Forces"
+    ],
+    "correctAnswers": [
+      "People found guilty of certain criminal offences",
+      "Civil servants",
+      "Members of the Armed Forces"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Members of the Commonwealth aged 18 or over can stand for public office. There are some exceptions, including: members of the armed forces, civil servants and people found guilty of certain criminal offences."
+  },
+  {
+    "question": "What were the main occupations of the people during the Iron Age?",
+    "options": [
+      "Fishermen and butchers",
+      "Farmers, craft workers or warriors",
+      "Knights, doctors or musicians",
+      "Engineers, teachers or lawyers"
+    ],
+    "correctAnswers": [
+      "Farmers, craft workers or warriors"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Iron Age most people were farmers, craft workers or warriors."
+  },
+  {
+    "question": "To look after yourself and your family is one of the responsibilities that you will have as a permanent resident or citizen of the UK.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is TRUE."
+  },
+  {
+    "question": "When is the electoral register updated?",
+    "options": [
+      "April or May",
+      "May or June",
+      "September or October",
+      "October or November"
+    ],
+    "correctAnswers": [
+      "September or October"
+    ],
+    "wrongAnswers": [],
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is the official church of the state?",
+    "options": [
+      "The Church of Great Britain",
+      "The Church of England",
+      "The Church of the United Kingdom",
+      "The British Church"
+    ],
+    "correctAnswers": [
+      "The Church of England"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official Church of the state is the Church of England (called the Anglican Church in other countries and the Episcopal Church in Scotland and the United States)."
+  },
+  {
+    "question": "Where does the Scottish Parliament sit?",
+    "options": [
+      "In Glasgow",
+      "In St Andrews",
+      "In Edinburgh",
+      "In Aberdeen"
+    ],
+    "correctAnswers": [
+      "In Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland the elected members, called MSPs, meet in the Scottish Parliament building at Holyrood in Edinburgh."
+  },
+  {
+    "question": "Who became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada?",
+    "options": [
+      "Henry VIII",
+      "Elizabeth I",
+      "James I",
+      "Mary I"
+    ],
+    "correctAnswers": [
+      "Elizabeth I"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism."
+  },
+  {
+    "question": "What was the population of the UK in 1700?",
+    "options": [
+      "2 million",
+      "4 million",
+      "5 million",
+      "8 million"
+    ],
+    "correctAnswers": [
+      "5 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1700 was 5 million people."
+  },
+  {
+    "question": "When did the ‘Concorde’ aircraft retired from service?",
+    "options": [
+      "In 1976",
+      "In 1999",
+      "In 2003",
+      "In 2000"
+    ],
+    "correctAnswers": [
+      "In 2003"
+    ],
+    "wrongAnswers": [],
+    "explanation": ""
+  },
+  {
+    "question": "When did the Allies defeat Germany marking the end of the Second World War?",
+    "options": [
+      "In June 1943",
+      "In May 1945",
+      "In August 1945",
+      "In August 1946"
+    ],
+    "correctAnswers": [
+      "In May 1945"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany. The Allies comprehensively defeated Germany in May 1945."
+  },
+  {
+    "question": "How many square miles does Loch Lomond and the Trossachs National Park cover?",
+    "options": [
+      "720",
+      "740",
+      "820",
+      "840"
+    ],
+    "correctAnswers": [
+      "720"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Loch Lomond and the Trossachs National Park covers 720 square miles (1,865 square kilometres) in the west of Scotland."
+  },
+  {
+    "question": "Which British athlete won 16 medals, including 11 gold medals, in races over five Paralympic Games?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Sir Ian Botham",
+      "Baroness Tanni Grey-Thompson",
+      "Dame Elle MacArthur"
+    ],
+    "correctAnswers": [
+      "Baroness Tanni Grey-Thompson"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Baroness Tanni Grey-Thompson (1969-) is an athlete who uses a wheelchair and won 16 Paralympic medals, including 11 gold medals, in races over five Paralympic Games. She won the London Marathon six times and broke a total of 30 world records."
+  },
+  {
+    "question": "When is New Year’s Eve celebrated?",
+    "options": [
+      "25th of December",
+      "30th of December",
+      "31st of December",
+      "1st of January"
+    ],
+    "correctAnswers": [
+      "31st of December"
+    ],
+    "wrongAnswers": [],
+    "explanation": "New Year’s Eve is celebrated on the 31st of December."
+  },
+  {
+    "question": "What is the capital city of Scotland?",
+    "options": [
+      "Dundee",
+      "Aberdeen",
+      "Edinburgh",
+      "Glasgow"
+    ],
+    "correctAnswers": [
+      "Edinburgh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The capital city of Scotland is Edinburgh."
+  },
+  {
+    "question": "What British sportsmen holds a number of English Test cricket records?",
+    "options": [
+      "Bobby Moore",
+      "Sir Jackie Steward",
+      "Sir Ian Botham",
+      "Sir Roger Bannister"
+    ],
+    "correctAnswers": [
+      "Sir Ian Botham"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Ian Botham (1955-) captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling."
+  },
+  {
+    "question": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the weavers come from?",
+    "options": [
+      "Germany",
+      "Italy",
+      "France",
+      "Holland"
+    ],
+    "correctAnswers": [
+      "France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Middle Ages, people came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland."
+  }
+]

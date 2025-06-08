@@ -1,0 +1,334 @@
+[
+  {
+    "question": "Which of the following words comes from the Norman French (choose ONE option)?",
+    "options": [
+      "Apple",
+      "Beauty",
+      "Cow",
+      "Summer"
+    ],
+    "correctAnswers": [
+      "Beauty"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Some words in modern English – for example, ‘park‘ and ‘beauty‘ – are based on Norman French words."
+  },
+  {
+    "question": "Catherine Parr, the sixth wife of Henry VIII, was Anne Boleyn’s cousin:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Catherine Howard was a cousin of Anne Boleyn."
+  },
+  {
+    "question": "What was the symbol of York during the Wars of the Roses?",
+    "options": [
+      "A Red Rose",
+      "A White Rose",
+      "A Black Rose",
+      "A Purple Rose"
+    ],
+    "correctAnswers": [
+      "A White Rose"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The symbol of York during the Wars of the Roses was a white rose."
+  },
+  {
+    "question": "During which movement the Parliament passed laws giving women the right to equal pay and made it illegal for employees to discriminate against women because of their gender:",
+    "options": [
+      "The Punk movement",
+      "The Enlightenment",
+      "The Swinging Sixties",
+      "The Suffrage"
+    ],
+    "correctAnswers": [
+      "The Swinging Sixties"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Swinging Sixties was a time when the Parliament passed new laws giving women the right to equal pay and made it illegal for employers to discriminate against women because of their gender."
+  },
+  {
+    "question": "Where can you find a statue of Boudicca, the queen of the Iceni and one of the tribal leaders who fought against the Romans?",
+    "options": [
+      "At London Bridge",
+      "At Westminster Bridge",
+      "At the Tower of London",
+      "At St James‘s Park"
+    ],
+    "correctAnswers": [
+      "At Westminster Bridge"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There is a statue of Boudicca, the queen of the Iceni, on Westminster Bridge in London, near the Houses of Parliament."
+  },
+  {
+    "question": "For how long was Britain a republic under the leadership of Oliver Cromwell?",
+    "options": [
+      "9 years",
+      "10 years",
+      "11 years",
+      "12 years"
+    ],
+    "correctAnswers": [
+      "11 years"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Britain was a republic under the leadership of Oliver Cromwell for 11 years."
+  },
+  {
+    "question": "Who became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada?",
+    "options": [
+      "Henry VIII",
+      "Elizabeth I",
+      "James I",
+      "Mary I"
+    ],
+    "correctAnswers": [
+      "Elizabeth I"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism."
+  },
+  {
+    "question": "When did the ‘Concorde‘ aircraft retire from service?",
+    "options": [
+      "In 1976",
+      "In 1999",
+      "In 2003",
+      "In 2000"
+    ],
+    "correctAnswers": [
+      "In 2003"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The ‘Concorde‘ was retired from service in 2003."
+  },
+  {
+    "question": "When did the Allies defeat Germany marking the end of the Second World War?",
+    "options": [
+      "In June 1943",
+      "In May 1945",
+      "In August 1945",
+      "In August 1946"
+    ],
+    "correctAnswers": [
+      "In May 1945"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany. The Allies comprehensively defeated Germany in May 1945."
+  },
+  {
+    "question": "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the weavers come from?",
+    "options": [
+      "Germany",
+      "Italy",
+      "France",
+      "Holland"
+    ],
+    "correctAnswers": [
+      "France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Middle Ages, people came to England from abroad to trade and also to work. Many had special skills, such as weavers from France, engineers from Germany, glass manufacturers from Italy and canal builders from Holland."
+  },
+  {
+    "question": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia."
+  },
+  {
+    "question": "The ‘swinging sixties’ was a period of significant social change and it was known for its growth in:",
+    "options": [
+      "British fashion, cinema and popular music",
+      "The Punk movement",
+      "English literature and comedy",
+      "The ownership of cars I"
+    ],
+    "correctAnswers": [
+      "British fashion, cinema and popular music"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music."
+  },
+  {
+    "question": "Which prehistoric village located in northern Europe has helped archaeologists to understand more about how people lived near the end of the Stone Age?",
+    "options": [
+      "Stonehenge",
+      "Scunthorpe",
+      "Danelaw",
+      "Skara Brae"
+    ],
+    "correctAnswers": [
+      "Skara Brae"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
+  },
+  {
+    "question": "During the Middle Ages, a Parliament was developed in Scotland, which had three Houses called Estates. These were:",
+    "options": [
+      "The lords, the commons and the clergy",
+      "The lords, the commons and the farmers",
+      "The farmers, the blacksmiths and the clergy",
+      "The farmers, the blacksmiths and the teachers"
+    ],
+    "correctAnswers": [
+      "The lords, the commons and the clergy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Parliament developed in Scotland in the Middle Ages had three Houses, called Estates: the lords, the commons and the clergy."
+  },
+  {
+    "question": "Which of the following scientific discoveries helped the progress of the Industrial Revolution?",
+    "options": [
+      "Penicilin",
+      "The aeroplane",
+      "Steam power",
+      "The lightbulb"
+    ],
+    "correctAnswers": [
+      "Steam power"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution."
+  },
+  {
+    "question": "Who where the parents of Elizabeth I?",
+    "options": [
+      "Henry VIII and Anne Boleyn",
+      "Henry VII and Anne of Cleves",
+      "Henry VIII and Catherine of Aragon",
+      "Henry VII and Catherine Howard"
+    ],
+    "correctAnswers": [
+      "Henry VIII and Anne Boleyn"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VIII and Anne Boleyn were the parents of Elizabeth I."
+  },
+  {
+    "question": "Which of the following areas did the British Empire NOT occupy during the Victorian period?",
+    "options": [
+      "France",
+      "Australia",
+      "India",
+      "Large parts of Africa"
+    ],
+    "correctAnswers": [
+      "France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa."
+  },
+  {
+    "question": "Who were the first people to live in Britain in what we call the Stone Age?",
+    "options": [
+      "Farmers",
+      "Hunter-gatherers",
+      "Warriors",
+      "Pirates"
+    ],
+    "correctAnswers": [
+      "Hunter-gatherers"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age."
+  },
+  {
+    "question": "Which of the following statements regarding the Black Death is NOT true?",
+    "options": [
+      "One third of the population of England died and a similar proportion in Scotland and Wales",
+      "It was one of the worst disasters ever to strike Britain",
+      "It affected children and old people only",
+      "Following the Black Death, there were labour shortages"
+    ],
+    "correctAnswers": [
+      "It affected children and old people only"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales. This was one of the worst disasters ever to strike Britain. Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages."
+  },
+  {
+    "question": "Who was reigning in Britain when Wales became formally united with England by the Act for the Government of Wales?",
+    "options": [
+      "Henry VIII",
+      "Henry VII",
+      "Elizabeth I",
+      "James I"
+    ],
+    "correctAnswers": [
+      "Henry VIII"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the reign of Henry VIII, Wales became formally united with England by the Act for the Government of Wales."
+  },
+  {
+    "question": "The Elizabethan period is known for the richness of its poetry and drama, especially for the plays and poems of which playwright?",
+    "options": [
+      "Alexander Dumas",
+      "William Shakespeare",
+      "Charles Dickens",
+      "Thomas Hardy"
+    ],
+    "correctAnswers": [
+      "William Shakespeare"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Elizabethan period is also remembered for the richness of its poetry and drama, especially the plays and poems of William Shakespeare."
+  },
+  {
+    "question": "Which flag has a diagonal red cross on a white ground?",
+    "options": [
+      "The cross of St George, patron saint of England",
+      "The cross of St Patrick, patron saint of Ireland",
+      "The cross of St David, patron saint of Wales",
+      "The cross of St Andrew, patron saint of Scotland"
+    ],
+    "correctAnswers": [
+      "The cross of St Patrick, patron saint of Ireland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The cross of St Patrick, patron saint of Ireland, is a diagonal red cross on a white ground."
+  },
+  {
+    "question": "What is the name of the best preserved prehistoric village in northern Europe and which origin traces back to the Stone Age?",
+    "options": [
+      "Maiden",
+      "Skara Brae",
+      "Stonehenge",
+      "Bayeux"
+    ],
+    "correctAnswers": [
+      "Skara Brae"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
+  },
+  {
+    "question": "After the Black Death, new social classes appeared in England, including owners of large areas of land known as:",
+    "options": [
+      "Judiciary",
+      "Gentry",
+      "Clans",
+      "Nobility"
+    ],
+    "correctAnswers": [
+      "Gentry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class."
+  }
+]

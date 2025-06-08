@@ -1,0 +1,333 @@
+[
+  {
+    "question": "Which of the following sports began in the UK?",
+    "options": [
+      "Cricket",
+      "Football",
+      "Rugby",
+      "All of the above"
+    ],
+    "correctAnswers": [
+      "All of the above"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many famous sports, including cricket, football, lawn tennis, golf and rugby, began in Britain."
+  },
+  {
+    "question": "Which famous architect designed Dumfries House?",
+    "options": [
+      "Sir Christopher Wren",
+      "Robert Adam",
+      "Sir Norman Foster",
+      "Dame Zaha Hadid"
+    ],
+    "correctAnswers": [
+      "Robert Adam"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish architect Robert Adam designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland."
+  },
+  {
+    "question": "What did the Education Act of 1944 introduce?",
+    "options": [
+      "Free primary education in England and Wales",
+      "Free secondary education in England and Wales",
+      "Free high school education in England and Wales",
+      "Free university education in England and Wales"
+    ],
+    "correctAnswers": [
+      "Free secondary education in England and Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Education Act 1944 (often called ‘The Butler Act’), introduced free secondary education in England and Wales."
+  },
+  {
+    "question": "Which of the following tribes invaded Britain?",
+    "options": [
+      "The Jutes",
+      "The Angles",
+      "The Saxons",
+      "All of the above"
+    ],
+    "correctAnswers": [
+      "All of the above"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons."
+  },
+  {
+    "question": "Many schools organise events such as book sales, toy sales or bringing food to sell to raise money for extra equipment or out-of-school activities.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is TRUE."
+  },
+  {
+    "question": "Do you need a TV licence for watching TV on a mobile phone?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctAnswers": [
+      "Yes"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Everyone in the UK with a TV, computer or other medium which can be used for watching TV must have a television licence."
+  },
+  {
+    "question": "What do you need to apply to become a British citizen?",
+    "options": [
+      "Be single and without children",
+      "Be over 25 years old",
+      "Have lived in the UK for 3 years",
+      "Have a good understanding of life in the UK"
+    ],
+    "correctAnswers": [
+      "Have a good understanding of life in the UK"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To apply to become a permanent resident or citizen of the UK, you will need to have a good understanding of life in the UK."
+  },
+  {
+    "question": "Which of the following is a British overseas territory located in the South Atlantic?",
+    "options": [
+      "Guernsey",
+      "Northern Ireland",
+      "The Falkland Islands",
+      "Jersey"
+    ],
+    "correctAnswers": [
+      "The Falkland Islands"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Falkland Islands, a British overseas territory is located in the South Atlantic."
+  },
+  {
+    "question": "Who wrote the novel Charlie and the Chocolate Factory?",
+    "options": [
+      "Rudyard Kipling",
+      "Sir William Golding",
+      "Charles Dickens",
+      "Roald Dahl"
+    ],
+    "correctAnswers": [
+      "Roald Dahl"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Roald Dahl is the author of Charlie and the Chocolate Factory."
+  },
+  {
+    "question": "The Normans used a system of land ownership known as __________.",
+    "options": [
+      "Clergy",
+      "Chartism",
+      "Feudalism",
+      "Imperialism"
+    ],
+    "correctAnswers": [
+      "Feudalism"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Normans used a system of land ownership known as feudalism."
+  },
+  {
+    "question": "Who were the Huguenots?",
+    "options": [
+      "Protestant refugees from France",
+      "Catholic refugees from Spain",
+      "Catholic refugees from Italy",
+      "Protestant refugees from Germany"
+    ],
+    "correctAnswers": [
+      "Protestant refugees from France"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked as scientists, in banking, or in weaving or other crafts."
+  },
+  {
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "The official name of the country is the United Kingdom of Great Britain and Southern Ireland.",
+      "The official name of the country is Great Britain and Southern Ireland.",
+      "The official name of the country is the United Kingdom of Great Britain and Northern Ireland.",
+      "The official name of the country is the United Kingdom and Great Ireland."
+    ],
+    "correctAnswers": [
+      "The official name of the country is the United Kingdom of Great Britain and Northern Ireland."
+    ],
+    "wrongAnswers": [],
+    "explanation": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland."
+  },
+  {
+    "question": "When was slavery abolished throughout the British Empire?",
+    "options": [
+      "1833",
+      "1843",
+      "1844",
+      "1861"
+    ],
+    "correctAnswers": [
+      "1833"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1833 the Emancipation Act abolished slavery throughout the British Empire."
+  },
+  {
+    "question": "Magistrates and Justices of the Peace (JPs) are members of the _________.",
+    "options": [
+      "Government",
+      "Local community",
+      "British Society",
+      "NHS"
+    ],
+    "correctAnswers": [
+      "Local community"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Magistrates and Justices of the Peace (JPs) are members of the local community."
+  },
+  {
+    "question": "Where can you find details about the small claims procedure?",
+    "options": [
+      "From the local community",
+      "At the police station",
+      "At your local County Court or Sheriff Court",
+      "At any local shop"
+    ],
+    "correctAnswers": [
+      "At your local County Court or Sheriff Court"
+    ],
+    "wrongAnswers": [],
+    "explanation": "You can get details about the small claims procedure from your local County Court or Sheriff Court."
+  },
+  {
+    "question": "When is Mothering Sunday?",
+    "options": [
+      "The Sunday three weeks before Easter.",
+      "The Sunday three weeks after Easter.",
+      "The Sunday three weeks before Christmas.",
+      "The Sunday three weeks after Christmas."
+    ],
+    "correctAnswers": [
+      "The Sunday three weeks before Easter."
+    ],
+    "wrongAnswers": [],
+    "explanation": "Mothering Sunday (or Mother’s day) is the Sunday three weeks before Easter. Children send cards or buy gifts for their mothers."
+  },
+  {
+    "question": "What should you do if your vehicle is over three years old?",
+    "options": [
+      "Take it to the MOT every year.",
+      "Take it to the MOT 2 years.",
+      "Take it to the MOT 3 years.",
+      "Take it to the MOT six months."
+    ],
+    "correctAnswers": [
+      "Take it to the MOT every year."
+    ],
+    "wrongAnswers": [],
+    "explanation": "If you vehicle is over three years old, you must take it to the Ministry of Transport (MOT) test every year."
+  },
+  {
+    "question": "Which countries fought alongside Britain against Russia during the Crimean War?",
+    "options": [
+      "France and Cyprus",
+      "Germany and Cyprus",
+      "Germany and Turkey",
+      "France and Turkey"
+    ],
+    "correctAnswers": [
+      "France and Turkey"
+    ],
+    "wrongAnswers": [],
+    "explanation": "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War."
+  },
+  {
+    "question": "On average, boys leave school with better qualifications than girls.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. On average, girls leave school with better qualifications than boys."
+  },
+  {
+    "question": "When did William of Orange invade England to proclaim himself king?",
+    "options": [
+      "1689",
+      "1690",
+      "1688",
+      "1687"
+    ],
+    "correctAnswers": [
+      "1688"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland."
+  },
+  {
+    "question": "Which British painter is considered to be the artist who raised the profile of landscape painting?",
+    "options": [
+      "Joseph Turner",
+      "David Allan",
+      "John Constable",
+      "Sir John Lavery"
+    ],
+    "correctAnswers": [
+      "Joseph Turner"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Joseph Turner (1775-1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting."
+  },
+  {
+    "question": "The development of the Bessemer process during the Industrial Revolution led to the development of which two industries:",
+    "options": [
+      "Shipbuilding industry",
+      "Chemical industry",
+      "Railways industry",
+      "Car industry"
+    ],
+    "correctAnswers": [
+      "Shipbuilding industry",
+      "Railways industry"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways."
+  },
+  {
+    "question": "What is the length of the Bayeux tapestry?",
+    "options": [
+      "130 feet",
+      "230 feet",
+      "330 feet",
+      "320 feet"
+    ],
+    "correctAnswers": [
+      "230 feet"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Bayeux Tapestry is nearly 70 metres (230 feet) long and is embroidered with coloured wool."
+  },
+  {
+    "question": "Which of the following countries is not a member of the Commonwealth?",
+    "options": [
+      "Swaziland",
+      "Trinidad and Tobago",
+      "Dominica",
+      "Costa Rica"
+    ],
+    "correctAnswers": [
+      "Costa Rica"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Costa Rica is not a member of the Commonwealth."
+  }
+]

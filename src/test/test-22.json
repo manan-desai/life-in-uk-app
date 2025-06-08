@@ -1,0 +1,333 @@
+[
+  {
+    "question": "What was the name of Sir Francis Drake’s ship and which was one of the first to sail around the world?",
+    "options": [
+      "The Golden Eye",
+      "The Golden Hind",
+      "Elizabeth",
+      "The Sharp"
+    ],
+    "correctAnswers": [
+      "The Golden Hind"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England’s naval tradition. His ship, the Golden Hind, was one of the first to sail right around (‘circumnavigate’) the world."
+  },
+  {
+    "question": "To whom do new citizens have to swear or affirm loyalty as part of the citizenship ceremony?",
+    "options": [
+      "The Pope",
+      "The Prime Minister",
+      "The King",
+      "The Church of England"
+    ],
+    "correctAnswers": [
+      "The King"
+    ],
+    "wrongAnswers": [],
+    "explanation": "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony."
+  },
+  {
+    "question": "Why did Henry VIII marry Anne of Cleves?",
+    "options": [
+      "He was deeply in love",
+      "For political reasons",
+      "For her fortune",
+      "She was expecting a child"
+    ],
+    "correctAnswers": [
+      "For political reasons"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry married Anne of Cleves for political reasons but divorced her soon after."
+  },
+  {
+    "question": "How many Formula 1 Grand Prix events are held in the UK every year?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswers": [
+      "One"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A Formula 1 Grand Prix event is held in the UK each year and a number of British Grand Prix drivers have won the Formula 1 World Championship."
+  },
+  {
+    "question": "How can you visit the UK Parliament (choose TWO options)?",
+    "options": [
+      "Arranging a tour through the visitor services",
+      "Writing to your local MP to ask for tickets",
+      "Queueing on the day at the public entrance",
+      "Contacting an MSP"
+    ],
+    "correctAnswers": [
+      "Writing to your local MP to ask for tickets",
+      "Queueing on the day at the public entrance"
+    ],
+    "wrongAnswers": [],
+    "explanation": "To visit the UK Parliament, you can write to your local MP in advance to ask for tickets or you can Queue on the day at the public entrance."
+  },
+  {
+    "question": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership."
+  },
+  {
+    "question": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK and shops and businesses are obliged to accept them:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses do not have to accept them."
+  },
+  {
+    "question": "How many American colonies declared their independence in 1776, stating that people had a right to establish their own governments?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswers": [
+      "13"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments."
+  },
+  {
+    "question": "Which TWO words come from the Viking language?",
+    "options": [
+      "Grimsby",
+      "Scunthorpe",
+      "Thunderstorm",
+      "Butterfly"
+    ],
+    "correctAnswers": [
+      "Grimsby",
+      "Scunthorpe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as the Danelaw (many place names there, such as Grimsby and Scunthorpe come from the Viking languages)."
+  },
+  {
+    "question": "Which of the following drugs is NOT illegal in the UK?",
+    "options": [
+      "Cannabis",
+      "Cocaine",
+      "Ecstasy",
+      "All of the above are illegal"
+    ],
+    "correctAnswers": [
+      "All of the above are illegal"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Drugs such as heroin, cocaine, ecstasy and cannabis are illegal in the UK."
+  },
+  {
+    "question": "How is the Speaker elected?",
+    "options": [
+      "By other MPs in a secret ballot",
+      "By the members of the House of Lords by proportional representation",
+      "By the members of the House of Commons in a public ballot",
+      "By the Prime Minister"
+    ],
+    "correctAnswers": [
+      "By other MPs in a secret ballot"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Speaker is chosen by other MPs in a secret ballot."
+  },
+  {
+    "question": "Which TWO of the following are traditional British foods?",
+    "options": [
+      "Pasta carbonara",
+      "Green curry",
+      "Roast Beef",
+      "Fish and Chips"
+    ],
+    "correctAnswers": [
+      "Roast Beef",
+      "Fish and Chips"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Roast beef and fish and chips are traditional British foods."
+  },
+  {
+    "question": "When was the Northern Ireland Parliament established for the first time?",
+    "options": [
+      "In 1922",
+      "In 1932",
+      "In 1925",
+      "In 1928"
+    ],
+    "correctAnswers": [
+      "In 1922"
+    ],
+    "wrongAnswers": [],
+    "explanation": "A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969."
+  },
+  {
+    "question": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "The ‘swinging sixties’ was a period of significant social change and it was known for its growth in:",
+    "options": [
+      "British fashion, cinema and popular music",
+      "The Punk movement",
+      "English literature and comedy",
+      "The ownership of cars"
+    ],
+    "correctAnswers": [
+      "British fashion, cinema and popular music"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music."
+  },
+  {
+    "question": "What is the name given to the system used to deal with children and young people who have committed an offence in Scotland?",
+    "options": [
+      "The Children’s Hearings System",
+      "The Youth Court System",
+      "The Sheriff Court for Young Children",
+      "The Young’s System"
+    ],
+    "correctAnswers": [
+      "The Children’s Hearings System"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Scotland a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence."
+  },
+  {
+    "question": "Which prehistoric village located in northern Europe has helped archaeologists to understand more about how people live near the end of the Stone Age?",
+    "options": [
+      "Stonehenge",
+      "Scunthorpe",
+      "Danelaw",
+      "Skara Brae"
+    ],
+    "correctAnswers": [
+      "Skara Brae"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age."
+  },
+  {
+    "question": "During the Middle Ages, a Parliament was developed in Scotland, which had three Houses called Estates. These were:",
+    "options": [
+      "The lords, the commons and the clergy",
+      "The lords, the commons and the farmers",
+      "The farmers, the blacksmiths and the clergy",
+      "The farmers, the blacksmiths and the teachers"
+    ],
+    "correctAnswers": [
+      "The lords, the commons and the clergy"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Parliament developed in Scotland in the Middle Ages had three Houses, called Estates: the lords, the commons and the clergy."
+  },
+  {
+    "question": "Which landscape architect designed grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes?",
+    "options": [
+      "Clarice Cliff",
+      "Lancelot ‘Capability’ Brown",
+      "Alexander McQueen",
+      "Vivienne Westwood"
+    ],
+    "correctAnswers": [
+      "Lancelot ‘Capability’ Brown"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the 18th century, Lancelot ‘Capability’ Brown designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often worked with Edwin Lutyens to design colourful gardens around the houses he designed."
+  },
+  {
+    "question": "Which of the following scientific discoveries helped the progress of the Industrial Revolution?",
+    "options": [
+      "Penicillin",
+      "The aeroplane",
+      "Steam power",
+      "The lightbulb"
+    ],
+    "correctAnswers": [
+      "Steam power"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution."
+  },
+  {
+    "question": "What is the function of the UN Security Council?",
+    "options": [
+      "Recommend action when there are international crises and threats to peace",
+      "Recommend humanitarian action when there are natural disasters",
+      "Protect and promote human rights",
+      "Promote international trade relationships"
+    ],
+    "correctAnswers": [
+      "Recommend action when there are international crises and threats to peace"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The UN Security Council, which recommends action when there are international crises and threats to peace."
+  },
+  {
+    "question": "Who were the parents of Elizabeth I?",
+    "options": [
+      "Henry VIII and Anne Boleyn",
+      "Henry VII and Anne of Cleves",
+      "Henry VIII and Catherine of Aragon",
+      "Henry VII and Catherine Howard"
+    ],
+    "correctAnswers": [
+      "Henry VIII and Anne Boleyn"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Henry VIII and Anne Boleyn were the parents of Elizabeth I."
+  },
+  {
+    "question": "The Isle of Man is a Crown dependency.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which of the following charities works for the prevention of cruelty to children?",
+    "options": [
+      "PDSA",
+      "RSPB",
+      "NSPCC",
+      "Crisis"
+    ],
+    "correctAnswers": [
+      "NSPCC"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The NSPCC is the National Society for the Prevention of Cruelty to Children."
+  }
+]
