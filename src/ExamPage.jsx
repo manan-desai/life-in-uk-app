@@ -18,8 +18,7 @@ export default function ExamPage() {
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
 
   useEffect(() => {
-    const fileKey = id;
-    const qData = questionsData[fileKey] || [];
+    const qData = questionsData[id] || [];
     setQuestions(qData);
   }, [id]);
 
@@ -45,18 +44,19 @@ export default function ExamPage() {
 
     setChecked((prev) => ({ ...prev, [currentIndex]: true }));
     setIsCorrectAnswer(isCorrect);
-    setShowNext(true);
 
-    const currentQuestion = questions[currentIndex];
+    const currentQuestion = { ...questions[currentIndex], testId: id };
     let failed = JSON.parse(localStorage.getItem('failedAnswers') || '[]');
     failed = failed.filter(q => q.question !== currentQuestion.question);
 
     if (!isCorrect) {
       failed.push(currentQuestion);
       localStorage.setItem('failedAnswers', JSON.stringify(failed));
+      setShowNext(true);
     } else {
       localStorage.setItem('failedAnswers', JSON.stringify(failed));
       setScore((prev) => prev + 1);
+      setTimeout(() => nextQuestion(), 800); // auto-skip
     }
   };
 
@@ -67,15 +67,25 @@ export default function ExamPage() {
     localStorage.setItem('failedAnswers', JSON.stringify(failed));
   };
 
-  const nextQuestion = () => {
-    setShowNext(false);
+ const nextQuestion = () => {
+  const newIndex = currentIndex + 1;
+  if (newIndex < questions.length) {
+    setCurrentIndex(newIndex);
+    setShowNext(checked[newIndex] === true);
     setIsCorrectAnswer(null);
-    if (currentIndex < questions.length - 1) {
-      setCurrentIndex(currentIndex + 1);
-    } else {
-      setCompleted(true);
-    }
-  };
+  } else {
+    setCompleted(true);
+  }
+};
+
+const prevQuestion = () => {
+  const newIndex = currentIndex - 1;
+  if (newIndex >= 0) {
+    setCurrentIndex(newIndex);
+    setShowNext(checked[newIndex] === true);
+    setIsCorrectAnswer(null);
+  }
+};
 
   if (!questions.length) return <div className="p-4">Loading...</div>;
 
@@ -91,6 +101,8 @@ export default function ExamPage() {
 
   const q = questions[currentIndex];
   const isMultiple = q.correctAnswers.length > 1;
+  const selectedAnswers = answers[currentIndex] || [];
+  const wasChecked = checked[currentIndex];
 
   return (
     <div className="p-4 max-w-2xl mx-auto flex">
@@ -103,9 +115,8 @@ export default function ExamPage() {
 
           <div className="grid grid-cols-2 gap-4 max-w-md mx-auto">
             {q.options.map((opt, idx) => {
-              const selected = (answers[currentIndex] || []).includes(opt);
+              const selected = selectedAnswers.includes(opt);
               const isCorrect = q.correctAnswers.includes(opt);
-              const wasChecked = checked[currentIndex];
 
               return (
                 <label
@@ -138,7 +149,7 @@ export default function ExamPage() {
             })}
           </div>
 
-          {checked[currentIndex] && (
+          {wasChecked && (
             <div className="mt-4 text-center min-h-[60px]">
               {!isCorrectAnswer && (
                 <div className="text-red-600 font-semibold mb-1">
@@ -154,14 +165,19 @@ export default function ExamPage() {
           )}
         </div>
 
-        <div className="flex gap-3 mt-6 justify-center">
-          {!checked[currentIndex] && <Button onClick={checkAnswer}>Check</Button>}
+        <div className="flex flex-wrap gap-3 mt-6 justify-center">
+          {currentIndex > 0 && (
+            <Button variant="outline" onClick={prevQuestion}>Previous</Button>
+          )}
+          {!wasChecked && (
+            <Button onClick={checkAnswer}>Check</Button>
+          )}
           {showNext && (
             <Button onClick={nextQuestion} variant="outline">
               {currentIndex === questions.length - 1 ? 'Finish' : 'Next'}
             </Button>
           )}
-       
+
         </div>
       </div>
     </div>

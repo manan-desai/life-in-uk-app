@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link, Navigate } from 'react-router-dom';
 import ExamPage from './ExamPage';
 import ReviewPage from './ReviewPage';
+import { Button } from './ui/button';
 
 // Example IDs (you can generate this list dynamically if needed)
 const examIds = Array.from({ length: 17 }, (_, i) => `exam-${i + 1}`);
@@ -43,6 +44,17 @@ export default function App() {
           Review Incorrect
         </Link>
       </nav>
+      <div className="fixed top-4 right-4 z-50">
+  <Button
+    onClick={() => {
+      localStorage.clear();
+      window.location.reload();
+    }}
+    className="bg-red-600 text-white hover:bg-red-700"
+  >
+    Clear All
+  </Button>
+</div>
     </Router>
   );
 }
