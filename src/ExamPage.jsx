@@ -56,7 +56,7 @@ export default function ExamPage() {
     } else {
       localStorage.setItem('failedAnswers', JSON.stringify(failed));
       setScore((prev) => prev + 1);
-      setTimeout(() => nextQuestion(), 800); // auto-skip
+      nextQuestion()
     }
   };
 

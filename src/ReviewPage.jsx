@@ -41,9 +41,7 @@ export default function ReviewPage() {
 
     if (isCorrect) {
       // Auto-advance if correct
-      setTimeout(() => {
-        nextQuestion();
-      }, 800);
+            nextQuestion();
     } else {
       setShowNext(true);
     }
