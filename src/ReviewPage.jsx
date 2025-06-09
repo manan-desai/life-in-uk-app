@@ -65,7 +65,7 @@ export default function ReviewPage() {
   return (
     <div className="p-4 max-w-2xl mx-auto justify-items-center flex ">
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6 ">
-             <div className="h-[200px] ">
+             <div className="h-[300px] ">
         <h2 className="text-2xl font-bold mb-4">
           Review - Question {currentIndex + 1} of {questions.length}
         </h2>

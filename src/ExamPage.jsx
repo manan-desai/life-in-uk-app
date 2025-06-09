@@ -83,7 +83,7 @@ export default function ExamPage() {
 
   return (
     <div className="p-4 max-w-2xl mx-auto justify-items-center">
-      <div className="h-[200px] mb-6">
+      <div className="h-[300px] mb-6">
         <h2 className="text-xl font-bold mb-2 text-center">{id.toUpperCase()} - Question {currentIndex + 1} of {questions.length}</h2>
         <p className="font-medium mb-4 text-lg text-center">{q.question}</p>
 
