@@ -161,11 +161,7 @@ export default function ExamPage() {
               {currentIndex === questions.length - 1 ? 'Finish' : 'Next'}
             </Button>
           )}
-          {checked[currentIndex] && (
-            <Button variant="destructive" onClick={handleDelete}>
-              Delete
-            </Button>
-          )}
+       
         </div>
       </div>
     </div>
