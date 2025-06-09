@@ -80,6 +80,10 @@ setCorrectness((prev) => ({ ...prev, [currentIndex]: isCorrect }));
     setShowNext(checked[newIndex] === true);
     setIsCorrectAnswer(correctness[newIndex] ?? null);
   } else {
+
+   const exisingCompleted = JSON.parse(localStorage.getItem('completedTests')) || []
+    
+     localStorage.setItem('completedTests', JSON.stringify([...new Set([...exisingCompleted,...[id]])]));
     setCompleted(true);
   }
 };
@@ -115,7 +119,7 @@ const prevQuestion = () => {
   return (
     <div className="p-4 mt-8 max-w-2xl mx-auto flex">
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
-        <div className="min-h-80">
+        <div className="min-h-140">
           <h2 className="text-xl font-bold mb-2 text-center">
             {id.toUpperCase()} - Question {currentIndex + 1} of {questions.length}
           </h2>
@@ -162,6 +166,12 @@ const prevQuestion = () => {
               {!isCorrectAnswer && (
                 <div className="text-red-600 font-semibold mb-1">
                   ❌ Incorrect Answer
+                </div>
+              )}
+
+                  {isCorrectAnswer === true && (
+                <div className="text-green-600 font-semibold mb-1">
+                 ✅ Correct Answer
                 </div>
               )}
               {q.explanation && (

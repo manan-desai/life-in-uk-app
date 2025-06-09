@@ -159,6 +159,10 @@ const handleDelete = () => {
                   ❌ Incorrect Answer
                 </div>
               )}
+               {isCorrectAnswer === true && (
+                <div className="text-green-600 font-semibold mb-1">
+                 ✅ Correct Answer
+                </div>)}
               {q.explanation && (
                 <div className="text-sm text-gray-700">
                   <strong>Explanation:</strong> {q.explanation}
