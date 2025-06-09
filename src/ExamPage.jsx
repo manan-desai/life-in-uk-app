@@ -119,7 +119,7 @@ const prevQuestion = () => {
   return (
     <div className="p-4 mt-8 max-w-2xl mx-auto flex">
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
-        <div className="min-h-140">
+        <div className="min-h-120">
           <h2 className="text-xl font-bold mb-2 text-center">
             {id.toUpperCase()} - Question {currentIndex + 1} of {questions.length}
           </h2>

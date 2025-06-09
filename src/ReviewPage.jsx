@@ -110,7 +110,7 @@ const handleDelete = () => {
           >
             Delete
           </Button>
-        <div className="min-h-80">
+        <div className="min-h-120">
           <h2 className="text-2xl font-bold mb-4">
             Review - Question {currentIndex + 1} of {questions.length} ({q.testId})
           </h2>
