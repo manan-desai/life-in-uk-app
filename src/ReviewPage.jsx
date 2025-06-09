@@ -51,6 +51,19 @@ export default function ReviewPage() {
     }
   };
 
+           const handleDelete = () => {
+    const updated = questions.filter((_, i) => i !== currentIndex);
+    localStorage.setItem('failedAnswers', JSON.stringify(updated));
+    if (updated.length === 0) {
+      navigate('/');
+    } else {
+      setQuestions(updated);
+      setCurrentIndex((prev) => Math.min(prev, updated.length - 1));
+      setShowNext(false);
+      setIsCorrectAnswer(null);
+    }
+  };
+
   if (!questions.length)
     return (
       <div className="p-4 text-lg font-medium">
@@ -129,6 +142,9 @@ export default function ReviewPage() {
               {currentIndex === questions.length - 1 ? 'Finish Review' : 'Next'}
             </Button>
           )}
+               <Button variant="destructive" className="ml-[8px]" onClick={handleDelete}>
+            Delete
+          </Button>
         </div>
       </div>
     </div>

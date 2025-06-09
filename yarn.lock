@@ -695,6 +695,15 @@
     postcss "^8.4.41"
     tailwindcss "4.1.8"
 
+"@tailwindcss/vite@^4.1.8":
+  version "4.1.8"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/vite/-/vite-4.1.8.tgz#4da74494e2e0578767e02b96450b7f5127862698"
+  integrity sha512-CQ+I8yxNV5/6uGaJjiuymgw0kEQiNKRinYbZXPdx1fk5WgiyReG0VaUx/Xq6aVNSUNJFzxm6o8FNKS5aMaim5A==
+  dependencies:
+    "@tailwindcss/node" "4.1.8"
+    "@tailwindcss/oxide" "4.1.8"
+    tailwindcss "4.1.8"
+
 "@tybys/wasm-util@^0.9.0":
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/@tybys/wasm-util/-/wasm-util-0.9.0.tgz#3e75eb00604c8d6db470bf18c37b7d984a0e3355"
