@@ -21,7 +21,7 @@ export default function App() {
         <Route path="/review" element={<ReviewPage />} />
       </Routes>
 
-      <footer className="p-4 bg-gray-100 shadow-inner border-t mt-8 text-center">
+      <footer className="p-4 bg-gray-100 shadow-inner border-t pb-24 text-center mt-80">
         <div className="max-w-4xl mx-auto space-y-4">
           <div>
             <Button variant="outline" onClick={() => setShowExams(!showExams)}>
