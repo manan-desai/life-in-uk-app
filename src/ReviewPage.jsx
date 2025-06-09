@@ -11,7 +11,7 @@ export default function ReviewPage() {
   const [checked, setChecked] = useState({});
   const [showNext, setShowNext] = useState(false);
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
-
+   const [correctness, setCorrectness] = useState({});
   useEffect(() => {
     const failed = JSON.parse(localStorage.getItem('failedAnswers') || '[]');
     setQuestions(failed);
@@ -37,7 +37,9 @@ export default function ReviewPage() {
       selected.length === correct.length &&
       correct.every((ans) => selected.includes(ans));
     setChecked((prev) => ({ ...prev, [currentIndex]: true }));
+    
     setIsCorrectAnswer(isCorrect);
+    setCorrectness((prev) => ({ ...prev, [currentIndex]: isCorrect }));
 
     if (isCorrect) {
       // Auto-advance if correct
@@ -51,7 +53,7 @@ const prevQuestion = () => {
   if (newIndex >= 0) {
     setCurrentIndex(newIndex);
     setShowNext(checked[newIndex] === true);
-    setIsCorrectAnswer(null);
+    setIsCorrectAnswer(correctness[newIndex] ?? null);
   }
 };
 
@@ -60,25 +62,29 @@ const nextQuestion = () => {
   if (newIndex < questions.length) {
     setCurrentIndex(newIndex);
     setShowNext(checked[newIndex] === true);
-    setIsCorrectAnswer(null);
+    setIsCorrectAnswer(correctness[newIndex] ?? null);
   } else {
     navigate('/');
   }
 };
 
 
-  const handleDelete = () => {
-    const updated = questions.filter((_, i) => i !== currentIndex);
-    localStorage.setItem('failedAnswers', JSON.stringify(updated));
-    if (updated.length === 0) {
-      navigate('/');
-    } else {
-      setQuestions(updated);
-      setCurrentIndex((prev) => Math.min(prev, updated.length - 1));
-      setShowNext(false);
-      setIsCorrectAnswer(null);
-    }
-  };
+const handleDelete = () => {
+  const confirmDelete = window.confirm("Are you sure you want to delete this question?");
+  if (!confirmDelete) return;
+
+  const updated = questions.filter((_, i) => i !== currentIndex);
+  localStorage.setItem('failedAnswers', JSON.stringify(updated));
+  if (updated.length === 0) {
+    navigate('/');
+  } else {
+    setQuestions(updated);
+    setCurrentIndex((prev) => Math.min(prev, updated.length - 1));
+    setShowNext(false);
+    setIsCorrectAnswer(null);
+  }
+};
+
 
   if (!questions.length)
     return (
@@ -94,7 +100,15 @@ const nextQuestion = () => {
 
   return (
     <div className="p-4 max-w-2xl mx-auto flex">
+      
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
+          <Button
+            variant="destructive"
+            className="ml-2"
+            onClick={handleDelete}
+          >
+            Delete
+          </Button>
         <div className="h-[400px]">
           <h2 className="text-2xl font-bold mb-4">
             Review - Question {currentIndex + 1} of {questions.length} ({q.testId})
@@ -165,13 +179,7 @@ const nextQuestion = () => {
               {currentIndex === questions.length - 1 ? 'Finish Review' : 'Next'}
             </Button>
           )}
-          <Button
-            variant="destructive"
-            className="ml-2"
-            onClick={handleDelete}
-          >
-            Delete
-          </Button>
+        
         </div>
       </div>
     </div>

@@ -16,6 +16,8 @@ export default function ExamPage() {
   const [completed, setCompleted] = useState(false);
   const [showNext, setShowNext] = useState(false);
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
+  const [correctness, setCorrectness] = useState({});
+
 
   useEffect(() => {
     const qData = questionsData[id] || [];
@@ -44,6 +46,7 @@ export default function ExamPage() {
 
     setChecked((prev) => ({ ...prev, [currentIndex]: true }));
     setIsCorrectAnswer(isCorrect);
+setCorrectness((prev) => ({ ...prev, [currentIndex]: isCorrect }));
 
     const currentQuestion = { ...questions[currentIndex], testId: id };
     let failed = JSON.parse(localStorage.getItem('failedAnswers') || '[]');
@@ -60,30 +63,26 @@ export default function ExamPage() {
     }
   };
 
-  const handleDelete = () => {
-    const currentQuestion = questions[currentIndex];
-    let failed = JSON.parse(localStorage.getItem('failedAnswers') || '[]');
-    failed = failed.filter(q => q.question !== currentQuestion.question);
-    localStorage.setItem('failedAnswers', JSON.stringify(failed));
-  };
 
  const nextQuestion = () => {
   const newIndex = currentIndex + 1;
   if (newIndex < questions.length) {
     setCurrentIndex(newIndex);
     setShowNext(checked[newIndex] === true);
-    setIsCorrectAnswer(null);
+    setIsCorrectAnswer(correctness[newIndex] ?? null);
   } else {
     setCompleted(true);
   }
 };
 
 const prevQuestion = () => {
+  console.log(questions[currentIndex])
   const newIndex = currentIndex - 1;
   if (newIndex >= 0) {
     setCurrentIndex(newIndex);
     setShowNext(checked[newIndex] === true);
     setIsCorrectAnswer(null);
+    setIsCorrectAnswer(correctness[newIndex] ?? null);
   }
 };
 
