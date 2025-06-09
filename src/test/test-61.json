@@ -1,0 +1,330 @@
+[
+  {
+    "question": "What is the name of the highest mountain in Wales?",
+    "options": [
+      "Lake District",
+      "Snowdon",
+      "South Downs",
+      "Giant’s Causeway"
+    ],
+    "correctAnswers": [
+      "Snowdon"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Snowdon is the highest mountain in Wales."
+  },
+  {
+    "question": "How many pence are there in a pound?",
+    "options": [
+      "100 pence",
+      "50 pence",
+      "60 pence",
+      "10 pence"
+    ],
+    "correctAnswers": [
+      "100 pence"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 100 pence in a pound."
+  },
+  {
+    "question": "When did rugby originate?",
+    "options": [
+      "In the 15th century",
+      "In the 16th century",
+      "In the 18th century",
+      "In the 19th century"
+    ],
+    "correctAnswers": [
+      "In the 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Rugby originated in England in the early 19th century and is very popular in the UK today."
+  },
+  {
+    "question": "How many volunteers did the National Trust have when it was first formed in 1895?",
+    "options": [
+      "Two",
+      "Three",
+      "200",
+      "300"
+    ],
+    "correctAnswers": [
+      "Three"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Trust was founded in 1895 by three volunteers."
+  },
+  {
+    "question": "When did modern tennis evolve in England?",
+    "options": [
+      "In the early 18th century",
+      "In the late 18th century",
+      "In the early 19th century",
+      "In the late 19th century"
+    ],
+    "correctAnswers": [
+      "In the late 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Modern tennis evolved in England in the late 19th century."
+  },
+  {
+    "question": "The population is very equally distributed over the four parts of the UK:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "The UK population is ethnically diverse and changing rapidly, especially in large cities such as London:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "True. The UK population is ethnically diverse and changing rapidly, especially in large cities such as London."
+  },
+  {
+    "question": "What name is given to the celebration when people in Great Britain set off fireworks at home or in special displays on the 5th of November?",
+    "options": [
+      "Bonfire night",
+      "Fireworks night",
+      "Bright night",
+      "The candles night"
+    ],
+    "correctAnswers": [
+      "Bonfire night"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Bonfire Night, 5 November, is an occasion when people in Great Britain set off fireworks at home or in special displays."
+  },
+  {
+    "question": "How many National Parks are there in England, Wales and Scotland?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "25"
+    ],
+    "correctAnswers": [
+      "15"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape."
+  },
+  {
+    "question": "What services can be obtained from veterinary surgeons?",
+    "options": [
+      "They are places where pets can be left when you go on holidays",
+      "They are places where vaccinations and medical treatment for animals is available",
+      "They are places specifically prepare to groom pets",
+      "Amusement places for pets"
+    ],
+    "correctAnswers": [
+      "They are places where vaccinations and medical treatment for animals is available"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets)."
+  },
+  {
+    "question": "What is the height of the London Eye?",
+    "options": [
+      "125 metres",
+      "135 metres",
+      "140 metres",
+      "152 metres"
+    ],
+    "correctAnswers": [
+      "135 metres"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall."
+  },
+  {
+    "question": "Which of the following British poets was inspired by nature?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Blake",
+      "Sir Walter Scott",
+      "William Wordsworth"
+    ],
+    "correctAnswers": [
+      "William Wordsworth"
+    ],
+    "wrongAnswers": [],
+    "explanation": "William Wordsworth was inspired by nature."
+  },
+  {
+    "question": "What percentage of the total British population is located in Northern Ireland?",
+    "options": [
+      "30%",
+      "Less than 5%",
+      "8%",
+      "Less than 3%"
+    ],
+    "correctAnswers": [
+      "Less than 3%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes killed the Protestant king with a bomb in the Houses of Parliament:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament."
+  },
+  {
+    "question": "Where is the Scottish Grand National horse racing event celebrated?",
+    "options": [
+      "St Andrews",
+      "Ayr",
+      "Fife",
+      "Glasgow"
+    ],
+    "correctAnswers": [
+      "Ayr"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Scottish Grand National horse racing event is celebrated at Ayr."
+  },
+  {
+    "question": "How long does the Hanukkah celebration last for?",
+    "options": [
+      "Eight days",
+      "40 days",
+      "Five days",
+      "A fortnight"
+    ],
+    "correctAnswers": [
+      "Eight days"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Hanukkah is in November or December and is celebrated for eight days."
+  },
+  {
+    "question": "What percentage of the total British population is located in Wales?",
+    "options": [
+      "30%",
+      "5%",
+      "8%",
+      "3%"
+    ],
+    "correctAnswers": [
+      "5%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The total British population located in Wales is around 5%."
+  },
+  {
+    "question": "Which of the following movies played an important role in boosting morale during the Second World War?",
+    "options": [
+      "The Ladykillers",
+      "Carry on",
+      "Passport to Pimlico",
+      "In Which We Serve"
+    ],
+    "correctAnswers": [
+      "In Which We Serve"
+    ],
+    "wrongAnswers": [],
+    "explanation": "During the Second World War, British movies (for example, In Which We Serve) played an important part in boosting morale."
+  },
+  {
+    "question": "Who won the 2012 Olympic gold medal in the heptathlon?",
+    "options": [
+      "Ellie Simmonds",
+      "Jessica Ennis",
+      "Dame Kelly Holmes",
+      "Jayne Torvill"
+    ],
+    "correctAnswers": [
+      "Jessica Ennis"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Jessica Ennis (1986-) won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records."
+  },
+  {
+    "question": "What is the name of the annual cultural Welsh festival which includes music, dance, art and original performances largely in Welsh?",
+    "options": [
+      "The Arts Festival of Wales",
+      "The National Eisteddfod of Wales",
+      "The Music Festival of Wales",
+      "The National Performance Festival of Wales"
+    ],
+    "correctAnswers": [
+      "The National Eisteddfod of Wales"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The National Eisteddfod of Wales is an annual cultural festival which includes music, dance, art and original performances largely in Welsh. It includes a number of important competitions for Welsh poetry."
+  },
+  {
+    "question": "What is the most well-known rugby league (club) competition?",
+    "options": [
+      "The Grand National",
+      "The All England championship",
+      "The Six Nations championship",
+      "The Super League"
+    ],
+    "correctAnswers": [
+      "The Super League"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Super League is the most well-known rugby league (club) competition."
+  },
+  {
+    "question": "Where do the Laurence Olivier Awards take place?",
+    "options": [
+      "In London",
+      "In Manchester",
+      "In Liverpool",
+      "In Edinburgh"
+    ],
+    "correctAnswers": [
+      "In London"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The Laurence Olivier Awards take place annually at different venues in London."
+  },
+  {
+    "question": "Which of the following is a traditional character of the pantomimes?",
+    "options": [
+      "The gentleman",
+      "The Dame",
+      "A unicorn",
+      "A mermaid"
+    ],
+    "correctAnswers": [
+      "The Dame"
+    ],
+    "wrongAnswers": [],
+    "explanation": "One of the traditional characters of the pantomimes is the Dame, a woman played by a man."
+  },
+  {
+    "question": "In the UK, most people live in towns and cities and very small parts of Britain are countryside:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. Most people live in towns and cities but much of Britain is still countryside."
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "question": "What percentage of the total British population is located in Scotland?",
+    "options": [
+      "Over 30%",
+      "Over 5%",
+      "Over 8%",
+      "Over 3%"
+    ],
+    "correctAnswers": [
+      "Over 8%"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%."
+  },
+  {
+    "question": "Which of the following academy awards is the equivalent of the Oscars in the UK?",
+    "options": [
+      "The Brit Awards",
+      "The BAFTA Awards",
+      "The Mercury Music Prize",
+      "The MTV Awards"
+    ],
+    "correctAnswers": [
+      "The BAFTA Awards"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The annual British Academy Film Awards, hosted by the British Academy of Film and Television Arts (BAFTA), are the British equivalent of the Oscars."
+  },
+  {
+    "question": "What is a bank holiday (choose TWO answers)?",
+    "options": [
+      "A festive pagan day",
+      "A private holiday",
+      "A day when banks are closed",
+      "A public holiday"
+    ],
+    "correctAnswers": [
+      "A day when banks are closed",
+      "A public holiday"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, there are public holidays each year called bank holidays, when banks and many other businesses are closed for the day."
+  },
+  {
+    "question": "Which of the following countries does not take part in the Six Nations Championship?",
+    "options": [
+      "Wales",
+      "Italy",
+      "Germany",
+      "France"
+    ],
+    "correctAnswers": [
+      "Germany"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy."
+  },
+  {
+    "question": "Who looks after Edinburgh Castle?",
+    "options": [
+      "Historic Environment Scotland",
+      "SEPA",
+      "The Scottish Parliament",
+      "The National Trust"
+    ],
+    "correctAnswers": [
+      "Historic Environment Scotland"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Edinburgh Castle is looked after by Historic Environment Scotland, a Scottish government agency."
+  },
+  {
+    "question": "Who were the pioneers of the IVF (in-vitro fertilisation) therapy?",
+    "options": [
+      "Sir Frank Whittle and Sir Christopher Cockrell",
+      "Sir Robert Edwards and Patrick Steptoe",
+      "Francis Creek and John Logie Baird",
+      "Sir Ian Wilmot and Keith Campbell"
+    ],
+    "correctAnswers": [
+      "Sir Robert Edwards and Patrick Steptoe"
+    ],
+    "wrongAnswers": [],
+    "explanation": "IVF (in-vitro fertilisation) therapy for the treatment of infertility was pioneered in Britain by physiologist Sir Robert Edwards (1925-) and gynaecologist Patrick Steptoe (1913-88). The world’s first ‘test-tube baby’ was born in Oldham, Lancashire in 1978."
+  },
+  {
+    "question": "In the UK, bank holidays of no religious significance are celebrated at the beginning of May, in late May or early June, and in August:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "What TWO different types of rugby are practised in the UK?",
+    "options": [
+      "Union",
+      "League",
+      "Rugby open",
+      "Free style"
+    ],
+    "correctAnswers": [
+      "Union",
+      "League"
+    ],
+    "wrongAnswers": [],
+    "explanation": "There are two different types of rugby, which have different rules: union and league."
+  },
+  {
+    "question": "What do William Blake, John Keats and Lord Byron have in common?",
+    "options": [
+      "They were British poets of the 19th century",
+      "They were British painters of the Swinging Sixties",
+      "They were musicians of the middle ages",
+      "They were British scientist"
+    ],
+    "correctAnswers": [
+      "They were British poets of the 19th century"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Poetry was very popular in the 19th century, with poets such as William Blake, John Keats, Lord Byron, Percy Shelley, Alfred Lord Tennyson, and Robert and Elizabeth Browning."
+  },
+  {
+    "question": "The Laurence Olivier Awards take place annually at different venues in Liverpool:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The Laurence Olivier Awards take place annually at different venues in London."
+  },
+  {
+    "question": "An additional rented piece of land where people can grow fruit and vegetables is known as:",
+    "options": [
+      "Parcel",
+      "Garden",
+      "Terrain",
+      "Allotment"
+    ],
+    "correctAnswers": [
+      "Allotment"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In the UK, some people rent additional land called ‘an allotment’, where they grow fruit and vegetables."
+  },
+  {
+    "question": "Which TWO pop music groups became popular in the 1960s?",
+    "options": [
+      "Queen",
+      "The Rolling Stones",
+      "The Beatles",
+      "The Carpenters"
+    ],
+    "correctAnswers": [
+      "The Rolling Stones",
+      "The Beatles"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Two well-known pop music groups in the 1960s were The Beatles and The Rolling Stones."
+  },
+  {
+    "question": "Eid ul Adha is the day when Muslims thank Allah for giving them the strength to complete the fast:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "False"
+    ],
+    "wrongAnswers": [],
+    "explanation": "False. The day when Muslims thank Allah for giving them the strength to complete the fast is called Eid a-Fitr."
+  },
+  {
+    "question": "Which of the following poets wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Blake",
+      "Sir Walter Scott",
+      "William Wordsworth"
+    ],
+    "correctAnswers": [
+      "Sir Walter Scott"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Sir Walter Scott wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England."
+  },
+  {
+    "question": "Which golf ‘Major’ tournament is held outside the United States?",
+    "options": [
+      "The Masters Tournament",
+      "The U.S. Open",
+      "The Open Championship",
+      "The PGA Championship"
+    ],
+    "correctAnswers": [
+      "The Open Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The open championship is the only ‘Major’ tournament held outside the United States."
+  },
+  {
+    "question": "Which is the most famous rugby union competition?",
+    "options": [
+      "The Grand National",
+      "The Six Nations Championship",
+      "The All England Championship",
+      "The Super League"
+    ],
+    "correctAnswers": [
+      "The Six Nations Championship"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy."
+  },
+  {
+    "question": "Which of the following is an ancient festival and has roots in the pagan festival to mark the beginning of winter?",
+    "options": [
+      "Lent",
+      "Easter",
+      "Halloween",
+      "Hogmanay"
+    ],
+    "correctAnswers": [
+      "Halloween"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Halloween, 31 October, is and ancient festival and has roots in the pagan festival to mark the beginning of winter."
+  },
+  {
+    "question": "When is the anniversary of the Battle of the Boyne celebrated in Northern Ireland?",
+    "options": [
+      "March",
+      "May",
+      "June",
+      "July"
+    ],
+    "correctAnswers": [
+      "July"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In Northern Ireland, the anniversary of the Battle of the Boyne is celebrated in July and is also a public holiday."
+  },
+  {
+    "question": "Who is the head of the Church of England?",
+    "options": [
+      "The Pope",
+      "The monarch",
+      "The Archbishop of Canterbury",
+      "The Prime Minister"
+    ],
+    "correctAnswers": [
+      "The monarch"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The monarch is the head of the Church of England."
+  },
+  {
+    "question": "In the UK, owners are responsible for keeping their dog under control and for cleaning up after the animal in public places:",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswers": [
+      "True"
+    ],
+    "wrongAnswers": [],
+    "explanation": "This statement is true."
+  },
+  {
+    "question": "Which British writer wrote satirical novels including ‘Brideshead Revisited’?",
+    "options": [
+      "Evelyn Waugh",
+      "Sir Arthur Conan Doyle",
+      "Sir Kingsley Amis",
+      "Thomas Hardy"
+    ],
+    "correctAnswers": [
+      "Evelyn Waugh"
+    ],
+    "wrongAnswers": [],
+    "explanation": "Evelyn Waugh wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited."
+  },
+  {
+    "question": "What was the population of the UK in 1851?",
+    "options": [
+      "20 million",
+      "40 million",
+      "30 million",
+      "50 million"
+    ],
+    "correctAnswers": [
+      "20 million"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The population of the UK in 1851 was 20 million people."
+  },
+  {
+    "question": "Which book written by JRR Tolkien was voted the country’s best-loved novel in 2003?",
+    "options": [
+      "Harry Potter",
+      "The Lord of the Rings",
+      "Sense and Sensibility",
+      "Pride and Prejudice"
+    ],
+    "correctAnswers": [
+      "The Lord of the Rings"
+    ],
+    "wrongAnswers": [],
+    "explanation": "In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel."
+  },
+  {
+    "question": "What is the note with the highest value in the UK?",
+    "options": [
+      "£20",
+      "£50",
+      "£100",
+      "£500"
+    ],
+    "correctAnswers": [
+      "£50"
+    ],
+    "wrongAnswers": [],
+    "explanation": "The note with the highest value in the UK is the £50 note."
+  }
+]

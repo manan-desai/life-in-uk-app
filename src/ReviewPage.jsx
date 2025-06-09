@@ -43,7 +43,8 @@ export default function ReviewPage() {
 
     if (isCorrect) {
       // Auto-advance if correct
-            nextQuestion();
+            // nextQuestion();
+              setShowNext(true);
     } else {
       setShowNext(true);
     }
@@ -64,7 +65,7 @@ const nextQuestion = () => {
     setShowNext(checked[newIndex] === true);
     setIsCorrectAnswer(correctness[newIndex] ?? null);
   } else {
-    navigate('/');
+    // navigate('/');
   }
 };
 
@@ -99,7 +100,7 @@ const handleDelete = () => {
   const wasChecked = checked[currentIndex];
 
   return (
-    <div className="p-4 max-w-2xl mx-auto flex">
+    <div className="p-4 mt-8 max-w-2xl mx-auto flex">
       
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
           <Button
@@ -109,13 +110,13 @@ const handleDelete = () => {
           >
             Delete
           </Button>
-        <div className="h-[400px]">
+        <div className="min-h-80">
           <h2 className="text-2xl font-bold mb-4">
             Review - Question {currentIndex + 1} of {questions.length} ({q.testId})
           </h2>
           <p className="text-lg font-medium mb-6">{q.question}</p>
 
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 gap-4">
             {q.options.map((opt, idx) => {
               const selected = selectedAnswers.includes(opt);
               const isCorrect = q.correctAnswers.includes(opt);

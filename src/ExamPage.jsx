@@ -22,6 +22,14 @@ export default function ExamPage() {
   useEffect(() => {
     const qData = questionsData[id] || [];
     setQuestions(qData);
+     setCompleted(false);
+     setCurrentIndex(0)
+     setAnswers({})
+     setChecked({})
+     setScore(0)
+     setShowNext(false)
+     setIsCorrectAnswer(null)
+     setCorrectness({})
   }, [id]);
 
   const toggleOption = (option) => {
@@ -59,7 +67,8 @@ setCorrectness((prev) => ({ ...prev, [currentIndex]: isCorrect }));
     } else {
       localStorage.setItem('failedAnswers', JSON.stringify(failed));
       setScore((prev) => prev + 1);
-      nextQuestion()
+       setShowNext(true);
+      // nextQuestion()
     }
   };
 
@@ -104,15 +113,15 @@ const prevQuestion = () => {
   const wasChecked = checked[currentIndex];
 
   return (
-    <div className="p-4 max-w-2xl mx-auto flex">
+    <div className="p-4 mt-8 max-w-2xl mx-auto flex">
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
-        <div className="h-[400px]">
+        <div className="min-h-80">
           <h2 className="text-xl font-bold mb-2 text-center">
             {id.toUpperCase()} - Question {currentIndex + 1} of {questions.length}
           </h2>
           <p className="font-medium mb-4 text-lg text-center">{q.question}</p>
 
-          <div className="grid grid-cols-2 gap-4 max-w-md mx-auto">
+          <div className="grid grid-cols-1 gap-4 max-w-md mx-auto">
             {q.options.map((opt, idx) => {
               const selected = selectedAnswers.includes(opt);
               const isCorrect = q.correctAnswers.includes(opt);
