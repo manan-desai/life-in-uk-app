@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes, Link, Navigate } from 'react-ro
 import ExamPage from './ExamPage';
 import ReviewPage from './ReviewPage';
 import { Button } from './ui/button';
+import FlaggedPage from './FlaggedPage';
 
 const examIds = Array.from({ length: 17 }, (_, i) => `exam-${i + 1}`);
 const testIds = Array.from({ length: 73 }, (_, i) => `test-${i + 1}`);
@@ -19,6 +20,7 @@ export default function App() {
         <Route path="/exam/:examId" element={<ExamPage />} />
         <Route path="/test/:testId" element={<ExamPage />} />
         <Route path="/review" element={<ReviewPage />} />
+        <Route path="/flagged" element={<FlaggedPage />} />
       </Routes>
 
       <footer className="p-4 bg-gray-100 shadow-inner border-t pb-24 text-center mt-80">
@@ -30,13 +32,21 @@ export default function App() {
             {showExams && (
               <div className="mt-2 flex flex-wrap justify-center gap-2">
                 {examIds.map((id) => (
-                  <Link
+                    <div key={id} className="space-x-1">
+                  <a
                     key={id}
-                    to={`/exam/${id}`}
+                    href={`/exam/${id}`}
                     className="px-3 py-1 bg-blue-100 text-blue-800 rounded hover:bg-blue-200 transition text-sm"
                   >
                     {id} {existingCompleted?.includes(id) && '(✔)'}
-                  </Link>
+                  </a>
+                      {/* <Link
+      href={`/review?testId=${id}`}
+      className="text-xs text-blue-600 hover:underline"
+    >
+      review
+    </Link> */}
+                  </div>
                 ))}
               </div>
             )}
@@ -49,35 +59,60 @@ export default function App() {
             {showTests && (
               <div className="mt-2 flex flex-wrap justify-center gap-2 max-h-40 overflow-y-auto">
                 {testIds.map((id) => (
-                  <Link
+                    <div key={id} className="space-x-1">
+                  <a
                     key={id}
-                    to={`/test/${id}`}
+                    href={`/test/${id}`}
                     className="px-3 py-1 bg-green-100 text-green-800 rounded hover:bg-green-200 transition text-sm"
                   >
                     {id} {existingCompleted?.includes(id) && '(✔)'}
-                  </Link>
+                  </a>
+
+                   {/* <Link
+      href={`/review?testId=${id}`}
+      className="text-xs text-blue-600 hover:underline"
+    >
+      review
+    </Link> */}
+                  
+                  </div>
+                  
                 ))}
               </div>
             )}
           </div>
 
+
+
+
+
           <div className="flex justify-center gap-4 mt-4 flex-wrap">
-            <Link
-              to="/review"
+            <a
+              href="/review"
               className="px-4 py-1 bg-red-100 text-red-700 rounded hover:bg-red-200 transition font-semibold"
             >
               Review Incorrect
-            </Link>
+            </a>
+
+              <a
+              href="/flagged"
+              className="px-4 py-1 bg-blue-100 text-blue-700 rounded hover:bg-blue-200 transition font-semibold"
+            >
+             Flagged
+            </a>
 
             <Button
-              onClick={() => {
-                localStorage.clear();
-                window.location.reload();
-              }}
-              className="bg-red-600 text-white hover:bg-red-700"
-            >
-              Clear All
-            </Button>
+  onClick={() => {
+    if (window.confirm("Are you sure you want to clear all data? This cannot be undone.")) {
+      localStorage.clear();
+      window.location.reload();
+    }
+  }}
+  className="bg-red-600 text-white hover:bg-red-700"
+>
+  Clear All
+</Button>
+
           </div>
         </div>
       </footer>

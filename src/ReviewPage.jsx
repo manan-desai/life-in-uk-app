@@ -1,190 +1,193 @@
-import React, { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import React, { useEffect, useMemo, useState } from 'react';
+import { useSearchParams, useNavigate } from 'react-router-dom';
 import { Button } from './ui/button';
 import { Checkbox } from './ui/checkbox';
 
+/**
+ * ReviewPage – supports filtering by Test / Exam ID
+ * -------------------------------------------------
+ * • Tracks attempts in localStorage (`reviewAttempts`)
+ * • Flag & Delete support
+ * • Correct‑answer counter and end summary
+ */
 export default function ReviewPage() {
   const navigate = useNavigate();
+
+  // ─── state ──────────────────────────────────────────────
   const [questions, setQuestions] = useState([]);
+  const [searchParams] = useSearchParams();
+  const initialFilter = searchParams.get('testId') || searchParams.get('examId') || 'all';
+  const [filterId, setFilterId] = useState(initialFilter);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState({});
   const [checked, setChecked] = useState({});
+  const [correctness, setCorrectness] = useState({});
+  const [correctScore, setCorrectScore] = useState(0); // ✅ new
+  const [attempts, setAttempts] = useState(() => JSON.parse(localStorage.getItem('reviewAttempts') || '{}'));
+  const [flagged, setFlagged] = useState(() => new Set(JSON.parse(localStorage.getItem('flaggedQuestions') || '[]')));
   const [showNext, setShowNext] = useState(false);
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
-   const [correctness, setCorrectness] = useState({});
+  const [completed, setCompleted] = useState(false);
+
+  // ─── initial load ──────────────────────────────────────
   useEffect(() => {
     const failed = JSON.parse(localStorage.getItem('failedAnswers') || '[]');
     setQuestions(failed);
   }, []);
 
-  const toggleOption = (option) => {
-    const correctCount = questions[currentIndex].correctAnswers.length;
-    setAnswers((prev) => {
-      const current = prev[currentIndex] || [];
-      const updated = current.includes(option)
-        ? current.filter((o) => o !== option)
-        : correctCount === 1
-        ? [option]
-        : [...current, option];
-      return { ...prev, [currentIndex]: updated };
+  // persist attempts
+  useEffect(() => {
+    localStorage.setItem('reviewAttempts', JSON.stringify(attempts));
+  }, [attempts]);
+
+  // unique testIds
+  const testIds = useMemo(() => ['all', ...Array.from(new Set(questions.map(q => q.testId)))], [questions]);
+
+  // filtered list
+  const displayList = useMemo(() => (filterId === 'all' ? questions : questions.filter(q => q.testId === filterId)), [questions, filterId]);
+
+  // reset index if filter changes length
+  useEffect(() => {
+    if (currentIndex >= displayList.length) setCurrentIndex(0);
+  }, [displayList.length]);
+
+  // ─── helpers ────────────────────────────────────────────
+  const updateNavState = (idx) => {
+    setShowNext(checked[idx]);
+    setIsCorrectAnswer(correctness[idx] ?? null);
+  };
+
+  const toggleOption = (opt) => {
+    const correctCount = displayList[currentIndex].correctAnswers.length;
+    setAnswers(prev => {
+      const cur = prev[currentIndex] || [];
+      const upd = cur.includes(opt) ? cur.filter(o => o !== opt) : correctCount === 1 ? [opt] : [...cur, opt];
+      return { ...prev, [currentIndex]: upd };
     });
   };
 
-  const checkAnswer = () => {
-    const selected = answers[currentIndex] || [];
-    const correct = questions[currentIndex].correctAnswers;
-    const isCorrect =
-      selected.length === correct.length &&
-      correct.every((ans) => selected.includes(ans));
-    setChecked((prev) => ({ ...prev, [currentIndex]: true }));
-    
-    setIsCorrectAnswer(isCorrect);
-    setCorrectness((prev) => ({ ...prev, [currentIndex]: isCorrect }));
+  const prevQ = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex(i => i - 1);
+      updateNavState(currentIndex - 1);
+    }
+  };
+  const nextQ = () => {
+    if (currentIndex < displayList.length - 1) {
+      setCurrentIndex(i => i + 1);
+      updateNavState(currentIndex + 1);
+    } else {
+      setCompleted(true);
+    }
+  };
 
-    if (isCorrect) {
-      // Auto-advance if correct
-            // nextQuestion();
-              setShowNext(true);
+  const checkAnswer = () => {
+    const q = displayList[currentIndex];
+    const sel = answers[currentIndex] || [];
+    const correct = q.correctAnswers;
+    const ok = sel.length === correct.length && correct.every(a => sel.includes(a));
+
+    setChecked(prev => ({ ...prev, [currentIndex]: true }));
+    setCorrectness(prev => ({ ...prev, [currentIndex]: ok }));
+    setIsCorrectAnswer(ok);
+
+    // increment score first time question marked correct
+    if (ok && !correctness[currentIndex]) {
+      setCorrectScore(s => s + 1);
+    }
+
+    if (!ok) {
+      setAttempts(prev => ({ ...prev, [q.question]: (prev[q.question] || 0) + 1 }));
+      setShowNext(true);
     } else {
       setShowNext(true);
     }
   };
-const prevQuestion = () => {
-  const newIndex = currentIndex - 1;
-  if (newIndex >= 0) {
-    setCurrentIndex(newIndex);
-    setShowNext(checked[newIndex] === true);
-    setIsCorrectAnswer(correctness[newIndex] ?? null);
-  }
-};
 
-const nextQuestion = () => {
-  const newIndex = currentIndex + 1;
-  if (newIndex < questions.length) {
-    setCurrentIndex(newIndex);
-    setShowNext(checked[newIndex] === true);
-    setIsCorrectAnswer(correctness[newIndex] ?? null);
-  } else {
-    // navigate('/');
-  }
-};
-
-
-const handleDelete = () => {
-  const confirmDelete = window.confirm("Are you sure you want to delete this question?");
-  if (!confirmDelete) return;
-
-  const updated = questions.filter((_, i) => i !== currentIndex);
-  localStorage.setItem('failedAnswers', JSON.stringify(updated));
-  if (updated.length === 0) {
-    navigate('/');
-  } else {
+  const handleDelete = () => {
+    if (!window.confirm('Delete this question from failed list?')) return;
+    const updated = questions.filter(q => q !== displayList[currentIndex]);
+    localStorage.setItem('failedAnswers', JSON.stringify(updated));
     setQuestions(updated);
-    setCurrentIndex((prev) => Math.min(prev, updated.length - 1));
-    setShowNext(false);
-    setIsCorrectAnswer(null);
-  }
-};
+  };
 
+  const toggleFlag = () => {
+    const key = displayList[currentIndex].question;
+    const ns = new Set(flagged);
+    ns.has(key) ? ns.delete(key) : ns.add(key);
+    setFlagged(ns);
+    localStorage.setItem('flaggedQuestions', JSON.stringify([...ns]));
+  };
 
-  if (!questions.length)
+  // ─── guards ─────────────────────────────────────────────
+  if (!displayList.length) return <div className="p-4">No questions for this filter.</div>;
+
+  // summary page
+  if (completed) {
     return (
-      <div className="p-4 text-lg font-medium">
-        No failed questions found.
+      <div className="p-6 max-w-xl mx-auto text-center space-y-4">
+        <h2 className="text-2xl font-bold">Review Complete 🎉</h2>
+        <p className="text-lg">Correct answers: <span className="text-green-600 font-semibold">{correctScore}</span> / {displayList.length}</p>
+        <Button onClick={() => window.location.reload()}>Restart</Button>
       </div>
     );
+  }
 
-  const q = questions[currentIndex];
-  const isMultiple = q.correctAnswers.length > 1;
-  const selectedAnswers = answers[currentIndex] || [];
+  // current question vars
+  const q = displayList[currentIndex];
+  const sel = answers[currentIndex] || [];
   const wasChecked = checked[currentIndex];
+  const attempt = attempts[q.question] || 0;
+  const isFlagged = flagged.has(q.question);
 
   return (
-    <div className="p-4 mt-8 max-w-2xl mx-auto flex">
-      
-      <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
-          <Button
-            variant="destructive"
-            className="ml-2"
-            onClick={handleDelete}
-          >
-            Delete
-          </Button>
-        <div className="min-h-120">
-          <h2 className="text-2xl font-bold mb-4">
-            Review - Question {currentIndex + 1} of {questions.length} ({q.testId})
-          </h2>
-          <p className="text-lg font-medium mb-6">{q.question}</p>
+    <div className="p-4 mt-6 max-w-2xl mx-auto space-y-4">
+      {/* Filter */}
+      <div className="text-center">
+        <select value={filterId} onChange={e => { setFilterId(e.target.value); setCurrentIndex(0); }} className="border rounded px-2 py-1">
+          {testIds.map(id => <option key={id} value={id}>{id === 'all' ? 'All Tests' : id}</option>)}
+        </select>
+      </div>
 
-          <div className="grid grid-cols-1 gap-4">
-            {q.options.map((opt, idx) => {
-              const selected = selectedAnswers.includes(opt);
-              const isCorrect = q.correctAnswers.includes(opt);
-
-              return (
-                <label
-                  key={idx}
-                  className={`px-4 py-3 rounded-md flex items-center gap-2 cursor-pointer transition-all
-                    ${selected ? 'bg-blue-50' : 'bg-transparent'}
-                    ${wasChecked && isCorrect ? 'ring-2 ring-green-400' : ''}
-                    ${wasChecked && selected && !isCorrect ? 'ring-2 ring-red-400' : ''}
-                  `}
-                >
-                  {isMultiple ? (
-                    <Checkbox
-                      checked={selected}
-                      onCheckedChange={() => toggleOption(opt)}
-                      disabled={wasChecked}
-                    />
-                  ) : (
-                    <input
-                      type="radio"
-                      name={`question-${currentIndex}`}
-                      checked={selected}
-                      onChange={() => toggleOption(opt)}
-                      disabled={wasChecked}
-                      className="w-5 h-5"
-                    />
-                  )}
-                  <span className="text-base text-gray-800">{opt}</span>
-                </label>
-              );
-            })}
+      <div className="bg-white shadow rounded-2xl p-6 space-y-4">
+        <div className="flex justify-between items-start">
+          <h2 className="text-lg font-bold">Q{currentIndex + 1}/{displayList.length} ({q.testId})</h2>
+          <div className="flex gap-2">
+            <Button size="sm" variant={isFlagged ? 'outline' : 'default'} onClick={toggleFlag}>{isFlagged ? '🚩' : 'Flag'}</Button>
+            <Button size="sm" variant="destructive" onClick={handleDelete}>Delete</Button>
           </div>
-
-          {wasChecked && (
-            <div className="mt-4 min-h-[60px]">
-              {!isCorrectAnswer && (
-                <div className="text-red-600 font-semibold mb-1">
-                  ❌ Incorrect Answer
-                </div>
-              )}
-               {isCorrectAnswer === true && (
-                <div className="text-green-600 font-semibold mb-1">
-                 ✅ Correct Answer
-                </div>)}
-              {q.explanation && (
-                <div className="text-sm text-gray-700">
-                  <strong>Explanation:</strong> {q.explanation}
-                </div>
-              )}
-            </div>
-          )}
         </div>
 
-        <div className="flex flex-wrap gap-3 mt-6 justify-center">
-          {currentIndex > 0 && (
-            <Button variant="outline" onClick={prevQuestion}>
-              Previous
-            </Button>
-          )}
+        <p className="font-medium">{q.question}</p>
+        <div className="grid gap-2">
+          {q.options.map((opt, i) => {
+            const selected = sel.includes(opt);
+            const correct = q.correctAnswers.includes(opt);
+            return (
+              <label key={i} className={`px-3 py-2 rounded flex gap-2 cursor-pointer transition ${selected ? 'bg-blue-50' : ''} ${wasChecked && correct ? 'ring-2 ring-green-400' : ''} ${wasChecked && selected && !correct ? 'ring-2 ring-red-400' : ''}`}> 
+                {q.correctAnswers.length > 1 ? (
+                  <Checkbox checked={selected} onCheckedChange={() => toggleOption(opt)} disabled={wasChecked} />
+                ) : (
+                  <input type="radio" name="opt" checked={selected} onChange={() => toggleOption(opt)} disabled={wasChecked} />
+                )}
+                <span>{opt}</span>
+              </label>
+            );
+          })}
+        </div>
+
+        {wasChecked && (
+          <div className="min-h-[48px] space-y-1">
+            {isCorrectAnswer === false && <div className="text-red-600">❌ Incorrect (attempts: {attempt})</div>}
+            {isCorrectAnswer === true && <div className="text-green-600">✅ Correct</div>}
+            {q.explanation && <p className="text-sm text-gray-600"><b>Explanation:</b> {q.explanation}</p>}
+          </div>
+        )}
+
+        <div className="flex gap-2 justify-center">
+          {currentIndex > 0 && <Button variant="outline" onClick={prevQ}>Prev</Button>}
           {!wasChecked && <Button onClick={checkAnswer}>Check</Button>}
-          {showNext && (
-            <Button onClick={nextQuestion} variant="outline">
-              {currentIndex === questions.length - 1 ? 'Finish Review' : 'Next'}
-            </Button>
-          )}
-        
+          {showNext && <Button variant="outline" onClick={nextQ}>{currentIndex === displayList.length - 1 ? 'Finish' : 'Next'}</Button>}
         </div>
       </div>
     </div>
