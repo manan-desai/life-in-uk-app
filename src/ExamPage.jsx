@@ -17,6 +17,7 @@ export default function ExamPage() {
   const [showNext, setShowNext] = useState(false);
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
   const [correctness, setCorrectness] = useState({});
+   const [flagged, setFlagged] = useState(() =>JSON.parse(localStorage.getItem('flaggedQuestions') || '[]'));
 
 
   useEffect(() => {
@@ -88,6 +89,20 @@ setCorrectness((prev) => ({ ...prev, [currentIndex]: isCorrect }));
   }
 };
 
+
+
+   const toggleFlag = () => {
+    let qObj = questions[currentIndex];
+    qObj = { ...qObj, testId: id };
+
+    setFlagged(prev => {
+      const exists =  prev?.some(f => f.question === qObj.question);
+      const updated = exists ? prev.filter(f => f.question !== qObj.question) : [...prev, qObj];
+      localStorage.setItem('flaggedQuestions', JSON.stringify(updated));
+      return updated;
+    });
+  };
+
 const prevQuestion = () => {
   console.log(questions[currentIndex])
   const newIndex = currentIndex - 1;
@@ -115,6 +130,7 @@ const prevQuestion = () => {
   const isMultiple = q.correctAnswers.length > 1;
   const selectedAnswers = answers[currentIndex] || [];
   const wasChecked = checked[currentIndex];
+    const isFlagged = flagged.some(f => f.question === q.question);
 
   return (
     <div className="p-4 mt-8 max-w-2xl mx-auto flex">
@@ -123,6 +139,9 @@ const prevQuestion = () => {
           <h2 className="text-xl font-bold mb-2 text-center">
             {id.toUpperCase()} - Question {currentIndex + 1} of {questions.length}
           </h2>
+             <div className="flex gap-2 justify-end">
+                      <Button size="sm" variant={isFlagged ? 'outline' : 'default'} onClick={toggleFlag}>{isFlagged ? '🚩' : 'Flag'}</Button>
+                    </div>
           <p className="font-medium mb-4 text-lg text-center">{q.question}</p>
 
           <div className="grid grid-cols-1 gap-4 max-w-md mx-auto">

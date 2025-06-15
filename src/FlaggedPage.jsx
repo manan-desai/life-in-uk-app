@@ -13,9 +13,7 @@ export default function FlaggedPage() {
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
 
   useEffect(() => {
-    const allQuestions = JSON.parse(localStorage.getItem('failedAnswers') || '[]');
-    const flaggedKeys = new Set(JSON.parse(localStorage.getItem('flaggedQuestions') || '[]'));
-    const flaggedOnly = allQuestions.filter(q => flaggedKeys.has(q.question));
+    const flaggedOnly =JSON.parse(localStorage.getItem('flaggedQuestions') || '[]');
     setFlaggedQuestions(flaggedOnly);
   }, []);
 
@@ -66,10 +64,23 @@ export default function FlaggedPage() {
     }
   };
 
+const handleDelete = () => {
+    if (!window.confirm('Delete this question from flagged list?')) return;
+    const updated = flaggedQuestions.filter(q => q !== flaggedQuestions[currentIndex]);
+    localStorage.setItem('flaggedQuestions', JSON.stringify(updated));
+    setFlaggedQuestions(updated);
+  };
+
   return (
     <div className="p-4 mt-8 max-w-2xl mx-auto flex">
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-6">
-        <h2 className="text-2xl font-bold mb-4">Flagged – Q{currentIndex + 1}/{flaggedQuestions.length} ({q.testId})</h2>
+            <div className="flex justify-between items-start">
+                   <h2 className="text-2xl font-bold mb-4">Flagged – Q{currentIndex + 1}/{flaggedQuestions.length} ({q.testId})</h2>
+                  <div className="flex gap-2">
+                    <Button size="sm" variant="destructive" onClick={handleDelete}>Delete</Button>
+                  </div>
+                </div>
+          
         <p className="text-lg font-medium mb-6">{q.question}</p>
 
         <div className="grid grid-cols-1 gap-4">

@@ -24,7 +24,7 @@ export default function ReviewPage() {
   const [correctness, setCorrectness] = useState({});
   const [correctScore, setCorrectScore] = useState(0); // ✅ new
   const [attempts, setAttempts] = useState(() => JSON.parse(localStorage.getItem('reviewAttempts') || '{}'));
-  const [flagged, setFlagged] = useState(() => new Set(JSON.parse(localStorage.getItem('flaggedQuestions') || '[]')));
+  const [flagged, setFlagged] = useState(() =>JSON.parse(localStorage.getItem('flaggedQuestions') || '[]'));
   const [showNext, setShowNext] = useState(false);
   const [isCorrectAnswer, setIsCorrectAnswer] = useState(null);
   const [completed, setCompleted] = useState(false);
@@ -111,12 +111,14 @@ export default function ReviewPage() {
     setQuestions(updated);
   };
 
-  const toggleFlag = () => {
-    const key = displayList[currentIndex].question;
-    const ns = new Set(flagged);
-    ns.has(key) ? ns.delete(key) : ns.add(key);
-    setFlagged(ns);
-    localStorage.setItem('flaggedQuestions', JSON.stringify([...ns]));
+ const toggleFlag = () => {
+    const qObj = displayList[currentIndex];
+    setFlagged(prev => {
+      const exists =  prev?.some(f => f.question === qObj.question);
+      const updated = exists ? prev.filter(f => f.question !== qObj.question) : [...prev, qObj];
+      localStorage.setItem('flaggedQuestions', JSON.stringify(updated));
+      return updated;
+    });
   };
 
   // ─── guards ─────────────────────────────────────────────
@@ -138,7 +140,7 @@ export default function ReviewPage() {
   const sel = answers[currentIndex] || [];
   const wasChecked = checked[currentIndex];
   const attempt = attempts[q.question] || 0;
-  const isFlagged = flagged.has(q.question);
+  const isFlagged = flagged.some(f => f.question === q.question);
 
   return (
     <div className="p-4 mt-6 max-w-2xl mx-auto space-y-4">
