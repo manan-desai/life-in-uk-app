@@ -16,13 +16,13 @@
 # Clone and install
 git clone https://github.com/manan-desai/life-in-uk-app.git
 cd life-in-uk-app
-npm install
+yarn install
 
 # Run locally
-npm run dev
+yarn dev
 
 # Build for production
-npm run build
+yarn build
 ```
 
 ## Contributing
