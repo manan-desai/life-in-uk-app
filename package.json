@@ -1,7 +1,27 @@
 {
-  "name": "life-in-uk-app",
-  "private": true,
-  "version": "0.0.0",
+  "name": "life-in-uk-test-practice",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Free Life in the UK test practice platform with 90+ mock exams for British citizenship preparation",
+  "keywords": [
+    "life-in-uk",
+    "citizenship-test",
+    "british-citizenship",
+    "uk-test",
+    "practice-exam",
+    "study-tool",
+    "education"
+  ],
+  "author": "Life in UK Test Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manan-desai/life-in-uk-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manan-desai/life-in-uk-app/issues"
+  },
+  "homepage": "https://life-in-uk-app.netlify.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
