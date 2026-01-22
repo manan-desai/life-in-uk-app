@@ -15,8 +15,8 @@ Thank you for contributing! This is a community-driven project and we welcome al
 # Fork the repo, then:
 git clone https://github.com/manan-desai/life-in-uk-app.git
 cd life-in-uk-app
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
 
 ## Adding Questions
@@ -45,7 +45,7 @@ Add questions to:
 
 ## Submitting
 
-1. Test locally: `npm run dev`
+1. Test locally: `yarn dev`
 2. Create a Pull Request
 3. Describe what you changed
 
